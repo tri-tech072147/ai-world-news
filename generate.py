@@ -37,9 +37,9 @@ def fetch_articles():
                     entry.get("description") or
                     (entry.get("content") or [{}])[0].get("value", "")
                 )
-                summary = strip_tags(summary_raw)[:200].strip()
-                if summary:
-                    summary += "…"
+                full_text = strip_tags(summary_raw).strip()
+                summary = full_text[:200] + ("…" if len(full_text) > 200 else "")
+                body = full_text[200:600] + ("…" if len(full_text) > 600 else "") if len(full_text) > 200 else ""
                 articles.append({
                     "feedKey":   feed_info["key"],
                     "feedLabel": feed_info["label"],
@@ -48,6 +48,7 @@ def fetch_articles():
                     "country":   feed_info["country"],
                     "title":     strip_tags(entry.get("title", "")),
                     "summary":   summary,
+                    "body":      body,
                     "url":       entry.get("link", "#"),
                     "date":      format_date(entry),
                 })
@@ -57,6 +58,12 @@ def fetch_articles():
 
 def render_card(a, i):
     delay = min(i * 0.05, 0.4)
+    uid = f"body_{i}_{abs(hash(a.get('url',''))%10000)}"
+    body_html = ""
+    read_more_btn = ""
+    if a.get("body"):
+        body_html = f'''<p class="card-body" id="{uid}" style="display:none">{html.escape(a["body"])}</p>'''
+        read_more_btn = f'''<button class="read-more" onclick="toggleBody('{uid}',this)">続きを読む ▾</button>'''
     return f"""
     <article class="news-card" style="animation-delay:{delay}s">
       <div class="card-meta">
@@ -67,7 +74,9 @@ def render_card(a, i):
       </div>
       <h2 class="card-title">{html.escape(a['title'])}</h2>
       <p class="card-summary">{html.escape(a['summary'])}</p>
+      {body_html}
       <div class="card-footer">
+        {read_more_btn}
         <a class="source-link" href="{html.escape(a['url'])}" target="_blank" rel="noopener">↗ 原文を読む</a>
       </div>
     </article>"""
@@ -159,7 +168,9 @@ def generate_html(articles):
     font-size: 13px; color: var(--text-secondary); line-height: 1.65;
     margin-bottom: 12px; border-left: 2px solid var(--border-mid); padding-left: 12px; font-style: italic;
   }}
-  .card-footer {{ display: flex; align-items: center; margin-top: 4px; }}
+  .card-body {{ font-size: 13px; color: var(--text-secondary); line-height: 1.65; margin-bottom: 12px; padding-top: 8px; border-top: 0.5px solid var(--border); }}
+  .card-footer {{ display: flex; align-items: center; margin-top: 4px; gap: 10px; }}
+  .read-more {{ font-size: 12px; color: var(--text-secondary); background: none; border: none; cursor: pointer; padding: 0; font-family: inherit; text-decoration: underline; text-underline-offset: 2px; }}
   .source-link {{ font-size: 12px; color: var(--accent); text-decoration: none; margin-left: auto; display: flex; align-items: center; gap: 4px; }}
   .source-link:hover {{ text-decoration: underline; }}
   .footer {{ margin-top: 40px; padding-top: 20px; border-top: 0.5px solid var(--border); text-align: center; font-size: 12px; color: var(--text-tertiary); line-height: 1.8; }}
@@ -216,6 +227,12 @@ function filterNews(key, btn) {{
   document.querySelectorAll('.feed-section').forEach(s => {{
     s.style.display = s.dataset.feed === key ? 'block' : 'none';
   }});
+}}
+function toggleBody(id, btn) {{
+  const el = document.getElementById(id);
+  const expanded = el.style.display === 'none';
+  el.style.display = expanded ? 'block' : 'none';
+  btn.textContent = expanded ? '閉じる ▴' : '続きを読む ▾';
 }}
 // 初期表示
 document.querySelector('[data-feed="all"]').style.display = 'block';
