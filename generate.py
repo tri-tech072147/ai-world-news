@@ -80,7 +80,10 @@ def render_card(a, i):
     body_html = ""
     read_more_btn = ""
     if a.get("body"):
-        body_html = f'''<p class="card-body" id="{uid}" style="display:none">{html.escape(a["body"])}</p>'''
+        # summaryの末尾の…を除いてbodyと自然につなげる
+        summary_trimmed = a["summary"].rstrip("…").rstrip("…").rstrip()
+        full_inline = html.escape(summary_trimmed + " " + a["body"])
+        body_html = f'''<p class="card-body" id="{uid}" style="display:none">{full_inline}</p>'''
         read_more_btn = f'''<button class="read-more" onclick="toggleBody('{uid}',this)">続きを読む ▾</button>'''
     return f"""
     <article class="news-card" style="animation-delay:{delay}s">
@@ -91,7 +94,7 @@ def render_card(a, i):
         {"<span class='pub-date'>📅 " + html.escape(a['date']) + "</span>" if a['date'] else ""}
       </div>
       <h2 class="card-title">{html.escape(a['title'])}</h2>
-      <p class="card-summary">{html.escape(a['summary'])}</p>
+      <p class="card-summary" id="s_{uid}">{html.escape(a['summary'])}</p>
       {body_html}
       <div class="card-footer">
         {read_more_btn}
@@ -256,9 +259,11 @@ function filterNews(key, btn) {{
   }});
 }}
 function toggleBody(id, btn) {{
-  const el = document.getElementById(id);
-  const expanded = el.style.display === 'none';
-  el.style.display = expanded ? 'block' : 'none';
+  const body = document.getElementById(id);
+  const summary = document.getElementById('s_' + id);
+  const expanded = body.style.display === 'none';
+  body.style.display = expanded ? 'block' : 'none';
+  if (summary) summary.style.display = expanded ? 'none' : 'block';
   btn.textContent = expanded ? '閉じる ▴' : '続きを読む ▾';
 }}
 // 初期表示
