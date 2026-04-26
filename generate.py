@@ -20,7 +20,8 @@ FEEDS = [
     # 🇩🇪 ドイツ
     {"key": "DW",           "label": "DW Technology",   "flag": "🇩🇪", "country": "ドイツ", "countryKey": "de", "color": "#b7950b", "url": "https://rss.dw.com/rdf/rss-en-sci"},
     # 🇯🇵 日本
-    {"key": "JapanTimes",   "label": "Japan Times Tech", "flag": "🇯🇵", "country": "日本",   "countryKey": "jp", "color": "#6c3483", "url": "https://www.japantimes.co.jp/feed/technology/"},
+    {"key": "NHKWorld",     "label": "NHK World Tech",   "flag": "🇯🇵", "country": "日本",   "countryKey": "jp", "color": "#6c3483", "url": "https://www3.nhk.or.jp/rss/news/cat3.xml"},
+    {"key": "NikkeiAsia",   "label": "Nikkei Asia Tech",  "flag": "🇯🇵", "country": "日本",   "countryKey": "jp", "color": "#9b59b6", "url": "https://asia.nikkei.com/rss/feed/nar"},
     # 🇮🇳 インド
     {"key": "TimesOfIndia", "label": "Times of India Tech","flag": "🇮🇳", "country": "インド","countryKey": "in", "color": "#d35400", "url": "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms"},
 ]
@@ -71,7 +72,7 @@ def fetch_articles():
     for feed_info in FEEDS:
         try:
             feed = feedparser.parse(feed_info["url"])
-            for entry in feed.entries[:4]:
+            for entry in feed.entries[:6]:
                 summary_raw = (
                     entry.get("summary") or
                     entry.get("description") or
@@ -104,7 +105,7 @@ def fetch_articles():
     balanced = []
     for a in articles:
         ck = a.get("countryKey", "other")
-        if country_counts[ck] < 4:
+        if country_counts[ck] < 6:
             balanced.append(a)
             country_counts[ck] += 1
     return balanced
