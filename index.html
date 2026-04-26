@@ -1,34 +1,1294 @@
-name: Update AI News
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI World News — 世界のAIニュース</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg: #ffffff; --bg-secondary: #f7f7f5; --bg-tertiary: #f0eeea;
+    --text: #1a1a18; --text-secondary: #5a5a56; --text-tertiary: #9a9a94;
+    --border: rgba(0,0,0,0.09); --border-mid: rgba(0,0,0,0.16);
+    --accent: #185fa5; --radius-md: 8px; --radius-lg: 14px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1c1c1a; --bg-secondary: #252523; --bg-tertiary: #2a2a27;
+      --text: #f0eeea; --text-secondary: #a8a8a0; --text-tertiary: #6a6a64;
+      --border: rgba(255,255,255,0.08); --border-mid: rgba(255,255,255,0.16);
+      --accent: #5ba3e8;
+    }
+  }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', sans-serif;
+    background: var(--bg-tertiary); color: var(--text); font-size: 15px; line-height: 1.6; min-height: 100vh;
+  }
+  .page-wrap { max-width: 740px; margin: 0 auto; padding: 0 16px 80px; }
+  .header { padding: 28px 0 18px; border-bottom: 0.5px solid var(--border-mid); margin-bottom: 20px; }
+  .header-top { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+  .site-title { font-size: 23px; font-weight: 700; color: var(--text); letter-spacing: -0.8px; }
+  .site-sub { font-size: 13px; color: var(--text-tertiary); }
+  .header-meta { display: flex; align-items: center; gap: 10px; margin-top: 10px; flex-wrap: wrap; }
+  .badge-live { font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; background: #e8f5e9; color: #2e7d32; }
+  .updated { font-size: 12px; color: var(--text-tertiary); }
+  .tabs { display: flex; gap: 0; margin-bottom: 20px; border-bottom: 1.5px solid var(--border-mid); }
+  .tab-btn {
+    font-size: 13px; font-weight: 600; padding: 10px 20px;
+    border: none; background: none; color: var(--text-tertiary);
+    cursor: pointer; font-family: inherit;
+    border-bottom: 2.5px solid transparent; margin-bottom: -1.5px;
+    transition: all 0.15s;
+  }
+  .tab-btn.active { color: var(--text); border-bottom-color: var(--text); }
+  .tab-btn:hover:not(.active) { color: var(--text-secondary); }
+  .tab-panel { display: none; }
+  .tab-panel.active { display: block; }
+  .controls { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; align-items: center; }
+  .filter-btn {
+    font-size: 12px; padding: 6px 13px; border-radius: 20px;
+    border: 0.5px solid var(--border-mid); background: var(--bg);
+    color: var(--text-secondary); cursor: pointer; transition: all 0.15s; font-family: inherit;
+  }
+  .filter-btn.active { background: var(--text); color: var(--bg); border-color: var(--text); }
+  .filter-btn:hover:not(.active) { background: var(--bg-secondary); color: var(--text); }
+  .refresh-btn {
+    margin-left: auto; font-size: 12px; padding: 6px 14px; border-radius: 20px;
+    border: 0.5px solid var(--border-mid); background: var(--bg);
+    color: var(--text-secondary); cursor: pointer; display: flex;
+    align-items: center; gap: 6px; font-family: inherit;
+  }
+  .refresh-btn:hover { color: var(--text); background: var(--bg-secondary); }
+  .date-search {
+    background: var(--bg); border: 0.5px solid var(--border);
+    border-radius: var(--radius-lg); padding: 18px; margin-bottom: 16px;
+  }
+  .date-search h3 { font-size: 13px; font-weight: 600; margin-bottom: 14px; color: var(--text-secondary); }
+  .date-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
+  .date-label { font-size: 12px; color: var(--text-secondary); min-width: 24px; }
+  .date-select {
+    font-size: 12px; padding: 5px 8px; border-radius: 8px;
+    border: 0.5px solid var(--border-mid); background: var(--bg-secondary);
+    color: var(--text); font-family: inherit; cursor: pointer;
+  }
+  .date-sep { font-size: 12px; color: var(--text-tertiary); }
+  .search-btn {
+    margin-top: 4px; font-size: 12px; padding: 7px 18px; border-radius: 20px;
+    background: var(--text); color: var(--bg); border: none;
+    cursor: pointer; font-family: inherit; font-weight: 600;
+  }
+  .search-btn:hover { opacity: 0.85; }
+  .archive-note { font-size: 11px; color: var(--text-tertiary); margin-top: 10px; }
+  .stats-bar {
+    display: flex; gap: 18px; margin-bottom: 16px; flex-wrap: wrap;
+    padding: 10px 14px; background: var(--bg-secondary);
+    border-radius: var(--radius-md); border: 0.5px solid var(--border);
+  }
+  .stat { font-size: 12px; color: var(--text-secondary); }
+  .stat strong { color: var(--text); font-weight: 600; }
+  .news-grid { display: flex; flex-direction: column; gap: 10px; }
+  .news-card {
+    background: var(--bg); border: 0.5px solid var(--border);
+    border-radius: var(--radius-lg); padding: 18px;
+    transition: border-color 0.15s, box-shadow 0.15s;
+    animation: fadeUp 0.35s ease both;
+  }
+  .news-card:hover { border-color: var(--border-mid); box-shadow: 0 2px 14px rgba(0,0,0,0.07); }
+  @keyframes fadeUp { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:translateY(0); } }
+  .card-meta { display: flex; align-items: center; gap: 6px; margin-bottom: 10px; flex-wrap: wrap; }
+  .country-flag { font-size: 15px; }
+  .country-label {
+    font-size: 11px; font-weight: 600; color: var(--text-secondary);
+    background: var(--bg-secondary); padding: 2px 8px; border-radius: 10px; border: 0.5px solid var(--border);
+  }
+  .feed-label { font-size: 11px; font-weight: 700; margin-left: 2px; }
+  .pub-date { font-size: 11px; color: var(--text-tertiary); margin-left: auto; white-space: nowrap; }
+  .card-title { font-size: 16px; font-weight: 600; color: var(--text); line-height: 1.45; margin-bottom: 10px; }
+  .card-summary {
+    font-size: 13px; color: var(--text-secondary); line-height: 1.65;
+    margin-bottom: 12px; border-left: 2px solid var(--border-mid); padding-left: 12px; font-style: italic;
+    word-break: break-word; overflow-wrap: break-word;
+  }
+  .card-body { font-size: 13px; color: var(--text-secondary); line-height: 1.65; margin-top: 8px; margin-bottom: 12px; word-break: break-word; overflow-wrap: break-word; }
+  .card-footer { display: flex; align-items: center; margin-top: 8px; gap: 10px; flex-wrap: wrap; }
+  .read-more { font-size: 12px; color: var(--text-secondary); background: none; border: none; cursor: pointer; padding: 0; font-family: inherit; text-decoration: underline; text-underline-offset: 2px; }
+  .source-link { font-size: 12px; color: var(--accent); text-decoration: none; margin-left: auto; display: flex; align-items: center; gap: 4px; }
+  .source-link:hover { text-decoration: underline; }
+  .empty-msg { text-align: center; padding: 40px 20px; color: var(--text-tertiary); font-size: 14px; line-height: 1.8; }
+  .footer { margin-top: 40px; padding-top: 20px; border-top: 0.5px solid var(--border); text-align: center; font-size: 12px; color: var(--text-tertiary); line-height: 1.8; }
+  @media (max-width: 480px) {
+    .site-title { font-size: 19px; } .card-title { font-size: 15px; }
+    .header { padding: 18px 0 14px; } .news-card { padding: 14px; }
+    .pub-date { margin-left: 0; } .tab-btn { padding: 8px 14px; font-size: 12px; }
+  }
+</style>
+</head>
+<body>
+<div class="page-wrap">
+  <header class="header">
+    <div class="header-top">
+      <span class="site-title">AI World News</span>
+      <span class="site-sub">世界のAIニュース — 日本語版</span>
+    </div>
+    <div class="header-meta">
+      <span class="badge-live">● LIVE</span>
+      <span class="updated">🕐 2026/04/26 21:05 JST 更新</span>
+    </div>
+  </header>
 
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+  <div class="tabs">
+    <button class="tab-btn active" onclick="switchTab('latest', this)">最新記事</button>
+    <button class="tab-btn" onclick="switchTab('archive', this)">期間指定</button>
+  </div>
 
-permissions:
-  contents: write
+  <div class="tab-panel active" id="tab-latest">
+    <div class="controls">
+      <button class="filter-btn active" onclick="filterNews('all', this)">すべて</button>
+      <button class="filter-btn" onclick="filterNews('TechCrunch', this)">TechCrunch</button>
+      <button class="filter-btn" onclick="filterNews('MIT', this)">MIT Tech Review</button>
+      <button class="filter-btn" onclick="filterNews('VentureBeat', this)">VentureBeat</button>
+      <button class="filter-btn" onclick="filterNews('TheVerge', this)">The Verge</button>
+      <button class="refresh-btn" onclick="location.reload()">↻ 更新</button>
+    </div>
+    <div class="stats-bar">
+      <span class="stat">記事数: <strong>30</strong></span>
+      <span class="stat">ソース: <strong>4</strong></span>
+      <span class="stat">次回更新: <strong>約1時間後</strong></span>
+    </div>
+    <div id="latest-container">
+      <div class="feed-section" data-feed="all"><div class="news-grid">
+    <article class="news-card" style="animation-delay:0.0s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月25日</span>
+      </div>
+      <h2 class="card-title">Anthropic created a test marketplace for agent-on-agent commerce</h2>
+      <p class="card-summary" id="s_body_0_1847">In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.</p>
+      
+      <div class="card-footer">
+        
+        <a class="source-link" href="https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+    <article class="news-card" style="animation-delay:0.05s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月25日</span>
+      </div>
+      <h2 class="card-title">Maine’s governor vetoes data center moratorium</h2>
+      <p class="card-summary" id="s_body_1_9061">L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.</p>
+      
+      <div class="card-footer">
+        
+        <a class="source-link" href="https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
+    <article class="news-card" style="animation-delay:0.1s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月25日</span>
+      </div>
+      <h2 class="card-title">OpenAI CEO apologizes to Tumbler Ridge community</h2>
+      <p class="card-summary" id="s_body_2_3531">In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.</p>
+      
+      <div class="card-footer">
+        
+        <a class="source-link" href="https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
 
-      - name: Install dependencies
-        run: pip install requests feedparser
+    <article class="news-card" style="animation-delay:0.15000000000000002s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月25日</span>
+      </div>
+      <h2 class="card-title">Why Cohere is merging with Aleph Alpha</h2>
+      <p class="card-summary" id="s_body_3_4895">Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group.…</p>
+      <p class="card-body" id="body_3_4895" style="display:none">Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_3_4895',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
 
-      - name: Fetch RSS and generate HTML
-        run: python generate.py
+    <article class="news-card" style="animation-delay:0.2s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月25日</span>
+      </div>
+      <h2 class="card-title">Why Tokyo is the most important tech destination of 2026</h2>
+      <p class="card-summary" id="s_body_4_5114">SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these…</p>
+      <p class="card-body" id="body_4_5114" style="display:none">SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_4_5114',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
 
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html data/
-          git diff --cached --quiet || git commit -m "Update news $(date -u '+%Y-%m-%d %H:%M UTC')"
-          git push
+    <article class="news-card" style="animation-delay:0.25s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月25日</span>
+      </div>
+      <h2 class="card-title">Apple under Ternus: what comes next for the tech giant’s hardware strategy</h2>
+      <p class="card-summary" id="s_body_5_2832">John Ternus, Apple&#x27;s incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.</p>
+      
+      <div class="card-footer">
+        
+        <a class="source-link" href="https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.30000000000000004s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">Meta’s loss is Thinking Machines’ gain</h2>
+      <p class="card-summary" id="s_body_6_9059">Meta has been poaching talent from Thinking Machines Lab. But it&#x27;s a two-way street.</p>
+      
+      <div class="card-footer">
+        
+        <a class="source-link" href="https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.35000000000000003s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">ComfyUI hits $500M valuation as creators seek more control over AI-generated media</h2>
+      <p class="card-summary" id="s_body_7_7130">ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.</p>
+      
+      <div class="card-footer">
+        
+        <a class="source-link" href="https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">Three reasons why DeepSeek’s new model matters</h2>
+      <p class="card-summary" id="s_body_8_7331">On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design…</p>
+      <p class="card-body" id="body_8_7331" style="display:none">On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_8_7331',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">The Download: supercharged scams and studying AI healthcare</h2>
+      <p class="card-summary" id="s_body_9_4651">This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology.…</p>
+      <p class="card-body" id="body_9_4651" style="display:none">This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_9_4651',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">Health-care AI is here. We don’t know if it actually helps patients.</h2>
+      <p class="card-summary" id="s_body_10_3184">I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking.…</p>
+      <p class="card-body" id="body_10_3184" style="display:none">I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_10_3184',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月23日</span>
+      </div>
+      <h2 class="card-title">The Download: introducing the Nature issue</h2>
+      <p class="card-summary" id="s_body_11_3535">This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology.…</p>
+      <p class="card-body" id="body_11_3535" style="display:none">This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today. From microplastics in rainforest wildlife to artificial light</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_11_3535',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月23日</span>
+      </div>
+      <h2 class="card-title">Will fusion power get cheap? Don’t count on it.</h2>
+      <p class="card-summary" id="s_body_12_1058">Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running.…</p>
+      <p class="card-body" id="body_12_1058" style="display:none">Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now about 90% cheaper than they were in</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_12_1058',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月22日</span>
+      </div>
+      <h2 class="card-title">The Download: introducing the 10 Things That Matter in AI Right Now</h2>
+      <p class="card-summary" id="s_body_13_2624">This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology.…</p>
+      <p class="card-body" id="body_13_2624" style="display:none">This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_13_2624',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月22日</span>
+      </div>
+      <h2 class="card-title">AI needs a strong data fabric to deliver business value</h2>
+      <p class="card-summary" id="s_body_14_2068">Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains,…</p>
+      <p class="card-body" id="body_14_2068" style="display:none">Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_14_2068',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月22日</span>
+      </div>
+      <h2 class="card-title">3 things Michelle Kim is into right now</h2>
+      <p class="card-summary" id="s_body_15_9775">Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind.…</p>
+      <p class="card-body" id="body_15_9775" style="display:none">Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegye Idol’s six members are anonymous, which seems to</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_15_9775',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月22日</span>
+      </div>
+      <h2 class="card-title">Railway secures $100 million to challenge AWS with AI-native cloud infrastructure</h2>
+      <p class="card-summary" id="s_body_16_85">Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B…</p>
+      <p class="card-body" id="body_16_85" style="display:none">Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Ventures led the round, with participation from FPV Ventures, Redpoint, and Unusual Ventures.…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_16_85',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月19日</span>
+      </div>
+      <h2 class="card-title">Claude Code costs up to $200 a month. Goose does the same thing for free.</h2>
+      <p class="card-summary" id="s_body_17_1481">The artificial intelligence coding revolution comes with a catch: it s expensive.Claude Code, Anthropic s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the…</p>
+      <p class="card-body" id="body_17_1481" style="display:none">The artificial intelligence coding revolution comes with a catch: it s expensive.Claude Code, Anthropic s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.Now, a free alternative is gaining traction.…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_17_1481',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月16日</span>
+      </div>
+      <h2 class="card-title">Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews</h2>
+      <p class="card-summary" id="s_body_18_4907">Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg s $100 million offers seemed impossible.…</p>
+      <p class="card-body" id="body_18_4907" style="display:none">Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg s $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers.The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub famous for rejecting nearly everyone at the door.…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_18_4907',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月13日</span>
+      </div>
+      <h2 class="card-title">Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI</h2>
+      <p class="card-summary" id="s_body_19_7471">Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully…</p>
+      <p class="card-body" id="body_19_7471" style="display:none">Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce s most aggressive move yet to position Slack at the center of the emerging agentic AI movement — where software agents work alongside humans to complete complex tasks.…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_19_7471',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月12日</span>
+      </div>
+      <h2 class="card-title">Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</h2>
+      <p class="card-summary" id="s_body_20_2769">Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team…</p>
+      <p class="card-body" id="body_20_2769" style="display:none">Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just with OpenAI and Google in conversational AI, but with Microsoft s Copilot in the burgeoning market for AI-powered productivity tools.…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_20_2769',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月7日</span>
+      </div>
+      <h2 class="card-title">Nous Research&#x27;s NousCoder-14B is an open-source coding model landing right in the Claude Code moment</h2>
+      <p class="card-summary" id="s_body_21_7633">Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several…</p>
+      <p class="card-body" id="body_21_7633" style="display:none">Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia s latest B200 graphics processors.The model, called NousCoder-14B, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: Claude Code, the agentic programming tool from rival Anthropic, has dominated social media discussion since New Year s Day, with developers posting…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_21_7633',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月5日</span>
+      </div>
+      <h2 class="card-title">The creator of Claude Code just revealed his workflow, and developers are losing their minds</h2>
+      <p class="card-summary" id="s_body_22_3110">When the creator of the world s most advanced coding agent speaks, Silicon Valley doesn t just listen — it takes notes.For the past week, the engineering community has been dissecting a thread on X…</p>
+      <p class="card-body" id="body_22_3110" style="display:none">When the creator of the world s most advanced coding agent speaks, Silicon Valley doesn t just listen — it takes notes.For the past week, the engineering community has been dissecting a thread on X from Boris Cherny, the creator and head of Claude Code at Anthropic. What began as a casual sharing of his personal terminal setup has spiraled into a viral manifesto on the future of software development, with industry insiders calling it a watershed moment for the startup.…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_22_3110',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">How Project Maven taught the military to love AI</h2>
+      <p class="card-summary" id="s_body_23_8900">In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the &quot;shock and awe&quot; attack on Iraq over two decades ago.…</p>
+      <p class="card-body" id="body_23_8900" style="display:none">In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the &quot;shock and awe&quot; attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_23_8900',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">AirPods, Touch Bars, and the rest of Tim Cook s legacy</h2>
+      <p class="card-summary" id="s_body_24_3980">We knew at some point Tim Cook would step down from his position as Apple&#x27;s CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor.…</p>
+      <p class="card-body" id="body_24_3980" style="display:none">We knew at some point Tim Cook would step down from his position as Apple&#x27;s CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year&#x27;s succession could lead to some important changes at the most [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_24_3980',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">Musk vs. Altman is here, and it s going to get messy</h2>
+      <p class="card-summary" id="s_body_25_8744">Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn&#x27;t anointed CEO, leaving Sam Altman as the last power-hungry man standing.…</p>
+      <p class="card-body" id="body_25_8744" style="display:none">Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn&#x27;t anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it&#x27;s a legal case about whether OpenAI defrauded Musk. [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_25_8744',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">China’s DeepSeek previews new AI model a year after jolting US rivals</h2>
+      <p class="card-summary" id="s_body_26_6089">Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US…</p>
+      <p class="card-body" id="body_26_6089" style="display:none">Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_26_6089',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">Prestigious photo contest answers ‘what is a photo?’</h2>
+      <p class="card-summary" id="s_body_27_9399">We love to muse over how &quot;real&quot; photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer.…</p>
+      <p class="card-body" id="body_27_9399" style="display:none">We love to muse over how &quot;real&quot; photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount. The winning entry for 2026 - &quot;Separated by ICE,&quot; captured by [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_27_9399',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月23日</span>
+      </div>
+      <h2 class="card-title">Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax</h2>
+      <p class="card-summary" id="s_body_28_601">Claude users can access more apps with Anthropic&#x27;s AI now thanks to new connectors for everything from hiking to grocery shopping.…</p>
+      <p class="card-body" id="body_28_601" style="display:none">Claude users can access more apps with Anthropic&#x27;s AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_28_601',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.4s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月23日</span>
+      </div>
+      <h2 class="card-title">Meta is laying off 10 percent of its staff</h2>
+      <p class="card-summary" id="s_body_29_8881">Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company&#x27;s chief people officer, Janelle Gale, published by Bloomberg.…</p>
+      <p class="card-body" id="body_29_8881" style="display:none">Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company&#x27;s chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. The cuts follow Meta&#x27;s significant investments [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('body_29_8881',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article></div></div>
+      <div class="feed-section" data-feed="TechCrunch" style="display:none"><div class="news-grid">
+    <article class="news-card" style="animation-delay:0.0s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月25日</span>
+      </div>
+      <h2 class="card-title">Anthropic created a test marketplace for agent-on-agent commerce</h2>
+      <p class="card-summary" id="s_TechCrunchbody_0_1847">In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.</p>
+      
+      <div class="card-footer">
+        
+        <a class="source-link" href="https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.05s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月25日</span>
+      </div>
+      <h2 class="card-title">Maine’s governor vetoes data center moratorium</h2>
+      <p class="card-summary" id="s_TechCrunchbody_1_9061">L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.</p>
+      
+      <div class="card-footer">
+        
+        <a class="source-link" href="https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.1s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月25日</span>
+      </div>
+      <h2 class="card-title">OpenAI CEO apologizes to Tumbler Ridge community</h2>
+      <p class="card-summary" id="s_TechCrunchbody_2_3531">In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.</p>
+      
+      <div class="card-footer">
+        
+        <a class="source-link" href="https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.15000000000000002s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月25日</span>
+      </div>
+      <h2 class="card-title">Why Cohere is merging with Aleph Alpha</h2>
+      <p class="card-summary" id="s_TechCrunchbody_3_4895">Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group.…</p>
+      <p class="card-body" id="TechCrunchbody_3_4895" style="display:none">Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('TechCrunchbody_3_4895',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.2s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月25日</span>
+      </div>
+      <h2 class="card-title">Why Tokyo is the most important tech destination of 2026</h2>
+      <p class="card-summary" id="s_TechCrunchbody_4_5114">SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these…</p>
+      <p class="card-body" id="TechCrunchbody_4_5114" style="display:none">SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('TechCrunchbody_4_5114',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.25s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月25日</span>
+      </div>
+      <h2 class="card-title">Apple under Ternus: what comes next for the tech giant’s hardware strategy</h2>
+      <p class="card-summary" id="s_TechCrunchbody_5_2832">John Ternus, Apple&#x27;s incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.</p>
+      
+      <div class="card-footer">
+        
+        <a class="source-link" href="https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.30000000000000004s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">Meta’s loss is Thinking Machines’ gain</h2>
+      <p class="card-summary" id="s_TechCrunchbody_6_9059">Meta has been poaching talent from Thinking Machines Lab. But it&#x27;s a two-way street.</p>
+      
+      <div class="card-footer">
+        
+        <a class="source-link" href="https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.35000000000000003s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#0a8a5c">TechCrunch AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">ComfyUI hits $500M valuation as creators seek more control over AI-generated media</h2>
+      <p class="card-summary" id="s_TechCrunchbody_7_7130">ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.</p>
+      
+      <div class="card-footer">
+        
+        <a class="source-link" href="https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article></div></div>
+<div class="feed-section" data-feed="MIT" style="display:none"><div class="news-grid">
+    <article class="news-card" style="animation-delay:0.0s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">Three reasons why DeepSeek’s new model matters</h2>
+      <p class="card-summary" id="s_MITbody_0_7331">On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design…</p>
+      <p class="card-body" id="MITbody_0_7331" style="display:none">On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('MITbody_0_7331',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.05s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">The Download: supercharged scams and studying AI healthcare</h2>
+      <p class="card-summary" id="s_MITbody_1_4651">This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology.…</p>
+      <p class="card-body" id="MITbody_1_4651" style="display:none">This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('MITbody_1_4651',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.1s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">Health-care AI is here. We don’t know if it actually helps patients.</h2>
+      <p class="card-summary" id="s_MITbody_2_3184">I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking.…</p>
+      <p class="card-body" id="MITbody_2_3184" style="display:none">I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('MITbody_2_3184',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.15000000000000002s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月23日</span>
+      </div>
+      <h2 class="card-title">The Download: introducing the Nature issue</h2>
+      <p class="card-summary" id="s_MITbody_3_3535">This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology.…</p>
+      <p class="card-body" id="MITbody_3_3535" style="display:none">This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today. From microplastics in rainforest wildlife to artificial light</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('MITbody_3_3535',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.2s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月23日</span>
+      </div>
+      <h2 class="card-title">Will fusion power get cheap? Don’t count on it.</h2>
+      <p class="card-summary" id="s_MITbody_4_1058">Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running.…</p>
+      <p class="card-body" id="MITbody_4_1058" style="display:none">Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now about 90% cheaper than they were in</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('MITbody_4_1058',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.25s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月22日</span>
+      </div>
+      <h2 class="card-title">The Download: introducing the 10 Things That Matter in AI Right Now</h2>
+      <p class="card-summary" id="s_MITbody_5_2624">This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology.…</p>
+      <p class="card-body" id="MITbody_5_2624" style="display:none">This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('MITbody_5_2624',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.30000000000000004s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月22日</span>
+      </div>
+      <h2 class="card-title">AI needs a strong data fabric to deliver business value</h2>
+      <p class="card-summary" id="s_MITbody_6_2068">Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains,…</p>
+      <p class="card-body" id="MITbody_6_2068" style="display:none">Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('MITbody_6_2068',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.35000000000000003s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#a00c0c">MIT Tech Review</span>
+        <span class='pub-date'>📅 2026年4月22日</span>
+      </div>
+      <h2 class="card-title">3 things Michelle Kim is into right now</h2>
+      <p class="card-summary" id="s_MITbody_7_9775">Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind.…</p>
+      <p class="card-body" id="MITbody_7_9775" style="display:none">Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegye Idol’s six members are anonymous, which seems to</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('MITbody_7_9775',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article></div></div>
+<div class="feed-section" data-feed="VentureBeat" style="display:none"><div class="news-grid">
+    <article class="news-card" style="animation-delay:0.0s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月22日</span>
+      </div>
+      <h2 class="card-title">Railway secures $100 million to challenge AWS with AI-native cloud infrastructure</h2>
+      <p class="card-summary" id="s_VentureBeatbody_0_85">Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B…</p>
+      <p class="card-body" id="VentureBeatbody_0_85" style="display:none">Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Ventures led the round, with participation from FPV Ventures, Redpoint, and Unusual Ventures.…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('VentureBeatbody_0_85',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.05s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月19日</span>
+      </div>
+      <h2 class="card-title">Claude Code costs up to $200 a month. Goose does the same thing for free.</h2>
+      <p class="card-summary" id="s_VentureBeatbody_1_1481">The artificial intelligence coding revolution comes with a catch: it s expensive.Claude Code, Anthropic s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the…</p>
+      <p class="card-body" id="VentureBeatbody_1_1481" style="display:none">The artificial intelligence coding revolution comes with a catch: it s expensive.Claude Code, Anthropic s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.Now, a free alternative is gaining traction.…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('VentureBeatbody_1_1481',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.1s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月16日</span>
+      </div>
+      <h2 class="card-title">Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews</h2>
+      <p class="card-summary" id="s_VentureBeatbody_2_4907">Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg s $100 million offers seemed impossible.…</p>
+      <p class="card-body" id="VentureBeatbody_2_4907" style="display:none">Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg s $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers.The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub famous for rejecting nearly everyone at the door.…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('VentureBeatbody_2_4907',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.15000000000000002s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月13日</span>
+      </div>
+      <h2 class="card-title">Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI</h2>
+      <p class="card-summary" id="s_VentureBeatbody_3_7471">Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully…</p>
+      <p class="card-body" id="VentureBeatbody_3_7471" style="display:none">Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce s most aggressive move yet to position Slack at the center of the emerging agentic AI movement — where software agents work alongside humans to complete complex tasks.…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('VentureBeatbody_3_7471',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.2s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月12日</span>
+      </div>
+      <h2 class="card-title">Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required</h2>
+      <p class="card-summary" id="s_VentureBeatbody_4_2769">Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team…</p>
+      <p class="card-body" id="VentureBeatbody_4_2769" style="display:none">Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just with OpenAI and Google in conversational AI, but with Microsoft s Copilot in the burgeoning market for AI-powered productivity tools.…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('VentureBeatbody_4_2769',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.25s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月7日</span>
+      </div>
+      <h2 class="card-title">Nous Research&#x27;s NousCoder-14B is an open-source coding model landing right in the Claude Code moment</h2>
+      <p class="card-summary" id="s_VentureBeatbody_5_7633">Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several…</p>
+      <p class="card-body" id="VentureBeatbody_5_7633" style="display:none">Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia s latest B200 graphics processors.The model, called NousCoder-14B, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: Claude Code, the agentic programming tool from rival Anthropic, has dominated social media discussion since New Year s Day, with developers posting…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('VentureBeatbody_5_7633',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.30000000000000004s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#7b2fd4">VentureBeat AI</span>
+        <span class='pub-date'>📅 2026年1月5日</span>
+      </div>
+      <h2 class="card-title">The creator of Claude Code just revealed his workflow, and developers are losing their minds</h2>
+      <p class="card-summary" id="s_VentureBeatbody_6_3110">When the creator of the world s most advanced coding agent speaks, Silicon Valley doesn t just listen — it takes notes.For the past week, the engineering community has been dissecting a thread on X…</p>
+      <p class="card-body" id="VentureBeatbody_6_3110" style="display:none">When the creator of the world s most advanced coding agent speaks, Silicon Valley doesn t just listen — it takes notes.For the past week, the engineering community has been dissecting a thread on X from Boris Cherny, the creator and head of Claude Code at Anthropic. What began as a casual sharing of his personal terminal setup has spiraled into a viral manifesto on the future of software development, with industry insiders calling it a watershed moment for the startup.…</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('VentureBeatbody_6_3110',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article></div></div>
+<div class="feed-section" data-feed="TheVerge" style="display:none"><div class="news-grid">
+    <article class="news-card" style="animation-delay:0.0s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">How Project Maven taught the military to love AI</h2>
+      <p class="card-summary" id="s_TheVergebody_0_8900">In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the &quot;shock and awe&quot; attack on Iraq over two decades ago.…</p>
+      <p class="card-body" id="TheVergebody_0_8900" style="display:none">In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the &quot;shock and awe&quot; attack on Iraq over two decades ago. This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('TheVergebody_0_8900',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.05s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">AirPods, Touch Bars, and the rest of Tim Cook s legacy</h2>
+      <p class="card-summary" id="s_TheVergebody_1_3980">We knew at some point Tim Cook would step down from his position as Apple&#x27;s CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor.…</p>
+      <p class="card-body" id="TheVergebody_1_3980" style="display:none">We knew at some point Tim Cook would step down from his position as Apple&#x27;s CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week was still a surprise, though - and this year&#x27;s succession could lead to some important changes at the most [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('TheVergebody_1_3980',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.1s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">Musk vs. Altman is here, and it s going to get messy</h2>
+      <p class="card-summary" id="s_TheVergebody_2_8744">Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn&#x27;t anointed CEO, leaving Sam Altman as the last power-hungry man standing.…</p>
+      <p class="card-body" id="TheVergebody_2_8744" style="display:none">Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn&#x27;t anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it&#x27;s a legal case about whether OpenAI defrauded Musk. [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('TheVergebody_2_8744',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.15000000000000002s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">China’s DeepSeek previews new AI model a year after jolting US rivals</h2>
+      <p class="card-summary" id="s_TheVergebody_3_6089">Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US…</p>
+      <p class="card-body" id="TheVergebody_3_6089" style="display:none">Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('TheVergebody_3_6089',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.2s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月24日</span>
+      </div>
+      <h2 class="card-title">Prestigious photo contest answers ‘what is a photo?’</h2>
+      <p class="card-summary" id="s_TheVergebody_4_9399">We love to muse over how &quot;real&quot; photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer.…</p>
+      <p class="card-body" id="TheVergebody_4_9399" style="display:none">We love to muse over how &quot;real&quot; photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celebrates the best of photojournalism, where capturing reality is paramount. The winning entry for 2026 - &quot;Separated by ICE,&quot; captured by [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('TheVergebody_4_9399',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.25s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月23日</span>
+      </div>
+      <h2 class="card-title">Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax</h2>
+      <p class="card-summary" id="s_TheVergebody_5_601">Claude users can access more apps with Anthropic&#x27;s AI now thanks to new connectors for everything from hiking to grocery shopping.…</p>
+      <p class="card-body" id="TheVergebody_5_601" style="display:none">Claude users can access more apps with Anthropic&#x27;s AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('TheVergebody_5_601',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article>
+
+    <article class="news-card" style="animation-delay:0.30000000000000004s">
+      <div class="card-meta">
+        <span class="country-flag">🇺🇸</span>
+        <span class="country-label">米国</span>
+        <span class="feed-label" style="color:#e5472d">The Verge AI</span>
+        <span class='pub-date'>📅 2026年4月23日</span>
+      </div>
+      <h2 class="card-title">Meta is laying off 10 percent of its staff</h2>
+      <p class="card-summary" id="s_TheVergebody_6_8881">Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company&#x27;s chief people officer, Janelle Gale, published by Bloomberg.…</p>
+      <p class="card-body" id="TheVergebody_6_8881" style="display:none">Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company&#x27;s chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. The cuts follow Meta&#x27;s significant investments [ ]</p>
+      <div class="card-footer">
+        <button class="read-more" onclick="toggleBody('TheVergebody_6_8881',this)">続きを読む ▾</button>
+        <a class="source-link" href="https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff" target="_blank" rel="noopener">↗ 原文を読む</a>
+      </div>
+    </article></div></div>
+
+    </div>
+  </div>
+
+  <div class="tab-panel" id="tab-archive">
+    <div class="date-search">
+      <h3>📅 期間を指定して記事を検索</h3>
+      <div class="date-row">
+        <span class="date-label">開始</span>
+        <select class="date-select" id="from-y" onchange="updateDays('from')"></select>
+        <span class="date-sep">年</span>
+        <select class="date-select" id="from-m" onchange="updateDays('from')"></select>
+        <span class="date-sep">月</span>
+        <select class="date-select" id="from-d"></select>
+        <span class="date-sep">日</span>
+      </div>
+      <div class="date-row">
+        <span class="date-label">終了</span>
+        <select class="date-select" id="to-y" onchange="updateDays('to')"></select>
+        <span class="date-sep">年</span>
+        <select class="date-select" id="to-m" onchange="updateDays('to')"></select>
+        <span class="date-sep">月</span>
+        <select class="date-select" id="to-d"></select>
+        <span class="date-sep">日</span>
+      </div>
+      <button class="search-btn" onclick="searchArchive()">この期間の記事を表示</button>
+      <p class="archive-note">蓄積データ: 1日分</p>
+    </div>
+    <div id="archive-results"></div>
+  </div>
+
+  <footer class="footer">
+    <p>AI World News — GitHub Actionsで1時間ごとに自動更新・過去ログ蓄積</p>
+    <p>記事の著作権は各メディアに帰属します</p>
+  </footer>
+</div>
+
+<script>
+const ARCHIVE = {"2026-04-26": [{"feedKey": "TechCrunch", "feedLabel": "TechCrunch AI", "feedColor": "#0a8a5c", "flag": "🇺🇸", "country": "米国", "title": "Anthropic created a test marketplace for agent-on-agent commerce", "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.", "body": "", "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/", "date": "2026年4月25日"}, {"feedKey": "TechCrunch", "feedLabel": "TechCrunch AI", "feedColor": "#0a8a5c", "flag": "🇺🇸", "country": "米国", "title": "Maine’s governor vetoes data center moratorium", "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.", "body": "", "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/", "date": "2026年4月25日"}, {"feedKey": "TechCrunch", "feedLabel": "TechCrunch AI", "feedColor": "#0a8a5c", "flag": "🇺🇸", "country": "米国", "title": "OpenAI CEO apologizes to Tumbler Ridge community", "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.", "body": "", "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/", "date": "2026年4月25日"}, {"feedKey": "TechCrunch", "feedLabel": "TechCrunch AI", "feedColor": "#0a8a5c", "flag": "🇺🇸", "country": "米国", "title": "Why Cohere is merging with Aleph Alpha", "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group.…", "body": "With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.", "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/", "date": "2026年4月25日"}, {"feedKey": "TechCrunch", "feedLabel": "TechCrunch AI", "feedColor": "#0a8a5c", "flag": "🇺🇸", "country": "米国", "title": "Why Tokyo is the most important tech destination of 2026", "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these…", "body": "technologies globally.", "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/", "date": "2026年4月25日"}, {"feedKey": "TechCrunch", "feedLabel": "TechCrunch AI", "feedColor": "#0a8a5c", "flag": "🇺🇸", "country": "米国", "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy", "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy.", "body": "", "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/", "date": "2026年4月25日"}, {"feedKey": "TechCrunch", "feedLabel": "TechCrunch AI", "feedColor": "#0a8a5c", "flag": "🇺🇸", "country": "米国", "title": "Meta’s loss is Thinking Machines’ gain", "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.", "body": "", "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/", "date": "2026年4月24日"}, {"feedKey": "TechCrunch", "feedLabel": "TechCrunch AI", "feedColor": "#0a8a5c", "flag": "🇺🇸", "country": "米国", "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media", "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.", "body": "", "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/", "date": "2026年4月24日"}, {"feedKey": "MIT", "feedLabel": "MIT Tech Review", "feedColor": "#a00c0c", "flag": "🇺🇸", "country": "米国", "title": "Three reasons why DeepSeek’s new model matters", "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design…", "body": "that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available", "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/", "date": "2026年4月24日"}, {"feedKey": "MIT", "feedLabel": "MIT Tech Review", "feedColor": "#a00c0c", "flag": "🇺🇸", "country": "米国", "title": "The Download: supercharged scams and studying AI healthcare", "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology.…", "body": "We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of", "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/", "date": "2026年4月24日"}, {"feedKey": "MIT", "feedLabel": "MIT Tech Review", "feedColor": "#a00c0c", "flag": "🇺🇸", "country": "米国", "title": "Health-care AI is here. We don’t know if it actually helps patients.", "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking.…", "body": "AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A", "url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/", "date": "2026年4月24日"}, {"feedKey": "MIT", "feedLabel": "MIT Tech Review", "feedColor": "#a00c0c", "flag": "🇺🇸", "country": "米国", "title": "The Download: introducing the Nature issue", "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology.…", "body": "Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today. From microplastics in rainforest wildlife to artificial light", "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/", "date": "2026年4月23日"}, {"feedKey": "MIT", "feedLabel": "MIT Tech Review", "feedColor": "#a00c0c", "flag": "🇺🇸", "country": "米国", "title": "Will fusion power get cheap? Don’t count on it.", "summary": "Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running.…", "body": "But a new study suggests that even if that future arrives, it might not come cheap. Technologies tend to get less expensive over time. Lithium-ion batteries are now about 90% cheaper than they were in", "url": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/", "date": "2026年4月23日"}, {"feedKey": "MIT", "feedLabel": "MIT Tech Review", "feedColor": "#a00c0c", "flag": "🇺🇸", "country": "米国", "title": "The Download: introducing the 10 Things That Matter in AI Right Now", "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology.…", "body": "Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through", "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/", "date": "2026年4月22日"}, {"feedKey": "MIT", "feedLabel": "MIT Tech Review", "feedColor": "#a00c0c", "flag": "🇺🇸", "country": "米国", "title": "AI needs a strong data fabric to deliver business value", "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains,…", "body": "human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes", "url": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/", "date": "2026年4月22日"}, {"feedKey": "MIT", "feedLabel": "MIT Tech Review", "feedColor": "#a00c0c", "flag": "🇺🇸", "country": "米国", "title": "3 things Michelle Kim is into right now", "summary": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind.…", "body": "My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegye Idol’s six members are anonymous, which seems to", "url": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/", "date": "2026年4月22日"}, {"feedKey": "VentureBeat", "feedLabel": "VentureBeat AI", "feedColor": "#7b2fd4", "flag": "🇺🇸", "country": "米国", "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure", "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B…", "body": "funding round, as surging demand for artificial intelligence applications exposes the limitations of legacy cloud infrastructure.TQ Ventures led the round, with participation from FPV Ventures, Redpoint, and Unusual Ventures.…", "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud", "date": "2026年1月22日"}, {"feedKey": "VentureBeat", "feedLabel": "VentureBeat AI", "feedColor": "#7b2fd4", "flag": "🇺🇸", "country": "米国", "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.", "summary": "The artificial intelligence coding revolution comes with a catch: it s expensive.Claude Code, Anthropic s terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the…", "body": "imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month depending on usage — has sparked a growing rebellion among the very programmers it aims to serve.Now, a free alternative is gaining traction.…", "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free", "date": "2026年1月19日"}, {"feedKey": "VentureBeat", "feedLabel": "VentureBeat AI", "feedColor": "#7b2fd4", "flag": "🇺🇸", "country": "米国", "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews", "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg s $100 million offers seemed impossible.…", "body": "So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like gibberish: five strings of random numbers.The numbers were actually AI tokens. Decoded, they led to a coding challenge: build an algorithm to act as a digital bouncer at Berghain, the Berlin nightclub famous for rejecting nearly everyone at the door.…", "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai", "date": "2026年1月16日"}, {"feedKey": "VentureBeat", "feedLabel": "VentureBeat AI", "feedColor": "#7b2fd4", "flag": "🇺🇸", "country": "米国", "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI", "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully…", "body": "powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf of employees.The new Slackbot, now generally available to Business+ and Enterprise+ customers, is Salesforce s most aggressive move yet to position Slack at the center of the emerging agentic AI movement — where software agents work alongside humans to complete complex tasks.…", "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and", "date": "2026年1月13日"}, {"feedKey": "VentureBeat", "feedLabel": "VentureBeat AI", "feedColor": "#7b2fd4", "flag": "🇺🇸", "country": "米国", "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required", "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team…", "body": "built the entire feature in approximately a week and a half, largely using Claude Code itself.The launch marks a major inflection point in the race to deliver practical AI agents to mainstream users, positioning Anthropic to compete not just with OpenAI and Google in conversational AI, but with Microsoft s Copilot in the burgeoning market for AI-powered productivity tools.…", "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no", "date": "2026年1月12日"}, {"feedKey": "VentureBeat", "feedLabel": "VentureBeat AI", "feedColor": "#7b2fd4", "flag": "🇺🇸", "country": "米国", "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment", "summary": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several…", "body": "larger proprietary systems — trained in just four days using 48 of Nvidia s latest B200 graphics processors.The model, called NousCoder-14B, is another entry in a crowded field of AI coding assistants, but arrives at a particularly charged moment: Claude Code, the agentic programming tool from rival Anthropic, has dominated social media discussion since New Year s Day, with developers posting…", "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in", "date": "2026年1月7日"}, {"feedKey": "VentureBeat", "feedLabel": "VentureBeat AI", "feedColor": "#7b2fd4", "flag": "🇺🇸", "country": "米国", "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds", "summary": "When the creator of the world s most advanced coding agent speaks, Silicon Valley doesn t just listen — it takes notes.For the past week, the engineering community has been dissecting a thread on X…", "body": "from Boris Cherny, the creator and head of Claude Code at Anthropic. What began as a casual sharing of his personal terminal setup has spiraled into a viral manifesto on the future of software development, with industry insiders calling it a watershed moment for the startup.…", "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are", "date": "2026年1月5日"}, {"feedKey": "TheVerge", "feedLabel": "The Verge AI", "feedColor": "#e5472d", "flag": "🇺🇸", "country": "米国", "title": "How Project Maven taught the military to love AI", "summary": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago.…", "body": "This acceleration was made possible by AI systems that speed up the targeting process. Chief among them is the Maven Smart [ ]", "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson", "date": "2026年4月24日"}, {"feedKey": "TheVerge", "feedLabel": "The Verge AI", "feedColor": "#e5472d", "flag": "🇺🇸", "country": "米国", "title": "AirPods, Touch Bars, and the rest of Tim Cook s legacy", "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor.…", "body": "The news this week was still a surprise, though - and this year's succession could lead to some important changes at the most [ ]", "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition", "date": "2026年4月24日"}, {"feedKey": "TheVerge", "feedLabel": "The Verge AI", "feedColor": "#e5472d", "flag": "🇺🇸", "country": "米国", "title": "Musk vs. Altman is here, and it s going to get messy", "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing.…", "body": "Now, Musk is back with a lawsuit, and a trial is scheduled to start in Oakland, California, on April 27th. Theoretically, it's a legal case about whether OpenAI defrauded Musk. [ ]", "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip", "date": "2026年4月24日"}, {"feedKey": "TheVerge", "feedLabel": "The Verge AI", "feedColor": "#e5472d", "flag": "🇺🇸", "country": "米国", "title": "China’s DeepSeek previews new AI model a year after jolting US rivals", "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US…", "body": "rivals including Anthropic, Google, and OpenAI. DeepSeek says V4 marks a major improvement over prior models, especially in coding, a capability that has become central [ ]", "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model", "date": "2026年4月24日"}, {"feedKey": "TheVerge", "feedLabel": "The Verge AI", "feedColor": "#e5472d", "flag": "🇺🇸", "country": "米国", "title": "Prestigious photo contest answers ‘what is a photo?’", "summary": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer.…", "body": "The prestigious award celebrates the best of photojournalism, where capturing reality is paramount. The winning entry for 2026 - \"Separated by ICE,\" captured by [ ]", "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo", "date": "2026年4月24日"}, {"feedKey": "TheVerge", "feedLabel": "The Verge AI", "feedColor": "#e5472d", "flag": "🇺🇸", "country": "米国", "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax", "summary": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping.…", "body": "Anthropic already supported connecting numerous work-related apps to Claude, like Microsoft apps, but this expansion focuses on personal apps like Audible, Spotify, Uber, AllTrails, TripAdvisor, Instacart, TurboTax, and others. Some of these apps, such [ ]", "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors", "date": "2026年4月23日"}, {"feedKey": "TheVerge", "feedLabel": "The Verge AI", "feedColor": "#e5472d", "flag": "🇺🇸", "country": "米国", "title": "Meta is laying off 10 percent of its staff", "summary": "Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg.…", "body": "That means approximately 8,000 people will see their jobs cut. Meta will also be closing around 6,000 open roles, according to Gale. The cuts follow Meta's significant investments [ ]", "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff", "date": "2026年4月23日"}]};
+const ARCHIVE_DATES = ["2026-04-26"];
+const NOW_Y = 2026, NOW_M = 4, NOW_D = 26;
+
+function switchTab(name, btn) {
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+  btn.classList.add('active');
+  document.getElementById('tab-' + name).classList.add('active');
+}
+
+function filterNews(key, btn) {
+  document.querySelectorAll('#tab-latest .filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('#latest-container .feed-section').forEach(s => {
+    s.style.display = s.dataset.feed === key ? 'block' : 'none';
+  });
+}
+document.querySelector('[data-feed="all"]').style.display = 'block';
+
+function toggleBody(id, btn) {
+  const body = document.getElementById(id);
+  const summary = document.getElementById('s_' + id);
+  const expanded = body.style.display === 'none';
+  body.style.display = expanded ? 'block' : 'none';
+  if (summary) summary.style.display = expanded ? 'none' : 'block';
+  btn.textContent = expanded ? '閉じる ▴' : '続きを読む ▾';
+}
+
+function daysInMonth(y, m) { return new Date(y, m, 0).getDate(); }
+
+function buildSelect(el, values, selected) {
+  el.innerHTML = '';
+  values.forEach(v => {
+    const opt = document.createElement('option');
+    opt.value = v;
+    opt.textContent = v;
+    if (v == selected) opt.selected = true;
+    el.appendChild(opt);
+  });
+}
+
+function updateDays(prefix) {
+  const y = parseInt(document.getElementById(prefix + '-y').value);
+  const m = parseInt(document.getElementById(prefix + '-m').value);
+  const max = daysInMonth(y, m);
+  const cur = parseInt(document.getElementById(prefix + '-d').value) || 1;
+  buildSelect(document.getElementById(prefix + '-d'), Array.from({length: max}, (_, i) => i + 1), Math.min(cur, max));
+}
+
+function initDatePickers() {
+  const years = [];
+  for (let y = 2023; y <= NOW_Y; y++) years.push(y);
+  const months = Array.from({length: 12}, (_, i) => i + 1);
+  buildSelect(document.getElementById('from-y'), years, NOW_Y);
+  buildSelect(document.getElementById('from-m'), months, NOW_M);
+  updateDays('from');
+  document.getElementById('from-d').value = NOW_D;
+  buildSelect(document.getElementById('to-y'), years, NOW_Y);
+  buildSelect(document.getElementById('to-m'), months, NOW_M);
+  updateDays('to');
+  document.getElementById('to-d').value = NOW_D;
+}
+
+function searchArchive() {
+  const fy = document.getElementById('from-y').value;
+  const fm = String(document.getElementById('from-m').value).padStart(2,'0');
+  const fd = String(document.getElementById('from-d').value).padStart(2,'0');
+  const ty = document.getElementById('to-y').value;
+  const tm = String(document.getElementById('to-m').value).padStart(2,'0');
+  const td = String(document.getElementById('to-d').value).padStart(2,'0');
+  const fromStr = `${fy}-${fm}-${fd}`;
+  const toStr   = `${ty}-${tm}-${td}`;
+
+  if (fromStr > toStr) { alert('開始日が終了日より後になっています。'); return; }
+
+  let results = [];
+  const urls = new Set();
+  for (const [date, articles] of Object.entries(ARCHIVE)) {
+    if (date >= fromStr && date <= toStr) {
+      articles.forEach(a => {
+        if (!urls.has(a.url)) { urls.add(a.url); results.push({...a, _d: date}); }
+      });
+    }
+  }
+  results.sort((a, b) => b._d.localeCompare(a._d));
+
+  const container = document.getElementById('archive-results');
+  if (results.length === 0) {
+    const oldest = ARCHIVE_DATES.length > 0 ? ARCHIVE_DATES[ARCHIVE_DATES.length - 1] : null;
+    container.innerHTML = `<div class="empty-msg">📭 この期間の記事はありません。${oldest ? '<br>データは ' + oldest + ' から蓄積されています' : ''}</div>`;
+    return;
+  }
+
+  const cards = results.map((a, i) => buildCard(a, i)).join('');
+  container.innerHTML = `
+    <div class="stats-bar">
+      <span class="stat">期間: <strong>${fromStr} 〜 ${toStr}</strong></span>
+      <span class="stat">記事数: <strong>${results.length}</strong></span>
+    </div>
+    <div class="news-grid">${cards}</div>`;
+}
+
+function buildCard(a, i) {
+  const delay = Math.min(i * 0.04, 0.4);
+  const uid = `arc_${i}_${Math.abs(hc(a.url||'')) % 10000}`;
+  let bodyHtml = '', readMoreBtn = '';
+  if (a.body) {
+    const trimmed = a.summary.replace(/…+$/, '').trim();
+    const full = esc(trimmed + ' ' + a.body);
+    bodyHtml = `<p class="card-body" id="${uid}" style="display:none">${full}</p>`;
+    readMoreBtn = `<button class="read-more" onclick="toggleBody('${uid}',this)">続きを読む ▾</button>`;
+  }
+  return `<article class="news-card" style="animation-delay:${delay}s">
+    <div class="card-meta">
+      <span class="country-flag">${a.flag||'🌐'}</span>
+      <span class="country-label">${esc(a.country||'')}</span>
+      <span class="feed-label" style="color:${a.feedColor||'#666'}">${esc(a.feedLabel||'')}</span>
+      ${a.date ? `<span class="pub-date">📅 ${esc(a.date)}</span>` : ''}
+    </div>
+    <h2 class="card-title">${esc(a.title||'')}</h2>
+    <p class="card-summary" id="s_${uid}">${esc(a.summary||'')}</p>
+    ${bodyHtml}
+    <div class="card-footer">
+      ${readMoreBtn}
+      <a class="source-link" href="${esc(a.url||'#')}" target="_blank" rel="noopener">↗ 原文を読む</a>
+    </div>
+  </article>`;
+}
+
+function esc(s) { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function hc(s) { let h=0; for(let i=0;i<s.length;i++) h=Math.imul(31,h)+s.charCodeAt(i)|0; return h; }
+
+initDatePickers();
+</script>
+</body>
+</html>
