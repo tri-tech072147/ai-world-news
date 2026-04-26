@@ -139,6 +139,13 @@ def generate_html(articles):
   }}
   .filter-btn.active {{ background: var(--text); color: var(--bg); border-color: var(--text); }}
   .filter-btn:hover:not(.active) {{ background: var(--bg-secondary); color: var(--text); }}
+  .refresh-btn {{
+    margin-left: auto; font-size: 12px; padding: 6px 14px; border-radius: 20px;
+    border: 0.5px solid var(--border-mid); background: var(--bg);
+    color: var(--text-secondary); cursor: pointer; display: flex;
+    align-items: center; gap: 6px; font-family: inherit; text-decoration: none;
+  }}
+  .refresh-btn:hover {{ color: var(--text); background: var(--bg-secondary); }}
   .stats-bar {{
     display: flex; gap: 18px; margin-bottom: 16px; flex-wrap: wrap;
     padding: 10px 14px; background: var(--bg-secondary);
@@ -167,9 +174,10 @@ def generate_html(articles):
   .card-summary {{
     font-size: 13px; color: var(--text-secondary); line-height: 1.65;
     margin-bottom: 12px; border-left: 2px solid var(--border-mid); padding-left: 12px; font-style: italic;
+    word-break: break-word; overflow-wrap: break-word;
   }}
-  .card-body {{ font-size: 13px; color: var(--text-secondary); line-height: 1.65; margin-bottom: 12px; padding-top: 8px; border-top: 0.5px solid var(--border); }}
-  .card-footer {{ display: flex; align-items: center; margin-top: 4px; gap: 10px; }}
+  .card-body {{ font-size: 13px; color: var(--text-secondary); line-height: 1.65; margin-top: 8px; margin-bottom: 12px; word-break: break-word; overflow-wrap: break-word; }}
+  .card-footer {{ display: flex; align-items: center; margin-top: 8px; gap: 10px; flex-wrap: wrap; }}
   .read-more {{ font-size: 12px; color: var(--text-secondary); background: none; border: none; cursor: pointer; padding: 0; font-family: inherit; text-decoration: underline; text-underline-offset: 2px; }}
   .source-link {{ font-size: 12px; color: var(--accent); text-decoration: none; margin-left: auto; display: flex; align-items: center; gap: 4px; }}
   .source-link:hover {{ text-decoration: underline; }}
@@ -200,6 +208,7 @@ def generate_html(articles):
     <button class="filter-btn" onclick="filterNews('MIT', this)">MIT Tech Review</button>
     <button class="filter-btn" onclick="filterNews('VentureBeat', this)">VentureBeat</button>
     <button class="filter-btn" onclick="filterNews('TheVerge', this)">The Verge</button>
+    <button class="refresh-btn" onclick="location.reload()">↻ 更新</button>
   </div>
 
   <div class="stats-bar">
