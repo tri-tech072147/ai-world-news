@@ -7,11 +7,36 @@ import os
 import glob
 
 FEEDS = [
-    {"key": "TechCrunch",  "label": "TechCrunch AI",  "flag": "🇺🇸", "country": "米国", "color": "#0a8a5c", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
-    {"key": "MIT",         "label": "MIT Tech Review", "flag": "🇺🇸", "country": "米国", "color": "#a00c0c", "url": "https://www.technologyreview.com/feed/"},
-    {"key": "VentureBeat", "label": "VentureBeat AI",  "flag": "🇺🇸", "country": "米国", "color": "#7b2fd4", "url": "https://venturebeat.com/category/ai/feed/"},
-    {"key": "TheVerge",    "label": "The Verge AI",    "flag": "🇺🇸", "country": "米国", "color": "#e5472d", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
+    # 🇺🇸 米国
+    {"key": "TechCrunch",   "label": "TechCrunch AI",   "flag": "🇺🇸", "country": "米国",   "countryKey": "us", "color": "#0a8a5c", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
+    {"key": "TheVerge",     "label": "The Verge AI",    "flag": "🇺🇸", "country": "米国",   "countryKey": "us", "color": "#e5472d", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
+    {"key": "VentureBeat",  "label": "VentureBeat AI",  "flag": "🇺🇸", "country": "米国",   "countryKey": "us", "color": "#7b2fd4", "url": "https://venturebeat.com/category/ai/feed/"},
+    {"key": "MIT",          "label": "MIT Tech Review",  "flag": "🇺🇸", "country": "米国",   "countryKey": "us", "color": "#a00c0c", "url": "https://www.technologyreview.com/feed/"},
+    # 🇨🇳 中国
+    {"key": "SCMP",         "label": "South China Morning Post", "flag": "🇨🇳", "country": "中国", "countryKey": "cn", "color": "#c0392b", "url": "https://www.scmp.com/rss/91/feed"},
+    # 🇬🇧 英国
+    {"key": "BBCTech",      "label": "BBC Technology",  "flag": "🇬🇧", "country": "英国",   "countryKey": "gb", "color": "#1a5276", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"},
+    {"key": "Guardian",     "label": "The Guardian Tech","flag": "🇬🇧", "country": "英国",   "countryKey": "gb", "color": "#2e7d32", "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss"},
+    # 🇩🇪 ドイツ
+    {"key": "DW",           "label": "DW Technology",   "flag": "🇩🇪", "country": "ドイツ", "countryKey": "de", "color": "#b7950b", "url": "https://rss.dw.com/rdf/rss-en-sci"},
+    # 🇯🇵 日本
+    {"key": "JapanTimes",   "label": "Japan Times Tech", "flag": "🇯🇵", "country": "日本",   "countryKey": "jp", "color": "#6c3483", "url": "https://www.japantimes.co.jp/feed/technology/"},
+    # 🇮🇳 インド
+    {"key": "TimesOfIndia", "label": "Times of India Tech","flag": "🇮🇳", "country": "インド","countryKey": "in", "color": "#d35400", "url": "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms"},
 ]
+
+COUNTRY_FILTERS = [
+    {"key": "all", "label": "すべて"},
+    {"key": "us",  "label": "🇺🇸 米国"},
+    {"key": "cn",  "label": "🇨🇳 中国"},
+    {"key": "gb",  "label": "🇬🇧 英国"},
+    {"key": "de",  "label": "🇩🇪 ドイツ"},
+    {"key": "jp",  "label": "🇯🇵 日本"},
+    {"key": "in",  "label": "🇮🇳 インド"},
+    {"key": "other","label": "🌐 その他"},
+]
+
+MAIN_COUNTRY_KEYS = {"us", "cn", "gb", "de", "jp", "in"}
 
 def strip_tags(text):
     text = re.sub(r'<[^>]+>', '', text or '')
@@ -46,7 +71,7 @@ def fetch_articles():
     for feed_info in FEEDS:
         try:
             feed = feedparser.parse(feed_info["url"])
-            for entry in feed.entries[:8]:
+            for entry in feed.entries[:6]:
                 summary_raw = (
                     entry.get("summary") or
                     entry.get("description") or
@@ -59,16 +84,17 @@ def fetch_articles():
                 body_text, _ = split_at_sentence(rest, 400) if rest else ("", "")
                 body = (body_text + ("…" if len(rest) > 400 else "")) if rest else ""
                 articles.append({
-                    "feedKey":   feed_info["key"],
-                    "feedLabel": feed_info["label"],
-                    "feedColor": feed_info["color"],
-                    "flag":      feed_info["flag"],
-                    "country":   feed_info["country"],
-                    "title":     strip_tags(entry.get("title", "")),
-                    "summary":   summary,
-                    "body":      body,
-                    "url":       entry.get("link", "#"),
-                    "date":      format_date(entry),
+                    "feedKey":    feed_info["key"],
+                    "feedLabel":  feed_info["label"],
+                    "feedColor":  feed_info["color"],
+                    "flag":       feed_info["flag"],
+                    "country":    feed_info["country"],
+                    "countryKey": feed_info["countryKey"],
+                    "title":      strip_tags(entry.get("title", "")),
+                    "summary":    summary,
+                    "body":       body,
+                    "url":        entry.get("link", "#"),
+                    "date":       format_date(entry),
                 })
         except Exception as e:
             print(f"Error fetching {feed_info['key']}: {e}")
@@ -103,8 +129,8 @@ def render_card(a, i, prefix=""):
         full_inline = html.escape(summary_trimmed + " " + a["body"])
         body_html = f'<p class="card-body" id="{uid}" style="display:none">{full_inline}</p>'
         read_more_btn = f'<button class="read-more" onclick="toggleBody(\'{uid}\',this)">続きを読む ▾</button>'
-    return f"""
-    <article class="news-card" style="animation-delay:{delay}s">
+    country_key = a.get("countryKey", "other")
+    return f"""<article class="news-card" data-country="{country_key}" style="animation-delay:{delay}s">
       <div class="card-meta">
         <span class="country-flag">{a['flag']}</span>
         <span class="country-label">{a['country']}</span>
@@ -124,30 +150,27 @@ def generate_html(articles):
     now = datetime.datetime.utcnow() + datetime.timedelta(hours=9)
     updated = now.strftime("%Y/%m/%d %H:%M")
     count = len(articles)
-    sources = len(set(a["feedKey"] for a in articles))
+    now_y, now_m, now_d = now.year, now.month, now.day
 
     cards_all = "\n".join(render_card(a, i) for i, a in enumerate(articles))
-    feed_sections = ""
-    for feed in FEEDS:
-        filtered = [a for a in articles if a["feedKey"] == feed["key"]]
-        cards = "\n".join(render_card(a, i, prefix=feed["key"]) for i, a in enumerate(filtered))
-        feed_sections += f'<div class="feed-section" data-feed="{feed["key"]}" style="display:none"><div class="news-grid">{cards}</div></div>\n'
 
     archive_dates = load_archive_index()
-    archive_dates_js = json.dumps(archive_dates)
-
     all_archive_data = {}
     for date_str in archive_dates:
         path = f"data/{date_str}.json"
         if os.path.exists(path):
             with open(path, "r", encoding="utf-8") as f:
                 all_archive_data[date_str] = json.load(f)
-    archive_data_js = json.dumps(all_archive_data, ensure_ascii=False)
 
-    now_y = now.year
-    now_m = now.month
-    now_d = now.day
-    archive_count = len(archive_dates)
+    archive_dates_js  = json.dumps(archive_dates)
+    archive_data_js   = json.dumps(all_archive_data, ensure_ascii=False)
+    archive_count     = len(archive_dates)
+
+    # 国フィルターボタンHTML
+    country_btns = ""
+    for cf in COUNTRY_FILTERS:
+        active = 'active' if cf["key"] == "all" else ""
+        country_btns += f'<button class="filter-btn {active}" onclick="filterCountry(\'{cf["key"]}\', this)">{cf["label"]}</button>\n'
 
     return f"""<!DOCTYPE html>
 <html lang="ja">
@@ -173,7 +196,7 @@ def generate_html(articles):
   }}
   html {{ scroll-behavior: smooth; }}
   body {{
-    font-family: -apple-system, 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', sans-serif;
+    font-family: -apple-system,'Hiragino Sans','Hiragino Kaku Gothic ProN','Noto Sans JP',sans-serif;
     background: var(--bg-tertiary); color: var(--text); font-size: 15px; line-height: 1.6; min-height: 100vh;
   }}
   .page-wrap {{ max-width: 740px; margin: 0 auto; padding: 0 16px 80px; }}
@@ -184,13 +207,12 @@ def generate_html(articles):
   .header-meta {{ display: flex; align-items: center; gap: 10px; margin-top: 10px; flex-wrap: wrap; }}
   .badge-live {{ font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; background: #e8f5e9; color: #2e7d32; }}
   .updated {{ font-size: 12px; color: var(--text-tertiary); }}
-  .tabs {{ display: flex; gap: 0; margin-bottom: 20px; border-bottom: 1.5px solid var(--border-mid); }}
+  .tabs {{ display: flex; margin-bottom: 20px; border-bottom: 1.5px solid var(--border-mid); }}
   .tab-btn {{
     font-size: 13px; font-weight: 600; padding: 10px 20px;
     border: none; background: none; color: var(--text-tertiary);
     cursor: pointer; font-family: inherit;
-    border-bottom: 2.5px solid transparent; margin-bottom: -1.5px;
-    transition: all 0.15s;
+    border-bottom: 2.5px solid transparent; margin-bottom: -1.5px; transition: all 0.15s;
   }}
   .tab-btn.active {{ color: var(--text); border-bottom-color: var(--text); }}
   .tab-btn:hover:not(.active) {{ color: var(--text-secondary); }}
@@ -211,6 +233,13 @@ def generate_html(articles):
     align-items: center; gap: 6px; font-family: inherit;
   }}
   .refresh-btn:hover {{ color: var(--text); background: var(--bg-secondary); }}
+  .stats-bar {{
+    display: flex; gap: 18px; margin-bottom: 16px; flex-wrap: wrap;
+    padding: 10px 14px; background: var(--bg-secondary);
+    border-radius: var(--radius-md); border: 0.5px solid var(--border);
+  }}
+  .stat {{ font-size: 12px; color: var(--text-secondary); }}
+  .stat strong {{ color: var(--text); font-weight: 600; }}
   .date-search {{
     background: var(--bg); border: 0.5px solid var(--border);
     border-radius: var(--radius-lg); padding: 18px; margin-bottom: 16px;
@@ -231,13 +260,6 @@ def generate_html(articles):
   }}
   .search-btn:hover {{ opacity: 0.85; }}
   .archive-note {{ font-size: 11px; color: var(--text-tertiary); margin-top: 10px; }}
-  .stats-bar {{
-    display: flex; gap: 18px; margin-bottom: 16px; flex-wrap: wrap;
-    padding: 10px 14px; background: var(--bg-secondary);
-    border-radius: var(--radius-md); border: 0.5px solid var(--border);
-  }}
-  .stat {{ font-size: 12px; color: var(--text-secondary); }}
-  .stat strong {{ color: var(--text); font-weight: 600; }}
   .news-grid {{ display: flex; flex-direction: column; gap: 10px; }}
   .news-card {{
     background: var(--bg); border: 0.5px solid var(--border);
@@ -289,30 +311,27 @@ def generate_html(articles):
   </header>
 
   <div class="tabs">
-    <button class="tab-btn active" onclick="switchTab('latest', this)">最新記事</button>
-    <button class="tab-btn" onclick="switchTab('archive', this)">期間指定</button>
+    <button class="tab-btn active" onclick="switchTab('latest',this)">最新記事</button>
+    <button class="tab-btn" onclick="switchTab('archive',this)">期間指定</button>
   </div>
 
+  <!-- 最新記事タブ -->
   <div class="tab-panel active" id="tab-latest">
     <div class="controls">
-      <button class="filter-btn active" onclick="filterNews('all', this)">すべて</button>
-      <button class="filter-btn" onclick="filterNews('TechCrunch', this)">TechCrunch</button>
-      <button class="filter-btn" onclick="filterNews('MIT', this)">MIT Tech Review</button>
-      <button class="filter-btn" onclick="filterNews('VentureBeat', this)">VentureBeat</button>
-      <button class="filter-btn" onclick="filterNews('TheVerge', this)">The Verge</button>
+      {country_btns}
       <button class="refresh-btn" onclick="location.reload()">↻ 更新</button>
     </div>
     <div class="stats-bar">
-      <span class="stat">記事数: <strong>{count}</strong></span>
-      <span class="stat">ソース: <strong>{sources}</strong></span>
+      <span class="stat">記事数: <strong id="latest-count">{count}</strong></span>
       <span class="stat">次回更新: <strong>約1時間後</strong></span>
     </div>
-    <div id="latest-container">
-      <div class="feed-section" data-feed="all"><div class="news-grid">{cards_all}</div></div>
-      {feed_sections}
+    <div id="latest-grid" class="news-grid">
+      {cards_all}
     </div>
+    <div id="latest-empty" class="empty-msg" style="display:none">📭 この国の記事はありません</div>
   </div>
 
+  <!-- 期間指定タブ -->
   <div class="tab-panel" id="tab-archive">
     <div class="date-search">
       <h3>📅 期間を指定して記事を検索</h3>
@@ -350,7 +369,9 @@ def generate_html(articles):
 const ARCHIVE = {archive_data_js};
 const ARCHIVE_DATES = {archive_dates_js};
 const NOW_Y = {now_y}, NOW_M = {now_m}, NOW_D = {now_d};
+const MAIN_KEYS = new Set(['us','cn','gb','de','jp','in']);
 
+// タブ切替
 function switchTab(name, btn) {{
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
   document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
@@ -358,15 +379,26 @@ function switchTab(name, btn) {{
   document.getElementById('tab-' + name).classList.add('active');
 }}
 
-function filterNews(key, btn) {{
+// 国フィルター
+function filterCountry(key, btn) {{
   document.querySelectorAll('#tab-latest .filter-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
-  document.querySelectorAll('#latest-container .feed-section').forEach(s => {{
-    s.style.display = s.dataset.feed === key ? 'block' : 'none';
+  const cards = document.querySelectorAll('#latest-grid .news-card');
+  let visible = 0;
+  cards.forEach(card => {{
+    const ck = card.dataset.country || 'other';
+    let show = false;
+    if (key === 'all') show = true;
+    else if (key === 'other') show = !MAIN_KEYS.has(ck);
+    else show = ck === key;
+    card.style.display = show ? '' : 'none';
+    if (show) visible++;
   }});
+  document.getElementById('latest-count').textContent = visible;
+  document.getElementById('latest-empty').style.display = visible === 0 ? 'block' : 'none';
 }}
-document.querySelector('[data-feed="all"]').style.display = 'block';
 
+// 続きを読む
 function toggleBody(id, btn) {{
   const body = document.getElementById(id);
   const summary = document.getElementById('s_' + id);
@@ -376,109 +408,81 @@ function toggleBody(id, btn) {{
   btn.textContent = expanded ? '閉じる ▴' : '続きを読む ▾';
 }}
 
+// 日付ピッカー
 function daysInMonth(y, m) {{ return new Date(y, m, 0).getDate(); }}
-
 function buildSelect(el, values, selected) {{
   el.innerHTML = '';
   values.forEach(v => {{
     const opt = document.createElement('option');
-    opt.value = v;
-    opt.textContent = v;
+    opt.value = v; opt.textContent = v;
     if (v == selected) opt.selected = true;
     el.appendChild(opt);
   }});
 }}
-
 function updateDays(prefix) {{
-  const y = parseInt(document.getElementById(prefix + '-y').value);
-  const m = parseInt(document.getElementById(prefix + '-m').value);
-  const max = daysInMonth(y, m);
-  const cur = parseInt(document.getElementById(prefix + '-d').value) || 1;
-  buildSelect(document.getElementById(prefix + '-d'), Array.from({{length: max}}, (_, i) => i + 1), Math.min(cur, max));
+  const y = parseInt(document.getElementById(prefix+'-y').value);
+  const m = parseInt(document.getElementById(prefix+'-m').value);
+  const cur = parseInt(document.getElementById(prefix+'-d').value) || 1;
+  buildSelect(document.getElementById(prefix+'-d'), Array.from({{length:daysInMonth(y,m)}},(_,i)=>i+1), Math.min(cur,daysInMonth(y,m)));
 }}
-
 function initDatePickers() {{
-  const years = [];
-  for (let y = 2023; y <= NOW_Y; y++) years.push(y);
-  const months = Array.from({{length: 12}}, (_, i) => i + 1);
-  buildSelect(document.getElementById('from-y'), years, NOW_Y);
-  buildSelect(document.getElementById('from-m'), months, NOW_M);
-  updateDays('from');
-  document.getElementById('from-d').value = NOW_D;
-  buildSelect(document.getElementById('to-y'), years, NOW_Y);
-  buildSelect(document.getElementById('to-m'), months, NOW_M);
-  updateDays('to');
-  document.getElementById('to-d').value = NOW_D;
+  const years = Array.from({{length: NOW_Y-2022}}, (_,i)=>2023+i);
+  const months = Array.from({{length:12}},(_,i)=>i+1);
+  ['from','to'].forEach(p => {{
+    buildSelect(document.getElementById(p+'-y'), years, NOW_Y);
+    buildSelect(document.getElementById(p+'-m'), months, NOW_M);
+    updateDays(p);
+    document.getElementById(p+'-d').value = NOW_D;
+  }});
 }}
 
+// アーカイブ検索
 function searchArchive() {{
-  const fy = document.getElementById('from-y').value;
-  const fm = String(document.getElementById('from-m').value).padStart(2,'0');
-  const fd = String(document.getElementById('from-d').value).padStart(2,'0');
-  const ty = document.getElementById('to-y').value;
-  const tm = String(document.getElementById('to-m').value).padStart(2,'0');
-  const td = String(document.getElementById('to-d').value).padStart(2,'0');
-  const fromStr = `${{fy}}-${{fm}}-${{fd}}`;
-  const toStr   = `${{ty}}-${{tm}}-${{td}}`;
-
+  const fy=document.getElementById('from-y').value, fm=String(document.getElementById('from-m').value).padStart(2,'0'), fd=String(document.getElementById('from-d').value).padStart(2,'0');
+  const ty=document.getElementById('to-y').value,   tm=String(document.getElementById('to-m').value).padStart(2,'0'), td=String(document.getElementById('to-d').value).padStart(2,'0');
+  const fromStr=`${{fy}}-${{fm}}-${{fd}}`, toStr=`${{ty}}-${{tm}}-${{td}}`;
   if (fromStr > toStr) {{ alert('開始日が終了日より後になっています。'); return; }}
-
-  let results = [];
-  const urls = new Set();
+  let results=[]; const urls=new Set();
   for (const [date, articles] of Object.entries(ARCHIVE)) {{
     if (date >= fromStr && date <= toStr) {{
-      articles.forEach(a => {{
-        if (!urls.has(a.url)) {{ urls.add(a.url); results.push({{...a, _d: date}}); }}
-      }});
+      articles.forEach(a => {{ if (!urls.has(a.url)) {{ urls.add(a.url); results.push({{...a,_d:date}}); }} }});
     }}
   }}
-  results.sort((a, b) => b._d.localeCompare(a._d));
-
-  const container = document.getElementById('archive-results');
-  if (results.length === 0) {{
-    const oldest = ARCHIVE_DATES.length > 0 ? ARCHIVE_DATES[ARCHIVE_DATES.length - 1] : null;
-    container.innerHTML = `<div class="empty-msg">📭 この期間の記事はありません。${{oldest ? '<br>データは ' + oldest + ' から蓄積されています' : ''}}</div>`;
+  results.sort((a,b)=>b._d.localeCompare(a._d));
+  const container=document.getElementById('archive-results');
+  if (results.length===0) {{
+    const oldest=ARCHIVE_DATES.length>0?ARCHIVE_DATES[ARCHIVE_DATES.length-1]:null;
+    container.innerHTML=`<div class="empty-msg">📭 この期間の記事はありません。${{oldest?'<br>データは '+oldest+' から蓄積されています':''}}</div>`;
     return;
   }}
-
-  const cards = results.map((a, i) => buildCard(a, i)).join('');
-  container.innerHTML = `
-    <div class="stats-bar">
-      <span class="stat">期間: <strong>${{fromStr}} 〜 ${{toStr}}</strong></span>
-      <span class="stat">記事数: <strong>${{results.length}}</strong></span>
-    </div>
-    <div class="news-grid">${{cards}}</div>`;
+  container.innerHTML=`<div class="stats-bar"><span class="stat">期間: <strong>${{fromStr}} 〜 ${{toStr}}</strong></span><span class="stat">記事数: <strong>${{results.length}}</strong></span></div><div class="news-grid">${{results.map((a,i)=>buildCard(a,i)).join('')}}</div>`;
 }}
 
-function buildCard(a, i) {{
-  const delay = Math.min(i * 0.04, 0.4);
-  const uid = `arc_${{i}}_${{Math.abs(hc(a.url||'')) % 10000}}`;
-  let bodyHtml = '', readMoreBtn = '';
+function buildCard(a,i) {{
+  const delay=Math.min(i*0.04,0.4);
+  const uid=`arc_${{i}}_${{Math.abs(hc(a.url||''))%10000}}`;
+  let bodyHtml='',readMoreBtn='';
   if (a.body) {{
-    const trimmed = a.summary.replace(/…+$/, '').trim();
-    const full = esc(trimmed + ' ' + a.body);
-    bodyHtml = `<p class="card-body" id="${{uid}}" style="display:none">${{full}}</p>`;
-    readMoreBtn = `<button class="read-more" onclick="toggleBody('${{uid}}',this)">続きを読む ▾</button>`;
+    const trimmed=a.summary.replace(/…+$/,'').trim();
+    bodyHtml=`<p class="card-body" id="${{uid}}" style="display:none">${{esc(trimmed+' '+a.body)}}</p>`;
+    readMoreBtn=`<button class="read-more" onclick="toggleBody('${{uid}}',this)">続きを読む ▾</button>`;
   }}
   return `<article class="news-card" style="animation-delay:${{delay}}s">
     <div class="card-meta">
       <span class="country-flag">${{a.flag||'🌐'}}</span>
       <span class="country-label">${{esc(a.country||'')}}</span>
       <span class="feed-label" style="color:${{a.feedColor||'#666'}}">${{esc(a.feedLabel||'')}}</span>
-      ${{a.date ? `<span class="pub-date">📅 ${{esc(a.date)}}</span>` : ''}}
+      ${{a.date?`<span class="pub-date">📅 ${{esc(a.date)}}</span>`:''}}
     </div>
     <h2 class="card-title">${{esc(a.title||'')}}</h2>
     <p class="card-summary" id="s_${{uid}}">${{esc(a.summary||'')}}</p>
     ${{bodyHtml}}
-    <div class="card-footer">
-      ${{readMoreBtn}}
-      <a class="source-link" href="${{esc(a.url||'#')}}" target="_blank" rel="noopener">↗ 原文を読む</a>
-    </div>
+    <div class="card-footer">${{readMoreBtn}}<a class="source-link" href="${{esc(a.url||'#')}}" target="_blank" rel="noopener">↗ 原文を読む</a></div>
   </article>`;
 }}
 
-function esc(s) {{ return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }}
-function hc(s) {{ let h=0; for(let i=0;i<s.length;i++) h=Math.imul(31,h)+s.charCodeAt(i)|0; return h; }}
+function esc(s){{return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}}
+function hc(s){{let h=0;for(let i=0;i<s.length;i++)h=Math.imul(31,h)+s.charCodeAt(i)|0;return h;}}
 
 initDatePickers();
 </script>
