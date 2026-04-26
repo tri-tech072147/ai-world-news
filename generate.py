@@ -38,8 +38,26 @@ def fetch_articles():
                     (entry.get("content") or [{}])[0].get("value", "")
                 )
                 full_text = strip_tags(summary_raw).strip()
-                summary = full_text[:200] + ("…" if len(full_text) > 200 else "")
-                body = full_text[200:600] + ("…" if len(full_text) > 600 else "") if len(full_text) > 200 else ""
+                # 文章の区切り（". "）で自然に分割する
+                def split_at_sentence(text, limit):
+                    if len(text) <= limit:
+                        return text, ""
+                    # limit文字以内の最後の". "を探す
+                    cut = text.rfind(". ", 0, limit)
+                    if cut == -1 or cut < limit // 2:
+                        # 文区切りが見つからない場合はスペースで区切る
+                        cut = text.rfind(" ", 0, limit)
+                    if cut == -1:
+                        cut = limit
+                    else:
+                        cut += 1  # ". " の "." を含める
+                    return text[:cut].strip(), text[cut:].strip()
+
+                summary, rest = split_at_sentence(full_text, 200)
+                if rest:
+                    summary += "…"
+                body_text, _ = split_at_sentence(rest, 400) if rest else ("", "")
+                body = (body_text + ("…" if len(rest) > 400 else "")) if rest else ""
                 articles.append({
                     "feedKey":   feed_info["key"],
                     "feedLabel": feed_info["label"],
@@ -54,7 +72,7 @@ def fetch_articles():
                 })
         except Exception as e:
             print(f"Error fetching {feed_info['key']}: {e}")
-    return articles
+    return articles[:30]
 
 def render_card(a, i):
     delay = min(i * 0.05, 0.4)
