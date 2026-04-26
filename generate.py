@@ -8,21 +8,42 @@ import glob
 
 FEEDS = [
     # 🇺🇸 米国 — AI専用フィード
-    {"key": "TechCrunch",   "label": "TechCrunch AI",   "flag": "🇺🇸", "country": "米国",   "countryKey": "us", "color": "#0a8a5c", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
-    {"key": "TheVerge",     "label": "The Verge AI",    "flag": "🇺🇸", "country": "米国",   "countryKey": "us", "color": "#e5472d", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
-    {"key": "VentureBeat",  "label": "VentureBeat AI",  "flag": "🇺🇸", "country": "米国",   "countryKey": "us", "color": "#7b2fd4", "url": "https://venturebeat.com/category/ai/feed/"},
-    {"key": "MIT",          "label": "MIT Tech Review",  "flag": "🇺🇸", "country": "米国",   "countryKey": "us", "color": "#a00c0c", "url": "https://www.technologyreview.com/feed/"},
-    # 🇨🇳 中国 — AI・テクノロジー専門
-    {"key": "SCMP_Tech",    "label": "SCMP Tech & AI",  "flag": "🇨🇳", "country": "中国",   "countryKey": "cn", "color": "#c0392b", "url": "https://www.scmp.com/rss/36/feed"},
-    # 🇬🇧 英国 — AI専用フィード
-    {"key": "Guardian",     "label": "The Guardian AI", "flag": "🇬🇧", "country": "英国",   "countryKey": "gb", "color": "#2e7d32", "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss"},
-    {"key": "BBCTech",      "label": "BBC Technology",  "flag": "🇬🇧", "country": "英国",   "countryKey": "gb", "color": "#1a5276", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"},
-    # 🇩🇪 ドイツ — テクノロジー専門英語メディア
-    {"key": "Heise",        "label": "Heise Online",    "flag": "🇩🇪", "country": "ドイツ", "countryKey": "de", "color": "#b7950b", "url": "https://www.heise.de/rss/heise-atom.xml"},
-    # 🇯🇵 日本 — テクノロジー専門
-    {"key": "NikkeiAsia",   "label": "Nikkei Asia Tech","flag": "🇯🇵", "country": "日本",   "countryKey": "jp", "color": "#6c3483", "url": "https://asia.nikkei.com/rss/feed/technology"},
-    # 🇮🇳 インド — AI・テクノロジー専門
-    {"key": "Hindu_Tech",   "label": "The Hindu SciTech","flag": "🇮🇳", "country": "インド", "countryKey": "in", "color": "#d35400", "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"},
+    {"key": "TechCrunch",   "label": "TechCrunch AI",    "flag": "🇺🇸", "country": "米国",       "countryKey": "us",    "color": "#0a8a5c", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
+    {"key": "TheVerge",     "label": "The Verge AI",     "flag": "🇺🇸", "country": "米国",       "countryKey": "us",    "color": "#e5472d", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
+    {"key": "VentureBeat",  "label": "VentureBeat AI",   "flag": "🇺🇸", "country": "米国",       "countryKey": "us",    "color": "#7b2fd4", "url": "https://venturebeat.com/category/ai/feed/"},
+    {"key": "MIT",          "label": "MIT Tech Review",  "flag": "🇺🇸", "country": "米国",       "countryKey": "us",    "color": "#a00c0c", "url": "https://www.technologyreview.com/feed/"},
+    # 🇨🇳 中国
+    {"key": "SCMP_Tech",    "label": "SCMP Tech & AI",   "flag": "🇨🇳", "country": "中国",       "countryKey": "cn",    "color": "#c0392b", "url": "https://www.scmp.com/rss/36/feed"},
+    # 🇬🇧 英国
+    {"key": "Guardian",     "label": "The Guardian AI",  "flag": "🇬🇧", "country": "英国",       "countryKey": "gb",    "color": "#2e7d32", "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss"},
+    {"key": "BBCTech",      "label": "BBC Technology",   "flag": "🇬🇧", "country": "英国",       "countryKey": "gb",    "color": "#1a5276", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"},
+    # 🇩🇪 ドイツ
+    {"key": "Heise",        "label": "Heise Online",     "flag": "🇩🇪", "country": "ドイツ",     "countryKey": "de",    "color": "#b7950b", "url": "https://www.heise.de/rss/heise-atom.xml"},
+    # 🇯🇵 日本 — Japan Today（RSS公開・テック記事あり）
+    {"key": "JapanToday",   "label": "Japan Today Tech", "flag": "🇯🇵", "country": "日本",       "countryKey": "jp",    "color": "#6c3483", "url": "https://japantoday.com/feed"},
+    # 🇮🇳 インド
+    {"key": "Hindu_Tech",   "label": "The Hindu SciTech","flag": "🇮🇳", "country": "インド",     "countryKey": "in",    "color": "#d35400", "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"},
+    # ── 「その他」10か国 ──────────────────────────────────────
+    # 🇰🇷 韓国
+    {"key": "KoreaTimes",   "label": "Korea Times Tech", "flag": "🇰🇷", "country": "韓国",       "countryKey": "other", "color": "#2471a3", "url": "https://www.koreatimes.co.kr/www/rss/rss.xml"},
+    # 🇸🇬 シンガポール
+    {"key": "e27",          "label": "e27 Asia Tech",    "flag": "🇸🇬", "country": "シンガポール","countryKey": "other", "color": "#148f77", "url": "https://e27.co/index_wp.php/feed"},
+    # 🇦🇺 オーストラリア
+    {"key": "AINews",       "label": "AI News",          "flag": "🌐",  "country": "国際",       "countryKey": "other", "color": "#884ea0", "url": "https://www.artificialintelligence-news.com/feed/"},
+    # 🇫🇷 フランス
+    {"key": "Wired",        "label": "Wired AI",         "flag": "🇺🇸", "country": "国際",       "countryKey": "other", "color": "#c0392b", "url": "https://www.wired.com/feed/tag/artificial-intelligence/latest/rss"},
+    # 🇮🇱 イスラエル
+    {"key": "TechTarget",   "label": "TechTarget AI",    "flag": "🌐",  "country": "国際",       "countryKey": "other", "color": "#d35400", "url": "https://www.techtarget.com/whatis/rss/AI-News-and-Analysis-RSS.xml"},
+    # 🇨🇦 カナダ
+    {"key": "TorontoStar",  "label": "Toronto Star Tech","flag": "🇨🇦", "country": "カナダ",     "countryKey": "other", "color": "#1a5276", "url": "https://www.thestar.com/search/?f=rss&t=article&q=artificial+intelligence"},
+    # 🇧🇷 ブラジル
+    {"key": "TechCabal",    "label": "TechCabal Africa", "flag": "🌍",  "country": "アフリカ",   "countryKey": "other", "color": "#b7950b", "url": "https://techcabal.com/feed/"},
+    # 🇦🇪 UAE
+    {"key": "GulfNews",     "label": "Gulf News Tech",   "flag": "🇦🇪", "country": "UAE",        "countryKey": "other", "color": "#117a65", "url": "https://gulfnews.com/rss/technology"},
+    # 🇹🇼 台湾
+    {"key": "FocusTaiwan",  "label": "Focus Taiwan Tech","flag": "🇹🇼", "country": "台湾",       "countryKey": "other", "color": "#922b21", "url": "https://focustaiwan.tw/rss/technology"},
+    # 🇮🇩 インドネシア
+    {"key": "TechInAsia",   "label": "Tech in Asia",     "flag": "🇮🇩", "country": "東南アジア", "countryKey": "other", "color": "#1e8449", "url": "https://www.techinasia.com/feed"},
 ]
 
 COUNTRY_FILTERS = [
@@ -109,15 +130,32 @@ def fetch_articles():
                 })
         except Exception as e:
             print(f"Error fetching {feed_info['key']}: {e}")
-    # 国ごとに最大4件に均等化
+    # 主要国は最大6件、その他は合計30件まで
     from collections import defaultdict
     country_counts = defaultdict(int)
+    other_total = 0
     balanced = []
     for a in articles:
         ck = a.get("countryKey", "other")
-        if country_counts[ck] < 6:
-            balanced.append(a)
-            country_counts[ck] += 1
+        if ck == "other":
+            if other_total < 30:
+                balanced.append(a)
+                other_total += 1
+        else:
+            if country_counts[ck] < 6:
+                balanced.append(a)
+                country_counts[ck] += 1
+    # 日付順にソート（新しい順）
+    import re as _re2
+    def parse_pub_date(a):
+        try:
+            m = _re2.match(r"(\d+)年(\d+)月(\d+)日", a.get("date", ""))
+            if m:
+                return datetime.datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)))
+        except:
+            pass
+        return datetime.datetime.min
+    balanced.sort(key=parse_pub_date, reverse=True)
     return balanced
 
 def save_to_archive(articles):
