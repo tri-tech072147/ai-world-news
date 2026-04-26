@@ -71,7 +71,7 @@ def fetch_articles():
     for feed_info in FEEDS:
         try:
             feed = feedparser.parse(feed_info["url"])
-            for entry in feed.entries[:6]:
+            for entry in feed.entries[:4]:
                 summary_raw = (
                     entry.get("summary") or
                     entry.get("description") or
@@ -98,7 +98,16 @@ def fetch_articles():
                 })
         except Exception as e:
             print(f"Error fetching {feed_info['key']}: {e}")
-    return articles[:30]
+    # 国ごとに最大4件に均等化
+    from collections import defaultdict
+    country_counts = defaultdict(int)
+    balanced = []
+    for a in articles:
+        ck = a.get("countryKey", "other")
+        if country_counts[ck] < 4:
+            balanced.append(a)
+            country_counts[ck] += 1
+    return balanced
 
 def save_to_archive(articles):
     today = (datetime.datetime.utcnow() + datetime.timedelta(hours=9)).strftime("%Y-%m-%d")
