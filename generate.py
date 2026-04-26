@@ -7,23 +7,22 @@ import os
 import glob
 
 FEEDS = [
-    # 🇺🇸 米国
+    # 🇺🇸 米国 — AI専用フィード
     {"key": "TechCrunch",   "label": "TechCrunch AI",   "flag": "🇺🇸", "country": "米国",   "countryKey": "us", "color": "#0a8a5c", "url": "https://techcrunch.com/category/artificial-intelligence/feed/"},
     {"key": "TheVerge",     "label": "The Verge AI",    "flag": "🇺🇸", "country": "米国",   "countryKey": "us", "color": "#e5472d", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
     {"key": "VentureBeat",  "label": "VentureBeat AI",  "flag": "🇺🇸", "country": "米国",   "countryKey": "us", "color": "#7b2fd4", "url": "https://venturebeat.com/category/ai/feed/"},
     {"key": "MIT",          "label": "MIT Tech Review",  "flag": "🇺🇸", "country": "米国",   "countryKey": "us", "color": "#a00c0c", "url": "https://www.technologyreview.com/feed/"},
-    # 🇨🇳 中国
-    {"key": "SCMP",         "label": "South China Morning Post", "flag": "🇨🇳", "country": "中国", "countryKey": "cn", "color": "#c0392b", "url": "https://www.scmp.com/rss/91/feed"},
-    # 🇬🇧 英国
+    # 🇨🇳 中国 — AI・テクノロジー専門
+    {"key": "SCMP_Tech",    "label": "SCMP Tech & AI",  "flag": "🇨🇳", "country": "中国",   "countryKey": "cn", "color": "#c0392b", "url": "https://www.scmp.com/rss/36/feed"},
+    # 🇬🇧 英国 — AI専用フィード
+    {"key": "Guardian",     "label": "The Guardian AI", "flag": "🇬🇧", "country": "英国",   "countryKey": "gb", "color": "#2e7d32", "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss"},
     {"key": "BBCTech",      "label": "BBC Technology",  "flag": "🇬🇧", "country": "英国",   "countryKey": "gb", "color": "#1a5276", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"},
-    {"key": "Guardian",     "label": "The Guardian Tech","flag": "🇬🇧", "country": "英国",   "countryKey": "gb", "color": "#2e7d32", "url": "https://www.theguardian.com/technology/artificialintelligenceai/rss"},
-    # 🇩🇪 ドイツ
-    {"key": "DW",           "label": "DW Technology",   "flag": "🇩🇪", "country": "ドイツ", "countryKey": "de", "color": "#b7950b", "url": "https://rss.dw.com/rdf/rss-en-sci"},
-    # 🇯🇵 日本
-    {"key": "NHKWorld",     "label": "NHK World Tech",   "flag": "🇯🇵", "country": "日本",   "countryKey": "jp", "color": "#6c3483", "url": "https://www3.nhk.or.jp/rss/news/cat3.xml"},
-    {"key": "NikkeiAsia",   "label": "Nikkei Asia Tech",  "flag": "🇯🇵", "country": "日本",   "countryKey": "jp", "color": "#9b59b6", "url": "https://asia.nikkei.com/rss/feed/nar"},
-    # 🇮🇳 インド
-    {"key": "TimesOfIndia", "label": "Times of India Tech","flag": "🇮🇳", "country": "インド","countryKey": "in", "color": "#d35400", "url": "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms"},
+    # 🇩🇪 ドイツ — テクノロジー専門英語メディア
+    {"key": "Heise",        "label": "Heise Online",    "flag": "🇩🇪", "country": "ドイツ", "countryKey": "de", "color": "#b7950b", "url": "https://www.heise.de/rss/heise-atom.xml"},
+    # 🇯🇵 日本 — テクノロジー専門
+    {"key": "NikkeiAsia",   "label": "Nikkei Asia Tech","flag": "🇯🇵", "country": "日本",   "countryKey": "jp", "color": "#6c3483", "url": "https://asia.nikkei.com/rss/feed/technology"},
+    # 🇮🇳 インド — AI・テクノロジー専門
+    {"key": "Hindu_Tech",   "label": "The Hindu SciTech","flag": "🇮🇳", "country": "インド", "countryKey": "in", "color": "#d35400", "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"},
 ]
 
 COUNTRY_FILTERS = [
@@ -84,6 +83,17 @@ def fetch_articles():
                     summary += "…"
                 body_text, _ = split_at_sentence(rest, 400) if rest else ("", "")
                 body = (body_text + ("…" if len(rest) > 400 else "")) if rest else ""
+                # AI関連キーワードフィルター（米国以外のフィードに適用）
+                ai_keywords = ["ai", "artificial intelligence", "machine learning", "deep learning",
+                               "chatgpt", "openai", "llm", "robot", "automation", "neural",
+                               "generative", "claude", "gemini", "algorithm", "tech", "chip",
+                               "semiconductor", "digital", "data", "software", "model"]
+                title_lower = strip_tags(entry.get("title", "")).lower()
+                desc_lower = full_text.lower()
+                is_us = feed_info["countryKey"] == "us"
+                has_keyword = any(kw in title_lower or kw in desc_lower for kw in ai_keywords)
+                if not is_us and not has_keyword:
+                    continue
                 articles.append({
                     "feedKey":    feed_info["key"],
                     "feedLabel":  feed_info["label"],
