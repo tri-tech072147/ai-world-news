@@ -674,5 +674,18 @@
     "body": "",
     "url": "https://www.japantimes.co.jp/news/2023/07/22/business/corporate-business/toyota-moon-rover/",
     "date": "2023年7月22日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "'Child nearly dies from mosquito bite': comedian Lee Soo-ji’s kindergarten satire sequel draws explosive response",
+    "summary": "Comedian Lee Soo-ji has once again sparked widespread reaction with a second YouTube video sharply satirizing the harsh realities faced by kindergarten and daycare teachers.…",
+    "body": "Current and former childcare workers flooded the comments section, saying that \"reality is even worse than the video,\" while criticizing unreasonable demands from some parents. The clip drew explosive engagement, surpassing 10,000 comments within a day of its release.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20260501/child-nearly-dies-from-mosquito-bite-comedian-lee-soo-jis-kindergarten-satire-sequel-draws-explosive-response?utm_source=rss",
+    "date": "2026年5月1日"
   }
 ]
