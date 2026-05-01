@@ -235,7 +235,9 @@ def generate_html(articles):
     # 国フィルターボタンHTML
     country_btns = ""
     for cf in COUNTRY_FILTERS:
-        country_btns += f'<button class="filter-btn" data-key="{cf[''key'']}" onclick="filterCountry(\'{cf[''key'']}\', this)">{cf[''label'']}</button>\n'
+        k = cf["key"]
+        l = cf["label"]
+        country_btns += f'<button class="filter-btn" data-key="{k}" onclick="filterCountry(\'{k}\', this)">{l}</button>\n'
 
     return f"""<!DOCTYPE html>
 <html lang="en">
