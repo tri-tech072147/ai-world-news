@@ -635,5 +635,44 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/humanoid-bots-start-airport-pilot-japan",
     "date": "2026年4月29日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘Completely horrible’: UK job hunters share frustration with AI interviews",
+    "summary": "People describe awkward and unnatural process as survey finds nearly half of job seekers have been interviewed by AINearly half (47%) of UK job seekers have had an AI interview, research from the…",
+    "body": "hiring platform Greenhouse has found.In its survey of 2,950 active job seekers, including 1,132 UK-based workers, with additional respondents from the US, Germany, Australia and Ireland, it found that 30% of UK candidates had walked away from a hiring process because it included an AI interview. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews",
+    "date": "2026年5月1日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "The rise of agentic work: Can AI replicate a team, not just a person?",
+    "summary": "The first wave of large language models won attention by replicating personal work. They wrote emails, summarised documents, generated images and videos, drafted presentations, and produced usable…",
+    "body": "code. That alone was enough to reshape how many people think about productivity. But the more consequential shift is now underway. AI is beginning to move beyond individual [ ] The post The rise of agentic work: Can AI replicate a team, not just a person? appeared first on e27.",
+    "url": "https://e27.co/the-rise-of-agentic-work-can-ai-replicate-a-team-not-just-a-person-20260430/",
+    "date": "2026年5月1日"
+  },
+  {
+    "feedKey": "JapanTimes",
+    "feedLabel": "Japan Times Tech",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "Japan",
+    "countryKey": "jp",
+    "title": "Toyota eyes lunar rover powered by regenerative fuel-cell tech",
+    "summary": "Toyota has teamed up with JAXA since 2019 to develop the manned lunar rover — which it dubbed the Lunar Cruiser — that they hope can be put on the moon in 2029.",
+    "body": "",
+    "url": "https://www.japantimes.co.jp/news/2023/07/22/business/corporate-business/toyota-moon-rover/",
+    "date": "2023年7月22日"
   }
 ]
