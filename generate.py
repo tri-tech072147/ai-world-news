@@ -48,14 +48,14 @@ FEEDS = [
 ]
 
 COUNTRY_FILTERS = [
-    {"key": "all", "label": "すべて"},
-    {"key": "us",  "label": "🇺🇸 米国"},
-    {"key": "cn",  "label": "🇨🇳 中国"},
-    {"key": "gb",  "label": "🇬🇧 英国"},
-    {"key": "de",  "label": "🇩🇪 ドイツ"},
-    {"key": "jp",  "label": "🇯🇵 日本"},
-    {"key": "in",  "label": "🇮🇳 インド"},
-    {"key": "other","label": "🌐 その他"},
+    {"key": "all",   "label": "すべて"},
+    {"key": "jp",    "label": "🇯🇵 日本"},
+    {"key": "us",    "label": "🇺🇸 米国"},
+    {"key": "cn",    "label": "🇨🇳 中国"},
+    {"key": "gb",    "label": "🇬🇧 英国"},
+    {"key": "de",    "label": "🇩🇪 ドイツ"},
+    {"key": "in",    "label": "🇮🇳 インド"},
+    {"key": "other", "label": "🌐 その他"},
 ]
 
 MAIN_COUNTRY_KEYS = {"us", "cn", "gb", "de", "jp", "in"}
@@ -279,7 +279,7 @@ def generate_html(articles):
   .header-meta {{ display: flex; align-items: center; gap: 8px; margin-top: 0; margin-left: auto; }}
   .badge-live {{ font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 20px; background: #e8f5e9; color: #2e7d32; }}
   .updated {{ font-size: 11px; color: var(--text-tertiary); }}
-  .tabs {{ display: flex; margin-bottom: 0; border-bottom: 1.5px solid var(--border-mid); }}
+  .tabs {{ display: flex; align-items: center; margin-bottom: 0; border-bottom: 1.5px solid var(--border-mid); }}
   .tab-btn {{
     font-size: 12px; font-weight: 600; padding: 7px 14px;
     border: none; background: none; color: var(--text-tertiary);
@@ -305,7 +305,7 @@ def generate_html(articles):
   .filter-btn.active {{ background: var(--text); color: var(--bg); border-color: var(--text); }}
   .filter-btn:hover:not(.active) {{ background: var(--bg-secondary); color: var(--text); }}
   .refresh-btn {{
-    margin-left: auto; font-size: 11px; padding: 4px 11px; border-radius: 20px;
+    margin-left: auto; margin-bottom: -1.5px; font-size: 11px; padding: 4px 11px; border-radius: 20px;
     border: 0.5px solid var(--border-mid); background: var(--bg);
     color: var(--text-secondary); cursor: pointer; display: flex;
     align-items: center; gap: 5px; font-family: inherit; flex-shrink: 0;
@@ -393,11 +393,11 @@ def generate_html(articles):
     <div class="tabs">
       <button class="tab-btn active" onclick="switchTab('latest',this)">最新記事</button>
       <button class="tab-btn" onclick="switchTab('archive',this)">期間指定</button>
+      <button class="refresh-btn" onclick="location.reload()">↻ 更新</button>
     </div>
 
     <div id="latest-controls" class="controls">
       {country_btns}
-      <button class="refresh-btn" onclick="location.reload()">↻</button>
     </div>
   </div>
 
