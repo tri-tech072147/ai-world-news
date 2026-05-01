@@ -235,8 +235,7 @@ def generate_html(articles):
     # 国フィルターボタンHTML
     country_btns = ""
     for cf in COUNTRY_FILTERS:
-        active = 'active' if cf["key"] == "all" else ""
-        country_btns += f'<button class="filter-btn {active}" onclick="filterCountry(\'{cf["key"]}\', this)">{cf["label"]}</button>\n'
+        country_btns += f'<button class="filter-btn" data-key="{cf[''key'']}" onclick="filterCountry(\'{cf[''key'']}\', this)">{cf[''label'']}</button>\n'
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -467,7 +466,6 @@ function filterCountry(key, btn) {{
   document.querySelectorAll('#latest-controls .filter-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   const cards = document.querySelectorAll('#latest-grid .news-card');
-  let visible = 0;
   cards.forEach(card => {{
     const ck = card.dataset.country || 'other';
     let show = false;
@@ -475,9 +473,7 @@ function filterCountry(key, btn) {{
     else if (key === 'other') show = !MAIN_KEYS.has(ck);
     else show = ck === key;
     card.style.display = show ? '' : 'none';
-    if (show) visible++;
   }});
-  document.getElementById('latest-count').textContent = visible;
   document.getElementById('latest-empty').style.display = visible === 0 ? 'block' : 'none';
 }}
 
@@ -568,6 +564,9 @@ function esc(s){{return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').rep
 function hc(s){{let h=0;for(let i=0;i<s.length;i++)h=Math.imul(31,h)+s.charCodeAt(i)|0;return h;}}
 
 initDatePickers();
+// 初期状態でAllボタンだけをactiveに
+const allBtn = document.querySelector('#latest-controls .filter-btn[data-key="all"]');
+if (allBtn) allBtn.classList.add('active');
 </script>
 </body>
 </html>"""
