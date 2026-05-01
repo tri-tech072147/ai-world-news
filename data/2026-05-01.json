@@ -804,5 +804,57 @@
     "body": "",
     "url": "https://techcabal.com/2026/05/01/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-home-affairs-ai-problem/",
     "date": "2026年5月1日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Googleフォトに“バーチャル試着機能”登場 写真内の衣服を登録、アプリで組み合わせ可能に",
+    "summary": "",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/01/news118.html",
+    "date": "2026年5月1日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "ChatGPTの「画像生成」、どう進化？ 開発者に聞く “文字化け解消”の秘訣",
+    "summary": "米OpenAIの画像生成AI「ChatGPT Images 2.0」はどのように進化したのか。ポイントを開発者に聞いた。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news110.html",
+    "date": "2026年5月1日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "GPT-5.5のサイバー攻撃能力は一部「Mythos超え」 英政府機関が評価",
+    "summary": "英国のAISIは、OpenAIの「GPT-5.5」が「Claude Mythos Preview」と同等のサイバー攻撃能力を持つとの評価を公表した。能力向上が業界共通の傾向である可能性が示唆されている。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news108.html",
+    "date": "2026年5月1日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Per-token AI charges come to GitHub Copilot",
+    "summary": "As of 1st June 2026, GitHub Copilot will charge its users on the basis of the tokens they use, rather than a flat rate subscription model.…",
+    "body": "The model that s seeing the shutters closed on it is, or rather was, simple to understand and use. Users were given a set number of Premium Requests according to [ ] The post Per-token AI charges come to GitHub Copilot appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/per-token-ai-charging-comes-to-github-copilot/",
+    "date": "2026年5月1日"
   }
 ]
