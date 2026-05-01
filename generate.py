@@ -266,16 +266,22 @@ def generate_html(articles):
     background: var(--bg-tertiary); color: var(--text); font-size: 15px; line-height: 1.6; min-height: 100vh;
   }}
   .page-wrap {{ max-width: 740px; margin: 0 auto; padding: 0 16px 80px; }}
-  .header {{ padding: 28px 0 18px; border-bottom: 0.5px solid var(--border-mid); margin-bottom: 20px; }}
-  .header-top {{ display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }}
-  .site-title {{ font-size: 23px; font-weight: 700; color: var(--text); letter-spacing: -0.8px; }}
-  .site-sub {{ font-size: 13px; color: var(--text-tertiary); }}
-  .header-meta {{ display: flex; align-items: center; gap: 10px; margin-top: 10px; flex-wrap: wrap; }}
-  .badge-live {{ font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; background: #e8f5e9; color: #2e7d32; }}
-  .updated {{ font-size: 12px; color: var(--text-tertiary); }}
-  .tabs {{ display: flex; margin-bottom: 20px; border-bottom: 1.5px solid var(--border-mid); }}
+  /* ── 固定ヘッダー ── */
+  .sticky-header {{
+    position: sticky; top: 0; z-index: 100;
+    background: var(--bg-tertiary);
+    padding-bottom: 0;
+  }}
+  .header {{ padding: 10px 0 8px; border-bottom: 0.5px solid var(--border-mid); margin-bottom: 0; }}
+  .header-top {{ display: flex; align-items: center; gap: 10px; flex-wrap: nowrap; }}
+  .site-title {{ font-size: 17px; font-weight: 700; color: var(--text); letter-spacing: -0.5px; white-space: nowrap; }}
+  .site-sub {{ font-size: 11px; color: var(--text-tertiary); display: none; }}
+  .header-meta {{ display: flex; align-items: center; gap: 8px; margin-top: 0; margin-left: auto; }}
+  .badge-live {{ font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 20px; background: #e8f5e9; color: #2e7d32; }}
+  .updated {{ font-size: 11px; color: var(--text-tertiary); }}
+  .tabs {{ display: flex; margin-bottom: 0; border-bottom: 1.5px solid var(--border-mid); }}
   .tab-btn {{
-    font-size: 13px; font-weight: 600; padding: 10px 20px;
+    font-size: 12px; font-weight: 600; padding: 7px 14px;
     border: none; background: none; color: var(--text-tertiary);
     cursor: pointer; font-family: inherit;
     border-bottom: 2.5px solid transparent; margin-bottom: -1.5px; transition: all 0.15s;
@@ -284,21 +290,29 @@ def generate_html(articles):
   .tab-btn:hover:not(.active) {{ color: var(--text-secondary); }}
   .tab-panel {{ display: none; }}
   .tab-panel.active {{ display: block; }}
-  .controls {{ display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; align-items: center; }}
+  .controls {{
+    display: flex; gap: 5px; flex-wrap: nowrap; overflow-x: auto;
+    padding: 7px 0 6px; align-items: center;
+    scrollbar-width: none; -ms-overflow-style: none;
+  }}
+  .controls::-webkit-scrollbar {{ display: none; }}
   .filter-btn {{
-    font-size: 12px; padding: 6px 13px; border-radius: 20px;
+    font-size: 11px; padding: 4px 11px; border-radius: 20px;
     border: 0.5px solid var(--border-mid); background: var(--bg);
-    color: var(--text-secondary); cursor: pointer; transition: all 0.15s; font-family: inherit;
+    color: var(--text-secondary); cursor: pointer; transition: all 0.15s;
+    font-family: inherit; white-space: nowrap; flex-shrink: 0;
   }}
   .filter-btn.active {{ background: var(--text); color: var(--bg); border-color: var(--text); }}
   .filter-btn:hover:not(.active) {{ background: var(--bg-secondary); color: var(--text); }}
   .refresh-btn {{
-    margin-left: auto; font-size: 12px; padding: 6px 14px; border-radius: 20px;
+    margin-left: auto; font-size: 11px; padding: 4px 11px; border-radius: 20px;
     border: 0.5px solid var(--border-mid); background: var(--bg);
     color: var(--text-secondary); cursor: pointer; display: flex;
-    align-items: center; gap: 6px; font-family: inherit;
+    align-items: center; gap: 5px; font-family: inherit; flex-shrink: 0;
   }}
   .refresh-btn:hover {{ color: var(--text); background: var(--bg-secondary); }}
+  /* コンテンツは固定ヘッダー分の余白を確保 */
+  .content-area {{ padding-top: 12px; }}
   .stats-bar {{
     display: flex; gap: 18px; margin-bottom: 16px; flex-wrap: wrap;
     padding: 10px 14px; background: var(--bg-secondary);
@@ -365,36 +379,36 @@ def generate_html(articles):
 </head>
 <body>
 <div class="page-wrap">
-  <header class="header">
-    <div class="header-top">
-      <span class="site-title">AI World News</span>
-      <span class="site-sub">世界のAIニュース — 日本語版</span>
-    </div>
-    <div class="header-meta">
-      <span class="badge-live">● LIVE</span>
-      <span class="updated">🕐 {updated} JST 更新</span>
-    </div>
-  </header>
+  <div class="sticky-header">
+    <header class="header">
+      <div class="header-top">
+        <span class="site-title">AI World News</span>
+        <div class="header-meta">
+          <span class="badge-live">● LIVE</span>
+          <span class="updated">🕐 {updated}</span>
+        </div>
+      </div>
+    </header>
 
-  <div class="tabs">
-    <button class="tab-btn active" onclick="switchTab('latest',this)">最新記事</button>
-    <button class="tab-btn" onclick="switchTab('archive',this)">期間指定</button>
+    <div class="tabs">
+      <button class="tab-btn active" onclick="switchTab('latest',this)">最新記事</button>
+      <button class="tab-btn" onclick="switchTab('archive',this)">期間指定</button>
+    </div>
+
+    <div id="latest-controls" class="controls">
+      {country_btns}
+      <button class="refresh-btn" onclick="location.reload()">↻</button>
+    </div>
   </div>
 
   <!-- 最新記事タブ -->
   <div class="tab-panel active" id="tab-latest">
-    <div class="controls">
-      {country_btns}
-      <button class="refresh-btn" onclick="location.reload()">↻ 更新</button>
+    <div class="content-area">
+      <div id="latest-grid" class="news-grid">
+        {cards_all}
+      </div>
+      <div id="latest-empty" class="empty-msg" style="display:none">📭 この国の記事はありません</div>
     </div>
-    <div class="stats-bar">
-      <span class="stat">記事数: <strong id="latest-count">{count}</strong></span>
-      <span class="stat">次回更新: <strong>約1時間後</strong></span>
-    </div>
-    <div id="latest-grid" class="news-grid">
-      {cards_all}
-    </div>
-    <div id="latest-empty" class="empty-msg" style="display:none">📭 この国の記事はありません</div>
   </div>
 
   <!-- 期間指定タブ -->
@@ -443,6 +457,9 @@ function switchTab(name, btn) {{
   document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
   btn.classList.add('active');
   document.getElementById('tab-' + name).classList.add('active');
+  // 最新記事タブのときだけ国フィルターを表示
+  const ctrl = document.getElementById('latest-controls');
+  if (ctrl) ctrl.style.display = name === 'latest' ? 'flex' : 'none';
 }}
 
 // 国フィルター
