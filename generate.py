@@ -464,7 +464,7 @@ function switchTab(name, btn) {{
 
 // 国フィルター
 function filterCountry(key, btn) {{
-  document.querySelectorAll('#tab-latest .filter-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('#latest-controls .filter-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   const cards = document.querySelectorAll('#latest-grid .news-card');
   let visible = 0;
