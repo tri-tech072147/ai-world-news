@@ -19,9 +19,10 @@ FEEDS = [
     {"key": "BBCTech",     "label": "BBC Technology",  "flag": "🇬🇧", "country": "英国",       "countryKey": "gb",    "color": "#1a5276", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"},
     # 🇩🇪 ドイツ
     {"key": "Heise",       "label": "Heise Online",    "flag": "🇩🇪", "country": "ドイツ",     "countryKey": "de",    "color": "#b7950b", "url": "https://www.heise.de/rss/heise-atom.xml"},
-    # 🇯🇵 日本 — テックカテゴリ専用URL + News on Japan AI
-    {"key": "JapanToday",  "label": "Japan Today Tech","flag": "🇯🇵", "country": "日本",       "countryKey": "jp",    "color": "#6c3483", "url": "https://japantoday.com/category/tech/feed"},
-    {"key": "NewsOnJapan", "label": "News On Japan AI","flag": "🇯🇵", "country": "日本",       "countryKey": "jp",    "color": "#9b59b6", "url": "https://newsonjapan.com/rss/cryptoai.xml"},
+    # 🇯🇵 日本 — 3本体制（AIキーワードフィルター適用）
+    {"key": "JapanToday",  "label": "Japan Today Tech", "flag": "🇯🇵", "country": "日本", "countryKey": "jp", "color": "#6c3483", "url": "https://japantoday.com/category/tech/feed"},
+    {"key": "JapanTimes",  "label": "Japan Times",      "flag": "🇯🇵", "country": "日本", "countryKey": "jp", "color": "#9b59b6", "url": "https://japantimes.co.jp/feed/topstories/"},
+    {"key": "KyodoNews",   "label": "Kyodo News",       "flag": "🇯🇵", "country": "日本", "countryKey": "jp", "color": "#2e86c1", "url": "https://english.kyodonews.net/rss/all.xml"},
     # 🇮🇳 インド — テック専門
     {"key": "Hindu_Tech",  "label": "The Hindu Tech",  "flag": "🇮🇳", "country": "インド",     "countryKey": "in",    "color": "#d35400", "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"},
     # ── 「その他」— AI専門フィードのみ ───────────────────────
@@ -106,23 +107,21 @@ def fetch_articles():
                 body_text, _ = split_at_sentence(rest, 400) if rest else ("", "")
                 body = (body_text + ("…" if len(rest) > 400 else "")) if rest else ""
                 # AI関連キーワードフィルター（米国以外のフィードに適用・厳格化）
-                ai_keywords_strict = [
-                    "artificial intelligence", "machine learning", "deep learning", "neural network",
-                    "large language model", "llm", "generative ai", "chatgpt", "openai", "claude",
-                    "gemini", "deepseek", "grok", "copilot", "midjourney", "stable diffusion",
-                    "ai model", "ai system", "ai tool", "ai chip", "ai startup", "ai company",
-                    "nvidia", "gpu", "robotics", "humanoid", "autonomous", "self-driving",
-                ]
-                ai_keywords_loose = [
-                    " ai ", "a.i.", "robot", "automation", "algorithm", "semiconductor",
+                ai_keywords = [
+                    "artificial intelligence", "machine learning", "deep learning", "neural",
+                    "large language model", "llm", "generative", "chatgpt", "openai", "claude",
+                    "gemini", "deepseek", "grok", "copilot", "nvidia", "gpu",
+                    "robotics", "humanoid", "autonomous", "self-driving",
+                    "ai model", "ai system", "ai tool", "ai chip", "ai startup",
+                    " ai ", "a.i.", "robot", "automation", "semiconductor", "tech",
+                    "softbank", "nec", "sony", "toyota", "fujitsu",
                 ]
                 title_lower = strip_tags(entry.get("title", "")).lower()
                 desc_lower = full_text.lower()
                 combined = title_lower + " " + desc_lower
                 is_us = feed_info["countryKey"] == "us"
-                has_strict = any(kw in combined for kw in ai_keywords_strict)
-                has_loose = any(kw in title_lower for kw in ai_keywords_loose)
-                if not is_us and not (has_strict or has_loose):
+                has_keyword = any(kw in combined for kw in ai_keywords)
+                if not is_us and not has_keyword:
                     continue
                 articles.append({
                     "feedKey":    feed_info["key"],
