@@ -48,14 +48,14 @@ FEEDS = [
 ]
 
 COUNTRY_FILTERS = [
-    {"key": "all",   "label": "すべて"},
-    {"key": "jp",    "label": "🇯🇵 日本"},
-    {"key": "us",    "label": "🇺🇸 米国"},
-    {"key": "cn",    "label": "🇨🇳 中国"},
-    {"key": "gb",    "label": "🇬🇧 英国"},
-    {"key": "de",    "label": "🇩🇪 ドイツ"},
-    {"key": "in",    "label": "🇮🇳 インド"},
-    {"key": "other", "label": "🌐 その他"},
+    {"key": "all",   "label": "All"},
+    {"key": "jp",    "label": "🇯🇵 Japan"},
+    {"key": "us",    "label": "🇺🇸 US"},
+    {"key": "cn",    "label": "🇨🇳 China"},
+    {"key": "gb",    "label": "🇬🇧 UK"},
+    {"key": "de",    "label": "🇩🇪 Germany"},
+    {"key": "in",    "label": "🇮🇳 India"},
+    {"key": "other", "label": "🌐 Other"},
 ]
 
 MAIN_COUNTRY_KEYS = {"us", "cn", "gb", "de", "jp", "in"}
@@ -194,7 +194,7 @@ def render_card(a, i, prefix=""):
         summary_trimmed = a["summary"].rstrip("…").rstrip("…").rstrip()
         full_inline = html.escape(summary_trimmed + " " + a["body"])
         body_html = f'<p class="card-body" id="{uid}" style="display:none">{full_inline}</p>'
-        read_more_btn = f'<button class="read-more" onclick="toggleBody(\'{uid}\',this)">続きを読む ▾</button>'
+        read_more_btn = f'<button class="read-more" onclick="toggleBody(\'{uid}\',this)">Read more ▾</button>'
     country_key = a.get("countryKey", "other")
     return f"""<article class="news-card" data-country="{country_key}" style="animation-delay:{delay}s">
       <div class="card-meta">
@@ -208,7 +208,7 @@ def render_card(a, i, prefix=""):
       {body_html}
       <div class="card-footer">
         {read_more_btn}
-        <a class="source-link" href="{html.escape(a['url'])}" target="_blank" rel="noopener">↗ 原文を読む</a>
+        <a class="source-link" href="{html.escape(a['url'])}" target="_blank" rel="noopener">↗ Read original</a>
       </div>
     </article>"""
 
@@ -243,7 +243,9 @@ def generate_html(articles):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI World News — 世界のAIニュース</title>
+<meta http-equiv="content-language" content="en">
+<meta name="language" content="English">
+<title>AI World News</title>
 <style>
   *, *::before, *::after {{ box-sizing: border-box; margin: 0; padding: 0; }}
   :root {{
@@ -391,9 +393,9 @@ def generate_html(articles):
     </header>
 
     <div class="tabs">
-      <button class="tab-btn active" onclick="switchTab('latest',this)">最新記事</button>
-      <button class="tab-btn" onclick="switchTab('archive',this)">期間指定</button>
-      <button class="refresh-btn" onclick="location.reload()">↻ 更新</button>
+      <button class="tab-btn active" onclick="switchTab('latest',this)">Latest</button>
+      <button class="tab-btn" onclick="switchTab('archive',this)">Archive</button>
+      <button class="refresh-btn" onclick="location.reload()">↻ Refresh</button>
     </div>
 
     <div id="latest-controls" class="controls">
@@ -407,41 +409,39 @@ def generate_html(articles):
       <div id="latest-grid" class="news-grid">
         {cards_all}
       </div>
-      <div id="latest-empty" class="empty-msg" style="display:none">📭 この国の記事はありません</div>
+      <div id="latest-empty" class="empty-msg" style="display:none">📭 No articles found</div>
     </div>
   </div>
 
   <!-- 期間指定タブ -->
   <div class="tab-panel" id="tab-archive">
     <div class="date-search">
-      <h3>📅 期間を指定して記事を検索</h3>
+      <h3>📅 Search by date range</h3>
       <div class="date-row">
-        <span class="date-label">開始</span>
+        <span class="date-label">From</span>
         <select class="date-select" id="from-y" onchange="updateDays('from')"></select>
-        <span class="date-sep">年</span>
+        <span class="date-sep">/</span>
         <select class="date-select" id="from-m" onchange="updateDays('from')"></select>
-        <span class="date-sep">月</span>
+        <span class="date-sep">/</span>
         <select class="date-select" id="from-d"></select>
-        <span class="date-sep">日</span>
       </div>
       <div class="date-row">
-        <span class="date-label">終了</span>
+        <span class="date-label">To</span>
         <select class="date-select" id="to-y" onchange="updateDays('to')"></select>
-        <span class="date-sep">年</span>
+        <span class="date-sep">/</span>
         <select class="date-select" id="to-m" onchange="updateDays('to')"></select>
-        <span class="date-sep">月</span>
+        <span class="date-sep">/</span>
         <select class="date-select" id="to-d"></select>
-        <span class="date-sep">日</span>
       </div>
-      <button class="search-btn" onclick="searchArchive()">この期間の記事を表示</button>
-      <p class="archive-note">蓄積データ: {archive_count}日分</p>
+      <button class="search-btn" onclick="searchArchive()">Search</button>
+      <p class="archive-note">Archived: {archive_count} days</p>
     </div>
     <div id="archive-results"></div>
   </div>
 
   <footer class="footer">
-    <p>AI World News — GitHub Actionsで1時間ごとに自動更新・過去ログ蓄積</p>
-    <p>記事の著作権は各メディアに帰属します</p>
+    <p>AI World News — Auto-updated every hour via GitHub Actions</p>
+    <p>All rights reserved by respective media outlets</p>
   </footer>
 </div>
 
@@ -488,7 +488,7 @@ function toggleBody(id, btn) {{
   const expanded = body.style.display === 'none';
   body.style.display = expanded ? 'block' : 'none';
   if (summary) summary.style.display = expanded ? 'none' : 'block';
-  btn.textContent = expanded ? '閉じる ▴' : '続きを読む ▾';
+  btn.textContent = expanded ? 'Close ▴' : 'Read more ▾';
 }}
 
 // 日付ピッカー
@@ -524,7 +524,7 @@ function searchArchive() {{
   const fy=document.getElementById('from-y').value, fm=String(document.getElementById('from-m').value).padStart(2,'0'), fd=String(document.getElementById('from-d').value).padStart(2,'0');
   const ty=document.getElementById('to-y').value,   tm=String(document.getElementById('to-m').value).padStart(2,'0'), td=String(document.getElementById('to-d').value).padStart(2,'0');
   const fromStr=`${{fy}}-${{fm}}-${{fd}}`, toStr=`${{ty}}-${{tm}}-${{td}}`;
-  if (fromStr > toStr) {{ alert('開始日が終了日より後になっています。'); return; }}
+  if (fromStr > toStr) {{ alert('Start date must be before end date.'); return; }}
   let results=[]; const urls=new Set();
   for (const [date, articles] of Object.entries(ARCHIVE)) {{
     if (date >= fromStr && date <= toStr) {{
@@ -535,7 +535,7 @@ function searchArchive() {{
   const container=document.getElementById('archive-results');
   if (results.length===0) {{
     const oldest=ARCHIVE_DATES.length>0?ARCHIVE_DATES[ARCHIVE_DATES.length-1]:null;
-    container.innerHTML=`<div class="empty-msg">📭 この期間の記事はありません。${{oldest?'<br>データは '+oldest+' から蓄積されています':''}}</div>`;
+    container.innerHTML=`<div class="empty-msg">📭 No articles found for this period.${{oldest?'<br>データは '+oldest+' から蓄積されています':''}}</div>`;
     return;
   }}
   container.innerHTML=`<div class="stats-bar"><span class="stat">期間: <strong>${{fromStr}} 〜 ${{toStr}}</strong></span><span class="stat">記事数: <strong>${{results.length}}</strong></span></div><div class="news-grid">${{results.map((a,i)=>buildCard(a,i)).join('')}}</div>`;
@@ -548,7 +548,7 @@ function buildCard(a,i) {{
   if (a.body) {{
     const trimmed=a.summary.replace(/…+$/,'').trim();
     bodyHtml=`<p class="card-body" id="${{uid}}" style="display:none">${{esc(trimmed+' '+a.body)}}</p>`;
-    readMoreBtn=`<button class="read-more" onclick="toggleBody('${{uid}}',this)">続きを読む ▾</button>`;
+    readMoreBtn=`<button class="read-more" onclick="toggleBody('${{uid}}',this)">Read more ▾</button>`;
   }}
   return `<article class="news-card" style="animation-delay:${{delay}}s">
     <div class="card-meta">
@@ -560,7 +560,7 @@ function buildCard(a,i) {{
     <h2 class="card-title">${{esc(a.title||'')}}</h2>
     <p class="card-summary" id="s_${{uid}}">${{esc(a.summary||'')}}</p>
     ${{bodyHtml}}
-    <div class="card-footer">${{readMoreBtn}}<a class="source-link" href="${{esc(a.url||'#')}}" target="_blank" rel="noopener">↗ 原文を読む</a></div>
+    <div class="card-footer">${{readMoreBtn}}<a class="source-link" href="${{esc(a.url||'#')}}" target="_blank" rel="noopener">↗ Read original</a></div>
   </article>`;
 }}
 
