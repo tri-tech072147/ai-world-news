@@ -19,10 +19,9 @@ FEEDS = [
     {"key": "BBCTech",     "label": "BBC Technology",  "flag": "🇬🇧", "country": "英国",       "countryKey": "gb",    "color": "#1a5276", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"},
     # 🇩🇪 ドイツ
     {"key": "Heise",       "label": "Heise Online",    "flag": "🇩🇪", "country": "ドイツ",     "countryKey": "de",    "color": "#b7950b", "url": "https://www.heise.de/rss/heise-atom.xml"},
-    # 🇯🇵 日本 — 3本体制（AIキーワードフィルター適用）
-    {"key": "JapanToday",  "label": "Japan Today Tech", "flag": "🇯🇵", "country": "日本", "countryKey": "jp", "color": "#6c3483", "url": "https://japantoday.com/category/tech/feed"},
-    {"key": "JapanTimes",  "label": "Japan Times",      "flag": "🇯🇵", "country": "日本", "countryKey": "jp", "color": "#9b59b6", "url": "https://japantimes.co.jp/feed/topstories/"},
-    {"key": "KyodoNews",   "label": "Kyodo News",       "flag": "🇯🇵", "country": "日本", "countryKey": "jp", "color": "#2e86c1", "url": "https://english.kyodonews.net/rss/all.xml"},
+    # 🇯🇵 日本 — ITmedia AI+（AI専門）＋Japan Times
+    {"key": "ITmediaAI",   "label": "ITmedia AI+",      "flag": "🇯🇵", "country": "日本", "countryKey": "jp", "color": "#6c3483", "url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml"},
+    {"key": "JapanTimes",  "label": "Japan Times Tech",  "flag": "🇯🇵", "country": "日本", "countryKey": "jp", "color": "#9b59b6", "url": "https://japantimes.co.jp/feed/topstories/"},
     # 🇮🇳 インド — テック専門
     {"key": "Hindu_Tech",  "label": "The Hindu Tech",  "flag": "🇮🇳", "country": "インド",     "countryKey": "in",    "color": "#d35400", "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"},
     # ── 「その他」— AI専門フィードのみ ───────────────────────
@@ -120,8 +119,9 @@ def fetch_articles():
                 desc_lower = full_text.lower()
                 combined = title_lower + " " + desc_lower
                 is_us = feed_info["countryKey"] == "us"
+                is_jp_ai = feed_info["key"] == "ITmediaAI"  # ITmedia AI+は常に通す
                 has_keyword = any(kw in combined for kw in ai_keywords)
-                if not is_us and not has_keyword:
+                if not is_us and not is_jp_ai and not has_keyword:
                     continue
                 articles.append({
                     "feedKey":    feed_info["key"],
