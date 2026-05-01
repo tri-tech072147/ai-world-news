@@ -304,7 +304,7 @@ def generate_html(articles):
     color: var(--text-secondary); cursor: pointer; transition: all 0.15s;
     font-family: inherit; white-space: nowrap; flex-shrink: 0;
   }}
-  .filter-btn.active {{ background: var(--text); color: var(--bg); border-color: var(--text); }}
+  .filter-btn.active {{ background: #185fa5; color: #ffffff; border-color: #185fa5; }}
   .filter-btn:hover:not(.active) {{ background: var(--bg-secondary); color: var(--text); }}
   .refresh-btn {{
     margin-left: auto; margin-bottom: -1.5px; font-size: 11px; padding: 4px 11px; border-radius: 20px;
