@@ -531,5 +531,31 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/aws-launches-managed-agents-openai-partnership",
     "date": "2026年4月29日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Under a cloud: the growing resentment against the massive datacentres sprouting across Australian cities",
+    "summary": "Residents say AI factories with unknown environmental impacts are being rushed into development as proponents argue Australia must ride the data boom or be left behindFollow our Australia news live…",
+    "body": "blog for latest updatesGet our breaking news email, free app or daily news podcastWhen West Footscray resident Sean Brown takes his 19-month-old boy to the park, their walk passes an imposing new building cheerily spruiked as “Australia’s largest hyperscale AI factory”, a datacentre called M3.He hates it: the construction noise from its constant expansion, the looming towers and the insistent…",
+    "url": "https://www.theguardian.com/technology/2026/may/03/ai-datacentres-australia-opposition",
+    "date": "2026年5月2日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea's erotic film festival breaks down long-standing taboos",
+    "summary": "Erotic expression in art and film has long faced censorship and resistance. A new film screening series started in Korea last year aims to challenge the dominant discourse and break down…",
+    "body": "long-standing taboos. Held under the name The Love, the screening series was born out of a collaboration between Seoul-based artist Jeon Suhyun from the newly formed One More Pink cineclub collective and visiting Amsterdam-based Korean artist, film curator and organizer Hyeisoo Kim from the Porn Film Festival Amsterdam (PFFA). They held two screenings last year at small venues around Seoul.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260503/koreas-erotic-film-festival-breaks-down-long-standing-taboos?utm_source=rss",
+    "date": "2026年5月2日"
   }
 ]
