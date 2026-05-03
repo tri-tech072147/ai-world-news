@@ -674,5 +674,83 @@
     "body": "included this year. Time placed the company in the “Titans” category alongside global heavyweights such as Alphabet, Nvidia, Meta and SpaceX, APR said Sunday. The U.S. magazine compiles the annual list based on recommendations from global correspondents, editors and industry experts, evaluating companies on influence, innovation and leadership.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260503/apr-named-among-times-100-most-influential-companies?utm_source=rss",
     "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Will human minds still be special in an age of AI?",
+    "summary": "We tend to think of intelligence like height – and imagine ourselves being overtaken. That misses the pointUntil recently, we humans have been able to be smug about our abilities.…",
+    "body": "No other animals play boardgames, write essays or prove mathematical theorems. But lately, progress in AI seems as though it might challenge our self-image as the smartest entities around. AI systems not only beat us at the most complicated games, but can also write polished prose and win medals in maths. Tech CEOs promise us that superhuman AI is just round the corner.…",
+    "url": "https://www.theguardian.com/books/2026/may/03/will-human-minds-still-be-special-in-an-age-of-ai",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Mystery sitter in Holbein portrait could be Anne Boleyn, AI analysis finds",
+    "summary": "Researchers say works may have been incorrectly inscribed in 1700s, leading to centuries-long misunderstandingThey are two small sketches by the Renaissance master Hans Holbein: one has long been…",
+    "body": "considered to be a portrait of Henry VIII’s doomed second wife, Anne Boleyn, and the other is of an unknown woman whose name was lost to time.Now researchers using AI have discovered that the unnamed woman might be the tragic queen after all, while the other figure could in fact be Boleyn’s mother. Continue reading...",
+    "url": "https://www.theguardian.com/artanddesign/2026/may/03/unnamed-holbein-portrait-anne-boleyn-ai-analysis",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "WTF: Microsoft erzwingt \"Co-Authored-by Copilot\" in Commits",
+    "summary": "Wer seinen Code mithilfe von Copilot geschrieben hat, muss sich mit dem KI-Assistenten jetzt die Commit Message teilen, was sich aber deaktivieren lässt.",
+    "body": "",
+    "url": "https://www.heise.de/news/WTF-Microsoft-erzwingt-Co-Authored-by-Copilot-in-Commits-11279525.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | OpenAI Prism im Test: KI-Tool für wissenschaftliches Schreiben",
+    "summary": "Prism soll Arbeitsschritte bündeln und Forschende beim Schreiben mit LaTeX unterstützen. Wir testen, wie gut das funktioniert – und wo es gefährlich wird.",
+    "body": "",
+    "url": "https://www.heise.de/tests/OpenAI-Prism-im-Test-KI-Tool-fuer-wissenschaftliches-Schreiben-11184072.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Neuer Antrieb für Marsmission: NASA erreicht Rekordleistung",
+    "summary": "Die NASA hat einen magnetoplasmadynamischen Thruster mit Lithium-Antrieb erfolgreich getestet. Die Technologie gilt als ein Schlüssel für bemannte Marsflüge.",
+    "body": "",
+    "url": "https://www.heise.de/news/NASA-testet-Lithium-Thruster-Meilenstein-fuer-bemannte-Marsfluege-11279497.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "AI fails to connect growing worker productivity to organizational performance: report",
+    "summary": "Artificial intelligence's (AI) ability to boost individual productivity is becoming increasingly evident but many companies are confronting the “AI productivity paradox” — a growing disconnect…",
+    "body": "between personal efficiency and meaningful organizationwide business performance, according to a recent report by Hana Institute of Finance, Sunday. At the individual level, the technology has already demonstrated measurable productivity benefits, particularly in fields such as programming, legal services and marketing, where its integration with human expertise can significantly improve speed…",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260503/ai-fails-to-connect-growing-worker-productivity-to-organizational-performance-report?utm_source=rss",
+    "date": "2026年5月3日"
   }
 ]
