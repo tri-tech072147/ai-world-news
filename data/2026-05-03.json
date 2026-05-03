@@ -596,5 +596,83 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/enterprise/articles/2605/03/news018.html",
     "date": "2026年5月2日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "From phones to humanoid robots: China’s supply chain eyes next growth curve",
+    "summary": "China’s smartphone and electronics supply chain is adapting its expertise to support the country’s fledgling but fast-growing humanoid robotics industry, as component suppliers seek new growth beyond…",
+    "body": "a slowing mobile market. The sector received a glimpse of that crossover after Honor’s humanoid robot D1, a dark-horse entrant from the smartphone maker, won Beijing’s recent robot half-marathon, beating established Chinese robotics names such as Unitree. Honor entered the humanoid robotics sector...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3352212/phones-robots-chinas-supply-chain-eyes-next-growth-curve-humanoid?utm_source=rss_feed",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "AI chatbot fraud: the ‘gift card’ subcription that may cost you dear",
+    "summary": "After subscribing to the Claude chatbot, mystery payments started to appear on one family’s credit card bill.…",
+    "body": "They are not aloneDavid Duggan* was so impressed with the ability of the Claude chatbot to answer medical questions and organise family life, that a $20-a-month (£15) subscription seemed like money well spent.But then his wife spotted two $200 payments on his credit card bill for gift cards to use the artificial intelligence tool. Continue reading...",
+    "url": "https://www.theguardian.com/money/2026/may/03/ai-claude-chatbot-gift-card-subcription-scam-mystery-payments",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea launches next-generation satellite on SpaceX Falcon 9",
+    "summary": "Korea launched its next-generation mid-sized Earth observation satellite No. 2 aboard SpaceX's Falcon 9 rocket from the Kennedy Space Center in Florida, Yonhap News Agency reported on Sunday.…",
+    "body": "Development of the 500-kg-class satellite was led by Korea Aerospace Industries to support land-management and disaster response and advance private-sector space technology.",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260503/korea-launches-next-generation-satellite-on-spacex-falcon-9?utm_source=rss",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "HD Hyundai’s eco-friendly circuit breaker for Sweden passes final hurdle",
+    "summary": "HD Hyundai Electric has passed a final hurdle to export its eco-friendly circuit breakers to Sweden, cementing its product lineups in a European market known for environmental strictness.…",
+    "body": "The Korean industrial electric equipment developer said Sunday it completed testing its 145 kilovolt (kV) SF6-free circuit breaker on Thursday with its client from Sweden present. SF6, or sulfur hexafluoride, has a global warming potential 23,500 times that of carbon dioxide.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260503/hd-hyundais-eco-friendly-circuit-breaker-for-sweden-passes-final-hurdle?utm_source=rss",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Samsung Biologics labor union set to resume talks with management on Monday",
+    "summary": "Samsung Biologics, the biotech arm of Samsung Group, has agreed to return to the negotiation table this week, a corporate official said.…",
+    "body": "The two sides will renegotiate on Monday under the mediation of the Jungbu regional employment and labor office, after the first round of talks fell through on Thursday. The strike is the first ever for the union, with the walkout entering its third day on Sunday.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260503/samsung-biologics-labor-union-set-to-resume-talks-with-management-on-monday?utm_source=rss",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "APR named among Time's 100 most influential companies",
+    "summary": "Korean beauty-tech firm APR has made it to Time magazine's 100 Most Influential Companies of 2026 list, becoming the first Korean beauty company ever to make the list and the only Korean firm…",
+    "body": "included this year. Time placed the company in the “Titans” category alongside global heavyweights such as Alphabet, Nvidia, Meta and SpaceX, APR said Sunday. The U.S. magazine compiles the annual list based on recommendations from global correspondents, editors and industry experts, evaluating companies on influence, innovation and leadership.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260503/apr-named-among-times-100-most-influential-companies?utm_source=rss",
+    "date": "2026年5月3日"
   }
 ]
