@@ -544,5 +544,70 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/aws-launches-managed-agents-openai-partnership",
     "date": "2026年4月29日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
+    "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
+    "summary": "Exclusive: Biometrics commissioners say face-scanning not as effective as claimed and new laws needed to regulate useHow does live facial recognition work and how many police forces use it? Guilty…",
+    "body": "until proven innocent: shoppers falsely identified by facial recognitionBritain’s biometrics watchdogs have warned that national oversight of AI-powered face scanning to catch criminals is lagging far behind the technology’s rapid growth.With the Metropolitan police almost doubling the number of faces they scan in London over the past 12 months and a rising use of the technology by retailers in…",
+    "url": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "How does live facial recognition work and how many UK police forces use it?",
+    "summary": "Technology has been deployed since 2020 in London, leading to concerns over data privacy and racial biasAI facial recognition oversight lagging far behind technology, watchdogs warnGuilty until…",
+    "body": "proven innocent: shoppers falsely identified by facial recognitionThe Labour government thinks facial recognition technology is “the biggest breakthrough for catching criminals since DNA matching”. It wants all police forces to use it and recently announced 40 new vans rigged with live facial recognition cameras to be deployed in town centres across England and Wales.Supporters say it streamlines…",
+    "url": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "OpenAI trackt in den USA per Cookies für personalisierte Werbung",
+    "summary": "ChatGPT und andere Dienste teilen jetzt die Daten von US-Nutzern mit Werbetreibenden. Auch für mehr Werbung in den eigenen Apps.",
+    "body": "",
+    "url": "https://www.heise.de/news/OpenAI-trackt-in-den-USA-per-Cookies-fuer-personalisierte-Werbung-11279629.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Anthropics aussichtsloser Kampf gegen den Leak von Claude Code",
+    "summary": "Ein menschlicher Fehler bei Anthropic enthüllt die Architektur autonomer KI-Agenten und löst eine hitzige Debatte über das Copyright an KI-generiertem Code aus.",
+    "body": "",
+    "url": "https://www.heise.de/news/Claude-Code-Leck-8100-Loeschantraege-und-die-Geburtsstunde-von-Claw-Code-11279601.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月3日"
   }
 ]
