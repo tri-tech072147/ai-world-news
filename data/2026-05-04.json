@@ -609,5 +609,31 @@
     "body": "",
     "url": "https://www.heise.de/news/Claude-Code-Leck-8100-Loeschantraege-und-die-Geburtsstunde-von-Claw-Code-11279601.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "‘This is fine’ creator says AI startup stole his art",
+    "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "date": "2026年5月3日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "AI and a gathering storm of unchecked power",
+    "summary": "Corporate control of AI raises urgent questions about power, accountability and a weakening of democratic safeguards",
+    "body": "",
+    "url": "https://www.thehindu.com/opinion/lead/ai-and-a-gathering-storm-of-unchecked-power/article70935775.ece",
+    "date": "2026年5月3日"
   }
 ]
