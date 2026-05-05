@@ -544,5 +544,57 @@
     "body": "This article hopes to explain the differences and how software developers and users should approach interaction with each. An API is mainly found in software applications, while an MCP [ ] The post A guide to APIs, MCPs, and MCP Gateways appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/a-guide-to-apis-and-mcps-and-mcp-gateways/",
     "date": "2026年4月30日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "date": "2026年5月5日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+    "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his…",
+    "body": "appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed — even when the conversation turned to the rivals.",
+    "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+    "date": "2026年5月5日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "US and tech firms strike deal to review AI models for national security before public release",
+    "summary": "Microsoft, Google DeepMind and xAI products to be vetted for cybersecurity, biosecurity and chemical weapons risksThe US government has struck deals with Google DeepMind, Microsoft and xAI to review…",
+    "body": "early versions of their new AI models before they are released to the public.The Center for AI Standards and Innovation (CAISI), part of the US Department of Commerce, announced the agreements on Tuesday, saying the review process would be key to understanding the capabilities of new and powerful AI models as well as to protecting US national security.…",
+    "url": "https://www.theguardian.com/technology/2026/may/05/commerce-department-ai-agreements-google-microsoft-xai",
+    "date": "2026年5月5日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "SoundHound Launches Self-Learning AI Agent Platform",
+    "summary": "OASYS enables agents to autonomously improve, potentially cutting down on development time and costs for enterprise customers.",
+    "body": "",
+    "url": "https://aibusiness.com/agentic-ai/soundhound-launches-self-learning-ai-agent-platform",
+    "date": "2026年5月5日"
   }
 ]
