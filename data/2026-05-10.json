@@ -492,5 +492,31 @@
     "body": "It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industrial robotics already provides a large base for that discussion. [ ] The post Physical AI raises governance questions for autonomous systems appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
     "date": "2026年5月4日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Google developers significantly misstate carbon emissions of proposed UK datacentres",
+    "summary": "Emissions understated by factor of five in Essex plans for tech giant, while Greystoke’s Lincolnshire plans show similar errorDevelopers working for Google have significantly misstated how much…",
+    "body": "carbon two proposed AI datacentres will contribute to the UK’s total emissions in planning documents reviewed by the Guardian.The tech company wants to build two huge datacentres – one 52-hectare (130 acre) project in Thurrock and another at an airfield in North Weald, both in Essex.…",
+    "url": "https://www.theguardian.com/technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres",
+    "date": "2026年5月9日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Top 10: Der beste Mähroboter ohne Begrenzungskabel mit Kamera, GPS oder LiDAR",
+    "summary": "Mähroboter ohne Begrenzungskabel versprechen eine leichte Inbetriebnahme. Mit LiDAR-Navigation gelingt das sogar noch einfacher. Wir zeigen die besten Geräte.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月9日"
   }
 ]
