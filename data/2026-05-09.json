@@ -609,5 +609,31 @@
     "body": "",
     "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
     "date": "2026年5月7日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Beijing pushes AI data centres to adopt green energy under action plan",
+    "summary": "Beijing is moving to make green electricity usage a key metric in the operation of new data centre projects, as part of a major push to align the rapid expansion of artificial intelligence with…",
+    "body": "national carbon goals, according to an action plan released Friday. The policy document, jointly released by four bodies – the National Energy Administration, National Development and Reform Commission, Ministry of Industry and Information Technology and National Data Administration – encouraged operators...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3352983/beijing-pushes-ai-data-centres-adopt-green-energy-under-action-plan?utm_source=rss_feed",
+    "date": "2026年5月9日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Who is Louis Mosley, the man tasked with defending Palantir against its critics?",
+    "summary": "The company’s UK and Europe boss has become a lightning rod for the British public’s fear of a US tech takeoverThe hall was packed with rightwing radicals when Louis Mosley heralded a coming…",
+    "body": "revolution. Just as Oliver Cromwell – that “crusader for Christ and liberty” – routed King Charles I’s royalists, “a similar revolution is brewing today”, said the UK and Europe boss of Palantir. Globalism’s “twilight” was upon us, he said in a speech dotted with admiring mentions of the podcaster Joe Rogan and “Elon’s Doge”.It was not a typical peroration for a big UK government contractor with…",
+    "url": "https://www.theguardian.com/technology/2026/may/09/who-is-louis-mosley-defending-palantir-critics",
+    "date": "2026年5月9日"
   }
 ]
