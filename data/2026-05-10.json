@@ -518,5 +518,31 @@
     "body": "",
     "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年5月9日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "date": "2026年5月9日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Mythos | Double-edged sword",
+    "summary": "The Anthropic AI model can not only identify vulnerabilities in cyberspace that humans may have missed, but also generate ways to exploit them, potentially even for non-experts",
+    "body": "",
+    "url": "https://www.thehindu.com/news/national/mythos-double-edged-sword/article70960067.ece",
+    "date": "2026年5月9日"
   }
 ]
