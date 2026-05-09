@@ -570,5 +570,44 @@
     "body": "",
     "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
     "date": "2026年5月8日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s Huaqiangbei bets on AI innovations to revive global appeal",
+    "summary": "Huaqiangbei, home to the world’s largest electronics marketplace in southern China’s tech hub Shenzhen, is reinventing itself as the world’s artificial intelligence showroom, drawing back foreign…",
+    "body": "traders and tourists hunting for the latest gadgets. For first-time visitors like Abigail Slagveer from Rotterdam, the Netherlands, the sheer scale of Huaqiangbei’s electronics market is overwhelming. “I came here one and a half hours ago through that front door,” she said, pointing to an entrance just...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3352938/chinas-huaqiangbei-bets-ai-innovations-revive-global-appeal?utm_source=rss_feed",
+    "date": "2026年5月9日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "ByteDance raises 2026 capex by at least 25% amid AI boom, rising memory costs, sources say",
+    "summary": "TikTok owner ByteDance is ramping up its spending on artificial intelligence infrastructure, boosting its planned capital expenditure this year to more than 200 billion yuan (US$30 billion),…",
+    "body": "according to two people familiar with the matter. This represented an increase of at least 25 per cent compared with a preliminary plan discussed late last year that proposed AI capex of 160 billion yuan, they said. The increase was necessary because of the company’s growing commitment to AI, as well as...",
+    "url": "https://www.scmp.com/tech/article/3352906/bytedance-raises-2026-capex-least-25-amid-ai-boom-rising-memory-costs-sources-say?utm_source=rss_feed",
+    "date": "2026年5月9日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "How sunburn inspired a new way to store energy",
+    "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
+    "body": "",
+    "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年5月7日"
   }
 ]
