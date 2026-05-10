@@ -622,5 +622,44 @@
     "body": "studying space-based datacentre technology",
     "url": "https://www.thehindu.com/sci-tech/science/can-datacentres-in-orbit-solve-for-ai-models-soaring-energy-demand/article70509022.ece",
     "date": "2026年5月9日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Alibaba brings chat-style shopping to Taobao and Qwen amid AI gateway push: source",
+    "summary": "Chinese e-commerce giant Alibaba Group Holding is preparing an overhaul of how local consumers shop online, betting that the next trend will feel more like chatting with an artificial intelligence…",
+    "body": "chatbot rather than typing keywords into a search bar, according to a source. Users of the company’s flagship AI assistant Qwen – one of the most popular in China – would soon be able to use natural language to “talk” with the chatbot app to find and buy items listed on Alibaba’s Taobao and Tmall...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3353044/alibaba-brings-chat-style-shopping-taobao-and-qwen-amid-ai-gateway-push?utm_source=rss_feed",
+    "date": "2026年5月10日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Bots als Täter-Software: Wenn Algorithmen Kindesmissbrauch simulieren",
+    "summary": "Auf Plattformen wie Chub AI werden Sprachmodelle trainiert, sexualisierte Gewalt gegen Kinder darzustellen und Nutzer in Missbrauchsszenarien zu verwickeln.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-Bots-als-Taeter-Software-Wenn-Algorithmen-Kindesmissbrauch-simulieren-11288576.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "AI-fueled rally at Samsung, SK hynix faces sustainability test: Harvard economist",
+    "summary": "Samsung Electronics and SK hynix have led Korea’s recent stock market rally on the back of surging global demand for advanced artificial intelligence (AI) chips, but the broader AI industry must…",
+    "body": "ultimately prove it can translate technological promise into scalable and sustainable profit models for current lofty valuations to hold over the long term, according to a Harvard economist. In a recent exclusive interview with The Korea Times and its sister publication, the Hankook Ilbo, at the Korea Capital Market Institute in Seoul, John Y.…",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260510/ai-fueled-rally-at-samsung-sk-hynix-faces-sustainability-test-harvard-economist?utm_source=rss",
+    "date": "2026年5月10日"
   }
 ]
