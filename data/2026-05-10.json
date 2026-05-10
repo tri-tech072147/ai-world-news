@@ -544,5 +544,83 @@
     "body": "",
     "url": "https://www.thehindu.com/news/national/mythos-double-edged-sword/article70960067.ece",
     "date": "2026年5月9日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "date": "2026年5月10日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Shadow APIs: how Chinese developers bypass restrictions to access Claude and Gemini",
+    "summary": "In China, a grey market of API relay platforms is thriving, allowing local developers to bypass restrictions to access top-tier overseas AI models such as Anthropic’s Claude and Google’s Gemini,…",
+    "body": "which are officially unavailable in the country, despite an escalating crackdown by the foreign providers. Such relay stations, which route access to overseas AI models through proxy servers hosted outside mainland China, are becoming a go-to place for developers wanting to use US AI models for tasks...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3353002/shadow-apis-how-chinese-developers-bypass-restrictions-access-claude-and-gemini?utm_source=rss_feed",
+    "date": "2026年5月10日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China scrambles to close AI security gap as Anthropic, OpenAI pull ahead with new models",
+    "summary": "While leading US artificial intelligence developers such as Anthropic and OpenAI unveil new models with enhanced cybersecurity capabilities, China is also aggressively scaling up its own AI-driven…",
+    "body": "cyber defence market. Anthropic’s Mythos, launched in April, sparked a rapid global response due to its ability to discover and exploit cybersecurity vulnerabilities with unprecedented speed and efficiency. “Our assessment is that China’s own Mythos will definitely emerge, though currently the overall...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3352978/china-scrambles-close-ai-security-gap-anthropic-openai-pull-ahead-new-models?utm_source=rss_feed",
+    "date": "2026年5月10日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「え、就職の面接官がAIだって？」 普及する“AI面接官”への困惑と改善要望【調査】",
+    "summary": "ある調査によると、米国人回答者の63％が「AI面接官」による面談を経験している。AI活用を拒否する意見は少ない半面、運用面への“注文”が並ぶ。多くの求職者の支持を集めた改善要望は何か。また、「AI面接官」を導入する企業のデメリットとは。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/09/news020.html",
+    "date": "2026年5月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Abortive constitutional reform",
+    "summary": "Korea’s latest attempt at constitutional reform collapsed in the National Assembly last week, undone by the very partisan calculations that make reform necessary in the first place.…",
+    "body": "At the heart of the failed amendment was a proposal both modest and profoundly important: to tighten constitutional safeguards on the use of martial law. Under the current Constitution, the president retains broad authority to declare martial law in times of war or national emergency, subject only to later review by the National Assembly.…",
+    "url": "https://www.koreatimes.co.kr/opinion/editorial/20260510/ed-abortive-constitutional-reform?utm_source=rss",
+    "date": "2026年5月10日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Can data centres in orbit solve for AI models’ soaring energy demand?",
+    "summary": "Google’s Project Suncatcher is experimenting with a novel approach: putting datacentres servicing AI workloads in low-earth orbit and letting them feed on solar energy; ISRO is also reportedly…",
+    "body": "studying space-based datacentre technology",
+    "url": "https://www.thehindu.com/sci-tech/science/can-datacentres-in-orbit-solve-for-ai-models-soaring-energy-demand/article70509022.ece",
+    "date": "2026年5月9日"
   }
 ]
