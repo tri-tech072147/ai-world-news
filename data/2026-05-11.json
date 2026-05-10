@@ -518,5 +518,31 @@
     "body": "It is how their actions are tested, monitored, and stopped when they interact with real-world systems. Industrial robotics already provides a large base for that discussion. [ ] The post Physical AI raises governance questions for autonomous systems appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/physical-ai-governance-autonomous-systems/",
     "date": "2026年5月4日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+    "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "date": "2026年5月10日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Mistaking AI behaviour for conscious being | Letter",
+    "summary": "Dr Simon Nieder responds to Richard Dawkins’ encounters with a chatbotRichard Dawkins’ reflections on AI consciousness are striking – not because they show that machines have crossed some hidden…",
+    "body": "threshold into inner life, but because they reveal how readily we can be persuaded that they have (Richard Dawkins concludes AI is conscious, even if it doesn’t know it, 5 May).Many will recognise the experience: a system that responds with fluency, humour and apparent understanding. At some point, simulation starts to feel like presence.…",
+    "url": "https://www.theguardian.com/technology/2026/may/10/mistaking-ai-behaviour-for-conscious-being",
+    "date": "2026年5月10日"
   }
 ]
