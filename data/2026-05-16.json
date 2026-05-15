@@ -570,5 +570,70 @@
     "body": "AI security firm HiddenLayer. The number of downloads may have been artificially inflated by the attackers to make the model seem more popular, so the extent of [ ] The post Hugging Face hosted malicious software masquerading as OpenAI release appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/malware-on-hugging-face-malicious-software-masquerading-as-openai-release/",
     "date": "2026年5月12日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+    "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges…",
+    "body": "toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out [ ]",
+    "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+    "date": "2026年5月15日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+    "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "date": "2026年5月15日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "date": "2026年5月15日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Richard Dawkins and the question of AI consciousness | Letters",
+    "summary": "Salley Vickers and Carrie Eckersley respond to a letter on Richard Dawkins and his chats with AI botsI was delighted to read Dr Simon Nieder’s cogent rebuttal of Richard Dawkins’s attribution of…",
+    "body": "consciousness to the responses engendered by AI (Letters, 10 May). That human consciousness appears to have an innate tendency to project itself on to various othernesses has long been understood – John Ruskin termed it the pathetic fallacy – and that children animate their loved toys is readily observable.But Wordsworth’s attribution of emotion to a mountain or my granddaughter’s lively…",
+    "url": "https://www.theguardian.com/technology/2026/may/15/richard-dawkins-and-the-question-of-ai-consciousness",
+    "date": "2026年5月15日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Trump-Xi summit highlights cooperation despite key tensions",
+    "summary": "BEIJING — When U.S. President Donald Trump and Chinese President Xi Jinping met in Beijing this week, their cordial exchange of pleasantries, a firm handshake and emphasis on cooperation fueled…",
+    "body": "cautious optimism about relations between the two superpowers. However, the lack of clear breakthroughs on complex issues, including the status of Taiwan, underscored the persistent challenges facing the Sino-U.S. relationship amid increasingly intensifying competition over trade, security and technological leadership.…",
+    "url": "https://www.koreatimes.co.kr/world/20260516/trump-xi-summit-highlights-cooperation-despite-key-tensions?utm_source=rss",
+    "date": "2026年5月15日"
   }
 ]
