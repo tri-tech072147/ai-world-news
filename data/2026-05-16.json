@@ -648,5 +648,83 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
     "date": "2026年5月15日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Sony-Tempo, Canon ohne Sucher, Nikon rot – die Fotonews der Woche 20/2026",
+    "summary": "Sony bringt ein 67 Megapixel auf Flaggschiff-Geschwindigkeit, Canon setzt auf Lüfter statt Sucher und Nikon schreibt Rekordverluste.",
+    "body": "",
+    "url": "https://www.heise.de/news/Sony-Tempo-Canon-ohne-Sucher-Nikon-rot-die-Fotonews-der-Woche-20-2026-11295237.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月16日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Code lesen statt Code schreiben: Die unterschätzte Senior-Disziplin",
+    "summary": "Joel Spolsky warnte schon 2000 davor, Code lieber neu zu schreiben als zu lesen. Mit LLMs wird seine Diagnose zur drängenden Frage für jedes Team.",
+    "body": "",
+    "url": "https://www.heise.de/blog/Code-lesen-statt-Code-schreiben-Die-unterschaetzte-Senior-Disziplin-11288309.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月16日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Tech CEOs summoned to Congress for another hearing on social media’s risks for children",
+    "summary": "Social media CEOs have been called to testify before Congress amid growing pressure to protect young users",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/tech-ceos-summoned-to-congress-for-another-hearing-on-social-medias-risks-for-children/article70985894.ece",
+    "date": "2026年5月16日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Arm Holdings to face U.S. antitrust probe over chip tech: Report",
+    "summary": "The FTC is investigating whether Arm is trying to illegally monopolise parts of ‌the semiconductor market, the report said",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/arm-holdings-to-face-us-antitrust-probe-over-chip-tech-report/article70985893.ece",
+    "date": "2026年5月16日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "At Samsung, the global AI boom spurred a looming strike and deep divisions",
+    "summary": "Samsung Electronics, which has ⁠reaped huge profits from a global memory shortage, has offered to pay generous bonuses to staff",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/at-samsung-the-global-ai-boom-spurred-a-looming-strike-and-deep-divisions/article70985904.ece",
+    "date": "2026年5月16日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Samsung Electronics, labor union to resume talks ahead of planned strike",
+    "summary": "Samsung Electronics and its labor union will resume government-led mediation talks Monday, just three days ahead of a major planned strike, company and union officials said Saturday.…",
+    "body": "The session will take place at the National Labor Relations Commission's office in Sejong, about 110 kilometers south of Seoul, after earlier mediation talks broke down Wednesday. The company's largest labor union plans to begin the 18-day strike next Thursday, which could disrupt production at the world's largest memory chipmaker.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260516/samsung-electronics-labor-union-to-resume-talks-ahead-of-planned-strike?utm_source=rss",
+    "date": "2026年5月16日"
   }
 ]
