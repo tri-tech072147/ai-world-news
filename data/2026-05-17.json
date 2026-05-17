@@ -739,5 +739,31 @@
     "body": "Three people died in the Moscow region and one in the Belgorod region, authorities said on Sunday. Moscow regional Governor Andrei Vorobyov said a woman was killed when a home was hit in Khimki, north of the capital, adding that rescuers were searching the debris for another person. Two men were killed in the village of Pogorelki in the Mytishchi district.…",
     "url": "https://www.koreatimes.co.kr/world/20260517/ukraine-drones-kill-four-in-russia-moscow-faces-biggest-attack-in-over-a-year?utm_source=rss",
     "date": "2026年5月17日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘Nobody’s negotiating for the people here’: comedian Charlie Berens takes on AI datacenters",
+    "summary": "Known for his ‘Manitowoc Minute’ skits and midwestern humor, the journalist turned comedian is speaking out against the AI datacenter boom in WisconsinLast summer, journalist turned comedian Charlie…",
+    "body": "Berens started getting social media messages from concerned Wisconsin residents about plans for a massive datacenter campus in their state.The developer, Vantage Data Centers, claimed the $8 bn project would largely run on zero-emission energy resources like solar, wind and battery storage.…",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters",
+    "date": "2026年5月17日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: data2day 2026 setzt Schwerpunkte auf Datenprodukte, Agentic AI und Governance",
+    "summary": "Bei der Konferenz für Data Scientists, Data Engineers und Datenteams stehen agentische KI-Systeme, Datenkontrakte und moderne Lakehouse-Architektur im Fokus.",
+    "body": "",
+    "url": "https://www.heise.de/news/data2day-2026-setzt-Schwerpunkte-auf-Datenprodukte-Agentic-AI-und-Governance-11292765.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月17日"
   }
 ]
