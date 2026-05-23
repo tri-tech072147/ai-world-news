@@ -726,5 +726,44 @@
     "body": "",
     "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
     "date": "2026年5月22日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’",
+    "summary": "Growing numbers of people are seeking improbable cosmetic surgery based on chatbots’ recommendationsPlastic surgeons are increasingly concerned about the rise of “AI face”, as more and more clients…",
+    "body": "arrive in their offices with unrealistic AI-generated visions of what they want to look like.Dr Nora Nugent, a cosmetic surgeon from Tunbridge Wells, has seen this first hand. Clients have started coming to her office with photos of themselves beautified by AI and a false expectation that those results are achievable with surgery.…",
+    "url": "https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery",
+    "date": "2026年5月23日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: Product Owner AI Day 2026: Konferenz und Workshop für KI im Produktmanagement",
+    "summary": "KI in der Produktentwicklung einsetzen und Zeit sparen: Die Konferenz am 9. Juli zeigt, wie KI Prozesse automatisieren kann. Ein Workshop folgt am 10. Juli.",
+    "body": "",
+    "url": "https://www.heise.de/news/Product-Owner-AI-Day-2026-Konferenz-und-Workshop-fuer-KI-im-Produktmanagement-11294441.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月23日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "New Orange-backed subsea cable to connect Nigeria, 19 other countries",
+    "summary": "Global telecommunications operator Orange is backing a new 20,000-kilometre subsea cable project that will link Nigeria and nearly 20 other countries in Africa and Europe.",
+    "body": "",
+    "url": "https://techcabal.com/2026/05/23/orange-backed-subsea-cable-to-connect-nigeria-19-other-countries/",
+    "date": "2026年5月23日"
   }
 ]
