@@ -674,5 +674,57 @@
     "body": "",
     "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
     "date": "2026年5月22日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Wingtech sues Dutch unit Nexperia for US$1.17b as battle for control escalates",
+    "summary": "China’s Wingtech Technology has filed a lawsuit against Dutch chipmaker Nexperia and three of its executives under China’s anti-foreign sanctions law, as the Chinese company remains embroiled in a…",
+    "body": "power struggle for control of its Dutch subsidiary. In an investor statement on Friday, the Shenzhen-based company said it has sued in a Guangdong court, demanding the restoration of full control over Nexperia and 8 billion yuan (US$1.17 billion) in compensation. In September 2025 the Dutch government...",
+    "url": "https://www.scmp.com/tech/tech-war/article/3354611/wingtech-sues-dutch-unit-nexperia-us117b-battle-control-escalates?utm_source=rss_feed",
+    "date": "2026年5月23日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Fitbit-App bekommt großes Update auf Version 5.0 und heißt jetzt Google Health",
+    "summary": "Google verteilt das Update auf Version 5.0: Die Fitbit-App wird zur Google Health App und erhält ein Redesign sowie neue KI-Funktionen auf Gemini-Basis.",
+    "body": "",
+    "url": "https://www.heise.de/news/Fitbit-App-bekommt-grosses-Update-auf-Version-5-0-und-heisst-jetzt-Google-Health-11304176.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月23日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Jang Won-young’s couch steals spotlight in luxury Seoul home worth $10 million",
+    "summary": "Jang Won-young of K-pop girl group IVE is once again drawing attention for her “young and rich” lifestyle after revealing part of her luxury Seoul home on social media — including a designer couch…",
+    "body": "estimated to cost hundreds of thousands of dollars. On Thursday, Jang uploaded photos showing herself relaxing at home, giving fans a rare glimpse inside her residence in Hannam-dong, one of Seoul’s most expensive neighborhoods favored by celebrities and business elites. In the photos, the singer is seen lying comfortably on a large red modular couch placed at the center of the living room.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260523/jang-won-youngs-couch-steals-spotlight-in-luxury-seoul-home-worth-10-million?utm_source=rss",
+    "date": "2026年5月23日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "date": "2026年5月22日"
   }
 ]
