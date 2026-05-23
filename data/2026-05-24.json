@@ -557,5 +557,18 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/agriculture/agri-tech-has-improved-productivity-and-post-harvest-management-say-experts-at-webinar/article71014949.ece",
     "date": "2026年5月23日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "ソースネクストのAI議事録、Microsoft 365 Copilot連携で検索、要約を効率化",
+    "summary": "ソースネクストは、AI議事録サービス「AutoMemo」の新機能として、「AutoMemo Copilot エージェント」の提供を始めた。Microsoft 365 Copilotから過去の会議データを検索、要約、抽出できるようにし、議事録作成や報告業務の効率化を支援する。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2605/23/news017.html",
+    "date": "2026年5月23日"
   }
 ]
