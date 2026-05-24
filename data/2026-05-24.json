@@ -648,5 +648,57 @@
     "body": "",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html",
     "date": "2026年5月23日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "DeepSeek V4 Pro tops global bang-for-buck ranking after 75% price cut",
+    "summary": "Chinese artificial intelligence start-up DeepSeek’s latest flagship model has been ranked as one of the world’s best on an intelligence-per-dollar basis, far exceeding those from US heavyweights…",
+    "body": "OpenAI and Anthropic in cost-efficiency after a 75 per cent promotional price cut was made permanent. The Hangzhou-based start-up announced the permanent price cut for its V4 Pro model on Saturday, a month after it released the long-awaited V4 generation, which comprises the flagship V4 Pro model and its...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3354668/deepseek-v4-pro-tops-global-bang-buck-ranking-after-75-price-cut?utm_source=rss_feed",
+    "date": "2026年5月24日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Musik-Business: Universal schließt Tech-Pakt mit TikTok gegen unautorisierte KI",
+    "summary": "Der Musikriese Universal Music setzt eine weitreichende Lizenzvereinbarung durch, um die Verbreitung unlizenzierter KI-generierter Songs auf TikTok einzudämmen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Musik-Business-Universal-schliesst-Tech-Pakt-mit-TikTok-gegen-unautorisierte-KI-11305298.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月24日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Acemagic Retro X5 im Test: Mini-PC mit Ryzen AI 9 im Design des Nintendo NES",
+    "summary": "Der Acemagic Retro X5 ist eine Ode an den Nintendo NES. Mit Ryzen AI 9, 32 GB RAM und Wifi 7 ist er stark ausgestattet. Wir haben ihn getestet.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testbericht/acemagic-retro-x5-im-test-mini-pc-mit-ryzen-ai-9-im-design-des-nintendo-nes/hw5d06m?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月24日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt",
+    "summary": "Ab dem 26.08. lernen Sie in fünf Sessions künstliche Intelligenz zu entwickeln: Machine Learning, neuronale Netze und Deep Learning – alles effizient in Python.",
+    "body": "",
+    "url": "https://www.heise.de/news/Machine-Learning-mit-Python-KI-und-Deep-Learning-in-5-Sessions-erklaert-11299558.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月24日"
   }
 ]
