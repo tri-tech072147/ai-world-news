@@ -570,5 +570,83 @@
     "body": "",
     "url": "https://kn.itmedia.co.jp/kn/articles/2605/23/news017.html",
     "date": "2026年5月23日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Is Hong Kong following Beijing’s lead and ousting Western tech?",
+    "summary": "Hong Kong’s technology infrastructure is undergoing a major transformation as local government and businesses replace Western products with domestic alternatives, driven by closer integration with…",
+    "body": "mainland China and rising geopolitical risks, according to tech experts. US tech giants like Microsoft have long “served as the bedrock of Hong Kong’s digital landscape”, but that dominance is now being actively contested, particularly in the government sector, according to Francis Fong Po-kiu,...",
+    "url": "https://www.scmp.com/tech/policy/article/3354527/hong-kong-following-beijings-lead-and-ousting-western-tech?utm_source=rss_feed",
+    "date": "2026年5月24日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "‘Natural’ choice: why Unesco’s new STEM education centre is based in Shanghai",
+    "summary": "China has risen to become a global leader in science, technology, engineering and mathematics (STEM) education over recent decades.…",
+    "body": "Now, the country is sharing that experience with the rest of the world through a new Unesco institute based in Shanghai. The Unesco International Institute for STEM Education, inaugurated this month under the mandate of a United Nations resolution promoting “inclusive, equitable and quality education for all”, prioritises “Africa, least developed countries and small...",
+    "url": "https://www.scmp.com/economy/china-economy/article/3354553/natural-choice-why-unescos-new-stem-education-centre-based-shanghai?utm_source=rss_feed",
+    "date": "2026年5月24日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘AI washing’: firms are scrambling to rebrand themselves as tech-focused",
+    "summary": "PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence UK companies are performing “yoga-level” stretches to describe themselves as AI specialists…",
+    "body": "in an attempt to capitalise on the buzz around the technology, public relations firms have said.Weary communications executives tasked with securing media coverage for brands have complained that bosses in low-tech industries or running businesses that use automation but not generative AI, are increasingly demanding they are pitched to journalists as artificial intelligence companies.…",
+    "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+    "date": "2026年5月24日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu",
+    "summary": "As intelligence itself becomes privatised by big tech, allowing your intellectual faculties to wither in service of inane bots seems a dangerous moveLong before the age of multi-billion-dollar AI…",
+    "body": "companies promising to disrupt the field of software development, I was learning to code the hard way.It was the mid-2000s, and I was a child with unmonitored access to the family computer. With the help of a basic text editor program, I learned how to make websites – first basic, then increasingly complex – from scratch.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology",
+    "date": "2026年5月24日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes",
+    "summary": "Darren Aronofsky among proponents of using technology, while Guillermo del Toro says he would ‘rather die’Under a white marquee on Cannes’ Croisette beach, with the Mediterranean glistening behind…",
+    "body": "him and superyachts drifting across the horizon, the director Darren Aronofsky addressed an audience of executives and tech evangelists gathered for an “AI for Talent” summit.“There’s so much pushback against AI,” said Aronofsky, who has faced criticism over his embrace of generative AI projects though his new studio, Primordial Soup, at a time when artificial intelligence has become one of the…",
+    "url": "https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes",
+    "date": "2026年5月24日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「Gemini」「Claude Code」「Codex」 全社展開・本番実装に役立つ5つのポイント",
+    "summary": "開発現場における生成AIの利用は常態化しつつあるものの、「コード補完の域を出ない」「特定の個人のスキルに依存している」といった課題があります。本稿では、個人の生産性向上からチームへの定着、全社規模での展開、そしてAIエージェントの本番実装に至るまで、開発プロセス変革に役立つ5つのポイントを整理します。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html",
+    "date": "2026年5月23日"
   }
 ]
