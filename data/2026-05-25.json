@@ -570,5 +570,31 @@
     "body": "The AI and Big Data programme opened with reference to what was termed the AI graveyard – that is, AI projects that seem to perform well in pilot, but don t seem [ ] The post Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
     "date": "2026年5月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Everyone is navigating AI security in real time — even Google",
+    "summary": "We're in the transition period -- all of us.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "date": "2026年5月24日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Renault Korea’s Grand Koleos shines in alleys, on mountain roads",
+    "summary": "For decades, French vehicles have earned recognition for their ability to absorb minor road imperfections with ease while maintaining smooth and confident cornering.…",
+    "body": "The need to maneuver through narrow urban streets and navigate sharp bends on mountainous roads led French automakers to develop suspension systems that focused on ride comfort and balanced handling. The narrow, winding streets of Paris and the twisting mountain roads of the Alps and Pyrenees have long demanded agility, composure and refinement from French automobiles — characteristics that have…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260525/renault-koreas-grand-koleos-shines-in-alleys-on-mountain-roads?utm_source=rss",
+    "date": "2026年5月24日"
   }
 ]
