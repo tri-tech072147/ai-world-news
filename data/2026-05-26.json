@@ -570,5 +570,44 @@
     "body": "The AI and Big Data programme opened with reference to what was termed the AI graveyard – that is, AI projects that seem to perform well in pilot, but don t seem [ ] The post Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
     "date": "2026年5月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "What ClickUp’s mass layoff tells us about the future of work",
+    "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "date": "2026年5月25日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Sun Life: Building Trust in Technology, Redefining the Future of Insurance",
+    "summary": "[The content of this article has been produced by our advertising partner.] In the insurance industry, where trust is the most valuable asset, the true measure of technological innovation…",
+    "body": "achievements lies not in complexity, but in the ability to empower people. For Sun Life, a leading financial services provider with a 130-year legacy serving one in eight Hong Kong people, the journey of digital transformation is a testament to this principle. By placing human expertise at the core while...",
+    "url": "https://www.scmp.com/presented/tech/topics/generative-ai-and-cloud-services/article/3353920/sun-life-building-trust-technology-redefining-future-insurance?utm_source=rss_feed",
+    "date": "2026年5月25日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "The Guardian view on the Pope and Claude: Leo XIV’s encyclical on AI is right to put humanity first | Editorial",
+    "summary": "In calling for regulation of the digital revolution, and foregrounding human dignity, the pontiff has contributed to a crucial ethical debateWhen the present pope adopted his regnal name, he…",
+    "body": "explained the choice by reference to a 19th-century predecessor who used the papacy to address the great social question of his time. In the 1891 encyclical, Rerum Novarum (Of New Things), Pope Leo XIII analysed the social forces unleashed by the Industrial Revolution, and outlined principles for a just settlement between the forces of capital and labour.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/may/25/the-guardian-view-on-the-pope-and-claude-encyclical-on-ai-is-right-to-put-humanity-first",
+    "date": "2026年5月25日"
   }
 ]
