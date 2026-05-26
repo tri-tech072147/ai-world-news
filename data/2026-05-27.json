@@ -583,5 +583,83 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/alibaba-aims-independence-new-ai-chips-model",
     "date": "2026年5月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "This startup is betting India’s gig economy can train the world’s robots",
+    "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training…",
+    "body": "data that AI and robotics labs are racing to acquire.",
+    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "date": "2026年5月26日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | c’t-Story: Tick, tick, tick",
+    "summary": "Fortschrittliche Technik arbeitet softwaregestützt und ist auf regelmäßige Aktualisierungen angewiesen. Diese Abhängigkeit kann sich plötzlich fatal auswirken.",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/c-t-Story-Tick-tick-tick-11253773.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年5月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Trump declares himself in perfect health after physical exam",
+    "summary": "WASHINGTON — U.S. President Donald Trump, who turns 80 next month, said \"everything checked out perfectly\" after having his physical on Tuesday at Walter Reed National Military Medical Center,…",
+    "body": "following a year of public attention on apparently minor health issues. Trump offered no details of the physical in a brief Truth Social post saying he had completed his six-monthly exam. Trump frequently casts himself as more energetic and fitter than Joe Biden, his Democratic predecessor who left office last year at age 82 after facing questions about his fitness for the job.…",
+    "url": "https://www.koreatimes.co.kr/world/20260527/trump-declares-himself-in-perfect-health-after-physical-exam?utm_source=rss",
+    "date": "2026年5月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "America's tech-filled classrooms are facing backlash against school-assigned devices",
+    "summary": "Just a few years ago, America’s public schools were rushing to get every child a laptop. Los Angeles middle school teacher Anna Soffer remembers it well: “The idea was that technology is the future,…",
+    "body": "so we need to put tech in every child’s hands.” Now, the conversation has flipped. After pouring billions of dollars into laptops, tablets and learning apps, many schools are facing a digital reckoning. Classrooms have become saturated with screens, and a growing number of parents, teachers and school districts are saying it is time to scale back.…",
+    "url": "https://www.koreatimes.co.kr/world/20260527/americas-tech-filled-classrooms-are-facing-backlash-against-school-assigned-devices?utm_source=rss",
+    "date": "2026年5月26日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Anthropic Update Underscores Power of AI Flaw Finder Mythos",
+    "summary": "The cybersecurity model is not yet ready for widespread release.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/anthropic-update-underscores-power-ai-flaw-finder-mythos",
+    "date": "2026年5月26日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Mistral AI Taps Legal Sector With Harvey Partnership",
+    "summary": "The generative AI vendor is expanding into the legal industry in a move reminiscent of Anthropic’s legal AI deals.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/mistral-ai-taps-legal-sector-harvey-partnership",
+    "date": "2026年5月26日"
   }
 ]
