@@ -700,5 +700,70 @@
     "body": "year of President Lee Jae Myung taking office. The KOSPI’s gains this year, the strongest among major G20 economies, have been driven largely by a global semiconductor supercycle fueled by rising artificial intelligence (AI) demand, which sharply boosted earnings at Samsung Electronics and SK hynix, alongside the government’s market value-up and stock market revitalization policies.…",
     "url": "https://www.koreatimes.co.kr/economy/others/20260527/kospi-heading-toward-10000-fundamentals-policy-fuel-koreas-market-rally?utm_source=rss",
     "date": "2026年5月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "N Korea says it tested tactical ballistic missile, multiple rocket launcher, cruise missile",
+    "summary": "North Korea has tested a newly developed lightweight multipurpose missile launching system and multiple tactical cruise missiles, state media said Wednesday, with leader Kim Jong-un overseeing the…",
+    "body": "test as part of Pyongyang's ongoing weapons modernization drive. The Korean Central News Agency (KCNA) published the report a day after South Korea's military detected the launch of multiple close-range ballistic missiles (CRBMs) and artillery rockets toward the Yellow Sea from the Jongju area of North Phyongan Province at around 1 p.m.…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260527/n-korea-says-it-tested-tactical-ballistic-missile-multiple-rocket-launcher-cruise-missile?utm_source=rss",
+    "date": "2026年5月27日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "date": "2026年5月26日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIが生んだ新たな業務、9割が「負担」 AIOpsの“不都合な実態”",
+    "summary": "ある調査によると、AIOpsを導入した情報システム担当者の約75％が業務負荷軽減を実感する一方、約9割がAIを利用することで生まれた作業を「負担」と感じていることが明らかになった。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/27/news031.html",
+    "date": "2026年5月26日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "若年人口減少の中で「新卒採用支援市場」拡大 AIは採用活動をどう変える？",
+    "summary": "若年人口が減少する中で、優秀な人材をいかに確保するかが課題になっている。矢野経済研究所によると、新卒採用支援サービス市場は拡大基調にある。AIはこの市場をどう変えているのか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/26/news047.html",
+    "date": "2026年5月26日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "富士通、業務の変化に合わせて進化するAIエージェント技術を開発",
+    "summary": "法改正や仕様変更が続く企業業務でAIエージェントを使い続けるには、専門人材による継続的な調整が欠かせなかった。富士通の「自己進化マルチAIエージェント技術」は、この前提をどう変えるのか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/27/news028.html",
+    "date": "2026年5月26日"
   }
 ]
