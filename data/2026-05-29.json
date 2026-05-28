@@ -843,5 +843,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/ibm-red-hat-invest-5-billion-make-open-source-more-secure",
     "date": "2026年5月28日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「日本は製造業のパワーハウス」、IFSが産業AI投資を急拡大する理由",
+    "summary": "IFSジャパンは記者会見を開催し、日本市場への投資継続とパートナーシップ強化の方針を説明した。日本IBMらとの戦略的協業を通じ、製造業などアセット集約型産業のAI実装とDXを支援する。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2605/29/news054.html",
+    "date": "2026年5月28日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul Subway Line 2 resumes normal operations after safety inspection over overpass demolition",
+    "summary": "Seoul Subway Line 2 resumed normal operations early Friday following an overnight safety inspection due to the resumption of demolition work of a partially collapsed overpass, the city subway…",
+    "body": "operator said. The underground inspection began Thursday night after the labor ministry approved the city government's plan to resume demolishing the Seosomun Overpass in western Seoul, which partially collapsed Tuesday, killing three people and injuring three others.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20260529/seoul-subway-line-2-resumes-normal-operations-after-safety-inspection-over-overpass-demolition?utm_source=rss",
+    "date": "2026年5月28日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Living memory: How Busan connected with world during Korean War",
+    "summary": "BUSAN — \"This is the only United Nations memorial cemetery in the world,\" said Hwang Sun-bi, an official from the U.N. Memorial Cemetery in Busan's Nam District, Tuesday.…",
+    "body": "\"Tomorrow, a sacred ritual will unfold here. In accordance with their final wishes, two French veterans of the Korean War will return to be laid to rest alongside the very comrades they fought beside decades ago, reunited at last in a solemn burial ceremony.\" Today, the vast memorial grounds are alive with color, blanketed in fully bloomed azaleas and seasonal flowers that soften the weight of…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260529/living-memory-how-busan-connected-with-world-during-korean-war?utm_source=rss",
+    "date": "2026年5月28日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "[LEE'S 1ST YEAR IN OFFICE] President bets big on regional tourism",
+    "summary": "No president in Korean history has taken tourism more seriously than President Lee Jae Myung. Previous presidents did not feel the need to focus heavily on tourism because the Korean economy largely…",
+    "body": "relied on exports such as electronics, refined petroleum products, automobiles and semiconductors. However, the situation looked quite different when Lee took office last year. The global popularity of Korean dramas, films and K-pop artists has drawn international tourists to Korea to visit locations featured in their favorite shows, eat dishes enjoyed by celebrities and shop for beauty products…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260529/lees-1st-year-in-office-president-bets-big-on-regional-tourism?utm_source=rss",
+    "date": "2026年5月28日"
   }
 ]
