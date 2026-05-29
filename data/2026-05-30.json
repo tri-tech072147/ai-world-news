@@ -661,5 +661,44 @@
     "body": "per Axios.",
     "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
     "date": "2026年5月29日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Coders are refusing to work without AI — and that could come back to bite them",
+    "summary": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+    "date": "2026年5月29日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "OpenAIが生命科学推論AI「GPT-Rosalind」をバイオディフェンスに開放 デュアルユースリスクに懸念も",
+    "summary": "OpenAIは、生命科学研究に特化したフロンティア推論モデル「GPT-Rosalind」を活用した「Rosalind Biodefense」プログラムを発表した。生物脅威の検知など防衛目的に限定し、審査済みの開発者や米政府機関および同盟国のパートナー組織にAPIを無償提供する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/articles/2605/30/news031.html",
+    "date": "2026年5月29日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Candidates turn to booming defense industry for campaign pledges",
+    "summary": "Korea’s gubernatorial candidates in South Gyeongsang Province are positioning the booming aerospace and defense industries at the center of their economic campaign pledges, vowing to transform the…",
+    "body": "region into a global hub for advanced defense, shipbuilding and aerospace technologies. Both ruling and opposition candidates have unveiled their plans to strengthen the province’s industrial ecosystem with the focus on research, so the region can create value-added jobs tied to artificial intelligence (AI), next-generation defense systems and future mobility industries.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260530/candidates-turn-to-booming-defense-industry-for-campaign-pledges?utm_source=rss",
+    "date": "2026年5月29日"
   }
 ]
