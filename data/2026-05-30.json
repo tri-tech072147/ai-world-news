@@ -726,5 +726,44 @@
     "body": "President Lee Jae Myung's first year in office. More than 5.95 million people, or 13.35 percent, out of 44.6 million registered voters cast their ballots as of 9 a.m. after early voting began at 6 a.m. the previous day, according to the NEC. The voter turnout was higher than the 11.81 percent recorded at the same time on the second day of early voting for the 2022 local elections.…",
     "url": "https://www.koreatimes.co.kr/southkorea/politics/20260530/koreans-hit-polls-on-last-day-of-early-voting-for-june-3-local-elections?utm_source=rss",
     "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Unicorn born in record time amid ‘arms race’ among China’s robotic hand developers",
+    "summary": "Venture capitalists and industrial giants in China are aggressively backing developers of dexterous robotic hands – the toughest bottleneck in the global humanoid hardware arms race – in a funding…",
+    "body": "blitz that is rapidly driving up start-up valuations. The latest capital injection was announced on Friday by Xynova. The Hangzhou-based start-up said it had completed a series A round from investors including the venture arms of smartphone maker Xiaomi and electric vehicle giant Li Auto, bringing...",
+    "url": "https://www.scmp.com/tech/article/3355365/unicorn-born-record-time-amid-arms-race-among-chinas-robotic-hand-developers?utm_source=rss_feed",
+    "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Meta plans AI pendant, 'wearables for work' in hardware boost: Report",
+    "summary": "The report comes after Meta’s ​hardware unit Reality Labs reported a loss of $4.03 billion ⁠in the first quarter on revenue of just $402 million",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/meta-plans-ai-pendant-wearables-for-work-in-hardware-boost-report/article71040133.ece",
+    "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "UN says protecting children online an 'urgent priority'",
+    "summary": "UN rights chief Volker Turk said states had to force tech giants to embed child safety into their platforms",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/un-says-protecting-children-online-an-urgent-priority/article71040122.ece",
+    "date": "2026年5月30日"
   }
 ]
