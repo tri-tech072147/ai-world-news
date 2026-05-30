@@ -791,5 +791,31 @@
     "body": "The aggressive street-level sounds of men hawking bootleg DVDs and low-sheen neckties from folding tables. The pachinko parlors that lined Jongno. The high-temperature public anxieties of mad cow protests. Individual cigarettes sold illegally out of cardboard boxes at local pharmacies. And the constant wet throat-clearing soundtrack of old Seoul. My god, the spitting. Much has changed since then.…",
     "url": "https://www.koreatimes.co.kr/opinion/20260530/because-trump-dropped-bombs-the-korean-government-bought-me-my-bananas?utm_source=rss",
     "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Americans echo Pope Leo’s concerns about AI: ‘It threatens workers, privacy and human life’",
+    "summary": "Guardian readers in the US spoke of fears about unregulated AI in response to the pope’s encyclical warning about the risks of the technologyIn his first major papal text since assuming leadership of…",
+    "body": "the Catholic church last year, Pope Leo issued a stark warning about the rise of artificial intelligence this week, denouncing the “culture of power” driving the AI age.Calling for the “most rigorous” ethical constraints on AI – which he described as one of the greatest threats facing humanity today – the first US-born pope also warned of “new forms of slavery” emerging through the digital…",
+    "url": "https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction",
+    "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Kritik an BSI-Rahmen: Scheinsouveränität für die europäische Cloud?",
+    "summary": "Der neue C3A-Kriterienkatalog des BSI schützt laut dem EU-Cloudverband CISPE nicht vor US-Gesetzen, sondern zementiert die Abhängigkeit von Tech-Giganten.",
+    "body": "",
+    "url": "https://www.heise.de/news/Kritik-an-BSI-Rahmen-Scheinsouveraenitaet-fuer-die-europaeische-Cloud-11312411.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月30日"
   }
 ]
