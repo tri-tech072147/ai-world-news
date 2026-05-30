@@ -817,5 +817,44 @@
     "body": "",
     "url": "https://www.heise.de/news/Kritik-an-BSI-Rahmen-Scheinsouveraenitaet-fuer-die-europaeische-Cloud-11312411.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+    "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
+    "summary": "Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examinationWhy did Anthropic’s founder sit beside the pope during a warning about AI?In the first…",
+    "body": "major written teaching of his papacy, Pope Leo XIV took artificial intelligence to task. The pontiff delineated the technology’s most concerning threats to humanity: replacing workers, accelerating war and exploiting the environment.…",
+    "url": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
+    "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Main opposition files complaint against Lee over alleged election law violation",
+    "summary": "The main opposition People Power Party (PPP) filed a complaint with police against President Lee Jae Myung on Saturday, alleging that he violated the election law by exposing his ballot paper during…",
+    "body": "early voting for the upcoming local elections. PPP leader Jang Dong-hyeok filed the complaint with police against Lee and officials at the National Election Commission (NEC) on grounds that they violated the Public Official Election Act.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260530/main-opposition-files-complaint-against-lee-over-alleged-election-law-violation?utm_source=rss",
+    "date": "2026年5月30日"
   }
 ]
