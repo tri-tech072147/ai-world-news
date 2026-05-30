@@ -765,5 +765,31 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/un-says-protecting-children-online-an-urgent-priority/article71040122.ece",
     "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Agent im Browser: „Let's Build K.I.T.T. With JavaScript“",
+    "summary": "Mit WebAssembly, WebGPU und anderen modernen Browsertechnologien entsteht in diesem Vortrag auf der enterJS ein KI-Agent, der autonome Entscheidungen trifft.",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/KI-Agent-im-Browser-Let-s-Build-K-I-T-T-With-JavaScript-11293527.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Because Trump dropped bombs, the Korean government bought me my bananas",
+    "summary": "I’m now at the stage where I’ve been living and working in Korea longer than many of my university students have been alive. I remember the toilets that were little more than holes in the ground.…",
+    "body": "The aggressive street-level sounds of men hawking bootleg DVDs and low-sheen neckties from folding tables. The pachinko parlors that lined Jongno. The high-temperature public anxieties of mad cow protests. Individual cigarettes sold illegally out of cardboard boxes at local pharmacies. And the constant wet throat-clearing soundtrack of old Seoul. My god, the spitting. Much has changed since then.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260530/because-trump-dropped-bombs-the-korean-government-bought-me-my-bananas?utm_source=rss",
+    "date": "2026年5月30日"
   }
 ]
