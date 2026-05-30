@@ -700,5 +700,31 @@
     "body": "region into a global hub for advanced defense, shipbuilding and aerospace technologies. Both ruling and opposition candidates have unveiled their plans to strengthen the province’s industrial ecosystem with the focus on research, so the region can create value-added jobs tied to artificial intelligence (AI), next-generation defense systems and future mobility industries.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260530/candidates-turn-to-booming-defense-industry-for-campaign-pledges?utm_source=rss",
     "date": "2026年5月29日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Is Huawei’s new chip scaling law a true breakthrough, or mere hype?",
+    "summary": "Microchip development has always been a race to build smaller and smaller transistors – the fundamental components of chip circuits. Now China’s Huawei Technologies wants to change the game entirely.…",
+    "body": "Faced with US tech export restrictions that block its access to the world’s most advanced chipmaking machinery, Huawei is proposing a fundamental shift in semiconductor progress: stop obsessing over how small the transistors are and start focusing on how fast data moves through the system. It is a...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3355314/huaweis-new-chip-scaling-law-true-breakthrough-or-mere-hype?utm_source=rss_feed",
+    "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Koreans hit polls on last day of early voting for June 3 local elections",
+    "summary": "South Koreans headed to the polls Saturday on the second and last day of early voting for next week's nationwide local elections and parliamentary by-elections, widely seen as a referendum on…",
+    "body": "President Lee Jae Myung's first year in office. More than 5.95 million people, or 13.35 percent, out of 44.6 million registered voters cast their ballots as of 9 a.m. after early voting began at 6 a.m. the previous day, according to the NEC. The voter turnout was higher than the 11.81 percent recorded at the same time on the second day of early voting for the 2022 local elections.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260530/koreans-hit-polls-on-last-day-of-early-voting-for-june-3-local-elections?utm_source=rss",
+    "date": "2026年5月30日"
   }
 ]
