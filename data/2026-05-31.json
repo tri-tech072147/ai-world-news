@@ -648,5 +648,44 @@
     "body": "",
     "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
     "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Alibaba Group signs 6-year AI deal with Uefa, will bring 360 replay tech to major events",
+    "summary": "Alibaba Group and Uefa are bringing the Chinese giant’s 360-degree replay technology to football, after signing an exclusive six-year deal covering several major tournaments in Europe.…",
+    "body": "The partnership, which has been widely reported in state media, will see the sport’s regional governing body join the International Olympic Committee and NBA China, among others, in working with Qwen, Alibaba’s artificial intelligence model. With European football accelerating its digital transformation and fan...",
+    "url": "https://www.scmp.com/sport/football/article/3355442/alibaba-group-signs-6-year-ai-deal-uefa-will-bring-360-replay-tech-major-events?utm_source=rss_feed",
+    "date": "2026年5月31日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "How a decade-long bet on photonics handed this Chinese venture capital firm an AI windfall",
+    "summary": "As artificial intelligence strains the physical limits of existing data centres, scientists and investors are turning to the ultimate speed limit of the universe for the next computing frontier:…",
+    "body": "light. For Mi Lei, founder of CAS Star, a venture capital firm born out of the state-run Chinese Academy of Sciences (CAS), the sudden global fascination with photonics is less a surprise than a delayed validation. It is a thesis he has spent more than a decade trying to support with funding. “New...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3355360/how-decade-long-bet-photonics-handed-chinese-venture-capital-firm-ai-windfall?utm_source=rss_feed",
+    "date": "2026年5月31日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "日立はAnthropicと組んで何を狙うのか 従業員29万人へのClaude導入で目指す姿",
+    "summary": "ミッションクリティカル領域でのAI活用に向け、日立はAnthropicと戦略的パートナーシップを締結した。同社は今回の提携で何を実現しようとしているのか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
+    "date": "2026年5月30日"
   }
 ]
