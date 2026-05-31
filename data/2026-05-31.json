@@ -687,5 +687,18 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/enterprise/articles/2605/30/news010.html",
     "date": "2026年5月30日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Computex: Acers MacBook-Neo-Antwort heißt Swift Air 14",
+    "summary": "Acer setzt in der gehobenen Mittelklasse auf ein in mehrere Farben erhältliches Vollmetallgehäuse und Intels Einsteigerprozessor Core 300.",
+    "body": "",
+    "url": "https://www.heise.de/news/Acers-MacBook-Neo-Antwort-heisst-Swift-Air-14-11312345.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年5月31日"
   }
 ]
