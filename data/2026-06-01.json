@@ -622,5 +622,57 @@
     "body": "show of solidarity for mental health awareness and suicide prevention. Organized by the Irish Association of Korea (IAK), the early morning walk events were held simultaneously in Seoul and Busan, on Jeju Island and, for the first time, in Jeonju, North Jeolla Province, aimed at spreading awareness of mental health and well-being, while also raising funds to support mental health counseling…",
     "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260601/solas-sunrise-walk-shines-light-on-mental-health-awareness?utm_source=rss",
     "date": "2026年5月31日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Erin Brockovich takes aim at data center secrecy",
+    "summary": "Environmental activist Erin Brockovich has a new mission.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+    "date": "2026年5月31日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chinese EV makers shift focus from price wars to AI capability: Morgan Stanley",
+    "summary": "The focus of competition for Chinese electric vehicles (EVs) is shifting from prices to artificial intelligence capability, as carmakers try to manage weakening demand amid tightened regulations,…",
+    "body": "according to Morgan Stanley. The push in AI would likely bring models with conditionally autonomous driving capability, or Level 3 (L3), to market, said Tim Hsiao, head of the Greater China auto and shared mobility research team at Morgan Stanley, in a recent interview with the South China Morning Post....",
+    "url": "https://www.scmp.com/business/china-evs/article/3355400/chinese-ev-makers-shift-focus-price-wars-ai-capability-morgan-stanley?utm_source=rss_feed",
+    "date": "2026年5月31日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
+    "summary": "The US Department of Commerce on Sunday moved to close a year-old potential loophole it had created that may have led companies to export ‌the world’s most advanced chips – such as Nvidia’s most…",
+    "body": "sophisticated Rubin and Blackwell processors, as well as AMD’s MI350x – to Chinese entities located outside China. The unexpected guidance suggests the United States’ best artificial intelligence chips may have been making their way to the subsidiaries of Chinese AI firms based in places such as Malaysia...",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3355492/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china?utm_source=rss_feed",
+    "date": "2026年5月31日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "富士通が認めた「人月モデル」の限界 時田社長「労働集約型SIモデルからの転換を」",
+    "summary": "富士通が「中長期経営ビジョン2035」を発表した。AI時代に突入した今、同社の時田隆仁社長CEOは、従来型の「人月モデル」には限界があると認めた。その真意とは。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/01/news040.html",
+    "date": "2026年5月31日"
   }
 ]
