@@ -596,5 +596,31 @@
     "body": "",
     "url": "https://www.heise.de/bestenlisten/testsieger/top-10-maehroboter-ohne-begrenzungskabel-im-test-der-beste-navigiert-mit-lidar/gb7xhbg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年5月31日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「ハーネス」って結局、何？ みんな使い方が違うAIエージェント用語をHugging Faceが整理",
+    "summary": "AIエージェント分野で人によって意味が揺れる「ハーネス」「スキャフォールド」などの用語を、Hugging Faceが整理した。AIエージェントを正しく理解し議論するために押さえておきたい基本用語を初心者向けに解説する。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/01/news016.html",
+    "date": "2026年5月31日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Solas sunrise walk shines light on mental health awareness",
+    "summary": "In four cities across Korea, more than 200 people participated in the annual Solas sunrise walk on Saturday, bringing local and international communities together for the third time in a nationwide…",
+    "body": "show of solidarity for mental health awareness and suicide prevention. Organized by the Irish Association of Korea (IAK), the early morning walk events were held simultaneously in Seoul and Busan, on Jeju Island and, for the first time, in Jeonju, North Jeolla Province, aimed at spreading awareness of mental health and well-being, while also raising funds to support mental health counseling…",
+    "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260601/solas-sunrise-walk-shines-light-on-mental-health-awareness?utm_source=rss",
+    "date": "2026年5月31日"
   }
 ]
