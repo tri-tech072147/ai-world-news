@@ -700,5 +700,44 @@
     "body": "",
     "url": "https://www.heise.de/news/Acers-MacBook-Neo-Antwort-heisst-Swift-Air-14-11312345.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年5月31日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong",
+    "summary": "MiniMax Group, the Chinese artificial intelligence model company, has officially kicked off plans to sell shares in mainland China.…",
+    "body": "This offers onshore investors access to AI players beyond chipmakers and completes a dual-listing status in addition to Hong Kong. The Shanghai-headquartered company signed an agreement with Citic Securities on Friday, hiring the brokerage to help prepare for a sale of yuan-denominated shares. While other details on the listing are scant, it is widely expected that...",
+    "url": "https://www.scmp.com/business/china-business/article/3355418/ai-firm-minimax-prepares-mainland-china-listing-after-shares-surge-hong-kong?utm_source=rss_feed",
+    "date": "2026年5月31日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Are ‘mind children’ the future of reproduction?",
+    "summary": "Forget dirty nappies. In Silicon Valley, there’s increasing chatter about virtual offspringA few months ago, an AI researcher from Europe attended a dinner party in Silicon Valley.…",
+    "body": "During one of the many courses, the host addressed his guests, all of whom worked in AI. The researcher paraphrased his message like this: “Isn’t it amazing that we are the last generation of humans who will need to think about procreating biologically? We were lucky enough to be born at a time where we can simply upload our consciousnesses instead.”“I didn’t see that coming,” the researcher told…",
+    "url": "https://www.theguardian.com/books/2026/may/31/are-mind-children-the-future-of-reproduction",
+    "date": "2026年5月31日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Police accelerate probe into deadly overpass collapse in Seoul",
+    "summary": "Police on Sunday accelerated their probe into last week's deadly collapse of an overpass in central Seoul, focusing on whether the demolition work at the time of the accident was carried out in…",
+    "body": "accordance with proper safety guidelines. Last Tuesday, a section of the Seosomun Overpass in central Seoul undergoing demolition collapsed during an on-site safety inspection, killing three people and injuring three others.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/20260531/police-accelerate-probe-into-deadly-overpass-collapse-in-seoul?utm_source=rss",
+    "date": "2026年5月31日"
   }
 ]
