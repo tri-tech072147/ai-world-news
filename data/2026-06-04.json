@@ -635,5 +635,83 @@
     "body": "",
     "url": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss",
     "date": "2026年6月2日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "date": "2026年6月3日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "ServiceNowとAccenture、エージェント型AIを全社展開する「FDE」を開始",
+    "summary": "ServiceNowとAccentureが新たなプログラムを立ち上げた。エージェント型AIの導入が実証実験の段階で止まり、全社規模の成果につながらないといった課題をどのように解決するのか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/04/news024.html",
+    "date": "2026年6月3日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「WEDA」を前面に押し出すアドバンテック、エッジAIモデルの開発期間を86％削減",
+    "summary": "アドバンテックは、「COMPUTEX TAIPEI 2026」において、同社のハードウェアを用いてエッジAIの開発から導入、運用までを統合的に管理するソリューション「WEDA」のデモを披露した。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/04/news059.html",
+    "date": "2026年6月3日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "2年間で「1万時間」削減 「1円の誤りも許されない」ソニー経理が“まず試してみる”DX集団に化けたワケ",
+    "summary": "「経理DXを進めたいが、現場の抵抗が強い」「ツールを導入しても活用が広がらない」――こうした悩みを抱える企業は少なくない。経理部門は正確性や継続性が求められるため、変革が難しい領域とされてきた。ソニーグループの経理部門は、約2年間で150件を超えるDXプロジェクトを推進し、累積1万時間以上の業務時間を創出した。会計・税務の専門家集団は、どのようにして変革を実現したのか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/04/news023.html",
+    "date": "2026年6月3日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「AI使うな」より「使うなら教えて」 エージェント時代のガバナンス再設計",
+    "summary": "AIエージェントの業務適用が広がる一方、組織のガバナンスが追いついていない。OWASPの指摘を踏まえ、日本企業が押さえるべき2つの原則と、来週から始められる3つのアクションを解説する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000038/",
+    "date": "2026年6月3日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "China’s AI chip demand pushes Korea into rare surplus with top trade partner",
+    "summary": "HONG KONG — Korea has emerged as a rare bright spot among East Asian economies trading with China, as booming demand for memory chips pushes its balance with its largest trading partner back into a…",
+    "body": "surplus. The country's trade position with China had strengthened steadily this year, swinging from a $764 million deficit in December 2025 to a $1.1 billion surplus in February, before widening further to $3.8 billion in May, according to data from Korea's Ministry of Trade, Industry and Resources.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260604/chinas-ai-chip-demand-pushes-korea-into-rare-surplus-with-top-trade-partner?utm_source=rss",
+    "date": "2026年6月3日"
   }
 ]
