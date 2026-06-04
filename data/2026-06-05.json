@@ -726,5 +726,57 @@
     "body": "qubit lifetime of 20 seconds against an industry norm measured in microseconds, and a revised roadmap targeting a commercially scalable quantum computer by 2029. Behind those [ ] The post Microsoft s Majorana 2 quantum chip is also a case study for agentic AI in R D appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/microsoft-discovery-agentic-ai-majorana-2/",
     "date": "2026年6月3日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "date": "2026年6月4日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking…",
+    "body": "place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "date": "2026年6月4日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
+    "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
+    "body": "",
+    "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年6月4日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "タイヤFEM解析を45分から5分に 住友ゴムと富士通がAIサロゲートモデルを共同開発",
+    "summary": "住友ゴム工業と富士通は、タイヤ性能をAIで予測するAIサロゲートモデルを共同開発した。実証実験では、タイヤの変形挙動予測において解析時間を従来の約45分から約5分に短縮するとともに、約60万要素規模の解析を実現した。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/05/news022.html",
+    "date": "2026年6月4日"
   }
 ]
