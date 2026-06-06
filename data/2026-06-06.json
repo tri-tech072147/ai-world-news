@@ -869,5 +869,31 @@
     "body": "By 12:35 p.m., approximately 2,000 people had gathered around SK Olympic Handball Gymnasium in Songpa Ward, according to police, claiming Wednesday's local elections were fraudulent. Protesters blocked entrances, trapping an estimated 20-30 officials inside. About 400 police officers were deployed to the scene. No clashes have been reported.…",
     "url": "https://www.koreatimes.co.kr/southkorea/society/20260606/protest-against-ballot-paper-shortages-enters-2nd-day-demanding-new-election?utm_source=rss",
     "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘We should not have to sacrifice’: New York could become first state to temporarily ban large datacenters",
+    "summary": "Kristen Gonzalez, a state senator who authored the bill, said moratorium would target ‘hyperscale’ datacenters over 20MWNew York moved closer toward becoming the first US state to enact a moratorium…",
+    "body": "on large datacenters this week. On Thursday, the state legislature approved a one-year ban on the facilities powering the AI boom.The measure now heads to Kathy Hochul, the governor, who will decide whether to sign it into law. The Guardian spoke to a state senator in the wake of the historic vote about authoring the bill and the wider US backlash against datacenters. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2026/jun/06/new-york-datacenter-temporary-ban",
+    "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Google warnt: Angreifer geben sich als IT-Techniker aus und betreten Büros",
+    "summary": "Die Google Threat Intelligence Group warnt vor der Gruppe UNC3753. Die Angreifer geben sich vor Ort als IT-Techniker aus, um Daten per USB-Stick zu stehlen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Google-warnt-Angreifer-geben-sich-als-IT-Techniker-aus-und-betreten-Bueros-11320590.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月6日"
   }
 ]
