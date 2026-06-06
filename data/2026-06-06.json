@@ -752,5 +752,83 @@
     "body": "imposition of martial law. Yoon, currently in custody at Seoul Detention Center, arrived at the special counsel's office in Gwacheon, just south of Seoul, at around 9:50 a.m. It was his first time being questioned by the team since it was launched Feb. 25.…",
     "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260606/ex-president-yoon-questioned-over-messages-to-justify-failed-imposition-of-martial-law?utm_source=rss",
     "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "What does Washington’s latest AI chip guidance mean for Chinese tech firms?",
+    "summary": "China’s Ministry of Commerce has lashed out at Washington’s latest guidance on advanced artificial intelligence chip exports, accusing the United States of abusing export controls and disrupting the…",
+    "body": "global semiconductor supply chain. But trade lawyers and industry insiders said the actual fallout over the new document could be far more limited than the geopolitical fireworks suggest. The US Bureau of Industry and Security (BIS) issued guidance on May 31, stating licences would be required to...",
+    "url": "https://www.scmp.com/tech/policy/article/3356167/what-does-washingtons-latest-ai-chip-guidance-mean-chinese-tech-firms?utm_source=rss_feed",
+    "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chinese memory makers step up challenge to Korea’s chip champions",
+    "summary": "This article was first published by The Korea Times in a partnership with the South China Morning Post.…",
+    "body": "Two of China’s leading memory-chip makers are moving closer to public listings, posing a significant long-term challenge to South Korean giants Samsung Electronics and SK Hynix, despite a limited immediate threat, according to analysts. ChangXin Memory Technologies (CXMT), China’s leading dynamic random-access memory (DRAM) producer, won approval last week for its nearly 30-billion-yuan...",
+    "url": "https://www.scmp.com/tech/article/3356130/chinese-memory-makers-step-challenge-koreas-chip-champions?utm_source=rss_feed",
+    "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "LinkedIn co-founder Reid Hoffman to step down from Microsoft's board",
+    "summary": "Reid Hoffman co-founded Inflection AI alongside Mustafa Suleyman in 2022 in an attempt to ‌get ahead in the rapidly ​growing sector",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/linkedin-co-founder-reid-hoffman-to-step-down-from-microsofts-board/article71068458.ece",
+    "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "SpaceX signs pre-IPO deal to provide AI computing to Google",
+    "summary": "The deal, which will bolster SpaceX's finances ahead of its IPO on June 12, covers a computing infrastructure of approximately 110,000 Nvidia GPUs",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/spacex-signs-pre-ipo-deal-to-provide-ai-computing-to-google/article71068452.ece",
+    "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "UK proposes 'tech pact' with EU to boost AI, innovation",
+    "summary": "The idea of a repeat with the EU comes as London and Brussels painstakingly negotiate other matters under a \"reset\" in relations vowed by British Prime Minister Keir Starmer",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/uk-proposes-tech-pact-with-eu-to-boost-ai-innovation/article71068456.ece",
+    "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Trump to meet AI leaders to discuss US investment in their companies",
+    "summary": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
+    "body": "",
+    "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
+    "date": "2026年6月5日"
   }
 ]
