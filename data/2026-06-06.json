@@ -661,5 +661,44 @@
     "body": "Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn t just feel like backlash, [ ]",
     "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
     "date": "2026年6月5日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US approves potential sale of JDAM precision bombs to Korea",
+    "summary": "WASHINGTON — The U.S. government has authorized a potential sale to Korea of Joint Direct Attack Munition (JDAM) precision bombs and related equipment, the State Department said Monday, noting the…",
+    "body": "proposed sale will help enhance the Asian ally's defense capabilities. The department announced its decision on the potential government-to-government Foreign Military Sale (FMS) estimated to cost $106 million. The proposed sale requires congressional notification and review.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/defense/20260606/us-approves-potential-sale-of-jdam-precision-bombs-to-korea?utm_source=rss",
+    "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Chinese memory firms edge closer to challenging Korea's chip giants",
+    "summary": "China's two leading memory-chip makers are moving closer to public listings as both companies rapidly expand production and gain market share, raising fresh questions about whether Samsung…",
+    "body": "Electronics and SK hynix could face a new competitive challenge from China's growing semiconductor industry. ChangXin Memory Technologies (CXMT), China's leading dynamic random-access memory (DRAM) producer, won approval last week for its nearly 30-billion-yuan ($4.4 billion) initial public offering (IPO) in Shanghai, while NAND flash champion Yangtze Memory Technologies Corp.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260606/chinese-memory-firms-edge-closer-to-challenging-koreas-chip-giants?utm_source=rss",
+    "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "英ケンブリッジ大学、AIが設計したワクチンの臨床試験に成功 未知の変異株にも備える“万能型”",
+    "summary": "ケンブリッジ大学は、AIが設計した抗原を用いる“ユニバーサルワクチン”の初の臨床試験に成功したと発表した。サルベコウイルス群のゲノム配列を機械学習で解析し、グループ共通の“スーパー抗原”を設計した。健康な39人に投与し、安全性と免疫応答を確認した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/06/2000000065/",
+    "date": "2026年6月5日"
   }
 ]
