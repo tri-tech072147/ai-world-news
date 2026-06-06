@@ -518,5 +518,31 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/google-s-gemma-4-12b-shows-ai-race-moving-edge-devices",
     "date": "2026年6月4日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "date": "2026年6月6日"
   }
 ]
