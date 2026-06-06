@@ -700,5 +700,57 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/aiplus/article/2606/06/2000000065/",
     "date": "2026年6月5日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "E-Bikes: technische Fortschritte und drohende Regulierung | c’t uplink",
+    "summary": "Was tut sich bei den Leistungsdaten von E-Bikes – und könnte das künftig zu einer deutlich härteren Regulierung führen?",
+    "body": "",
+    "url": "https://www.heise.de/news/E-Bikes-technische-Fortschritte-und-drohende-Regulierung-c-t-uplink-11319842.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Trump says to meet AI firms on government stake",
+    "summary": "\"There's so much money and it's so big that there are concepts where the American public essentially becomes a partner with the companies,\" Trump said",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/trump-says-to-meet-ai-firms-on-government-stake/article71068451.ece",
+    "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Did Meta’s own AI help hack into Instagram users’ accounts? | Explained",
+    "summary": "A reportedly AI-enabled hacking incident that impacted Instagram account users was further complicated by a complete lack of clarity and transparency on Meta’s end",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/did-metas-own-ai-help-hack-into-instagram-users-accounts-explained/article71068359.ece",
+    "date": "2026年6月6日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Ex-President Yoon questioned over messages to justify failed imposition of martial law",
+    "summary": "Ex-President Yoon Suk Yeol on Saturday appeared before a special counsel team to be questioned on charges of abuse of power and obstruction of rights related to messages justifying his failed…",
+    "body": "imposition of martial law. Yoon, currently in custody at Seoul Detention Center, arrived at the special counsel's office in Gwacheon, just south of Seoul, at around 9:50 a.m. It was his first time being questioned by the team since it was launched Feb. 25.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260606/ex-president-yoon-questioned-over-messages-to-justify-failed-imposition-of-martial-law?utm_source=rss",
+    "date": "2026年6月6日"
   }
 ]
