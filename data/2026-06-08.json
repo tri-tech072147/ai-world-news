@@ -609,5 +609,44 @@
     "body": "most to hear was that the taste was always the same. Could a cook really prefer hearing that his food is consistent rather than delicious? \"Taste is subjective,\" Bae explained. \"Even a famous restaurant may not appeal to everyone. But if customers say the food tastes the same every time they visit, that's something I can control.…",
     "url": "https://www.koreatimes.co.kr/lifestyle/20260608/failure-is-not-the-end-engineers-journey-to-seolleongtang-success?utm_source=rss",
     "date": "2026年6月7日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Is this the dawn of the Tokenpocalypse?",
+    "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+    "date": "2026年6月7日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIエージェントに対する製造業のリアルな声",
+    "summary": "製造業のちょっと気になる話題をAIプレゼンターが紹介する「MONOistポッドキャスト」。今回は、MONOist編集部が実施した「製造業のAIエージェント活用実態調査 2026」の結果レポートの概要をお届けします。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/08/news025.html",
+    "date": "2026年6月7日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "AI-fueled Samsung affiliates reshape KOSPI market cap rankings",
+    "summary": "The composition of KOSPI's largest companies has shifted markedly this year as investor enthusiasm for artificial intelligence (AI) propelled Samsung Group affiliates and semiconductor-related stocks…",
+    "body": "higher, while secondary battery, shipbuilding and defense shares that dominated the market last year lost ground, according to the Korea Exchange Sunday. Among the top 10 KOSPI companies by market capitalization, excluding preferred shares, only Samsung Electronics, SK hynix and KB Financial Group maintained their rankings from the end of last year through Friday, holding the No. 1, No. 2 and No.…",
+    "url": "https://www.koreatimes.co.kr/economy/others/20260608/ai-fueled-samsung-affiliates-reshape-kospi-market-cap-rankings?utm_source=rss",
+    "date": "2026年6月7日"
   }
 ]
