@@ -817,5 +817,31 @@
     "body": "Korea Times photo by Kang Ye-jin",
     "url": "https://www.koreatimes.co.kr/photos/photonews/20260607/photos-jensen-huang-draws-celebrity-welcome-in-korea?utm_source=rss",
     "date": "2026年6月7日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China powers green computing hub, smart factories amid AI push",
+    "summary": "China is stepping up its push for smarter and more efficient industrial infrastructure, as the country launches the world’s first prefabricated energy hub for computing facilities and establishes a…",
+    "body": "nationwide four-tier smart factory system. Unveiled on Saturday in Qingdao, eastern Shandong province, the prefabricated base acts as the “heart” of the computing centres by providing green power to run the massive facilities, according to a report by state broadcaster China Central Television on the...",
+    "url": "https://www.scmp.com/tech/policy/article/3356263/china-powers-green-computing-hub-smart-factories-amid-ai-push?utm_source=rss_feed",
+    "date": "2026年6月7日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "SK, Nvidia deepen AI alliance at another Kkanbu Chicken meetup",
+    "summary": "Nvidia CEO Jensen Huang met with SK’s senior executives at a fried chicken restaurant in Seoul, Sunday evening, for what industry watchers expect to be a wide-ranging discussion on their deepening…",
+    "body": "artificial intelligence (AI) cooperation. Led by SK Group Chairman Chey Tae-won, key executives from the group’s cash-cow affiliates attended the symbolic gathering with the head of the world’s most valuable company at a Kkanbu Chicken restaurant — the same venue where Huang dined with Samsung Electronics Executive Chairman Lee Jae-yong and Hyundai Motor Group Executive Chair Chung Euisun last…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260607/sk-nvidia-deepen-ai-alliance-at-another-kkanbu-chicken-meetup?utm_source=rss",
+    "date": "2026年6月7日"
   }
 ]
