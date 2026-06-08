@@ -882,5 +882,70 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/nvidia-forges-south-korea-tech-deals-ai-push",
     "date": "2026年6月8日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+    "summary": "Tools for Humanity, Sam Altman's identify verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+    "date": "2026年6月8日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+    "summary": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+    "date": "2026年6月8日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
+    "summary": "David Lammy to announce trial of AI assistants in crown courts in effort to cut backlog of casesA plan to roll out virtual legal assistants powered by artificial intelligence to crown courts has…",
+    "body": "prompted warnings that the technology should not be used to “replace vital funding and additional court staff”.David Lammy, the deputy prime minister, will announce on Tuesday that AI assistants will be trialled in an effort to cut the backlog of court cases in England and Wales. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/jun/09/ai-legal-assistants-england-wales-cannot-replace-funding-staff",
+    "date": "2026年6月8日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Nuclear weapons spending hits record high amid new 'arms race': studies",
+    "summary": "GENEVA — Worldwide spending on nuclear weapons soared to a record high last year as atomic-armed countries moved more warheads from storage onto delivery systems, experts said Tuesday.…",
+    "body": "The nine nuclear-armed states jointly spent nearly $119 billion on their arsenals last year, up 19 percent from 2024, according to the International Campaign to Abolish Nuclear Weapons (ICAN). \"A new nuclear arms race is upon us,\" its report warned.…",
+    "url": "https://www.koreatimes.co.kr/world/20260609/nuclear-weapons-spending-hits-record-high-amid-new-arms-race-studies?utm_source=rss",
+    "date": "2026年6月8日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "ChatGPT-maker OpenAI files to take company public",
+    "summary": "SAN FRANCISCO — ChatGPT-maker OpenAI on Monday took the first step toward going public on Wall Street, a week after arch-rival Anthropic, as both companies look to raise the massive sums needed to…",
+    "body": "expand. In a social media post, the company led by Sam Altman said it had recently submitted a confidential IPO filing, but had \"not decided on timing yet\" for any listing.",
+    "url": "https://www.koreatimes.co.kr/world/20260609/chatgpt-maker-openai-files-to-take-company-public?utm_source=rss",
+    "date": "2026年6月8日"
   }
 ]
