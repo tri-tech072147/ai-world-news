@@ -648,5 +648,70 @@
     "body": "higher, while secondary battery, shipbuilding and defense shares that dominated the market last year lost ground, according to the Korea Exchange Sunday. Among the top 10 KOSPI companies by market capitalization, excluding preferred shares, only Samsung Electronics, SK hynix and KB Financial Group maintained their rankings from the end of last year through Friday, holding the No. 1, No. 2 and No.…",
     "url": "https://www.koreatimes.co.kr/economy/others/20260608/ai-fueled-samsung-affiliates-reshape-kospi-market-cap-rankings?utm_source=rss",
     "date": "2026年6月7日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul shares open 1.38% lower on woes over inflation, tech slump",
+    "summary": "Korean stocks opened more than 1 percent lower Monday, tracking Wall Street's slide sparked by the semiconductor shock and rate hike fears, with big-cap shares posting sharp declines.…",
+    "body": "The benchmark Korea Composite Stock Price Index (KOSPI) fell 112.5 points, or 1.38 percent, to 8,048.09 at the opening bell. The weak start came as major U.S. indexes suffered sharp losses last week, fueled by semiconductor shares' biggest daily percentage drop since March 2020 and the hotter-than-expected U.S. jobs report for May, which fueled fears of a hawkish policy pivot by the U.S.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260608/seoul-shares-open-138-lower-on-woes-over-inflation-tech-slump?utm_source=rss",
+    "date": "2026年6月8日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "SK hynix announces multiyear deal with Nvidia for AI factories",
+    "summary": "Korean chipmaker SK hynix said Monday it has signed a multiyear technology partnership with Nvidia Corp. to advance next-generation memory technologies for artificial intelligence (AI) factories.…",
+    "body": "The agreement builds on years of co-engineering between the two companies that has supported some of the world's most advanced AI computing platforms, SK hynix said. \"SK hynix and Nvidia have been building toward this for years, and this partnership reflects the depth of that collaboration,\" SK Group Chairman Chey Tae-won said in a press release.…",
+    "url": "https://www.koreatimes.co.kr/business/20260608/sk-hynix-announces-multiyear-deal-with-nvidia-for-ai-factories?utm_source=rss",
+    "date": "2026年6月8日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIによるコード生成、3年後は3倍超に AI普及で浮上する課題は",
+    "summary": "IDCの調査によると、AIが主体的にコードを生成する企業の割合が3年後には約3倍に拡大するという。AI普及に伴い、浮上する課題とは。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/05/news028.html",
+    "date": "2026年6月7日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "NEC、富士通に先手!? 日立が「Claude Mythos」アクセス権を取得した背景",
+    "summary": "日立製作所が、Anthropicの先進AI「Claude Mythos」のアクセス権を取得した。Anthropicを巡っては、NECや富士通も協業を発表している。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/08/news058.html",
+    "date": "2026年6月7日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "ワークフロー承認はAIに任せられるのか 7割が否定した理由",
+    "summary": "エイトレッドの調査によると、ワークフローにおける承認・決裁プロセスそのものについては、AIに委ねるべきではないとする回答が7割を超えた。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2606/08/news048.html",
+    "date": "2026年6月7日"
   }
 ]
