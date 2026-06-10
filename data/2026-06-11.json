@@ -635,5 +635,57 @@
     "body": "whether the rocket maker can ever turn a profit. With the company set to stop taking investor orders Wednesday and pricing set for Thursday, the world's most anticipated initial public offering (IPO) is hurtling toward its expected Nasdaq debut on Friday.…",
     "url": "https://www.koreatimes.co.kr/world/20260611/norm-breaking-spacex-ipo-a-source-of-elation-angst-on-wall-street?utm_source=rss",
     "date": "2026年6月10日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+    "summary": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+    "date": "2026年6月10日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China-UK cooperation vital in ensuring the AI era puts people first",
+    "summary": "During a recent discussion in Shenzhen with British Foreign Secretary Yvette Cooper, I was reminded that the development of artificial intelligence (AI) is no longer only a technological race.…",
+    "body": "It is a test of whether major economies can build the institutions, standards and economic systems needed to integrate intelligent machines into human society. Britain has every reason to enter this new era with confidence. It has contributed to much of the modern world’s foundations. In 1687, Isaac Newton...",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3356249/china-uk-cooperation-vital-ensuring-ai-era-puts-people-first?utm_source=rss_feed",
+    "date": "2026年6月10日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "スマホからWindowsのCodexアプリを操作できるの？ 外出中でもAIコーディングを止めない方法",
+    "summary": "OpenAIのCodexアプリで、Windows上の開発作業をスマートフォンから確認し指示できるようになった。AIコーディング中にPCの前を離れても、作業が止まりにくい。実用面でかなりうれしい機能を紹介する。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/11/news016.html",
+    "date": "2026年6月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Global insurance leaders convene in Seoul as AI, emerging technologies reshape risk",
+    "summary": "As artificial intelligence (AI) reshapes industries and geopolitical tensions add new layers of uncertainty, more than 1,300 global insurance leaders and risk specialists have gathered in Seoul this…",
+    "body": "week to debate how the industry should adapt and move forward. The Korea International Insurance Conference (KIIC), sponsored by Samsung Fire & Marine Insurance, opened Wednesday at the Grand InterContinental Seoul Parnas under the theme \"Insuring the Future in a Changing Risk Landscape.\" The two-day event has drawn participants from 175 companies across 27 countries, including insurers,…",
+    "url": "https://www.koreatimes.co.kr/business/banking-finance/20260611/global-insurance-leaders-convene-in-seoul-as-ai-emerging-technologies-reshape-risk?utm_source=rss",
+    "date": "2026年6月10日"
   }
 ]
