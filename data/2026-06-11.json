@@ -596,5 +596,44 @@
     "body": "grocery aisle. The Pennsylvania-based grocery chain is working with Instacart to deploy the smart carts, which include cameras, certified scales, location systems, and a touchscreen. According to Instacart, Caper Carts [ ] The post Weis Markets adds Instacart AI-powered shopping carts to stores appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/weis-markets-instacart-ai-powered-shopping-caper-carts/",
     "date": "2026年6月8日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+    "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "date": "2026年6月10日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "US-Militärliste: Pentagon sanktioniert Chinas Tech-Giganten",
+    "summary": "Die Trump-Regierung setzt Alibaba, Baidu, BYD & Co. auf eine schwarze Liste. Für deutsche Zulieferer des Pentagons droht so ab 2027 ein folgenschweres Dilemma.",
+    "body": "",
+    "url": "https://www.heise.de/news/US-Militaerliste-Pentagon-sanktioniert-Chinas-Tech-Giganten-11327994.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Norm-breaking SpaceX IPO a source of elation, angst on Wall Street",
+    "summary": "WASHINGTON — Elon Musk's SpaceX is just days from a historic stock market debut set to break all norms, drawing feverish excitement from Wall Street's financial wizards even as skeptics question…",
+    "body": "whether the rocket maker can ever turn a profit. With the company set to stop taking investor orders Wednesday and pricing set for Thursday, the world's most anticipated initial public offering (IPO) is hurtling toward its expected Nasdaq debut on Friday.…",
+    "url": "https://www.koreatimes.co.kr/world/20260611/norm-breaking-spacex-ipo-a-source-of-elation-angst-on-wall-street?utm_source=rss",
+    "date": "2026年6月10日"
   }
 ]
