@@ -544,5 +544,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/waymo-pays-220m-apple-s-abandoned-self-driving-car-test-ground",
     "date": "2026年6月9日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+    "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+    "date": "2026年6月11日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+    "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the risk of outright fraud.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+    "date": "2026年6月11日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Robotertaxis: Waymo startet Treueprogramm",
+    "summary": "Alphabet-Tochter Waymo führt ein Treueprogramm namens „Waymo Premier“ ein, das regelmäßigen Nutzern seiner Robotaxis verschiedene Vorteile bietet.",
+    "body": "",
+    "url": "https://www.heise.de/news/Robotertaxis-Waymo-startet-Treueprogramm-11329530.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Ballot shortage tests trust in Korea's election system: US expert",
+    "summary": "SEATTLE — A ballot shortage that disrupted voting during South Korea's recent local elections could have longer-lasting consequences for public confidence in the country's electoral system, according…",
+    "body": "to a U.S. scholar of Korean politics. The controversy deepened Thursday when police raided the National Election Commission (NEC) and several local election offices as part of an investigation into ballot shortages that temporarily suspended voting at 26 polling stations nationwide during the June 3 local elections.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/20260612/ballot-shortage-tests-trust-in-koreas-election-system-us-expert?utm_source=rss",
+    "date": "2026年6月11日"
   }
 ]
