@@ -596,5 +596,57 @@
     "body": "to a U.S. scholar of Korean politics. The controversy deepened Thursday when police raided the National Election Commission (NEC) and several local election offices as part of an investigation into ballot shortages that temporarily suspended voting at 26 polling stations nationwide during the June 3 local elections.…",
     "url": "https://www.koreatimes.co.kr/southkorea/20260612/ballot-shortage-tests-trust-in-koreas-election-system-us-expert?utm_source=rss",
     "date": "2026年6月11日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China races against US for AI’s holy grail: self-improving tech",
+    "summary": "British mathematician Jack Good coined the term “intelligence explosion” 61 years ago to describe what would happen when an intelligent machine entered a runaway cycle of fully automated…",
+    "body": "self-improvement, quickly leaving human intelligence far behind. For decades, that hypothetical capability – often described as “recursive self-improvement” (RSI) – has been seen as AI’s holy grail. The logic goes that the first country or company to achieve RSI would leave its competitors in the dust, cementing...",
+    "url": "https://www.scmp.com/tech/tech-war/article/3356788/china-races-against-us-ais-holy-grail-self-improving-tech?utm_source=rss_feed",
+    "date": "2026年6月11日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "“AIが電力使いすぎ問題” 「電力不足」懸念で、発電能力より深いボトルネックとは",
+    "summary": "ガートナージャパンが「電力供給の遅れがデータセンター建設に影響を与えている」と指摘した。しかし、ボトルネックは発電能力ではないという。課題はどこにあるのか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/12/news029.html",
+    "date": "2026年6月11日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「日本がいないと成り立たない」世界へ、フィジカルAIが導く独自の交渉力",
+    "summary": "Laboro.AIはメディア向けAI勉強会を開催し、2026年の業界トレンドや、日本の生存戦略となる次世代AIの動向を解説した。「SaaSの死」に伴うソフトウェア開発の変化や、グローバルなエコシステムで不可欠性を目指す「フィジカルAI」としての勝ち筋を語る。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/12/news049.html",
+    "date": "2026年6月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "AI model rivalry expands into defense sector",
+    "summary": "Artificial intelligence (AI) competition is expanding into the defense sector as domestic tech firms pivot to military applications, leveraging proprietary models and infrastructure in a market where…",
+    "body": "security and data sovereignty are paramount. The shift comes as Naver Cloud and NC AI move beyond the government-led foundation model competition to target a fast-forming defense AI market. Naver Cloud held a seminar on Wednesday and unveiled its strategy for sovereign AI-based defense AI transformation (AX) advancement, outlining practical pathways to deploy AI in real-world military operations.…",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260612/ai-model-rivalry-expands-into-defense-sector?utm_source=rss",
+    "date": "2026年6月11日"
   }
 ]
