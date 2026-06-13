@@ -908,5 +908,70 @@
     "body": "night. About 700 protesters chanted slogans and waved national flags around SK Olympic Handball Gymnasium in Seoul's southern district of Jamsil as of 9 a.m., down from some 8,000 people gathered Friday night. The protests were sparked by the unprecedented ballot shortages in the June 3 mayoral and gubernatorial elections.…",
     "url": "https://www.koreatimes.co.kr/southkorea/politics/20260613/protests-over-ballot-shortages-continue-for-9th-day?utm_source=rss",
     "date": "2026年6月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+    "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+    "date": "2026年6月13日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Like US models, Chinese AI is learning to ‘game’ safety tests, research lab says",
+    "summary": "Rapidly advancing Chinese artificial intelligence models are showing early signs of “evaluation awareness” – the ability to recognise when they are being tested – sparking fears that they could…",
+    "body": "bypass safety audits, a Singapore-based research lab has found. Evaluation awareness refers to a model’s understanding that it is undergoing testing, evaluation or experimentation by human researchers rather than operating in a real-world setting. The phenomenon was raising alarms because it could allow...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3356940/us-models-chinese-ai-learning-game-safety-tests-research-lab-says?utm_source=rss_feed",
+    "date": "2026年6月13日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "US blocks foreign access to Anthropic’s newest AI models over security risks",
+    "summary": "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns,…",
+    "body": "according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to target specific AI models – came just days after Anthropic released the models, underscoring Washington’s increasingly hands-on approach to regulating frontier artificial intelligence...",
+    "url": "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
+    "date": "2026年6月13日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Model-Schau: Reasoning aus China, kleine Liquid-Modelle und neue Microsoft-Welt",
+    "summary": "Bei den LLMs, die zunehmend multimodal arbeiten, gibt es spannende Entwicklungen für mehr Performance und schlankere Größen.",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/Model-Schau-Reasoning-aus-China-kleine-Liquid-Modelle-und-neue-Microsoft-Welt-11330663.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月13日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "AI sovereignty hawks see red as U.S. moves to block Anthropic’s Mythos and Fable models",
+    "summary": "While training Large Language Models is a prohibitively expensive undertaking, national security commentators have long warned of over-reliance on foreign technology in critical fields like AI",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/ai-sovereignty-hawks-see-red-as-us-moves-to-block-mythos-fable-models/article71096641.ece",
+    "date": "2026年6月13日"
   }
 ]
