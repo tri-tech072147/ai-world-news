@@ -609,5 +609,18 @@
     "body": "",
     "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
     "date": "2026年6月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "date": "2026年6月13日"
   }
 ]
