@@ -622,5 +622,57 @@
     "body": "",
     "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
     "date": "2026年6月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "date": "2026年6月14日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "What to know about possible deal to end Iran war",
+    "summary": "ISLAMABAD — The United States and Iran once again appear close to a deal to end the war and open the Strait of Hormuz .…",
+    "body": "Pakistani Prime Minister Shehbaz Sharif said Saturday that a deal aimed at ending the war in the Middle East is closer than ever before and expected to be finalized within 24 hours. Pakistan is preparing for the electronic signing of the agreement, followed by technical-level talks next week. U.S.…",
+    "url": "https://www.koreatimes.co.kr/world/20260614/what-to-know-about-possible-deal-to-end-iran-war?utm_source=rss",
+    "date": "2026年6月14日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "National Museum of Korea, Uffizi Galleries sign MOU on collection exchanges",
+    "summary": "Two prominent museums of Korea and Italy signed an agreement Saturday on enhancing cooperation in exchanging their collections, Seoul's presidential office said.…",
+    "body": "The National Museum of Korea and the Uffizi Galleries signed a memorandum of understanding (MOU) to that end in Florence during President Lee Jae Myung's visit to the Italian museum, according to Cheong Wa Dae. Lee's visit to the Uffizi Galleries was part of a special guest protocol. The Korean president is on a state visit to Italy, which began Wednesday in Rome.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20260614/national-museum-of-korea-uffizi-galleries-sign-mou-on-collection-exchanges?utm_source=rss",
+    "date": "2026年6月14日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Trump says deal to end war will be signed on Sunday; Iran questions timing",
+    "summary": "DUBAI/WASHINGTON — U.S. President Donald Trump and mediator Pakistan said on Saturday an initial deal to end the war in the Middle East would be signed on Sunday, although Iran denied the signing…",
+    "body": "would take place so soon. Pakistani Prime Minister Shehbaz Sharif said the two sides had agreed on a framework for a peace deal and that Islamabad was preparing for an electronic signing on Sunday, to be followed by technical-level talks next week.…",
+    "url": "https://www.koreatimes.co.kr/world/20260614/trump-says-deal-to-end-war-will-be-signed-on-sunday-iran-questions-timing?utm_source=rss",
+    "date": "2026年6月14日"
   }
 ]
