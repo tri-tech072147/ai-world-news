@@ -752,5 +752,18 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/canadian-mother-sues-openai-alleging-chatgpt-led-to-daughters-death/article71092132.ece",
     "date": "2026年6月13日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Hong Kong commercial landlords may bet on investment to curb tenant loss from AI: analysts",
+    "summary": "Hong Kong’s older office assets and their struggling landlords could face more challenges as the wider adoption of artificial intelligence (AI) by firms in the city leads companies to relocate to…",
+    "body": "newer buildings that better support their requirements, according to real estate consultancy Knight Frank. AI is poised to usher in more changes in Hong Kong’s commercial office space, and landlords may have to act fast to either refurbish their assets or convert them for new uses, said Lee Elliott,...",
+    "url": "https://www.scmp.com/business/article/3357053/hong-kong-commercial-landlords-may-bet-investment-curb-tenant-loss-ai-analysts?utm_source=rss_feed",
+    "date": "2026年6月14日"
   }
 ]
