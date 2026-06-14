@@ -674,5 +674,83 @@
     "body": "would take place so soon. Pakistani Prime Minister Shehbaz Sharif said the two sides had agreed on a framework for a peace deal and that Islamabad was preparing for an electronic signing on Sunday, to be followed by technical-level talks next week.…",
     "url": "https://www.koreatimes.co.kr/world/20260614/trump-says-deal-to-end-war-will-be-signed-on-sunday-iran-questions-timing?utm_source=rss",
     "date": "2026年6月14日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "date": "2026年6月14日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s AI ‘hundred model’ war shifts to enterprise value, JPMorgan says",
+    "summary": "The drive for AI monetisation among Chinese tech companies has become a battle over “delivering measurable business value” rather than raw technical performance, according to Alex Yao, head of China…",
+    "body": "equity research at JPMorgan. China’s AI landscape was rapidly consolidating from a fragmented “hundred-model” battle down to a smaller group of globally competitive leading players, particularly those that could transform consumer-facing features into reliable enterprise-grade infrastructure, Yao...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3357008/chinas-ai-hundred-model-war-shifts-enterprise-value-jpmorgan-says?utm_source=rss_feed",
+    "date": "2026年6月14日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Amazon voiced concerns about Anthropic AI models before U.S. government's crackdown, source says​",
+    "summary": "Amazon CEO Andy Jassy’s involvement sheds light on the extraordinary move by Anthropic on Friday (June 12, 2026) ‌to shut down its latest models globally in response to national security orders from…",
+    "body": "the Trump administration",
+    "url": "https://www.thehindu.com/sci-tech/technology/amazon-voiced-concerns-about-anthropic-ai-models-before-us-governments-crackdown-source-says/article71100217.ece",
+    "date": "2026年6月14日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Funeral for Iran's late supreme leader to begin July 4",
+    "summary": "ISLAMABAD — Funeral ceremonies for former Iranian Supreme Leader Ayatollah Ali Khamenei will be in July, the country's state-run television said Saturday, as mediators said an agreement to end the…",
+    "body": "war was close. The funeral, burial and farewell events for Khamenei will take place between July 4 and 9 during Muharram, a traditional period of mourning in the Shiite Muslim calendar. Khamenei was killed in the opening attack of the war that Israel and the United States launched against Iran in late February. He is succeeded by his son, Mojtaba, who is seen as even less compromising.…",
+    "url": "https://www.koreatimes.co.kr/world/20260614/funeral-for-irans-late-supreme-leader-to-begin-july-4?utm_source=rss",
+    "date": "2026年6月14日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Anthropic pursues data centre leases, seeks financial backing from Google: Report",
+    "summary": "Strong demand ‌for its Claude family of AI models has prompted Anthropic to sign several major deals to expand computing capacity, as it gears up for an IPO",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropic-pursues-data-centre-leases-seeks-financial-backing-from-google-report/article71092136.ece",
+    "date": "2026年6月13日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Canadian mother sues OpenAI, alleging ChatGPT led to daughter's death",
+    "summary": "In a statement, a spokesperson for OpenAI called the situation heartbreaking and said the version of ChatGPT that Alice was using is no longer available",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/canadian-mother-sues-openai-alleging-chatgpt-led-to-daughters-death/article71092132.ece",
+    "date": "2026年6月13日"
   }
 ]
