@@ -609,5 +609,83 @@
     "body": "",
     "url": "https://techcabal.com/2026/06/15/beltone-taps-fintech-telda-to-bring-mutual-funds-to-egypts-digital-investors/",
     "date": "2026年6月15日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+    "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune…",
+    "body": "from U.S. government interference.",
+    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "date": "2026年6月15日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "How to ride out Hong Kong’s US$274 billion lock-up expiry wave hitting stocks this year",
+    "summary": "Investors will soon need to contend with a side effect of Hong Kong’s initial public offering (IPO) boom over the past year, as an unprecedented number of shares are expected to flood the market once…",
+    "body": "lock-up restrictions expire. Over the next 12 months, shares worth US$274 billion could potentially be freed, including those from the city’s hottest IPOs such as MiniMax Group and Knowledge Atlas Technology, according to Goldman Sachs. Investors including SPI Asset Management said the surge in...",
+    "url": "https://www.scmp.com/business/china-business/article/3357165/how-ride-out-hong-kongs-us274-billion-lock-expiry-wave-hitting-stocks-year?utm_source=rss_feed",
+    "date": "2026年6月15日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "300億円は「ROI不問」 Olive、Trunkを仕掛けるSMBC、新規事業の神髄は「撤退」にアリ",
+    "summary": "「Olive」や「Trunk」を相次いで成長軌道に乗せ、生成AI活用に向けて500億円の投資計画も打ち出した三井住友フィナンシャルグループ。そんな同社だが、約10年前はモバイルアプリで競合他行に大きく後れを取るなど、変革が進んでいなかった。堅実なメガバンクは、いかに挑戦を次々と形にできる組織へと変貌したのか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/16/news018.html",
+    "date": "2026年6月15日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "生成AI×3D CADでどこまでできるか試してみた",
+    "summary": "生成AIの活用は、文章や画像、動画だけでなく、3D CADの分野にも広がり始めています。自然言語で指示するだけで、3Dモデルのたたき台を作成できる環境も登場しつつあります。今回はAutodesk Fusionの「Autodesk Assistant」を使い、ペットボトルの3Dモデル作成を試しながら、生成AI×3D CADの可能性と課題を紹介します。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/16/news023.html",
+    "date": "2026年6月15日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "月2000時間のムダをなくす大阪ガスらのNotion×AI活用 「使われない情報」の生かし方",
+    "summary": "「あの資料はどこ」といった情報探索の負担を、NotionとAIの活用によって大幅に軽減した大阪ガスら2社の事例を紹介。月2000時間の業務削減を実現した取り組みによって埋もれた情報を組織の知識資産へと変え、属人化を防ぐ仕組みづくりのポイントを分かりやすく解説する。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2606/16/news022.html",
+    "date": "2026年6月15日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Cohere North Mini Code Gives AI Developers More Control",
+    "summary": "The AI lab appeals to developers who feel that frontier models from Anthropic and OpenAI are less transparent and too deep for the tasks they need done.",
+    "body": "",
+    "url": "https://aibusiness.com/agentic-ai/cohere-north-mini-code-gives-ai-developers-control",
+    "date": "2026年6月15日"
   }
 ]
