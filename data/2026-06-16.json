@@ -544,5 +544,70 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/ai-s-hidden-energy-bill-why-visibility-becoming-critical-enterprises",
     "date": "2026年6月11日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "date": "2026年6月15日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "SpaceX is public: Everything you need to know post-IPO",
+    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too.…",
+    "body": "This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+    "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "date": "2026年6月15日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "US judge dismisses Elon Musk’s xAI trade secret lawsuit against OpenAI",
+    "summary": "A federal judge on Monday dismissed a lawsuit by Elon Musk’s artificial intelligence company, xAI, that accused rival Sam Altman’s OpenAI of stealing ‌trade secrets for chatbots.…",
+    "body": "US District Judge Rita Lin in San Francisco, California, said xAI failed to show that OpenAI induced former xAI senior engineer Xuechen Li, a Chinese national, to divulge confidential information related to its Grok chatbot, or that OpenAI engineers knew Li might have disclosed any. Lin ‌dismissed the case with...",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3357213/us-judge-dismisses-elon-musks-xai-trade-secret-lawsuit-against-openai?utm_source=rss_feed",
+    "date": "2026年6月15日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Inferencing: US-deutsches Start-up will Nvidia ausstechen",
+    "summary": "Dank logarithmischer Mathematik soll der 3-Nanometer-Chip Tensordyne Napier KI wesentlich schneller und effizienter berechnen als Nvidia-Beschleuniger.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-Inferencing-US-deutsches-Start-up-will-Nvidia-ausstechen-11333205.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月15日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Beltone taps fintech Telda to bring mutual funds to Egypt’s digital investors",
+    "summary": "The deal is the latest sign of how Egypt's asset managers are increasingly turning to fintech platforms to reach retail investors.",
+    "body": "",
+    "url": "https://techcabal.com/2026/06/15/beltone-taps-fintech-telda-to-bring-mutual-funds-to-egypts-digital-investors/",
+    "date": "2026年6月15日"
   }
 ]
