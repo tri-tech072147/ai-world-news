@@ -609,5 +609,57 @@
     "body": "value to become the fifth-most valuable U.S. company. After rallying sharply on Monday on optimism about a U.S.-Iran peace deal, investors in the S P 500 and the Nasdaq took a breather even as oil prices fell to their lowest levels since early March.…",
     "url": "https://www.koreatimes.co.kr/world/20260617/nasdaq-sp-500-slip-while-dow-hits-record-high?utm_source=rss",
     "date": "2026年6月16日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "date": "2026年6月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "東芝の組み込み向け量子インスパイアード技術が進化、高速化と安定性を両立",
+    "summary": "東芝は、刻々と状況が変化する現実環境において、組み合わせ最適化問題を高速かつ安定して解くことができる「量子インスパイアード最適化フレームワーク」を開発した。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/17/news062.html",
+    "date": "2026年6月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "生成AI×自動運転で注目のTesla・Waymo・NVIDIA 各社が目指す「フィジカルAI」は何が違うのか",
+    "summary": "日本政府が戦略的強化分野に掲げる「フィジカルAI」――その社会実装の最前線の一つが自動運転システムだ。熾烈な開発競争が繰り広げられている中、生成AIの進化は各社の競争にどのような変化をもたらしているのか。Tesla、Waymo、NVIDIAの最新動向を整理する。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news007.html",
+    "date": "2026年6月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "【Pythonで学ぶデータ分析】母平均と母標準偏差をベイズ推定する ～ シュークリームの重さは100gと異なるか？",
+    "summary": "ある喫茶店のシュークリームの重さを例に、ベイズ統計で「平均」や「ばらつき」をどう推定するのか、さらに基準値と違いがあるかどうかをどう確かめるのかを解説します。『社会人1年生から学ぶ、やさしいデータ分析』ベイズ統計編の第3回です。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news001.html",
+    "date": "2026年6月16日"
   }
 ]
