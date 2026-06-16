@@ -557,5 +557,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/rebellions-aims-take-nvidia-ai-inference-chip-battle",
     "date": "2026年6月15日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+    "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades.…",
+    "body": "The launch is also accompanied by a Pixel Drop that brings Google’s latest AI models to its devices.",
+    "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "date": "2026年6月16日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+    "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+    "date": "2026年6月16日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "France to ditch Palantir’s AI data tools in favour of domestic provider",
+    "summary": "Move to ChapsVision is to avoid ‘strategic dependencies’, says PM amid concern about reliance on US-controlled toolsFrance’s domestic intelligence service is to ditch AI data tools from the US tech…",
+    "body": "company Palantir in favour of a domestic provider in an effort to avoid “strategic dependency”, the prime minister, Sébastien Lecornu, has said.“We must use our own AI models; we cannot accept new strategic dependencies in ‌the digital sphere,” Lecornu posted on social media. “We cannot rely on tools developed by foreign powers. France must have its own tools.” Continue reading...",
+    "url": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
+    "date": "2026年6月16日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Nasdaq, S&P 500 slip while Dow hits record high",
+    "summary": "The Nasdaq Composite and the S P 500 lost ground on Tuesday under pressure from technology stocks, while the Dow Jones Industrial Average touched a record high and SpaceX surpassed Amazon's market…",
+    "body": "value to become the fifth-most valuable U.S. company. After rallying sharply on Monday on optimism about a U.S.-Iran peace deal, investors in the S P 500 and the Nasdaq took a breather even as oil prices fell to their lowest levels since early March.…",
+    "url": "https://www.koreatimes.co.kr/world/20260617/nasdaq-sp-500-slip-while-dow-hits-record-high?utm_source=rss",
+    "date": "2026年6月16日"
   }
 ]
