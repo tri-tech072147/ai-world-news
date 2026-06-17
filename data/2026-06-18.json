@@ -687,5 +687,70 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/aws-s-new-agentic-tools-trail-rivals-respond-real-problems",
     "date": "2026年6月17日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「AIコーディング」がたった5年で急進化したワケ NTT「tsuzumi 2」開発者が分析",
+    "summary": "コーディングに長けた大規模言語モデル（LLM）が登場したのは2021年ごろだ。それから5年で、競技プログラミングの問題を解けるレベルにまで成長した。なぜAIはコーディングがこれほど得意になったのか──「Interop Tokyo 2026」（幕張メッセ）で、LLM「tsuzumi」のコーディング能力向上を担当するNTT人間情報研究所の風戸広史さんが解説した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/18/news038.html",
+    "date": "2026年6月17日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「AIを使う学生」vs.「使わない学生」、エッセイが創造的なのはどっち？ 米大学が2025年に実証実験",
+    "summary": "米ジョージタウン大学に所属する研究者らが国際学術誌Computers in Human Behavior: Artificial Humansに発表した論文「Homogenizing effect of large language models (LLMs) on creative diversity: An empirical comparison of human and ChatGPT…",
+    "body": "writing」は、人間たちが生み出すアイデアと生成AIが出力するアイデアのどちらが多様で創造的であるかを検証した研究報告だ。",
+    "url": "https://www.itmedia.co.jp/news/articles/2606/18/news043.html",
+    "date": "2026年6月17日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "かんぽ生命、AIで営業支援 “郵便局での一言”拾って保険提案へ 寸劇で分かる活用例",
+    "summary": "1700万人の顧客を抱えるかんぽ生命保険が、営業フローにAIエージェントを組み込んだ。商談準備に奔走する現場がどう変わるのか、デモンストレーションの様子を紹介する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/18/news019.html",
+    "date": "2026年6月17日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Anthropic、デザインツール「Claude Design」を強化 Codeとの双方向連携やCanvaなどへの出力をサポート",
+    "summary": "Anthropicは、デザイン制作ツール「Claude Design」のβ機能を大幅に強化した。複数のデザインシステムを取り込んでプロジェクト横断で維持できるようになったほか、「Claude Code」とのシームレスな双方向連携を実現。AdobeやCanvaをはじめとする外部ツールへの書き出しコネクタも大幅に拡充した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000102/",
+    "date": "2026年6月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Ukraine’s cheap drones and combat robots offer hope for the good guys",
+    "summary": "When Russia launched its full-scale invasion of Ukraine in February 2022, Washington and Europe expected a quick Russian victory.…",
+    "body": "Russia’s population was more than three times that of Ukraine, its military four times larger and gross domestic product 10 times bigger. The power imbalance was just too great. That Russia was entirely in the wrong meant little. Any realist would tell you Ukraine would fall. Then President Volodymyr Zelenskyy refused to flee, and Russia couldn’t take Kyiv.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260618/ukraines-cheap-drones-and-combat-robots-offer-hope-for-the-good-guys?utm_source=rss",
+    "date": "2026年6月17日"
   }
 ]
