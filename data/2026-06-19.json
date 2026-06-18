@@ -609,5 +609,83 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/abb-robotics-enters-partnership-advance-physical-ai",
     "date": "2026年6月16日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+    "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+    "date": "2026年6月18日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+    "summary": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+    "date": "2026年6月18日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+    "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+    "date": "2026年6月18日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "AI data centers just got a government-mandated fast lane to the grid",
+    "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+    "date": "2026年6月18日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Wegen Problemen mit Baustellen auf Autobahnen: Rückruf von 4.000 Waymo-Robotaxis",
+    "summary": "Alphabet-Tochter Waymo will das Verhalten seiner Fahrzeuge im Bereich von Autobahnbaustellen verbessern und hat fast 4.000 ihrer Robotaxis zurückgerufen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Wegen-Problemen-mit-Baustellen-auf-Autobahnen-Rueckruf-von-4-000-Waymo-Robotaxis-11337808.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月18日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Prompt: The AI Race Enters Its Sovereignty Phase",
+    "summary": "Anthropic's model restrictions highlight a growing shift as governments and enterprises place greater emphasis on access, control and AI sovereignty.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/prompt-ai-race-enters-sovereignty-phase",
+    "date": "2026年6月18日"
   }
 ]
