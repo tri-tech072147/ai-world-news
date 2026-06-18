@@ -752,5 +752,70 @@
     "body": "Russia’s population was more than three times that of Ukraine, its military four times larger and gross domestic product 10 times bigger. The power imbalance was just too great. That Russia was entirely in the wrong meant little. Any realist would tell you Ukraine would fall. Then President Volodymyr Zelenskyy refused to flee, and Russia couldn’t take Kyiv.…",
     "url": "https://www.koreatimes.co.kr/opinion/20260618/ukraines-cheap-drones-and-combat-robots-offer-hope-for-the-good-guys?utm_source=rss",
     "date": "2026年6月17日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "How to turn off AI in your Google Docs",
+    "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "date": "2026年6月18日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Shanghai clarifies IPO path for cash-hungry AI labs racing against US",
+    "summary": "The Shanghai Stock Exchange (SSE) has clarified rules for unprofitable artificial intelligence model developers wanting to go public, as China’s large language model (LLM) firms scramble for fresh…",
+    "body": "capital in an intense race with US labs. LLM developers can go public on the Shanghai bourse’s Star Market under a set of listing standards that require them to have an anticipated market cap of at least 4 billion yuan (US$591 million), as well as meeting certain criteria in terms of market potential,...",
+    "url": "https://www.scmp.com/tech/article/3357495/shanghai-bourse-opens-doors-unprofitable-ai-tech-start-ups-relaxed-ipo-rules?utm_source=rss_feed",
+    "date": "2026年6月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「シャドーAI」7割超の企業が対策追い付かず “会社が選んだAIだけ利用”はもう限界？ ガートナー",
+    "summary": "会社が認めていないAIツール・サービスを従業員が業務で使う「シャドーAI」について、日本企業の73％が対策できていない――調査会社の米Gartnerは、このような調査結果を発表した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000103/",
+    "date": "2026年6月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "NRI流“業務に最適なAIモデル”の選び方 「ベンチマークだけで優劣は決まらない」",
+    "summary": "“業務に最適なAIモデル”はどう選べば良いのか。野村総合研究所の北村雄騎氏に聞いた。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000101/",
+    "date": "2026年6月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Protests over ballot shortage during local elections enter 14th day",
+    "summary": "Protests demanding a rerun of the June 3 local elections marred by ballot paper shortages continued for the 14th day Thursday at a ballot counting site amid sweltering heat.…",
+    "body": "Under the scorching sun, protesters chanted slogans claiming election fraud outside SK Olympic Handball Gymnasium in Seoul's southern ward of Songpa, which was used as a ballot counting center for the elections. The protests began June 5, two days after ballot shortages temporarily suspended voting at 26 polling stations.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260618/protests-over-ballot-shortage-during-local-elections-enter-14th-day?utm_source=rss",
+    "date": "2026年6月18日"
   }
 ]
