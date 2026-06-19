@@ -596,5 +596,44 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/emea-firms-lack-ai-visibility-despite-sovereignty-ibm-reports",
     "date": "2026年6月16日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "What is Google’s Project Nimbus, and why are students protesting against it?",
+    "summary": "Amazon and Google’s Project Nimbus cloud contract with Israel has sparked multiple protests over U.S. Big Tech enabling the Israeli military’s violence against Palestinians",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/what-is-googles-project-nimbus-and-why-are-students-protesting-against-it/article71116615.ece",
+    "date": "2026年6月19日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "OpenAI chief tells G7 to 'not cede responsibilities' to AI giants",
+    "summary": "The remarks came on the final day of the three-day G7 summit hosted by France, which gathered leaders from Canada, France, Germany, Italy, Japan, Britain and the United States, along with invited…",
+    "body": "guests",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-chief-tells-g7-to-not-cede-responsibilities-to-ai-giants/article71116323.ece",
+    "date": "2026年6月19日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Top South Africa tech investor says it is no longer just a Tencent story",
+    "summary": "While Tencent consistently delivered outsized returns, many of Prosus's businesses remained focused on growth rather than profitability.",
+    "body": "",
+    "url": "https://techcabal.com/2026/06/19/prosus-says-it-is-no-longer-just-a-tencent-story/",
+    "date": "2026年6月19日"
   }
 ]
