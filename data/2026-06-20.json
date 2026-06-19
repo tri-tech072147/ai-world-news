@@ -635,5 +635,18 @@
     "body": "",
     "url": "https://techcabal.com/2026/06/19/prosus-says-it-is-no-longer-just-a-tencent-story/",
     "date": "2026年6月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "LTI Korea chief bets on human translators despite rapid AI development",
+    "summary": "As generative artificial intelligence (AI) transforms the global translation landscape, the head of the Literature Translation Institute of Korea (LTI Korea) is making a counterintuitive bet: The…",
+    "body": "future of literary translation will rely not less on humans, but more. “In literature, AI alone cannot meet the level expected by international publishers, without human intervention,” LTI Korea President Chon Soo-young said in a recent interview.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/books/20260620/lti-korea-chief-bets-on-human-translators-despite-rapid-ai-development?utm_source=rss",
+    "date": "2026年6月19日"
   }
 ]
