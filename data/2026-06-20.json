@@ -687,5 +687,44 @@
     "body": "",
     "url": "https://www.heise.de/news/Notebook-Prozessoren-Stand-der-Dinge-Technik-und-Ausblick-c-t-uplink-11338252.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年6月20日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Granta stops publishing short story award winners over AI controversy",
+    "summary": "Literary magazine will no longer engage in ‘external publishing partnerships’ after Commonwealth prize furoreThe prominent literary magazine Granta will no longer publish the winning entries of the…",
+    "body": "annual Commonwealth short story prize after one of this year’s winners drew widespread accusations of AI use.The magazine said it would no longer be involved in “external publishing partnerships” in which it had no editorial control. Continue reading...",
+    "url": "https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai",
+    "date": "2026年6月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Kestra: Ops-Automation jenseits von CI/CD",
+    "summary": "CI/CD-Pipelines sind für Code-Deployments optimiert. Langlebige Betriebsprozesse und Self-Service-Workflows lassen sich flexibler mit Kestra orchestrieren.",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/Kestra-Ops-Automation-jenseits-von-CI-CD-11337589.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月20日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Kenyan cross-border fintech WapiPay enters Canada with money services licence",
+    "summary": "The licence allows the company to offer foreign exchange, money transfer, and payment services in Canada through a newly established subsidiary, while also providing regulatory approval to handle…",
+    "body": "virtual currency and digital asset transactions.",
+    "url": "https://techcabal.com/2026/06/20/kenyas-wapipay-enters-canada-paymentslicence/",
+    "date": "2026年6月20日"
   }
 ]
