@@ -726,5 +726,57 @@
     "body": "virtual currency and digital asset transactions.",
     "url": "https://techcabal.com/2026/06/20/kenyas-wapipay-enters-canada-paymentslicence/",
     "date": "2026年6月20日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
+    "summary": "Does a thought-experiment about US ascendancy in the technology say as much about AI jitters as it does about the reality?It’s 2031 and the US and China are about to tear Europe into pieces.The US…",
+    "body": "ploughed vast sums into datacentres and the EU did not. China built robots and Europe did not. American companies “restructured” their workflows around AI and fired people, while EU workers went on long lunch breaks and handed over administrative tasks to the AI model Claude. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
+    "date": "2026年6月20日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’",
+    "summary": "We asked people in the US about their customer service battles and hundreds responded on the financial and emotional costsGuardian readers from across the US wrote in to tell us about their battles…",
+    "body": "with big companies, and the time, expense and emotional toll exacted by businesses they say are prioritizing the bottom line over all else.The top takeaway: people really, really don’t like AI customer service. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
+    "date": "2026年6月20日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
+    "summary": "Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to jobs cuts in futureLloyds Banking Group has launched an AI recruitment drive for 300 tech experts,…",
+    "body": "weeks before its chief executive, Charlie Nunn, unveils a strategic plan for the 261-year old lender.The bank said it intended the recruits to work on its use and development of agentic AI by September, referring to autonomous artificial intelligence models that can plan and execute tasks with minimal human oversight. Continue reading...",
+    "url": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
+    "date": "2026年6月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Amazon legt Filmprojekt über Sam Altman auf Eis",
+    "summary": "Luca Guadagnino muss die Arbeit an seinem Film über den OpenAI-CEO vorerst stoppen. Grund sind Amazons Geschäfte mit OpenAI.",
+    "body": "",
+    "url": "https://www.heise.de/news/Amazon-legt-Filmprojekt-ueber-Sam-Altman-auf-Eis-11339317.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月20日"
   }
 ]
