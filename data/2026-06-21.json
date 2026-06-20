@@ -531,5 +531,31 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/emea-firms-lack-ai-visibility-despite-sovereignty-ibm-reports",
     "date": "2026年6月16日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "date": "2026年6月20日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Digital Nomads: Alma Asinobi learned to build mobility by confronting her own immobility",
+    "summary": "\"My entire career in tech started not because I studied anything in marketing,\" she said. \"It was just me putting out these skills I already had.\"",
+    "body": "",
+    "url": "https://techcabal.com/2026/06/20/alma-asinobi-digital-nomads/",
+    "date": "2026年6月20日"
   }
 ]
