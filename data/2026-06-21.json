@@ -700,5 +700,83 @@
     "body": "",
     "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
     "date": "2026年6月20日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chinese start-up tackles fusion energy software bottleneck with help of AI",
+    "summary": "For decades, fusion energy has sat at the edge of humanity’s clean-energy imagination – a promise of virtually limitless power that always seems just out of reach.…",
+    "body": "But for Xie Huasheng, a fusion theorist and plasma simulation scientist, the industry finally has a tangible way to shorten its costly trial-and-error cycle: better software. “Fusion simulation software has long faced an ‘impossible triangle’,” Xie said. Existing tools, he argued, tend to be either accurate but computationally...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3357765/chinese-start-tackles-fusion-energy-software-bottleneck-help-ai?utm_source=rss_feed",
+    "date": "2026年6月21日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Cross-border biotech deals grow more complex as US targets China investment links",
+    "summary": "Cross-border biotech deals between China and the United States are becoming more complicated and could face a modest slowdown as Washington steps up efforts to restrict investment and technology…",
+    "body": "transfers, according to industry analysts. “There will be more geopolitical scrutiny going forward. This scrutiny may lead to slightly fewer deals than without it,” said Diederik Stadig, senior healthcare economist at ING Research. Despite the growing regulatory hurdles, Stadig said the broader trend of...",
+    "url": "https://www.scmp.com/business/china-business/article/3357699/cross-border-biotech-deals-grow-more-complex-us-targets-china-investment-links?utm_source=rss_feed",
+    "date": "2026年6月21日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Brands using AI-generated influencers to promote products on social media",
+    "summary": "Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparencyBrands promoting their products online are quietly deploying AI-generated influencers…",
+    "body": "on social media, an investigation has found, prompting calls for greater transparency.The findings suggest companies are increasingly turning to AI-generated content that purports to show genuine customer experiences while giving no obvious indication that the people featured are not real. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
+    "date": "2026年6月21日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Red Cross warns of rising global conflicts with 'Wars Have Limits' exhibition in Seoul",
+    "summary": "Marking the 60th anniversary of Korea’s accession to the Geneva Conventions, the International Committee of the Red Cross (ICRC) opened a special exhibition, \"Wars Have Limits,\" in the lobby of the…",
+    "body": "Seoul Museum of History, on May 15. Displaying the history of the Geneva Conventions and the humanitarian efforts of the Red Cross during the 1950-53 Korean War, the exhibition highlights the grave dangers posed by modern warfare technologies and examines the challenges they present to international humanitarian law, particularly with the emergence of drones, artificial intelligence (AI) and…",
+    "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260621/red-cross-warns-of-rising-global-conflicts-with-wars-have-limits-exhibition-in-seoul?utm_source=rss",
+    "date": "2026年6月21日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "In Taylor Swift’s beach town, every clue becomes a wedding rumor",
+    "summary": "WESTERLY, R.I. — When a large tent appeared next door to Taylor Swift’s Watch Hill estate this week, it didn’t take long for speculation about the superstar's impending nuptials to ripple through the…",
+    "body": "affluent New England seaside village — and the internet. Soon, fans were swapping theories online, photographers were staking out vantage points and residents found themselves fielding questions about a wedding that never was. Or at least, a wedding that seems yet to happen. The rumors, so far, have proved unfounded.…",
+    "url": "https://www.koreatimes.co.kr/world/20260621/in-taylor-swifts-beach-town-every-clue-becomes-a-wedding-rumor?utm_source=rss",
+    "date": "2026年6月21日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US Vice President JD Vance arrives in Switzerland to launch talks with Iran on nuclear program",
+    "summary": "ZURICH — U.S. Vice President JD Vance landed Sunday in Switzerland to help formally launch negotiations with Iranian leaders over curbing Tehran’s nuclear program and building out the fragile interim…",
+    "body": "deal to end the war in Iran. Vance and his wife, second lady Usha Vance, arrived at Emmen Air Base outside Lucerne at just before 6 a.m. local time, according to his office. The framework was signed last week, and now top U.S. and Iran negotiators are in a 60-day sprint to reach agreement on the technical details that hold massive implications for the world economy and global security.…",
+    "url": "https://www.koreatimes.co.kr/world/20260621/us-vice-president-jd-vance-arrives-in-switzerland-to-launch-talks-with-iran-on-nuclear-program?utm_source=rss",
+    "date": "2026年6月21日"
   }
 ]
