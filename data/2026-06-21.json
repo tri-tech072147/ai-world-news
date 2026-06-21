@@ -674,5 +674,31 @@
     "body": "",
     "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
     "date": "2026年6月20日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US, Iran to talk Sunday in Switzerland as Tehran says it closed Strait of Hormuz again",
+    "summary": "TYRE, Lebanon — U.S. and Iranian negotiators headed to a Swiss venue Saturday for talks on adding key details to their interim agreement to halt the war, hours after Tehran said it closed the Strait…",
+    "body": "of Hormuz because of Israel’s attacks in Lebanon and warned that little might be achieved if the fighting doesn’t stop. U.S. President Donald Trump, in response, unleashed a new threat to impose American tolls in the crucial waterway if a final deal with Iran isn’t reached in 60 days, saying the money would be for “services rendered as the Guardian Angel to the countries of the Middle East.” The…",
+    "url": "https://www.koreatimes.co.kr/world/20260621/us-iran-to-talk-sunday-in-switzerland-as-tehran-says-it-closed-strait-of-hormuz-again?utm_source=rss",
+    "date": "2026年6月21日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Why an AI company cleaned my New York City apartment for free",
+    "summary": "An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.",
+    "body": "",
+    "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026年6月20日"
   }
 ]
