@@ -791,5 +791,70 @@
     "body": "Yet the very boom that has lifted profits, exports and investment is also reviving an old anxiety: Korea remains heavily exposed to an industry whose fortunes can turn with brutal speed. Leif Eskesen, chief economist at CLSA, warned that Korea's reliance on semiconductors could prove to be a double-edged sword, urging the country to preserve its competitive edge in memory chips through continued…",
     "url": "https://www.koreatimes.co.kr/economy/20260623/how-korea-can-turn-its-chip-boom-into-lasting-strength?utm_source=rss",
     "date": "2026年6月22日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Copilotの“元”は取れるのか問題、ついに決着？ 住友商事、京都市が掴んだ「AI活用の勝ち筋」",
+    "summary": "生成AIの導入効果が問われる時期に入っている。Microsoftが試算した削減見込み額を独自検証した住友商事が出した結論とは。住友商事と京都市の生成AI活用例を紹介し、生成AI投資の勝ち筋に迫る。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2606/23/news034.html",
+    "date": "2026年6月22日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIに詳しくなくても大丈夫、月額制で中小企業のAI活用をプロが支える新サービス",
+    "summary": "ソルバは、AIアークスと提携し、地域企業向けのAI顧問サービスを開始した。AI・DXの専門人材による伴走支援を月額制で提供し、企業ごとの課題に応じたAI活用を後押しする。生産性向上や原価改善、人手不足対策を通じて、地域企業の競争力強化を目指す。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2606/23/news042.html",
+    "date": "2026年6月22日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "経営者は「何を捨てるか考えて」――中東紛争“サイバー戦”のリアルが突き付ける、無視できない脅威",
+    "summary": "サイバー戦やAIの悪用など、サイバー空間は“危険と隣り合わせの場所”になった。企業の経営者は、この課題にどう向き合えばよいのだろうか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/23/news011.html",
+    "date": "2026年6月22日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Excelの10万行データを3分でAIに処理させる、M365 Copilotの使い方",
+    "summary": "上司から突然「このデータを見ておいて」と任され、Excelを前に手が止まった経験がある人も多いはずだ。大量データの集計は負担が大きく、分析業務は特定の担当者に偏ってしまう。Copilotのチャットや関数機能は、その前提を変えつつある。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2606/23/news043.html",
+    "date": "2026年6月22日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「取引先経由」のサイバー攻撃が増加 狙われる中小企業が見直すべき「セキュリティ対策」の3ステップ",
+    "summary": "企業を狙ったサイバー攻撃が後を絶たない。2025年後半に、アスクルやアサヒグループホールディングスが被害を受け、商品の受注や出荷が停止したことは記憶に新しい。ローカーや交渉人、実行組織などが絡み合う犯罪集団に、人手やリソースが限られる中堅・中小企業が単独で立ち向かうのは難しい。では、どのように対策を進めればよいのか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/23/news032.html",
+    "date": "2026年6月22日"
   }
 ]
