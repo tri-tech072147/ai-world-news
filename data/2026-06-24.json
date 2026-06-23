@@ -596,5 +596,31 @@
     "body": "The multimodal travel platform coordinates operations with over 3,000 transportation providers across 47 countries. Omio explicitly rejects the superficial addition of technology to outdated internal processes. The company’s CTO, Tomas Vocetka, requires all internal functions to completely redesign [ ] The post Omio scales travel product development using OpenAI models appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/omio-scales-travel-product-development-using-openai-models/",
     "date": "2026年6月23日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Canyon V2X-Technik: E-Bikes kommunizieren mit Autos und Infrastruktur",
+    "summary": "Canyon hat mit dem Roadlite:ON V2X ein Konzept-E-Bike vorgestellt, das Fahrzeug-zu-X-Kommunikation aus der Automobilbranche auf Fahrräder überträgt.",
+    "body": "",
+    "url": "https://www.heise.de/news/Canyon-V2X-Technik-E-Bikes-kommunizieren-mit-Autos-und-Infrastruktur-11342026.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月23日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "How AI is Reshaping Europe's Digital Sovereignty Debate",
+    "summary": "Strategies for governments to more effectively pursue AI sovereignty.",
+    "body": "",
+    "url": "https://aibusiness.com/ai-policy/how-ai-reshaping-europe-s-digital-sovereignty-debate",
+    "date": "2026年6月23日"
   }
 ]
