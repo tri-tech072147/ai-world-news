@@ -661,5 +661,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/anthropic-aims-transform-enterprise-collaboration-artifacts",
     "date": "2026年6月22日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Facebook rolls out an AI companion app for creators",
+    "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+    "date": "2026年6月24日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+    "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+    "date": "2026年6月24日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Big tech spent millions on a single US congressional race. It won’t be the last time",
+    "summary": "Pro- and anti-AI groups spent $24m on a congressional contest in New York, but it’s unclear to what endUS politics live – latest updatesWhen the Democratic primary for New York’s 12th congressional…",
+    "body": "district was called on Tuesday night, the result capped off one of the most expensive races of its kind in the state’s history. More than $24m poured into the Manhattan contest from tech-backed financial groups as the campaign turned into a battleground for pro- and anti-AI groups to test their influence.Much of the spending targeted candidate Alex Bores, a member of the state assembly who…",
+    "url": "https://www.theguardian.com/us-news/2026/jun/24/big-tech-new-york-alex-bores-ai-spending",
+    "date": "2026年6月24日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Qualcomm to Acquire AI Platform Developer Modular",
+    "summary": "The move expands the chipmaker’s AI infrastructure ambitions from edge devices to data centers.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/qualcomm-acquire-ai-platform-developer-modular",
+    "date": "2026年6月24日"
   }
 ]
