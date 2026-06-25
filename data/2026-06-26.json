@@ -687,5 +687,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/anthropic-alleges-alibaba-pilfered-claude-capabilities",
     "date": "2026年6月25日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Why Hong Kong’s bilingualism is uniquely indispensable in the AI era",
+    "summary": "Last week, while preparing a lecture on the visual culture of the Global South, I caught Google’s Gemini in a double hallucination.…",
+    "body": "Cross-referencing a historical event between English and Chinese data sets, I found the English AI to be authoritative but inventing citations. In Chinese, the fabrications vanished but so did global context, replaced by an insular perspective. Disturbingly, the system cloaked Chinese content in English citations, creating a deceptive authenticity that made the...",
+    "url": "https://www.scmp.com/opinion/article/3358042/why-hong-kongs-bilingualism-uniquely-indispensable-ai-era?utm_source=rss_feed",
+    "date": "2026年6月25日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "“AIの回答が薄い問題”をどう解決？ 日本ハム、「AIが食べやすいデータ」作戦の全貌",
+    "summary": "データ×AIによる意思決定を推進するには、非構造化データを「AIが食べやすいデータ」に変える必要がある。日本ハムが選んだアプローチとは。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/26/news012.html",
+    "date": "2026年6月25日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "チャットの貴重な情報をAIが収集 AIエージェントで会話を資産に",
+    "summary": "業務上の会話には、後から参照すべき貴重な情報が多く含まれる。しかし、従来型のチャットでは、こうした情報が整理されないまま流れ、必要な場面で見つけにくい。そうした課題を解決するために、AIチャットエージェントが役立つかもしれない。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2606/26/news041.html",
+    "date": "2026年6月25日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "リコーが多能工ヒューマノイドを披露、工場ではPoCから導入に向けた実証段階へ",
+    "summary": "リコーは、「AWS Summit Japan 2026」において、フィジカルAI搭載の多能工ヒューマノイドのデモンストレーションを披露した。既に工場内でPoCを始めており、今夏までをめどに多能工ヒューマノイドが一部の工程を担うより実用的な実証を始めたい考えだ。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/26/news056.html",
+    "date": "2026年6月25日"
   }
 ]
