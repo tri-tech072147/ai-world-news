@@ -674,5 +674,31 @@
     "body": "、まずは信頼できる少数のパートナー向けの限定プレビューから始める。",
     "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
     "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "官民投資フィジカルAIに10.5兆円示す、「実証から実装へ」動き出す現場",
+    "summary": "2026年6月22日～26日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/27/news009.html",
+    "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul anoints masters of quilting technique, silver inlaying to preserve traditional crafts",
+    "summary": "In a bid to safeguard Korea’s vanishing artisan heritage, the Seoul Metropolitan Government has designated two women to lifelong honors in the traditional crafts of geometric silk quilting and…",
+    "body": "intricate metal inlaying, the city said Friday. Kim Yun-sun, a veteran artisan who has spent more than 40 years resurrecting a nearly forgotten textile art, was named as the city's first official master of \"saeksilnubi\" (colored thread quilting).…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260627/seoul-anoints-masters-of-quilting-technique-silver-inlaying-to-preserve-traditional-crafts?utm_source=rss",
+    "date": "2026年6月26日"
   }
 ]
