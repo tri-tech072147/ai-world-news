@@ -1025,5 +1025,70 @@
     "body": "",
     "url": "https://techcabal.com/2026/06/26/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-tala-cuts-jobs-again/",
     "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Apple price hikes may hit iPhone next as memory, storage costs soar: analysts",
+    "summary": "Apple’s sweeping price hikes on MacBooks and iPads, which wiped out US$260 billion of its market cap overnight, reflect a “seismic shock” the tech industry faces from rising memory and storage costs,…",
+    "body": "analysts say, warning that the iPhone could be next. The US tech giant increased prices for Macs, iPads, Vision Pro and home devices globally on Thursday, with some models now costing 20 per cent more. Price tags for the iPhone and Apple Watch currently remain unchanged. “The consumer electronics...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3358505/apple-price-hikes-may-hit-iphone-next-memory-storage-costs-soar-analysts?utm_source=rss_feed",
+    "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「AIを使うと他社と似てしまう」課題をどう乗り越える？ 「プロダクトの差別化」の要点",
+    "summary": "生成AIの普及は製品の没個性化や、個人の生産性向上によるチームの分断という課題を生んでいる。米Figmaはカンファレンスで、AI出力を人間が微調整する「素材」として扱う手法を提示。自社ルールを組織全体で共有する仕組みを実装した。個人の暗黙知を資産化する取り組みは、現場の属人化を防ぐだけでなく、無駄なAIコストを最大30％削減し価値創造を支えるものだ。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/26/news076.html",
+    "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "When nation-states shape startup outcomes",
+    "summary": "Startup ecosystems are often portrayed as bottom-up systems driven by founders, venture capital, and technological breakthroughs. That view is incomplete.…",
+    "body": "In practice, startup ecosystems are also downstream expressions of state power, shaped by policy decisions, institutional participation, and geopolitical alignment. This US withdrawal from international climate and energy institutions alters the conditions under which startups [ ] The post When nation-states shape startup outcomes appeared first on e27.",
+    "url": "https://e27.co/when-nation-states-shape-startup-outcomes-20260204/",
+    "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "AMC Robotics to build US$3.5M Vietnam factory as SEA automation race heats up",
+    "summary": "China-affiliated AMC Robotics Corporation will invest US$3.5 million to build out and equip a new manufacturing facility in Vietnam’s Bac Ninh province, marking its first major production foothold in…",
+    "body": "Southeast Asia as the region’s factories and warehouses gradually move towards automation. The company said it has signed a lease agreement for a 6,150-square-metre facility in [ ] The post AMC Robotics to build US$3.5M Vietnam factory as SEA automation race heats up appeared first on e27.",
+    "url": "https://e27.co/amc-robotics-to-build-us3-5m-vietnam-factory-as-sea-automation-race-heats-up-20260626/",
+    "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "IBM hails new 'block of flats' design breakthrough for ultra tiny chips",
+    "summary": "IBM says it has created the world's first known chip tech below 1 nanometre - but it will be some time before it's ready for production.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cvg7vpyn5pxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026年6月25日"
   }
 ]
