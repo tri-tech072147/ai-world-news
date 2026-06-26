@@ -661,5 +661,18 @@
     "body": "",
     "url": "https://www.thehindu.com/business/25-of-indian-tech-services-firms-have-moved-ai-experiments-into-production-level-nasscom/article71150679.ece",
     "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー 米政府と調整、命名は「Sol／Terra／Luna」に刷新",
+    "summary": "米OpenAIは6月26日（現地時間）、次世代AIモデル「GPT-5.6」シリーズの限定プレビューを始めた。フラッグシップの「Sol」、日常業務向けでバランス型の「Terra」、高速・低価格の「Luna」の3モデルで構成する。コーディングや科学、サイバーセキュリティの能力を高める一方、同社として過去最も強固と位置付ける安全対策を組み合わせた。数週間以内に一般提供する計画だが、米政府との調整を踏まえ…",
+    "body": "、まずは信頼できる少数のパートナー向けの限定プレビューから始める。",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
+    "date": "2026年6月26日"
   }
 ]
