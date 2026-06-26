@@ -609,5 +609,57 @@
     "body": "On June 22, 2026, the cybersecurity chiefs of the Five Eyes nations—comprising the US, UK, Canada, Australia, and New Zealand—issued a rare joint intelligence briefing stating that upcoming artificial [ ] The post Top spy agencies say AI cyber threats will impact you within months. Here’s why appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/five-eyes-warning-ai-cyber-threats/",
     "date": "2026年6月23日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI.…",
+    "body": "“It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with…",
+    "body": "Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a [ ]",
+    "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "25% of Indian tech services firms have moved AI experiments into production level: Nasscom",
+    "summary": "‘Indian IT is currently generating up to $12 billion in AI services revenue, with more than 2 million professionals skilled in AI and 100,000 to 200,000 trained in advanced AI capabilities’",
+    "body": "",
+    "url": "https://www.thehindu.com/business/25-of-indian-tech-services-firms-have-moved-ai-experiments-into-production-level-nasscom/article71150679.ece",
+    "date": "2026年6月26日"
   }
 ]
