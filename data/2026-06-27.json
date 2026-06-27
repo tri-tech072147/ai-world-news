@@ -804,5 +804,44 @@
     "body": "foreign ministry said Saturday. The Pax Silica Summit is a U.S.-led strategic initiative and coalition of more than 20 partner nations dedicated to securing the global technology supply chain. On the first day of the second summit, held from Thursday to Friday and attended by countries including Australia, Finland, India, Japan and Britain, participants discussed intergovernmental and industry…",
     "url": "https://www.koreatimes.co.kr/foreignaffairs/20260627/vice-fm-attends-pax-silica-summit-in-washington-discusses-ai-chip-supply-chains?utm_source=rss",
     "date": "2026年6月27日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Getty kuschelt mit OpenAI – die Fotonews der Woche 26/2026",
+    "summary": "Getty Images und OpenAI werden Partner: Bilder jetzt in ChatGPT und Aktie steigt. VSCO will 500 Dollar, Adobe kauft Topaz Labs.",
+    "body": "",
+    "url": "https://www.heise.de/news/Getty-kuschelt-mit-OpenAI-die-Fotonews-der-Woche-26-2026-11345918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月27日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Hype vs. Realität: Warum Technologie allein nicht reicht",
+    "summary": "Warum der Erfolg von KI in der Praxis vom Zusammenspiel zwischen Mensch und Technik abhängt, erklärt Michael Zimmer in seiner Keynote von der data2day 2025.",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/KI-Hype-vs-Realitaet-Warum-Technologie-allein-nicht-reicht-11340363.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月27日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "U.S. allows limited access to Anthropic’s Mythos AI model",
+    "summary": "Access to Mythos 5 had been blocked by U.S. authorities due to concerns about national security",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/us-allows-limited-access-to-anthropics-mythos-ai-model/article71153730.ece",
+    "date": "2026年6月27日"
   }
 ]
