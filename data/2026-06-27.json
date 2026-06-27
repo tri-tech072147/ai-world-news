@@ -765,5 +765,44 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/business/articles/2606/27/news024.html",
     "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Social media bans go global: big tech faces a reckoning after Australia’s crackdown",
+    "summary": "As a host of countries move to rein in social media use by children, could this be technology’s big tobacco moment? Continue reading...",
+    "body": "",
+    "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/27/social-media-bans-go-global-big-tech-reckoning-australia-crackdown",
+    "date": "2026年6月27日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US allows limited access to Anthropic's Mythos AI model",
+    "summary": "SAN FRANCISCO, United States — Anthropic said Friday it had received authorization from the U.S. government to allow a small group of American cybersecurity firms to access its powerful AI model…",
+    "body": "Mythos 5. Access to Mythos 5 had been blocked by U.S. authorities due to concerns about national security. Anthropic will continue discussions with the Trump administration to \"expand access to Mythos 5 and make Fable 5 available again\" to the general public, a company spokesperson said.…",
+    "url": "https://www.koreatimes.co.kr/world/20260627/us-allows-limited-access-to-anthropics-mythos-ai-model?utm_source=rss",
+    "date": "2026年6月27日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Vice FM attends Pax Silica Summit in Washington, discusses AI, chip supply chains",
+    "summary": "Vice Foreign Minister Kim Jina attended the Pax Silica Summit in Washington this week where partner nations discussed cooperation in artificial intelligence and semiconductor supply chains, the…",
+    "body": "foreign ministry said Saturday. The Pax Silica Summit is a U.S.-led strategic initiative and coalition of more than 20 partner nations dedicated to securing the global technology supply chain. On the first day of the second summit, held from Thursday to Friday and attended by countries including Australia, Finland, India, Japan and Britain, participants discussed intergovernmental and industry…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20260627/vice-fm-attends-pax-silica-summit-in-washington-discusses-ai-chip-supply-chains?utm_source=rss",
+    "date": "2026年6月27日"
   }
 ]
