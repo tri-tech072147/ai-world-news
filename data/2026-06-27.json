@@ -700,5 +700,70 @@
     "body": "intricate metal inlaying, the city said Friday. Kim Yun-sun, a veteran artisan who has spent more than 40 years resurrecting a nearly forgotten textile art, was named as the city's first official master of \"saeksilnubi\" (colored thread quilting).…",
     "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260627/seoul-anoints-masters-of-quilting-technique-silver-inlaying-to-preserve-traditional-crafts?utm_source=rss",
     "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+    "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "date": "2026年6月27日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "As China’s tech firms adapt to AI era, workers worry they’ll be ‘optimised’ out of a job",
+    "summary": "When a friend checked in on a Meituan employee late last month to see if he had survived the latest round of corporate culling at the food delivery giant, he responded drily: “I don’t know whether it…",
+    "body": "will be me next.” Anxieties were running high at the company then, after chat screenshots circulated on Chinese social media claiming Meituan planned to slash up to half of its product roles by the end of June, coupled with deep cuts to other departments. While Meituan quickly denied the rumours,...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3358519/chinas-tech-firms-adapt-ai-era-workers-worry-theyll-be-optimised-out-job?utm_source=rss_feed",
+    "date": "2026年6月27日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Hikers lost in Kosciuszko national park rescued within five hours by AI drone",
+    "summary": "Fire and Rescue NSW uses thermal imaging and a mobile phone red light to quickly locate men who veered off walking track near JindabyneGet our breaking news email, free app or daily news podcastTwo…",
+    "body": "hikers who veered off a walking track in Kosciuszko national park have been found within five hours using a drone powered by artificial intelligence, a first-of-its-kind mission, Fire and Rescue NSW (FRNSW) has said.The two men, aged in their 20s, were reported missing at 7pm on Tuesday evening after they failed to return to a rendezvous point on time. Continue reading...",
+    "url": "https://www.theguardian.com/australia-news/2026/jun/27/ai-drone-rescue-kosciuszko-national-park-hikers-fire-rescue-nsw",
+    "date": "2026年6月27日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ 米政府が許可",
+    "summary": "米Anthropicは6月26日（現地時間）、12日から提供を一時停止していたAIモデル「Claude Mythos 5」について、米国の一部組織に限定して再提供を始めると発表した。米政府から許可を得たという。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
+    "date": "2026年6月27日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "東電出資に意欲 孫正義氏が「国内データセンター誘致」で狙うインフラ戦略",
+    "summary": "ソフトバンクグループ株主総会で、会長兼社長の孫正義氏が、将来的な目標として「純資産価値1000兆円」の展望を語った。AIインフラの最大のボトルネックである「電力確保」を巡り、子会社のソフトバンクが東京電力の次期オーナー候補に名乗りを上げている事実にも言及した。最先端データセンターを日本へ呼び戻そうとするインフラ戦略に迫る。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/27/news024.html",
+    "date": "2026年6月26日"
   }
 ]
