@@ -843,5 +843,31 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/us-allows-limited-access-to-anthropics-mythos-ai-model/article71153730.ece",
     "date": "2026年6月27日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Australian rescue team uses AI-powered drone to find lost hikers – video",
+    "summary": "Two men in their 20s were found within five hours thanks to an artificial intelligence-powered drone, which used thermal imaging to locate them.…",
+    "body": "Two hikers veered off a walking track in Kosciuszko national park, New South Wales, on Tuesday, and were found about half a kilometre off the track. It was the first time the FRNSW drone’s AI detection system had been used to rescue missing peopleHikers lost in Kosciuszko national park rescued within five hours by AI drone Continue reading...",
+    "url": "https://www.theguardian.com/australia-news/video/2026/jun/27/australian-rescue-team-uses-ai-powered-drone-to-find-lost-hikers-video",
+    "date": "2026年6月27日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "US-Regierung lässt Zugang zu neuer KI von OpenAI beschränken",
+    "summary": "Die amerikanische Regierung bestimmt nun mit, wer Zugang zu neuen KI-Modellen bekommt. Ein Auslöser ist Angst vor Missbrauch für Cyberattacken.",
+    "body": "",
+    "url": "https://www.heise.de/news/US-Regierung-laesst-Zugang-zu-neuer-KI-von-OpenAI-beschraenken-11346768.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月27日"
   }
 ]
