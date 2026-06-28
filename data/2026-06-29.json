@@ -583,5 +583,44 @@
     "body": "",
     "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
     "date": "2026年6月28日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Will China’s new northern tech bases in Hebei and Tianjin spark local housing demand?",
+    "summary": "Chinese technology companies establishing new headquarters and offices in northern cities around Beijing are expected to boost local rental demand, but analysts say home sales growth will be far…",
+    "body": "milder than the surges delivered by traditional tech firms in previous years. Local governments hoping that red-hot artificial intelligence or chip companies setting up headquarters or research and development centres would lift slumping property markets as in the previous cycle were likely to be...",
+    "url": "https://www.scmp.com/business/article/3358482/will-chinas-new-northern-tech-bases-hebei-and-tianjin-spark-local-housing-demand?utm_source=rss_feed",
+    "date": "2026年6月28日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "解剖・孫正義氏の「ガチョウ論」 「ソフトバンクG株価が低過ぎ」主張を信じてよいのか",
+    "summary": "孫正義氏が、ソフトバンクGの株価に不満をにじませた。孫氏が「本当の企業価値」として示す「時価純資産」の論理と危うさを解説する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2606/29/news034.html",
+    "date": "2026年6月28日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea's ETF market overtakes Kosdaq for 1st time",
+    "summary": "The domestic exchange-traded fund (ETF) market overtook the Kosdaq in market capitalization for the first time last week, data showed Sunday, ahead of the Kosdaq's 30th anniversary in July.…",
+    "body": "The ETF market has grown rapidly this year, driven by increased participation from retail investors and strong interest in artificial intelligence-themed investments, while the Kosdaq has declined amid broad weakness in the index.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260629/koreas-etf-market-overtakes-kosdaq-for-1st-time?utm_source=rss",
+    "date": "2026年6月28日"
   }
 ]
