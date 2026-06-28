@@ -713,5 +713,57 @@
     "body": "",
     "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&at_campaign=rss",
     "date": "2026年6月27日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "As AI pushes data centres to breaking point, some Chinese chipmakers bet on SiC",
+    "summary": "As the global artificial intelligence (AI) boom puts intense pressure on data centre energy grids, some Chinese chipmakers are betting on highly efficient silicon carbide (SiC) semiconductors to help…",
+    "body": "solve the technology sector’s power problem. Shenzhen-based Basic Semiconductor is the latest contender looking to bankroll its expansion after it passed a listing hearing earlier this week in its path to an initial public offering (IPO) in Hong Kong. Founded in 2016 by graduates from Tsinghua...",
+    "url": "https://www.scmp.com/tech/tech-war/article/3358492/ai-pushes-data-centres-breaking-point-some-chinese-chipmakers-bet-sic?utm_source=rss_feed",
+    "date": "2026年6月28日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "ひろゆき氏「SIer衰退予測」、AI代替の「逆転現象」の理由 2026年に生き残るエンジニア“4つの役割”",
+    "summary": "2026年上半期に＠ITで公開された記事の中から、AI系の話題で特に注目を集めた5本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/28/news006.html",
+    "date": "2026年6月28日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Gov't eyes curbs on employee loan programs offered by large firms",
+    "summary": "Low-interest housing loans offered by large corporations to employees are coming under scrutiny as the government tightens curbs on household lending to cool the real estate market, according to…",
+    "body": "industry experts, Sunday. Since these company-funded loans fall outside the regulatory framework, some critics say they could add momentum to an already overheated housing market despite the authorities’ efforts to rein in leverage. The Financial Supervisory Service (FSS) recently acknowledged this growing concern.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260628/govt-eyes-curbs-on-employee-loan-programs-offered-by-large-firms?utm_source=rss",
+    "date": "2026年6月28日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea, Japan defense chiefs agree to cooperate on AI, maritime search and rescue",
+    "summary": "Korea and Japan will cooperate in developing artificial intelligence (AI) and other advanced technologies for the defense sector, the two countries' defense chiefs said Sunday.…",
+    "body": "They also reaffirmed the two sides' commitment to the complete denuclearization of the Korean Peninsula and maintaining peace in the region. Korean Defense Minister Ahn Gyu-back and Japanese Defense Minister Shinjiro Koizumi announced the cooperation pledges in a joint press statement following their bilateral talks in Seoul.…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20260628/korea-japan-defense-chiefs-agree-to-cooperate-on-ai-maritime-search-and-rescue?utm_source=rss",
+    "date": "2026年6月28日"
   }
 ]
