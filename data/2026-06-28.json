@@ -765,5 +765,57 @@
     "body": "They also reaffirmed the two sides' commitment to the complete denuclearization of the Korean Peninsula and maintaining peace in the region. Korean Defense Minister Ahn Gyu-back and Japanese Defense Minister Shinjiro Koizumi announced the cooperation pledges in a joint press statement following their bilateral talks in Seoul.…",
     "url": "https://www.koreatimes.co.kr/foreignaffairs/20260628/korea-japan-defense-chiefs-agree-to-cooperate-on-ai-maritime-search-and-rescue?utm_source=rss",
     "date": "2026年6月28日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Faster AI, lower costs: DSpark eases inference bottlenecks and chip strain, says DeepSeek",
+    "summary": "Chinese artificial intelligence start-up DeepSeek has rolled out a major upgrade to its flagship V4 model aimed at sharply accelerating AI response generation, as competition among Chinese developers…",
+    "body": "increasingly shifts to reducing serving costs and enhancing user experience. DeepSeek, by adopting what it called a speculative decoding framework, DSpark, said it increased per-user response speeds by up to 85 per cent, an efficiency gain that could reduce AI systems’ reliance on larger, more...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3358647/faster-ai-lower-costs-dspark-eases-inference-bottlenecks-and-chip-strain-says-deepseek?utm_source=rss_feed",
+    "date": "2026年6月28日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "How the AI boom exposes investors to risk, while a downturn could see a sharp crash: BIS",
+    "summary": "As the global financial system struggles to keep pace with the artificial intelligence investment boom and capital flows surge through loosely regulated, non-bank channels, a key international…",
+    "body": "organisation has warned that an AI downturn could develop into a sharper, faster crash than a traditional banking crisis. In its annual economic report released on Sunday, the Bank for International Settlements (BIS) said funding for AI was increasingly channelled through hedge funds, private credit...",
+    "url": "https://www.scmp.com/business/banking-finance/article/3357993/how-ai-boom-exposes-investors-risk-while-downturn-could-see-sharp-crash-bis?utm_source=rss_feed",
+    "date": "2026年6月28日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: Agentic AI: Konferenz zu Legacy-Migration und den Herausforderungen fürs Team",
+    "summary": "Die betterCode() Agentic AI widmet sich aktuellen Themen zu KI-gestützter Softwareentwicklung. Im Oktober stehen Legacy-Modernisierung und Teamarbeit im Fokus.",
+    "body": "",
+    "url": "https://www.heise.de/news/Agentic-AI-Konferenz-zu-Legacy-Migration-und-den-Herausforderungen-fuers-Team-11345633.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年6月28日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Will Samsung join ADR wave among Asian chipmakers?",
+    "summary": "Samsung Electronics could become the next major Asian chipmaker to consider an American depositary receipt (ADR) listing, analysts said Sunday, as rivals seek greater access to U.S.…",
+    "body": "investors amid the capital-intensive race in AI memory. ADRs allow U.S. investors to gain exposure to foreign companies without those companies directly listing their ordinary shares on a U.S. exchange. They could broaden Samsung's global investor base, increase its visibility among U.S.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260628/will-samsung-join-adr-wave-among-asian-chipmakers?utm_source=rss",
+    "date": "2026年6月28日"
   }
 ]
