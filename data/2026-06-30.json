@@ -596,5 +596,44 @@
     "body": "",
     "url": "https://aibusiness.com/data-centers/how-ai-could-help-address-energy-challenge",
     "date": "2026年6月25日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "date": "2026年6月29日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+    "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "date": "2026年6月29日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Why artificial wisdom is the biggest AI risk",
+    "summary": "AI enthusiasts often position AI as a substitute for human cognition. In doing so, society is gradually internalising a dangerous misconception that AI generates knowledge",
+    "body": "",
+    "url": "https://www.thehindu.com/opinion/op-ed/why-artificial-wisdom-is-the-biggest-ai-risk/article71162857.ece",
+    "date": "2026年6月29日"
   }
 ]
