@@ -635,5 +635,44 @@
     "body": "",
     "url": "https://www.thehindu.com/opinion/op-ed/why-artificial-wisdom-is-the-biggest-ai-risk/article71162857.ece",
     "date": "2026年6月29日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Gemini’s personalized AI image generation is now free for US users",
+    "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "date": "2026年6月29日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "ルネサスが2035年の売上高3倍増も視野に、AIで3段階の成長を目指す",
+    "summary": "ルネサス エレクトロニクスが同社の概況や事業方針などについて説明。足元で半導体市場の拡大をけん引するAIに焦点を当てた事業展開を強化し、AIインフラ、フィジカルAIとSDV、「Intelligence at the Edge」の3段階で優位なポジションを構築し成長を目指す。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/30/news081.html",
+    "date": "2026年6月29日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "日本の「完璧主義」から脱却し中国ヒューマノイドにどう立ち向かうか",
+    "summary": "ハードウェアと市場が先行して急拡大する一方で、自律制御を担う基盤モデルの領域にはいまだ乗り越えるべき壁が多い。後編となる本稿では、オープンソース化で社会実装を急ぐ中国プレイヤーの動向を解説。圧倒的なスピードで独走する中国に対し、日本が目指すべき生存戦略を提示する。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2606/30/news059.html",
+    "date": "2026年6月29日"
   }
 ]
