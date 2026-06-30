@@ -674,5 +674,83 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/india-another-ai-funding-boost-from-amazon",
     "date": "2026年6月26日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "date": "2026年6月30日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "date": "2026年6月30日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+    "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "date": "2026年6月30日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds",
+    "summary": "Poll finds use of AI tools for health advice is correlated with belief in vaccine falsehoods, such as shots causing autismAdults in the US who frequently seek out health advice from artificial…",
+    "body": "intelligence chatbots are more likely to believe myths about vaccines, according to a poll released on Tuesday by health research firm KFF.The survey, which was conducted in May and polled a representative sample of 2,480 US adults, found that use of AI tools and chatbots correlated with belief in falsehoods such as vaccines causing autism or that the measles vaccine poses more danger than the…",
+    "url": "https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll",
+    "date": "2026年6月30日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "【Pythonで学ぶデータ分析】母平均のベイズ推定と予測サンプルの作成 ～ 規格外製品の廃棄コストを見積もる",
+    "summary": "「不良品で幾ら損する？」をベイズ統計で見積もってみましょう。製品のサイズを測ったデータから、平均やばらつきを推定し、さらに「これから作る製品が規格外になる確率」までをPythonを使って予測します。『社会人1年生から学ぶ、やさしいデータ分析』ベイズ統計編の第4回です。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/01/news008.html",
+    "date": "2026年6月30日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Reimagining sovereign AI for India’s strategic future",
+    "summary": "India must leverage global AI while reducing strategic technological dependence over time",
+    "body": "",
+    "url": "https://www.thehindu.com/opinion/op-ed/reimagining-sovereign-ai-for-indias-strategic-future/article71166911.ece",
+    "date": "2026年6月30日"
   }
 ]
