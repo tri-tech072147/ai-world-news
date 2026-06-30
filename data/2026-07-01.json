@@ -752,5 +752,57 @@
     "body": "",
     "url": "https://www.thehindu.com/opinion/op-ed/reimagining-sovereign-ai-for-indias-strategic-future/article71166911.ece",
     "date": "2026年6月30日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenClaw is finally available on Android and iOS",
+    "summary": "The free open source agentic program is finally invading your phone.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "date": "2026年6月30日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "The great AI reckoning: how China is flipping the script on US’ new industrial revolution",
+    "summary": "As the United States marks the 250th anniversary of its founding, it confronts a new world order dominated by its relationship with China.…",
+    "body": "In this wide-ranging series, we examine the pressure points and possibilities in those ties, from hard tech to soft power. Here, Vincent Chow looks at how China challenges core American assumptions about innovation and technology, and the historical stakes of their competition in artificial intelligence. In 1969, the renowned British sinologist Joseph Needham...",
+    "url": "https://www.scmp.com/tech/article/3358925/great-ai-reckoning-how-china-flipping-script-us-new-industrial-revolution?utm_source=rss_feed",
+    "date": "2026年6月30日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "The Catholic University of Korea says faith is its strength in AI race",
+    "summary": "As universities race to expand artificial intelligence (AI) education, The Catholic University of Korea is betting that its strongest competitive advantage lies not in AI alone, but in its Catholic…",
+    "body": "identity and the values guiding the technology's use. President Choi Jun-gui said the university's vision, \"Be Catholic, Be Excellent,\" seeks to distinguish the institution by combining cutting-edge AI and biomedical innovation with education rooted in human dignity, ethics and respect for life. \"AI is a tool.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20260701/the-catholic-university-of-korea-says-faith-is-its-strength-in-ai-race?utm_source=rss",
+    "date": "2026年6月30日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "With Claude Science, Anthropic Targets Another Application",
+    "summary": "The AI vendor is not the first model provider to focus on science. It is proceeding cautiously due to challenges with using AI in the science field.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/with-claude-science-anthropic-targets-application",
+    "date": "2026年6月30日"
   }
 ]
