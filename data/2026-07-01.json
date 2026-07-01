@@ -1246,5 +1246,57 @@
     "body": "",
     "url": "https://techcabal.com/2026/07/01/techcabal-daily-safaricom-ports-to-south-africa/",
     "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s Kling AI nears US$3 billion round at US$18 billion valuation: sources",
+    "summary": "Kuaishou-backed Kling AI is close to completing a US$3 billion fundraising round that would value the company at US$18 billion post-investment, according to people familiar with the matter, as…",
+    "body": "competition intensifies in China’s artificial intelligence video generation sector. The latest valuation was narrowed from an initial target of US$20 billion set in April, when Chinese short-video giant Kuaishou first planned to spin off Kling AI, according to a source, reflecting the shifting market...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3359059/chinas-kling-ai-nears-us3-billion-round-us18-billion-valuation-sources?utm_source=rss_feed",
+    "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "OpenAI soll Inferenzkosten um mehr als die Hälfte gesenkt haben",
+    "summary": "Laut einem Medienbericht haben OpenAI-Ingenieure Optimierungen gefunden, die die Kosten für den Betrieb bestehender KI-Modelle um mehr als 50 Prozent senken.",
+    "body": "",
+    "url": "https://www.heise.de/news/OpenAI-soll-Inferenzkosten-um-mehr-als-die-Haelfte-gesenkt-haben-11350595.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US, Iran officials hold indirect talks in Doha",
+    "summary": "DUBAI — Indirect talks in Doha between officials from the United States and Iran aimed at ending the Middle East war have started, a diplomat with knowledge of the talks told AFP on Wednesday.…",
+    "body": "The diplomat, speaking on condition of anonymity to discuss the sensitive talks, confirmed negotiations were underway after they earlier said the US and Iran were to hold \"indirect technical talks on Wednesday in Doha with Qatari and Pakistani mediators\".…",
+    "url": "https://www.koreatimes.co.kr/world/20260701/us-iran-officials-hold-indirect-talks-in-doha?utm_source=rss",
+    "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "President Lee vows continued efforts to replace inter-Korean armistice with peace regime",
+    "summary": "South Korean President Lee Jae Myung said Wednesday government will pursue sustained efforts to engage North Korea and replace the Korean War armistice with a peace regime.…",
+    "body": "Lee made the remarks in a meeting of the Peaceful Unification Advisory Council, a presidential advisory body on unification of the two Koreas. \"At least to open a 'Korea premium' era for the future Korean Peninsula that is drawing global attention, we must replace the armistice with a peace regime,\" Lee said.…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260701/president-lee-vows-continued-efforts-to-replace-inter-korean-armistice-with-peace-regime?utm_source=rss",
+    "date": "2026年7月1日"
   }
 ]
