@@ -570,5 +570,83 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/how-smbs-can-take-advantage-generative-ai",
     "date": "2026年6月29日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "We can live without AI, but can we live without clean water? | Letters",
+    "summary": "Readers respond to an article about Erin Brockovich’s battle against datacentres and voice their fears for the environment What are the benefits obtained from AI’s massive use of electricity and…",
+    "body": "water (‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres, 29 June)? Analysis shows that the top four uses of AI are “therapy/companionship”, “technical assistance and troubleshooting”, “fun and nonsense”, and “fan fiction and storytelling”.AI use for therapy, and due to loneliness, appears not to reduce loneliness.…",
+    "url": "https://www.theguardian.com/technology/2026/jul/01/we-can-live-without-ai-but-can-we-live-without-clean-water",
+    "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korean high school where 1 in 4 graduates heads straight to Samsung Electronics",
+    "summary": "Even at vocational high schools, principals who don't have to worry about their graduates finding jobs are a rare breed these days.…",
+    "body": "Seo Un-suk, principal of Chungbuk Semiconductor High School, is one of them. “We have 96 students in each grade, and more than 100 semiconductor companies have signed agreements to hire our graduates,” Seo said. “There is no need to worry about finding jobs.” Seo beamed as he led a tour of the school.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20260702/korean-high-school-where-1-in-4-graduates-heads-straight-to-samsung-electronics?utm_source=rss",
+    "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Deploying retail AI to scale personalisation and customer insight",
+    "summary": "Optimising retail AI infrastructure drives the successful deployment of personalisation systems and real-time customer insight.…",
+    "body": "Leaders are replacing static customer interaction patterns with data pipelines capable of modifying the user environment during a live session. Static layouts and broad segmentation rules fail to satisfy modern conversion targets.…",
+    "url": "https://www.artificialintelligence-news.com/news/deploying-retail-ai-to-scale-personalisation-customer-insight/",
+    "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Why Google is building Africa’s AI future from South Africa",
+    "summary": "Africa is becoming a market where AI infrastructure, computing power, local talent, and homegrown companies will determine future competitiveness.",
+    "body": "",
+    "url": "https://techcabal.com/2026/07/01/google-ai-future-south-africa/",
+    "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Restrictions on Fable 5, Mythos 5 Lifted, as Anthropic Launches Sonnet 5",
+    "summary": "The release of the powerful models shows that enterprises need to be open to different AI systems and consider governance as part of choosing models.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/restrictions-fable-5-mythos-5-lifted-anthropic-launches-sonnet-5",
+    "date": "2026年7月1日"
   }
 ]
