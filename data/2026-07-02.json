@@ -648,5 +648,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/restrictions-fable-5-mythos-5-lifted-anthropic-launches-sonnet-5",
     "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure…",
+    "body": "and energy that power them.",
+    "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Tesla Cybercab: Tests in Austin ohne Lenkrad und Pedale",
+    "summary": "Der E-Auto-Konzern Tesla startet Testfahrten seines Cybercab ohne Lenkrad und Pedale. Eine wichtige Hürde für Teslas Robotaxi-Dienst könnte demnächst wegfallen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Tesla-Cybercab-Tests-in-Austin-ohne-Lenkrad-und-Pedale-11351103.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Unchecked AI progress may pose catastrophic risks, UN panel warns",
+    "summary": "A preliminary report by the UN’s Independent International Scientific Panel on Artificial Intelligence said policymakers face a growing dilemma: they need robust evidence to regulate AI effectively,…",
+    "body": "yet such evidence is ‌struggling to keep pace with the technology’s rapid evolution",
+    "url": "https://www.thehindu.com/sci-tech/technology/unchecked-ai-progress-may-pose-catastrophic-risks-un-panel-warns/article71171581.ece",
+    "date": "2026年7月1日"
   }
 ]
