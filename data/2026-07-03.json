@@ -700,5 +700,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/microsoft-frontier-company-humans-scale-ai",
     "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "AI is 'not smart' so what's next in artificial intelligence?",
+    "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "え、21日で37テラも？ 高性能SSDを食いつぶす「あのAIツール」にご用心：886th Lap",
+    "summary": "AIツールを使っていただけなのに、SSDの寿命が想像以上の速さで縮んでいた。そんな問題が明らかになった。原因は、ツールの実装上の不具合だ。もし、そのAIツールを使っているなら、一度確認しておきたい。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2607/03/news041.html",
+    "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "フィジカルAIに“二刀流”で対応するアドバンテック、日本に第3の製造拠点を構築",
+    "summary": "産業用PCで世界シェアトップのアドバンテックが、エッジAI市場の拡大に併せて組み込み機器部門の事業への注力を鮮明にしている。アドバンテック台湾本社のTony Chen氏と、アドバンテック日本法人の李威震氏に、フィジカルAIをはじめエッジAIを中核とする事業戦略について聞いた。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/03/news065.html",
+    "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "White House official says Coupang 'singled out' by Lee gov't, warns against 'unfair' trade practices",
+    "summary": "WASHINGTON — A White House official said Thursday that e-commerce giant Coupang Inc. is being \"singled out\" by Korean President Lee Jae Myung's administration, expressing concern over what Washington…",
+    "body": "called \"discriminatory\" targeting of the U.S.-listed firm. The official made the remarks in response to Yonhap News Agency's request for comment on the release this week of the House Judiciary Committee's interim staff report accusing Korea of \"discriminatory attacks\" on Coupang and other American-owned businesses.…",
+    "url": "https://www.koreatimes.co.kr/world/20260703/white-house-official-says-coupang-singled-out-by-lee-govt-warns-against-unfair-trade-practices?utm_source=rss",
+    "date": "2026年7月2日"
   }
 ]
