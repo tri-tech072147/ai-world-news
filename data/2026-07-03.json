@@ -622,5 +622,44 @@
     "body": "The hardware manufacturer initiated testing of the platform in February 2026. Early pilot programs yielded verified operational gains in software engineering and cybersecurity remediation. Expanding these initial trials into an enterprise-wide operating model requires connecting access protocols, contextual [ ] The post HP accelerates enterprise workflows with OpenAI Frontier appeared first on AI…",
     "url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
     "date": "2026年6月29日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Prompt: The Next AI Challenge Isn't the Model. It's the Organization.",
+    "summary": "AWS's $1 billion investment in embedded AI engineers reflects a broader shift as enterprises focus less on choosing models and more on putting AI to work.",
+    "body": "",
+    "url": "https://aibusiness.com/agentic-ai/next-challenge-scaling-ai",
+    "date": "2026年7月2日"
   }
 ]
