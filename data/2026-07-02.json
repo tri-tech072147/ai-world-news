@@ -1155,5 +1155,83 @@
     "body": "",
     "url": "https://techcabal.com/2026/07/02/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-nigerias-central-bank-is-cleaning-house/",
     "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Zhipu AI releases harness for GLM-5.2 model as Chinese firm takes aim at Anthropic",
+    "summary": "Zhipu AI has launched a new tool to help developers build autonomous coding assistants, heating up its rivalry with US firm Anthropic as the latter removes a hidden code tracking Chinese users of its…",
+    "body": "Claude Code platform. Beijing-based Zhipu, known as Z.ai overseas and listed in Hong Kong under the name Knowledge Atlas Technology, on Wednesday introduced ZCode, a harness for its latest artificial intelligence model, GLM-5.2. A harness is a control system that helps large language models execute...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3359170/zhipu-ai-releases-harness-glm-52-model-chinese-firm-takes-aim-anthropic?utm_source=rss_feed",
+    "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: KI-Transformation im Unternehmen – vom Use Case zur skalierten KI-Strategie",
+    "summary": "In fünf Sessions lernen IT-Entscheider, KI strategisch im Unternehmen zu verankern und dabei Mitarbeitende mitzunehmen – alles im Einklang mit dem EU AI Act.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-Transformation-im-Unternehmen-vom-Use-Case-zur-skalierten-KI-Strategie-11348293.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Rechenzentren: Tech-Lobby drängt EU zur Aufweichung von Klimaregeln",
+    "summary": "Die EU-Kommission erwägt offenbar, geplante Klimaregeln für Rechenzentren deutlich zu lockern. Die Tech-Branche hatte auf weniger strenge Vorgaben gedrängt.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-Rechenzentren-Tech-Lobby-draengt-EU-zur-Aufweichung-von-Klimaregeln-11351741.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "UN report says global race for AI has left safety standards in the dust | Explained",
+    "summary": "The UN report warns that the technology is turning into a phase of “agentic” autonomy that current oversight won’t be able to manage, potentially allowing dangerous capabilities to emerge before…",
+    "body": "governments can respond",
+    "url": "https://www.thehindu.com/sci-tech/technology/un-report-flags-gaps-in-ais-safety-standards-explained/article71173850.ece",
+    "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Novastar joins Google Africa Applied AI Lab to back startups",
+    "summary": "Novastar Ventures will work with other VC firms in identifying and supporting African startups building AI-powered solutions for Google's Africa Applied AI Lab.",
+    "body": "",
+    "url": "https://techcabal.com/2026/07/02/novastar-joins-google-africa-applied-ai-lab-to-back-startups/",
+    "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Don't expect connected car apps to save your stolen car, experts say",
+    "summary": "Kia told the BBC UK law prevented its location tracking function being used to live track vehicles.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cp8r1798kp7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年7月1日"
   }
 ]
