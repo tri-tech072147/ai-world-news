@@ -661,5 +661,44 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/next-challenge-scaling-ai",
     "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But low and behold.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "ソフトウェアエンジニアの仕事は「ループを書くこと」になる 内側ループと外側ループ（ハーネス）入門",
+    "summary": "AIコーディングにおける「ループ」には、エージェントが回す内側ループと、ハーネスが回す外側ループの2種類がある。両者の違いと外側ループがもたらす課題を、アルミン・ロナッハー氏の記事に沿って初心者向けに解説し、その「記憶」の扱いについての筆者の考えも添える。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news016.html",
+    "date": "2026年7月2日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Microsoft Bets on Humans to Scale AI",
+    "summary": "Microsoft Frontier Company is the latest example of how experts are necessary to achieving returns on AI investments.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/microsoft-frontier-company-humans-scale-ai",
+    "date": "2026年7月2日"
   }
 ]
