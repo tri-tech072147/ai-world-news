@@ -1168,5 +1168,70 @@
     "body": "",
     "url": "https://techcabal.com/2026/07/03/quick-fire-%f0%9f%94%a5-with-sheriff-adedokun/",
     "date": "2026年7月3日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Unitree IPO to test valuations as venture capital floods China robotics",
+    "summary": "Unitree Robotics has secured approval from China’s securities regulator for a Shanghai initial public offering that is poised to set a valuation benchmark for China’s sizzling embodied AI sector.…",
+    "body": "The nod from the China Securities Regulatory Commission came about a month after the Hangzhou-based company cleared a review by the Shanghai Stock Exchange’s listing committee. Unitree is now finalising its underwriting plan, pricing and share subscriptions for a potential debut as early as late...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3359290/unitree-ipo-test-valuations-venture-capital-floods-china-robotics?utm_source=rss_feed",
+    "date": "2026年7月3日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Overcrowded bus plunges into ravine in southwest Pakistan, killing 40 passengers and injuring 8",
+    "summary": "QUETTA, Pakistan — A speeding, overcrowded passenger bus plunged from a highway into a rocky ravine in southwestern Pakistan early Friday, killing 40 people and injuring eight others in one of the…",
+    "body": "deadliest road accidents in recent years, officials said. The bus went out of control and fell into the ravine in Dana Sar, a remote area near the border of Balochistan and Khyber Pakhtunkhwa provinces, Shahid Rind, a spokesperson for the Balochistan government, said.…",
+    "url": "https://www.koreatimes.co.kr/world/20260703/overcrowded-bus-plunges-into-ravine-in-southwest-pakistan-killing-40-passengers-and-injuring-8?utm_source=rss",
+    "date": "2026年7月3日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Drought risk missing in water supply plan for new chip cluster",
+    "summary": "The government has come up with a plan to supply industrial water to semiconductor plants that Samsung Electronics and SK hynix have committed to build in Korea's southwestern region, but questions…",
+    "body": "remain over the lack of clear principles on how water should be prioritized in the event of shortages during droughts. The Ministry of Climate, Energy and Environment announced on Tuesday the plan to supply 650,000 tons of industrial water per day to the proposed chip cluster by adjusting water allocations from nearby dams.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260703/drought-risk-missing-in-water-supply-plan-for-new-chip-cluster?utm_source=rss",
+    "date": "2026年7月3日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Sprout Solutions’ State of HR Summit 2026 focused on people-first AI transformation",
+    "summary": "MAKATI CITY, Philippines — Sprout Solutions, the Philippines leading homegrown HR and payroll technology company, will hold the State of HR Summit 2026 on July 8, 2026, at Dusit Thani Manila,…",
+    "body": "bringing together HR leaders, business executives, and people managers to discuss how organisations can accelerate performance with AI while remaining people-first. Presented in partnership [ ] The post Sprout Solutions State of HR Summit 2026 focused on people-first AI transformation appeared first on e27.",
+    "url": "https://e27.co/sprout-solutions-state-of-hr-summit-2026-focused-on-people-first-ai-transformation-20260703/",
+    "date": "2026年7月3日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Takeda signs US$600M AI drug discovery deal with Insilico",
+    "summary": "Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company’s therapeutic areas.…",
+    "body": "The companies did not disclose which therapeutic areas or disease targets will be covered under the collaboration. The agreement gives Takeda access to Insilico’s Pharma.AI platform, which supports biological target [ ] The post Takeda signs US$600M AI drug discovery deal with Insilico appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+    "date": "2026年7月3日"
   }
 ]
