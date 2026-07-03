@@ -557,5 +557,57 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/anthropic-s-claude-models-available-microsoft-foundry",
     "date": "2026年6月30日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "We can debate the ethics of AI but can’t seem to change course | Letters",
+    "summary": "Readers respond to the profile of Iason Gabriel, a philosopher and research scientist at Google DeepMindThe Guardian’s profile of Google DeepMind’s philosopher was encouraging because it showed how…",
+    "body": "seriously many of the people building AI are taking their ethical responsibilities (‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI, 30 June). Yet it also left me wondering whether the most important decision has already been made.The article asks whose moral compass should guide artificial intelligence.…",
+    "url": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
+    "date": "2026年7月3日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
+    "summary": "The NCA says there is a growing threat of children's images being used to create child abuse material.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cd7wj7d0jzzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026年7月3日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Why a Mongolian computer engineering student is leaving Korea for China",
+    "summary": "When Michelle, a 22-year-old student from Mongolia, came to Korea to study computer engineering, her talent did not go unnoticed for long.…",
+    "body": "A professor at Gachon University recruited her as an undergraduate researcher last winter. Soon afterward, she became the first author of an academic paper and the star of a news article taped to the laboratory door like a poster.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20260704/why-a-mongolian-computer-engineering-student-is-leaving-korea-for-china?utm_source=rss",
+    "date": "2026年7月3日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "'Introvert parties' in Seoul offer quieter way to connect without alcohol, noise",
+    "summary": "The question on the card sounded simple, but it silenced the room: What does it mean to live authentically? On June 6, inside a dimly lit party room in Yeongdeungpo District, western Seoul, quiet pop…",
+    "body": "music played as six people sat around a table. \"Wow, that's hard,\" someone sighed, breaking the silence. One person cautiously answered, \"For me, it's not caring about other people's judgments and not lying to myself.\" Another participant said growth complicates the answer. \"I think living authentically means a comfortable state, but growth always comes with difficulties.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260704/introvert-parties-in-seoul-offer-quieter-way-to-connect-without-alcohol-noise?utm_source=rss",
+    "date": "2026年7月3日"
   }
 ]
