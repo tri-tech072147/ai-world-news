@@ -609,5 +609,31 @@
     "body": "The decision marks the conclusion of an eighteen-day operational pause triggered by a US government export control directive on June 12, which forced the temporary suspension of Anthropic s highest-capability systems. Government officials enacted [ ] The post Anthropic deploys Claude Sonnet 5, Fable and Mythos restored appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
     "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "date": "2026年7月4日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Doctors’ soaring use of AI scribes prompts Australian government warning over privacy",
+    "summary": "Exclusive: With the technology fast becoming popular in GP surgeries, regulators are monitoring its implementation and potential pitfallsGet our breaking news email, free app or daily news podcastThe…",
+    "body": "federal health department has raised concerns about the use of AI scribes by doctors as the health regulator considers the need for safeguards around the technology.AI scribe tools record, transcribe and summarise conversations between doctors and patients for medical notes, and have boomed in popularity in the past 18 months. Continue reading...",
+    "url": "https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning",
+    "date": "2026年7月4日"
   }
 ]
