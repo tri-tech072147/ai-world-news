@@ -635,5 +635,31 @@
     "body": "federal health department has raised concerns about the use of AI scribes by doctors as the health regulator considers the need for safeguards around the technology.AI scribe tools record, transcribe and summarise conversations between doctors and patients for medical notes, and have boomed in popularity in the past 18 months. Continue reading...",
     "url": "https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning",
     "date": "2026年7月4日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "NHS to use AI on its app to direct patients to appropriate services",
+    "summary": "Update in England expected to reach about 200,000 patients over the next year as part of £10bn package to overhaul NHS systemsThe NHS will begin using AI on its app to direct patients to the…",
+    "body": "appropriate services, it has been announced.The tool will be used to triage patients and to ascertain if they should be allocated a GP appointment. Some may be advised to attend a pharmacy or their local A E department instead, depending on the severity of their condition. Continue reading...",
+    "url": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
+    "date": "2026年7月4日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "GLM-5.2 | A race to catch up",
+    "summary": "Researchers say Z.ai’s most advanced LLM can seriously challenge leading U.S. systems in specialised coding and cybersecurity tasks",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/glm-52-a-race-to-catch-up/article71183741.ece",
+    "date": "2026年7月4日"
   }
 ]
