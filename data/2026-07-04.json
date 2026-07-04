@@ -713,5 +713,18 @@
     "body": "",
     "url": "https://techcabal.com/2026/07/04/john-robert-digital-nomads/",
     "date": "2026年7月4日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "OpenAI’s apparent failure to visit key site raises questions over UK investment",
+    "summary": "Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers appears to have been hypotheticalIt was to be the biggest undertaking in Britain for OpenAI, the company behind ChatGPT.…",
+    "body": "Stargate UK – a multibillion-pound UK datacentre project – would represent “a major step forward in the US-UK technology partnership”.But the plans were paused in April, with an OpenAI spokesperson citing concerns over regulation and high energy costs. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
+    "date": "2026年7月4日"
   }
 ]
