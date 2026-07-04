@@ -674,5 +674,18 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/",
     "date": "2026年7月3日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "AI hiring outpaces overall IT recruitment in India, report shows",
+    "summary": "The sector’s AI hiring rose 16% year-on-year in June, while overall IT jobs ‌declined 3%, according to job portal Naukri’s monthly JobSpeak report",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/ai-hiring-outpaces-overall-it-recruitment-in-india-report-shows/article71181709.ece",
+    "date": "2026年7月4日"
   }
 ]
