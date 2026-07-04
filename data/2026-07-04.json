@@ -661,5 +661,18 @@
     "body": "",
     "url": "https://monoist.itmedia.co.jp/mn/articles/2607/04/news016.html",
     "date": "2026年7月3日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "米トランプ大統領、AI規制は「できるだけ介入少なく」 中国に対して開発競争「大幅リード」を強調",
+    "summary": "トランプ米大統領がCNBCのインタビューで、AI規制について「ガードレールは必要だが、介入はできるだけ少なくしたい」と述べ、規制最小限の路線を改めて示した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/",
+    "date": "2026年7月3日"
   }
 ]
