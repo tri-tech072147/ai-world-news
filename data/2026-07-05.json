@@ -674,5 +674,18 @@
     "body": "",
     "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
     "date": "2026年7月5日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chinese AI chip start-up exits stealth mode, bets on 3D stacking to bypass US controls",
+    "summary": "A Chinese artificial intelligence chip start-up led by industry veteran Wei Shaojun has emerged from stealth mode, joining giants like Huawei Technologies in betting on 3D stacking to bypass US tech…",
+    "body": "export controls. Dongfang Suanxin, a company headed by Wei, who is also vice-president of the China Semiconductor Industry Association, has stepped into the spotlight by launching a corporate website and social media account, positioning itself as a new but formidable player in China’s AI computing...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3359336/chinese-ai-chip-start-exits-stealth-mode-bets-3d-stacking-bypass-us-controls?utm_source=rss_feed",
+    "date": "2026年7月5日"
   }
 ]
