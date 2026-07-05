@@ -583,5 +583,31 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/anthropic-s-claude-models-available-microsoft-foundry",
     "date": "2026年6月30日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "date": "2026年7月5日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Top 10: Die beste elektrische Fliegenklatsche im Test – mit Akku oder Batterien",
+    "summary": "Elektrische Fliegenklatschen versprechen schnelle Hilfe gegen Mücken und Fliegen. Wir erklären Technik, Sicherheit und zeigen die besten Modelle im Test.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-elektrische-fliegenklatsche-im-test-mit-akku-oder-batterien/2mybpp4?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月5日"
   }
 ]
