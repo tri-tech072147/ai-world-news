@@ -661,5 +661,18 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/glm-52-a-race-to-catch-up/article71183741.ece",
     "date": "2026年7月4日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "マイクロン、AI需要で広島工場増強へ起工式 1.5兆円投資",
+    "summary": "マイクロンメモリ ジャパンは2026年7月、広島工場の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するもので、2028年後半に製造装置の搬入を開始する予定だ。広島工場には今後、この新クリーンルーム建設を含めて1兆5000億円を投じる。",
+    "body": "",
+    "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
+    "date": "2026年7月5日"
   }
 ]
