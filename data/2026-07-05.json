@@ -687,5 +687,31 @@
     "body": "export controls. Dongfang Suanxin, a company headed by Wei, who is also vice-president of the China Semiconductor Industry Association, has stepped into the spotlight by launching a corporate website and social media account, positioning itself as a new but formidable player in China’s AI computing...",
     "url": "https://www.scmp.com/tech/tech-trends/article/3359336/chinese-ai-chip-start-exits-stealth-mode-bets-3d-stacking-bypass-us-controls?utm_source=rss_feed",
     "date": "2026年7月5日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Citi CEO says 2 AI races are shaping future of banking",
+    "summary": "The global financial sector is engaged in two simultaneous and critical races as AI evolves at an unprecedented rate, according to Jane Fraser, the CEO of Citi, the third-largest bank in the United…",
+    "body": "States. While artificial intelligence was likely to cause some job dislocations, new positions would be created, even though the transition process might not be perfectly timed, Fraser said in an interview with the South China Morning Post. “There are two races in AI at the moment,” she said. “One is...",
+    "url": "https://www.scmp.com/business/banking-finance/article/3359455/citi-ceo-says-2-ai-races-are-shaping-future-banking?utm_source=rss_feed",
+    "date": "2026年7月5日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul City Hall to open new observatory with panoramic views to public",
+    "summary": "A new public observation deck inside Seoul City Hall will open later this week, offering panoramic views of some of the capital's best-known landmarks, from the tranquil grounds of Deoksu Palace and…",
+    "body": "the historic Jeong-dong neighborhood to Gwanghwamun Plaza. The Seoul Metropolitan Government announced Sunday that it will open the newly renovated Sky Observatory on the eighth and ninth floors of the west wing of City Hall later this week, transforming what was once an employees-only area into a public space.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/20260705/seoul-city-hall-to-open-new-observatory-with-panoramic-views-to-public?utm_source=rss",
+    "date": "2026年7月5日"
   }
 ]
