@@ -713,5 +713,18 @@
     "body": "the historic Jeong-dong neighborhood to Gwanghwamun Plaza. The Seoul Metropolitan Government announced Sunday that it will open the newly renovated Sky Observatory on the eighth and ninth floors of the west wing of City Hall later this week, transforming what was once an employees-only area into a public space.…",
     "url": "https://www.koreatimes.co.kr/southkorea/20260705/seoul-city-hall-to-open-new-observatory-with-panoramic-views-to-public?utm_source=rss",
     "date": "2026年7月5日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "ByteDance and Alibaba to disable humanlike AI custom agents as new rules loom",
+    "summary": "Two of China’s major consumer-facing artificial intelligence apps, ByteDance’s Doubao and Alibaba Group Holding’s Qwen, are moving to disable customised agent features, as new rules on humanlike AI…",
+    "body": "interaction services are set to take effect, part of Beijing’s push to build a broader regulatory framework for the fast-growing sector. Doubao informed users in a Friday night notice that its agent feature would go offline on July 15 because of “product function adjustments”. After October 15,...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom?utm_source=rss_feed",
+    "date": "2026年7月5日"
   }
 ]
