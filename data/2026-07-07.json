@@ -622,5 +622,57 @@
     "body": "",
     "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
     "date": "2026年7月6日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIコーディングの「ループ」4種類を完全入門 Anthropic公式が分かりやすく整理して解説",
+    "summary": "Anthropicが、Claude Codeにおける「ループ」を4種類に整理して解説した。AIコーディングで何をAIに任せ、どこで止めるべきかを、初心者にも分かるようにかみ砕き、筆者なりの視点も添えて紹介する。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news014.html",
+    "date": "2026年7月6日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「250万超AIエージェント作成」の裏で同時多発する課題を回し切ったIT部門の運用術",
+    "summary": "ソフトバンクは、生成AIサービスを数万人規模で全社展開しましたが、その裏側では従来のSaaS導入とは異なる課題が同時多発的に発生しました。それを支えたのは、切り分け・情報整理・関係者調整・粘り強い説明といったIT部門の基礎力と現場の経験です。この事例は、生成AI時代の企業ITが「整ったものを入れる」から「未整備なものを運用で成立させる」仕事に変化していることを示しています。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/03/news007.html",
+    "date": "2026年7月6日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "India, AI governance, and a voice for the Global South",
+    "summary": "India faces a choice between dependency and leadership in AI governance",
+    "body": "",
+    "url": "https://www.thehindu.com/opinion/op-ed/india-ai-governance-and-a-voice-for-the-global-south/article71190473.ece",
+    "date": "2026年7月6日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "MONSTA X's Kihyun trusts his gut on 'BORDERLINE'",
+    "summary": "With one day left before deadline, Kihyun of K-pop boy band MONSTA X has yet to choose the title track for his upcoming solo album, \"BORDERLINE.\" The MONSTA X main vocalist had another song penciled…",
+    "body": "in, but a nagging feeling would not leave him. So he did what the album itself is about — he trusted his own instinct and eventually went with \"So Good,\" a rock-based track carried by delicate, technically demanding vocals.…",
+    "url": "https://www.koreatimes.co.kr/entertainment/k-pop/20260707/monsta-xs-kihyun-trusts-his-gut-on-borderline?utm_source=rss",
+    "date": "2026年7月6日"
   }
 ]
