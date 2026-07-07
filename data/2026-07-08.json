@@ -583,5 +583,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/with-claude-science-anthropic-targets-application",
     "date": "2026年6月30日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+    "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "date": "2026年7月7日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+    "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "date": "2026年7月7日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Top 10: Der beste Over-Ear-Kopfhörer im Test – Sony vor JBL & Apple",
+    "summary": "Die besten Over-Ear-Kopfhörer bieten fantastischen Klang, perfektes ANC und hohen Komfort. Wir zeigen die zehn besten Over-Ears aus über 50 Einzeltests.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-over-ear-kopfhoerer-im-test-sony-vor-jbl-und-apple/sl68nkv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月7日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「Claude Fable 5」のサブスク提供、延長 12日（太平洋標準時）まで 日本時間では13日午後",
+    "summary": "米Anthropicは7月7日（現地時間）、AIモデル「Claude Fable 5」を有料サブスクリプションから利用できる期間を、7月12日午後11時59分（太平洋標準時）まで延長すると発表した。日本時間では13日午後3時59分までとなる。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000167/",
+    "date": "2026年7月7日"
   }
 ]
