@@ -661,5 +661,44 @@
     "body": "Models like ChatGPT and Claude are great at text, but they re less skilled at understanding how things actually move through space and time — an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled by gaming data. That s the bet behind General Intuition, a [ ]",
     "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
     "date": "2026年7月8日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+    "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "date": "2026年7月8日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "„Rechtswidrige“ Mediennutzung: Nigeria untersucht große Tech- und KI-Unternehmen",
+    "summary": "Techkonzerne wie Meta, Alphabet und X sind aufgrund von Vorwürfen wettbewerbswidriger Praktiken ins Visier der nigerianischen Wettbewerbshüter geraten.",
+    "body": "",
+    "url": "https://www.heise.de/news/Rechtswidrige-Mediennutzung-Nigeria-untersucht-grosse-Tech-und-KI-Unternehmen-11358717.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月8日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Nvidia, Hugging Face Collaborate on Open Source Robot Models",
+    "summary": "The move is seen as supporting accessibility and deployment for physical AI and also boosting Nvidia’s already strong presence in the field.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/nvidia-hugging-face-collaborate-open-source-robot-models",
+    "date": "2026年7月8日"
   }
 ]
