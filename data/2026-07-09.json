@@ -531,5 +531,83 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/google-expands-ai-imaging-offerings-nano-banana-lite-2",
     "date": "2026年7月1日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+    "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products…",
+    "body": "collect and use.",
+    "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+    "date": "2026年7月8日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI releases new voice models for more natural live conversations",
+    "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+    "date": "2026年7月8日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+    "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+    "date": "2026年7月8日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "These AI startups are growing revenue at faster and faster rates",
+    "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+    "date": "2026年7月8日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "EU-Datenschützer: Neue Leitlinien für Anonymisierung und Web-Scraping",
+    "summary": "Zwei Richtlinien des Europäischen Datenschutzausschusses sollen mehr Klarheit beim Web-Scraping für generative KI bringen. Sie definieren Anonymisierung neu.",
+    "body": "",
+    "url": "https://www.heise.de/news/EU-Datenschuetzer-Neue-Leitlinien-fuer-Anonymisierung-und-Web-Scraping-11358641.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月8日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "You Will Soon Use Claude Cowork on Your Phone",
+    "summary": "Cowork's move to mobile and the web shows how AI is extending into how people work.",
+    "body": "",
+    "url": "https://aibusiness.com/agentic-ai/you-will-soon-use-claude-cowork-your-phone",
+    "date": "2026年7月8日"
   }
 ]
