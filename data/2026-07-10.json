@@ -817,5 +817,31 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/ibm-extends-bob-ai-platform-array-new-features",
     "date": "2026年7月9日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "1万9000人が利用するソフトバンクの「全社RAG基盤」 構築の泥臭い舞台裏",
+    "summary": "AI活用で激突する「現場の利便性」v.s.「会社の安全性」。RAGの乱立に直面したソフトバンクが、ガバナンスをシステムに組み込み、数万時間相当の業務削減効果（社内の試算による）を達成した「全社RAG基盤」構築の舞台裏と、そこから得られた気付きを共有します。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/10/news002.html",
+    "date": "2026年7月9日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "How Euljiro's alley workshops functioned like a brain",
+    "summary": "Growing up in Greece, I frequently visited Athens’ Syntagma metro station, decorated with archaeological finds.…",
+    "body": "Behind the glass, layer after layer of tools and artifacts lay embedded in the soil, traces of forgotten lives that once lived there. Back then, I imagined a natural disaster or a devastating war was to blame for erasing them. Almost 30 years later, while documenting Euljiro, I learned that collective forgetting can be planned and accepted. Today, we call it redevelopment.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260710/how-euljiros-alley-workshops-functioned-like-a-brain?utm_source=rss",
+    "date": "2026年7月9日"
   }
 ]
