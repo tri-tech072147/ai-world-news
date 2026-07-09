@@ -804,5 +804,70 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/meta-s-muse-image-might-what-smbs-need",
     "date": "2026年7月8日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "The future of marketing isn’t about AI, it’s about judgment",
+    "summary": "During a recent interview, I was asked a question that many marketers are hearing more frequently these days.…",
+    "body": "How much of a marketer s job do you think AI can replace? I paused and replied, About 50 per cent. The interviewer immediately followed up with another question. Why not 100 per cent? At the time, I [ ] The post The future of marketing isn t about AI, it s about judgment appeared first on e27.",
+    "url": "https://e27.co/the-future-of-marketing-isnt-about-ai-its-about-judgment-20260708/",
+    "date": "2026年7月9日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "A step-by-step framework to build your AI adoption roadmap for B2C service businesses",
+    "summary": "Stop asking how do I use AI? Start asking what is actually breaking my business. I have had some version of this conversation dozens of times. A service business owner tells me they want to use AI.…",
+    "body": "I ask what they are hoping to solve. There is a pause. Then: We want to be more [ ] The post A step-by-step framework to build your AI adoption roadmap for B2C service businesses appeared first on e27.",
+    "url": "https://e27.co/a-step-by-step-framework-to-build-your-ai-adoption-roadmap-for-b2c-service-businesses-20260708/",
+    "date": "2026年7月9日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Wealthy AI workers send San Francisco house prices soaring",
+    "summary": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026年7月8日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「万年3位」から脱却なるか？ Google Cloudに吹く\"追い風\"の正体を考察",
+    "summary": "エンタープライズ市場でAWSやMicrosoftに水をあけられてきたGoogle Cloudに、追い風が吹いている。国内SIer大手4社が同社との協業に動く理由と、これまでの経緯、AIエージェントでの連携戦略を読み解く。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/10/news015.html",
+    "date": "2026年7月8日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Anthropic、「Claude Code」のシステムプロンプトを80％削減 「モデルの創造性を解放するため」",
+    "summary": "米Anthropicのタリク氏は、「Claude Fable 5」など最近リリースされたAIモデルへの禁止指示がモデルの創造性を制限すると指摘した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000173/",
+    "date": "2026年7月8日"
   }
 ]
