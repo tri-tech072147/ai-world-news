@@ -531,5 +531,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/nvidia-hugging-face-collaborate-open-source-robot-models",
     "date": "2026年7月8日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "date": "2026年7月10日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Hugging Face’s CEO on why companies are done renting their AI",
+    "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models…",
+    "body": "and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [ ]",
+    "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "date": "2026年7月10日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Top 10: Mähroboter ohne Begrenzungskabel im Test – der beste navigiert mit LiDAR",
+    "summary": "Mähroboter ohne Begrenzungskabel versprechen eine leichte Inbetriebnahme. Mit LiDAR-Navigation gelingt das sogar noch einfacher. Wir zeigen die besten Geräte.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testsieger/top-10-maehroboter-ohne-begrenzungskabel-im-test-der-beste-navigiert-mit-lidar/gb7xhbg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月10日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "New Dashboard Tool Lets You Monitor Claude Usage",
+    "summary": "The generative AI vendor is aiming to counter dependence on and overuse of its popular model.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/new-dashboard-tool-lets-you-monitor-claude-usage",
+    "date": "2026年7月10日"
   }
 ]
