@@ -895,5 +895,70 @@
     "body": "hardware device. The lawsuit -- filed in a federal court in San Jose, California -- paints a picture of an aggressive effort by OpenAI to poach Apple employees and extract confidential information to build its own device. The lawsuit marks a dramatic escalation in tensions between two companies that partnered in 2024 to integrate ChatGPT into Apple's products.…",
     "url": "https://www.koreatimes.co.kr/world/20260711/apple-sues-openai-for-stealing-trade-secrets?utm_source=rss",
     "date": "2026年7月11日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Apple klagt gegen OpenAI wegen Abwerbung",
+    "summary": "OpenAI entwickelt ein Gerät speziell für die Nutzung mit Künstlicher Intelligenz. Dabei wurden auch Apple-Mitarbeiter verpflichtet. Jetzt gibt es eine Klage.",
+    "body": "",
+    "url": "https://www.heise.de/news/Apple-klagt-gegen-OpenAI-wegen-Abwerbung-11361662.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月11日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: iX-Workshop: Microsoft 365 Copilot für IT-Administratoren",
+    "summary": "Lernen Sie, wie Sie Microsoft 365 Copilot sicher und datenschutzkonform implementieren.",
+    "body": "",
+    "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-Copilot-fuer-IT-Administratoren-11347519.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月11日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Meta kopiert Instagram-Stile, Sony belebt die Bridgekamera – Fotonews 28/2026",
+    "summary": "Meta startet „Muse Image“: Eine KI durchforstet öffentliche Instagram-Profile und Sony bringt die Bridgekamera zurück.",
+    "body": "",
+    "url": "https://www.heise.de/news/Meta-kopiert-Instagram-Stile-Sony-belebt-die-Bridgekamera-Fotonews-28-2026-11360703.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "'Agent Kim Reactivated' uses AI to create So Ji-sub's past story sequence",
+    "summary": "The SBS drama \"Agent Kim Reactivated\" has showcased a large-scale action sequence created using artificial intelligence, signaling its ambition to open a new chapter for K-dramas through the active…",
+    "body": "adoption of AI technology. Currently airing on SBS, \"Agent Kim Reactivated\" featured a roughly three-minute sequence depicting the past of its protagonist, Manager Kim, played by So Ji-sub. The scene was produced entirely with AI, making it a rare example of a Korean drama using a single AI-generated sequence to tell such an extended narrative.…",
+    "url": "https://www.koreatimes.co.kr/entertainment/20260711/agent-kim-reactivated-uses-ai-to-create-so-ji-subs-past-story-sequence?utm_source=rss",
+    "date": "2026年7月11日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Klump brings multi-bank instalment payments to Jumia’s online checkout",
+    "summary": "Rather than lending itself, Klump provides the technology that connects borrowers with partner lenders, which assess applicants, fund the loans, and assume the credit risk.",
+    "body": "",
+    "url": "https://techcabal.com/2026/07/11/klump-brings-multi-bank-instalment-payments-to-jumias/",
+    "date": "2026年7月11日"
   }
 ]
