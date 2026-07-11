@@ -843,5 +843,57 @@
     "body": "surrounding the future of Korean cinema. \"Film, television and K-pop blur into a single triumphant category — Korean content — and its sheer popularity overshadows the predicament of the industry that produces it.\" In a recent email interview with The Korea Times, the executive director offered a refreshing global perspective on Korea’s pop culture scene, arguing that while structural bottlenecks…",
     "url": "https://www.koreatimes.co.kr/entertainment/films/20260711/korean-cinemas-crisis-is-invisible-from-ny-says-us-film-fest-chief?utm_source=rss",
     "date": "2026年7月11日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert",
+    "summary": "Beijing’s recent cybersecurity warning against American artificial intelligence lab Anthropic is expected to accelerate a shift among Chinese developers towards domestic coding alternatives,…",
+    "body": "according to analysts. China’s National Vulnerability Database (NVDB), overseen by the Ministry of Industry and Information Technology, issued an alert this week claiming multiple versions of Anthropic’s flagship Claude Code tool contained a security “back door”. According to the agency, the software could...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3360148/beyond-claude-code-chinese-ai-tools-poised-benefit-after-back-door-alert?utm_source=rss_feed",
+    "date": "2026年7月11日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chinese chip start-up aims to build 5-nanometre equivalent chips without using EUV by 2029",
+    "summary": "A Chinese chip start-up has launched what it claims to be the world’s first 8-inch production line for two-dimensional (2D) semiconductors, marking the country’s latest push to develop alternative…",
+    "body": "chip technologies amid US curbs on its access to advanced chipmaking equipment. Shanghai-based Yuanjiwei on Thursday unveiled the pilot production line, saying it supports tape-out – or final stage of chip design – and covers the entire manufacturing process from 2D material preparation to chip...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3360208/chinese-chip-start-aims-build-5-nanometre-equivalent-chips-without-using-euv-2029?utm_source=rss_feed",
+    "date": "2026年7月11日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy",
+    "summary": "Meta was criticised for feature launched on Tuesday that automatically lets users generate images using content from public Instagram accountsMeta has said ⁠it is discontinuing an AI feature launched…",
+    "body": "this week that allowed users to generate images using public Instagram ⁠accounts, after drawing widespread ⁠criticism over ​privacy concerns, including from a Hollywood union.“Our intent was to provide a useful creative tool and to give people control ⁠over whether their public content could be referenced in this way,” Meta said in a statement. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy",
+    "date": "2026年7月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Apple sues OpenAI for stealing trade secrets",
+    "summary": "SAN FRANCISCO — Apple on Friday sued OpenAI, accusing the artificial intelligence company of orchestrating a campaign to steal the iPhone maker's trade secrets as it tries to develop its own consumer…",
+    "body": "hardware device. The lawsuit -- filed in a federal court in San Jose, California -- paints a picture of an aggressive effort by OpenAI to poach Apple employees and extract confidential information to build its own device. The lawsuit marks a dramatic escalation in tensions between two companies that partnered in 2024 to integrate ChatGPT into Apple's products.…",
+    "url": "https://www.koreatimes.co.kr/world/20260711/apple-sues-openai-for-stealing-trade-secrets?utm_source=rss",
+    "date": "2026年7月11日"
   }
 ]
