@@ -726,5 +726,44 @@
     "body": "He also called on executives to reassess their work processes and redesign the ways tasks are carried out using artificial intelligence. His remarks came during the group's executive workshop for the second half of 2026, held from Friday to Saturday in Sacheon, South Gyeongsang Province.…",
     "url": "https://www.koreatimes.co.kr/business/banking-finance/20260712/kb-financial-chief-vows-to-turn-money-move-into-opportunities?utm_source=rss",
     "date": "2026年7月12日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
+    "summary": "Software engineering was one of the best-paying professions in the US in 2022, but the advent of AI has disrupted it, leading to several layoffs and underemploymentEvery weekday, Matt, a software…",
+    "body": "engineer, looks forward to his four-hour train commute to Pawling, New York. It’s time he uses to work on his own project: a browser-based video game for which he writes every line of code himself.“I am actively trying to keep my axe sharp,” said Matt, who did not want to use his actual name, to protect his employment.…",
+    "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
+    "date": "2026年7月12日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: betterCode() Agentic AI: Zusätzlicher Workshop zu Legacy-Modernisierung",
+    "summary": "Die betterCode() Agentic AI widmet sich aktuellen Themen zu KI-gestützter Softwareentwicklung. Im Oktober stehen Legacy-Modernisierung und Teamarbeit im Fokus.",
+    "body": "",
+    "url": "https://www.heise.de/news/betterCode-Agentic-AI-Zusaetzlicher-Workshop-zu-Legacy-Modernisierung-11360871.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US State Department expresses 'significant concerns' over Korea's 'fake news' law",
+    "summary": "The U.S. Department of State expressed “significant concerns” over Korea's recently revised Information and Communications Network Act, commonly known as the “fake news” law, amid worries that the…",
+    "body": "law could restrict free speech and negatively affect American platforms operating here. “The United States has significant concerns with the ROK government’s approval of an amendment to the Network Act that risks negatively impacting the business of U.S.-based online platforms and undermining free speech,” the department's press office said in response to an inquiry from The Korea Times,…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20260712/us-state-department-expresses-significant-concerns-over-koreas-fake-news-law?utm_source=rss",
+    "date": "2026年7月12日"
   }
 ]
