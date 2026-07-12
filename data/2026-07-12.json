@@ -674,5 +674,44 @@
     "body": "According to D4D, Sunday, it hosted the hackathon event from July 3-5, with more than 200 builders and officials from academia and defense AI companies including Palantir Technologies, Stealth Mole and BONE AI. The event awarded eight teams across five tracks. A team from BONE AI won the autonomous and unmanned systems track.…",
     "url": "https://www.koreatimes.co.kr/business/tech-science/20260712/d4d-hackathon-lays-foundation-for-defense-ai-ecosystem-in-apac?utm_source=rss",
     "date": "2026年7月12日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "In China’s electronics hub, a memory chip crisis is hitting consumers hard",
+    "summary": "For Cai, a trader in Shenzhen’s vast Huaqiangbei electronics hub, the business of assembling computers for gamers and corporate clients has suddenly become dramatically more expensive.…",
+    "body": "The price of memory products in Huaqiangbei has tripled over the past year amid the global artificial intelligence boom – and the spike has hit the world’s largest wholesale electronics market hard. “Right now, memory and SSDs are the biggest cost drivers in a personal computer build,” Cai said, referring to...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3360212/chinas-electronics-hub-memory-chip-crisis-hitting-consumers-hard?utm_source=rss_feed",
+    "date": "2026年7月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "SK hynix's triumphant Nasdaq debut",
+    "summary": "SK hynix has achieved a milestone that extends far beyond the fortunes of a single company. By raising approximately $26.5 billion through its offering of American depositary receipts (ADRs) on…",
+    "body": "Nasdaq, the semiconductor giant has completed the largest capital raising ever by a foreign company in the U.S. market. Even more remarkable was the pricing: The ADRs were offered at a premium to the closing price of the company's shares in Seoul, overturning the long-standing convention that large equity offerings require a discount to attract investors.…",
+    "url": "https://www.koreatimes.co.kr/opinion/editorial/20260712/ed-sk-hynixs-triumphant-nasdaq-debut?utm_source=rss",
+    "date": "2026年7月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Typhoon Bavi batters eastern China, threatens days of heavy rain",
+    "summary": "WENZHOU, China — Typhoon Bavi, the most powerful storm to strike mainland China this year, brought heavy rainfall to the eastern coast on Sunday and lashed densely populated cities with violent…",
+    "body": "winds, testing the country's ability to cope with extreme weather. Bavi had weakened by Sunday morning to a tropical storm as it pushed inland, but forecasters warned that the France-sized storm system could unleash prolonged and widespread rainfall across eastern and northern China in the coming days.…",
+    "url": "https://www.koreatimes.co.kr/world/20260712/typhoon-bavi-batters-eastern-china-threatens-days-of-heavy-rain?utm_source=rss",
+    "date": "2026年7月12日"
   }
 ]
