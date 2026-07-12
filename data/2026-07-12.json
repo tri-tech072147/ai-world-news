@@ -765,5 +765,44 @@
     "body": "law could restrict free speech and negatively affect American platforms operating here. “The United States has significant concerns with the ROK government’s approval of an amendment to the Network Act that risks negatively impacting the business of U.S.-based online platforms and undermining free speech,” the department's press office said in response to an inquiry from The Korea Times,…",
     "url": "https://www.koreatimes.co.kr/foreignaffairs/20260712/us-state-department-expresses-significant-concerns-over-koreas-fake-news-law?utm_source=rss",
     "date": "2026年7月12日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China Life sets up semiconductor fund amid Beijing’s call for ‘patient’ capital",
+    "summary": "Companies backed by the state and provincial governments in China have announced new funds to focus on the semiconductor industry, which requires a large amount of time and resources to grow, at a…",
+    "body": "time when the country is in need of more “patient capital”. China Life Insurance, the country’s largest life insurer, backed by the State Council, said it would establish a partnership with total capital of 5 billion yuan (US$737 million) that “principally invests in companies operating in the...",
+    "url": "https://www.scmp.com/tech/article/3360269/chinese-state-owned-firms-set-semiconductor-funds-amid-calls-patient-capital?utm_source=rss_feed",
+    "date": "2026年7月12日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Polio: Wohl letzte Nutzerin einer \"Eisernen Lunge\" gestorben",
+    "summary": "Sie überlebte Polio und lebte in der Eisernen Lunge. Mit Martha Lillards Tod endet ein Kapitel Medizintechnik.",
+    "body": "",
+    "url": "https://www.heise.de/news/Polio-Wohl-letzte-Nutzerin-einer-Eisernen-Lunge-gestorben-11361932.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月12日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Meilenstein für Robotaxis: UN verabschiedet globales Recht für autonomes Fahren",
+    "summary": "Ein neues UNECE-Regelwerk harmonisiert die Zulassung fahrerloser Autos weltweit. Autoclubs mahnen dennoch zur Vorsicht im Cockpit und verteidigen den Fahrspaß.",
+    "body": "",
+    "url": "https://www.heise.de/news/Meilenstein-fuer-Robotaxis-UN-verabschiedet-globales-Recht-fuer-autonomes-Fahren-11361904.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月12日"
   }
 ]
