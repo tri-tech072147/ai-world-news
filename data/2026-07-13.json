@@ -1103,5 +1103,83 @@
     "body": "of cash, its proprietary technology will retain enough value to soften the blow. An administrator can sell the company’s code, platform, [ ]",
     "url": "https://techcabal.com/2026/07/13/the-next-wave-the-million-dollar-asset-that-no-one-can-buy/",
     "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s drug industry pivots to AI-powered candidates to drive next wave of deals",
+    "summary": "After China’s cross-border deals for innovative drugs hit a record US$110 billion in the first half of 2026, the sector is now pivoting towards artificial intelligence-powered candidates to drive the…",
+    "body": "next wave of transactions. China accounted for about 30 per cent of all new drugs currently under development worldwide, ranking second globally, according to Lan Gongtao, deputy director general of the Department of Drug Registration at the National Medical Products Administration. China’s...",
+    "url": "https://www.scmp.com/business/china-business/article/3360395/chinas-drug-industry-pivots-ai-powered-candidates-drive-next-wave-deals?utm_source=rss_feed",
+    "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s Zhipu AI, developer of GLM-5.2, defies slump as it pursues AGI over quick profits",
+    "summary": "Chinese artificial intelligence giant Zhipu AI bucked a broad plunge of AI-related stocks across Hong Kong and the Chinese mainland on Monday, which saw arch-rival MiniMax slumping almost 20 per…",
+    "body": "cent. Zhipu, trading as Knowledge Atlas Technology in Hong Kong, closed almost flat at HK$1,645 on Monday after its shares gained more than 1 per cent by midday. The company, whose stock has skyrocketed 12-fold since its January debut, over the weekend pledged to prioritise advancing towards artificial...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3360377/chinas-zhipu-ai-developer-glm-52-defies-slump-it-pursues-agi-over-quick-profits?utm_source=rss_feed",
+    "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Wall Street emerges as tool to draw Korean AI investment to US",
+    "summary": "SK hynix's Nasdaq listing signals a shift in Washington’s strategy to attract Korean investment. Under the former Joe Biden administration, U.S.…",
+    "body": "industrial policy centered on incentives, such as the CHIPS and Science Act, offering billions of dollars in subsidies to attract semiconductor manufacturing to the U.S. While the strategy succeeded in drawing large-scale investments from global chipmakers, including Samsung Electronics and SK hynix, it also placed considerable financial pressure on companies to commit massive capital…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260713/wall-street-emerges-as-tool-to-draw-korean-ai-investment-to-us?utm_source=rss",
+    "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "SimpleAI secures US$10M debt facility to acquire accounting firms across APAC",
+    "summary": "Singapore-based SimpleAI has secured a US$10 million debt facility to acquire accounting and fund administration firms across Asia Pacific, as the startup shifts from selling automation software…",
+    "body": "alone to owning the service businesses where that software can be deployed. The company has also announced a US$5 million seed round, with a lead investor already committed, [ ] The post SimpleAI secures US$10M debt facility to acquire accounting firms across APAC appeared first on e27.",
+    "url": "https://e27.co/simpleai-secures-us10m-debt-facility-to-acquire-accounting-firms-across-apac-20260713/",
+    "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "AI agent crawlers now need permission. Here’s how to get it",
+    "summary": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards.…",
+    "body": "Cloudflare announced the change on July 1, and most of the coverage since then has focused on Google. The more useful part [ ] The post AI agent crawlers now need permission. Here s how to get it appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+    "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Africa’s crypto payment experiment is finding its first believers at local stores",
+    "summary": "Bitcoin communities and fintech startups are testing two competing models for making crypto payments work in everyday commerce across Africa.",
+    "body": "",
+    "url": "https://techcabal.com/2026/07/13/crypto-payments-in-africa/",
+    "date": "2026年7月13日"
   }
 ]
