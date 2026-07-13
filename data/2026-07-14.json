@@ -609,5 +609,31 @@
     "body": "",
     "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
     "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Satya Nadella has issued a shocking warning to companies using AI",
+    "summary": "In a surprising blog post on Monday, Microsoft CEO is warning enterprises of the dangers of using proprietary models like Anthropic's and OpenAI's.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+    "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "How Enterprises Should Respond to Economists’ AI Risk Letter",
+    "summary": "With this letter, policy changes may be coming, so enterprises should attempt to get ahead of them.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/how-enterprises-should-respond-economists-ai-risk-letter",
+    "date": "2026年7月13日"
   }
 ]
