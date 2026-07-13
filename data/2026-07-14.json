@@ -648,5 +648,70 @@
     "body": "",
     "url": "https://www.heise.de/hintergrund/Wie-Fahrzeughersteller-BYD-bald-Toyota-und-VW-vom-Thron-stossen-will-11347357.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
     "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "summary": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "日本企業の“鬼門”、アクセンチュアは突破できるか？ OpenAIとの協業で狙う「業務効率化超え」",
+    "summary": "AIを実証実験や一部業務の効率化で止めず、全社の変革へ――。多くの企業が向き合うこの課題に、アクセンチュアはOpenAIとどう取り組むのか。これまで“鬼門”だった、部門をまたいだ業務プロセス改革の突破方法とは。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/13/news017.html",
+    "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIエージェントを作って終わりから「自己進化」へ、富士通MAAF検証開始",
+    "summary": "富士通は、業務向けマルチAIエージェント基盤「MAAF」を開発した。会議録画などからシステムを自動構成し、運用履歴に基づき安全に自己進化する。自社AI基盤との連携により企業全体のAI活用を支援する狙いだ。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/14/news046.html",
+    "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「We Must Act Now」 AIによる急激な変革に著名経済学者やIT重鎮が警鐘",
+    "summary": "AIによる経済変革への備えを訴える声明「We Must Act Now」が、ノーベル賞受賞者16人を含む200人以上の経済学者やAI研究者の署名付きで公開された。スタンフォード大学の研究者らが取りまとめたもので、AIは産業革命を上回る規模の経済変革をはるかに短期間で引き起こす可能性があるとし、政策立案者や技術リーダーに制度構築を急ぐよう求めている。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/14/2000000188/",
+    "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "“純国産の政府AI”稼働へ NTTらのモデル採用 「先陣を切る」――松本デジ相が語った意欲",
+    "summary": "デジタル庁の政府AI「源内」で、国産AIモデルと国産クラウドを活用した“純国産の政府AI”が稼働する。松本大臣は「先陣を切る取り組みになる」と述べた。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2607/14/news034.html",
+    "date": "2026年7月13日"
   }
 ]
