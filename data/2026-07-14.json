@@ -1129,5 +1129,83 @@
     "body": "At Catapult Africa 2026, investors, founders, and regulators gathered to discuss what that future would look like.",
     "url": "https://techcabal.com/2026/07/14/francophone-weekly-by-techcabal-031/",
     "date": "2026年7月14日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s StepFun claims it has unveiled the world’s first AI smartphone",
+    "summary": "As Apple’s latest legal battle with OpenAI complicates the Silicon Valley race to reshape the consumer tech market, one Chinese start-up is taking a leap forward after unveiling what it claims to be…",
+    "body": "the world’s first agentic smartphone. At a launch event in Shanghai on Monday, Tencent Holdings-backed StepFun introduced the StepX Neo. The device runs on Step AOS, an operating system designed specifically for artificial intelligence agents, and was launched under StepX – which the firm billed as...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3360544/chinas-stepfun-claims-it-has-unveiled-worlds-first-ai-smartphone?utm_source=rss_feed",
+    "date": "2026年7月14日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment",
+    "summary": "PM to declare Australia the first country worldwide to bring economic, social, security and environmental issues from AI under single office in major speechGet our breaking news email, free app or…",
+    "body": "daily news podcastAnthony Albanese says the federal government will introduce faster approval processes for AI projects, including datacentres, across Australia, seeking to shore up investor certainty and maintain community confidence in the rapidly advancing technology.Announcing the creation of a new office of AI to be established within his department in a major speech on Wednesday, the prime…",
+    "url": "https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment",
+    "date": "2026年7月14日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "D-topia review – cosy sci-fi mystery takes aim at AI",
+    "summary": "PC, PS5, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2; Marimittu GamesA soft puzzle game makes a sharp point about the over-optimised future aheadIn the far future, on a planet that is not…",
+    "body": "Earth, AI is in charge. This entity is no Skynet-esque killer robot but a machine that cares for humanity. Manifesting most visibly as cute droids, the technology is pervasive – embedded in everything from the design of the sleek architecture to the gorgeous, mostly sunny artificial weather.…",
+    "url": "https://www.theguardian.com/games/2026/jul/14/d-topia-review-sci-fi-ai-puzzle-game",
+    "date": "2026年7月14日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Deep-Tech, AI, Innovation to shape India’s future: Dr. Mashelkar",
+    "summary": "“India must focus on creating affordable, globally competitive solutions that benefit millions. India’s procurement policy, which favours lowest bidder over innovation, has emerged as the biggest…",
+    "body": "barriers to technological advancement and indigenous innovation.”",
+    "url": "https://www.thehindu.com/business/Economy/deep-tech-ai-innovation-to-shape-indias-future-dr-mashelkar/article71220734.ece",
+    "date": "2026年7月14日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "New York to impose the country's first statewide moratorium on data centers",
+    "summary": "New York will block the construction of any new large data centers for up to a year so the state can create rules to protect the environment and energy grid from the power-hungry facilities that fuel…",
+    "body": "artificial intelligence technology. Gov. Kathy Hochul is set to sign an executive order Tuesday morning imposing the country's first statewide moratorium on hyperscale data centers, which house thousands of computer servers and require massive amounts of energy and a steady supply of water to keep cool.…",
+    "url": "https://www.koreatimes.co.kr/world/20260714/new-york-to-impose-the-countrys-first-statewide-moratorium-on-data-centers?utm_source=rss",
+    "date": "2026年7月14日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "PM reaffirms Korea's push to join top 5 global exporters",
+    "summary": "Prime Minister Han Seong-sook vowed Tuesday to focus the government's policy efforts to advance South Korea into the ranks of the world's top five exporters.…",
+    "body": "Han made the pledge during a ceremony marking the 80th founding anniversary of the Korea International Trade Association as the country is posting record high export figures this year fueled by strong demand for memory chips.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20260714/pm-reaffirms-koreas-push-to-join-top-5-global-exporters?utm_source=rss",
+    "date": "2026年7月14日"
   }
 ]
