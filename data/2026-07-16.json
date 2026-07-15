@@ -687,5 +687,70 @@
     "body": "The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform into one of its most important markets.",
     "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
     "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+    "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+    "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+    "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+    "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Trump rails against New York’s statewide datacenter moratorium",
+    "summary": "AI-friendly president shared a post saying governor Kathy Hochul should scrap the one-year policy ‘IMMEDIATELY’Donald Trump railed against the New York governor, Kathy Hochul, for pausing the…",
+    "body": "construction of large new datacenters, the resource-intensive facilities that power artificial intelligence.New York became the first US state to enact a moratorium on new datacenters on Tuesday, when Hochul signed an executive order mandating a one-year statewide pause on so-called “hyperscale” datacenters. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2026/jul/15/trump-new-york-datacenter-moratorium",
+    "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Energieversorger enercity öffnet Kundenverwaltung für ChatGPT",
+    "summary": "Das Energieunternehmen enercity ermöglicht Kunden, Zählerstände und andere Vertragsdaten in ChatGPT abzufragen und zu verwalten.",
+    "body": "",
+    "url": "https://www.heise.de/news/Energieversorger-enercity-oeffnet-Kundenverwaltung-fuer-ChatGPT-11364387.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Top 10: Der beste Bluetooth-Lautsprecher im Test – JBL vor Marshall & Sony",
+    "summary": "Bluetooth-Lautsprecher sind ideal für Garten, Balkon, kleine Zimmer und unterwegs. Wir zeigen die zehn besten aus über 40 Tests.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-bluetooth-lautsprecher-im-test-jbl-vor-marshall-und-sony/9t2vjzx?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月15日"
   }
 ]
