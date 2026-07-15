@@ -1272,5 +1272,83 @@
     "body": "",
     "url": "https://techcabal.com/2026/07/15/techcabal-daily-moniepoint-branches-out-to-kenya/",
     "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘Not up for grabs’: Albanese establishes AI office and vows to protect Australian creatives from copyright ‘theft’",
+    "summary": "PM lays out plan for datacentre development and rejects prospect tech companies will be given free use of Australian dataFollow our Australia news live blog for latest updatesGet our breaking news…",
+    "body": "email, free app or daily news podcastAnthony Albanese has promised “the strongest possible protection” for Australian creatives against misuse of their work by artificial intelligence models, warning it would be “theft” if writers, artists and musicians didn’t have control of their work or receive payment for its use.Amid growing community concern about large energy-intensive datacentres, the…",
+    "url": "https://www.theguardian.com/technology/2026/jul/15/office-of-ai-artificial-intelligence-copyright-australia-government",
+    "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Google soll Gemini unrechtmäßig mit geschützten Werken trainiert haben",
+    "summary": "Drei Verlage klagen, weil Google urheberrechtlich geschützte Werke zum KI-Training genutzt haben soll. Die Klageschrift erinnert an Googles altes Motto.",
+    "body": "",
+    "url": "https://www.heise.de/news/Google-soll-Gemini-unrechtmaessig-mit-geschuetzten-Werken-trainiert-haben-11365376.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Motorola Edge 70 Max launched in India",
+    "summary": "It also debuts the company’s newly launched AI assistant called Motorola Qira to offer cross-device connections",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/motorola-edge-70-max-launched-in-india/article71224516.ece",
+    "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Decoding the tech tools streamlining our health systems",
+    "summary": "The systems that are gaining real adoption are the ones that are transparent about what they do, that keep the doctor in charge of every decision, and that treat a patient’s information with the…",
+    "body": "seriousness it deserves",
+    "url": "https://www.thehindu.com/sci-tech/health/decoding-the-tech-tools-streamlining-our-health-systems/article71182443.ece",
+    "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "26 Meta employees sue, alleging AI-driven layoff picks hit workers on medical and parental leave",
+    "summary": "A group of 26 Meta employees has sued the company, claiming it used artificial intelligence systems for layoffs",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/26-meta-employees-sue-alleging-ai-driven-layoff-picks-hit-workers-on-medical-and-parental-leave/article71224277.ece",
+    "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Why are RESCENE members drinking 'red water' after meals?",
+    "summary": "Click here for more articles by Kormedi.com. K-pop girl band RESCENE gained attention for how they manage their blood sugar after meals and showing their down-to-earth daily dorm life.…",
+    "body": "The group gave viewers a glimpse of dorm life on the MBC variety show \"Omniscient Interfering View.\" Each member showcased her distinct personality. Group leader Woni appeared alongside Liv and May, revealing an unexpected comedic flair behind their chic exteriors. Zena, a Gyeongju native, and Minami, a Japanese member fluent in Korean, rounded out the group.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260715/why-are-rescene-members-drinking-red-water-after-meals?utm_source=rss",
+    "date": "2026年7月15日"
   }
 ]
