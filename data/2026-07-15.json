@@ -947,5 +947,57 @@
     "body": "expected to post another quarter of strong profits driven by restructuring and cost controls. Samsung Securities said on Monday that Kakao’s second-quarter operating profit is expected to rise 18 percent year-over-year to 231.1 billion won ($154.4 million), while revenue is forecast to increase 1.2 percent to 2.48 trillion won, driven by asset sales and restructuring.…",
     "url": "https://www.koreatimes.co.kr/business/tech-science/20260715/kakaos-turnaround-hits-roadblocks-as-ai-labor-woes-deepen?utm_source=rss",
     "date": "2026年7月14日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Lorde says AI glasses are “not sexy”",
+    "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said on stage.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+    "date": "2026年7月14日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims",
+    "summary": "Lawsuit filed by dozens of employees says people who took maternity or disability leave were disproportionately selected for layoffsDozens of Meta employees have sued the social media company over…",
+    "body": "claims that it used artificial intelligence tools to tag workers for mass layoffs. All of these workers allege that those AI tools targeted them after they asked for protected or maternity leave or disability accommodation.The lawsuit, filed Monday in federal court in the northern district of California, points to Meta’s workforce reduction of about 8,000 employees earlier this year.…",
+    "url": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit",
+    "date": "2026年7月14日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIエージェントのコスト、どこに「消えて」いる？ Google Cloudが調査で浮上した“クラウド利用の盲点”",
+    "summary": "AIエージェントの本番運用段階で、多くの企業がコストの問題に直面している。本番運用段階におけるコストは一体どこに「消えている」のか。Google Cloudの調査から浮かび上がった、AIエージェントの本番運用がITインフラにもたらす負荷の正体と、コスト抑制の手掛かりとは。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html",
+    "date": "2026年7月14日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Cuba plunged into 3rd nationwide blackout in 2 weeks as fuel runs low",
+    "summary": "HAVANA — Cuba suffered another blackout of the National Electric System, or SEN, on Tuesday, leaving the entire country without power, officials said.…",
+    "body": "It was the third such incident in two weeks as a U.S. oil embargo stresses the island’s grid. Fuel has been running out across Cuba since January, when U.S. President Donald Trump threatened tariffs on any country that sells or provides oil to the island, deepening the island’s ongoing economic and financial crisis.…",
+    "url": "https://www.koreatimes.co.kr/world/20260715/cuba-plunged-into-3rd-nationwide-blackout-in-2-weeks-as-fuel-runs-low?utm_source=rss",
+    "date": "2026年7月14日"
   }
 ]
