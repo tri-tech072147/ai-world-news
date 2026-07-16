@@ -882,5 +882,44 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/perplexity-ai-introduces-sandbox-for-agents",
     "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Anthony Albanese’s AI vision scores high on vibes but the devil will be in the detail. And there is one glaring omission … | David Pocock",
+    "summary": "When the PM talks about new laws applying to the ‘next generation of large-scale datacentres’ what does he mean?Albanese’s AI blueprint sparks calls for datacentre moratorium until new regulations in…",
+    "body": "placeExpectations were high as the prime minister took the stage at the University of Sydney on Wednesday to outline a pivot in his government’s approach to artificial intelligence. The vibes of the speech seem to have lived up to the hype but it fell short on policy detail.Before the address there were concerns about the government’s hands-off approach to AI regulation.…",
+    "url": "https://www.theguardian.com/australia-news/commentisfree/2026/jul/16/anthony-albanese-ai-vision-artificial-intelligence-omission",
+    "date": "2026年7月16日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+    "date": "2026年7月15日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "NVIDIAが「Jetson Thor」に新モジュール追加、高騰するメモリの使用量削減技術も",
+    "summary": "NVIDIAは、組み込みAIボード「Jetsonシリーズ」の最新製品である「NVIDIA Jetson AGX Thor」の新たな量産モジュールとして、消費電力や搭載メモリ容量などを抑えた「Jetson T3000」と「Jetson T2000」を追加すると発表した。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html",
+    "date": "2026年7月15日"
   }
 ]
