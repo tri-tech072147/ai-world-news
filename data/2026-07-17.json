@@ -661,5 +661,44 @@
     "body": "",
     "url": "https://techcabal.com/2026/07/16/amazon-enters-south-africa-startlink/",
     "date": "2026年7月16日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google Vids now lets you star in your own AI videos",
+    "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from…",
+    "body": "prompts and reference images.",
+    "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "date": "2026年7月16日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+    "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "date": "2026年7月16日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Thinking Machines Rolls Out Broad but Efficient Model",
+    "summary": "The AI startup, founded by OpenAI's former CTO, released Inkling, a general-purpose model that keeps token use in mind.",
+    "body": "",
+    "url": "https://aibusiness.com/foundation-models/thinking-machines-inkling-model",
+    "date": "2026年7月16日"
   }
 ]
