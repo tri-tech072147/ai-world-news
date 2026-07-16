@@ -700,5 +700,44 @@
     "body": "",
     "url": "https://aibusiness.com/foundation-models/thinking-machines-inkling-model",
     "date": "2026年7月16日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Selbstverletzung, Suizid: Meta meldet riskante KI-Chats den Eltern",
+    "summary": "Reden Teenager auf Instagram mit der Meta AI zu oft über Suizid oder Selbstverletzung, sollen bald die Eltern alarmiert werden. Wenn die mitmachen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Selbstverletzung-Suizid-Meta-meldet-riskante-KI-Chats-den-Eltern-11368138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月16日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "How Orcar redefines car rental industry",
+    "summary": "The rental car lot at Jeju International Airport is one of those places where the gap between Korea's tourist ambitions and its infrastructure becomes painfully visible.…",
+    "body": "Foreign visitors arrive clutching international driving permits, only to encounter a process that is largely manual, often only in Korean or— if their documents don't match the expectations of the attendant on duty — simply unavailable to them. For a small team of software developers, this friction was not just a travel annoyance.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260717/how-orcar-redefines-car-rental-industry?utm_source=rss",
+    "date": "2026年7月16日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Toyota Spin-Out Launches From Stealth With $300M",
+    "summary": "The startup, backed by Nvidia and Boeing, said its wheeled robots are already working in production and can continuously learn new industrial tasks.",
+    "body": "",
+    "url": "https://aibusiness.com/robotics/walden-robotics-emerges-from-stealth",
+    "date": "2026年7月16日"
   }
 ]
