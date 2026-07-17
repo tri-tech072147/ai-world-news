@@ -1233,5 +1233,83 @@
     "body": "",
     "url": "https://techcabal.com/2026/07/17/decide-targets-workplaces-with-enterprise-ai-rollout-through-cafeone/",
     "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Smart glasses are deeply creepy. Why are celebrities like Kylie Jenner endorsing them?",
+    "summary": "Meta touts safety features – but for women, the dangers of these recording devices are obviousImagine if every time you left the house, you couldn’t be sure that the stranger you met at a bar – or…",
+    "body": "even the person walking by you in the street – wasn’t secretly recording you. It sounds like something out of a Black Mirror episode, but let’s face it, the era of wearable technology is fully upon us as everyday accessories have been developed to help track health and fitness data, receive smartphone notifications, and provide hands-free accessibility.So when Meta announced their AI glasses a…",
+    "url": "https://www.theguardian.com/commentisfree/2026/jul/17/ai-meta-smart-glasses",
+    "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Rechtsstreit Apple vs. OpenAI: Missverständliche E-Mails und andere Probleme",
+    "summary": "Apple behauptet in seiner Klage wegen des Diebstahls von Geschäftsgeheimnissen, OpenAI habe nicht reagiert. Dort verweist man nun auf Verwechselungsprobleme.",
+    "body": "",
+    "url": "https://www.heise.de/news/Rechtsstreit-Apple-vs-OpenAI-Missverstaendliche-E-Mails-und-andere-Probleme-11367416.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Trump administration caps how long international students can stay in US",
+    "summary": "WASHINGTON — The Trump administration has finalized a rule that will prevent international students from staying in the U.S.…",
+    "body": "for more than four years unless they obtain the federal government's approval, the Department of Homeland Security said Thursday, announcing a departure from long-standing practice. The rule, which goes into effect in September, also puts in place restrictions on when and how students may change their major or academic program. Current rules give students significantly more flexibility.…",
+    "url": "https://www.koreatimes.co.kr/world/20260717/trump-administration-caps-how-long-international-students-can-stay-in-us?utm_source=rss",
+    "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "WBBA convenes Asia-Pacific’s first Broadband Development Summit in Bangkok, launches AI-Net Certification",
+    "summary": "Regulators, standards bodies and leading operators met in Bangkok on 14 July for the region’s inaugural summit, where the World Broadband Association set out a shared agenda for network…",
+    "body": "infrastructure in the AI era and named XLSmart its first AI-Net Champion. Government officials, international standards bodies and the region’s leading telecom operators gathered in Bangkok [ ] The post WBBA convenes Asia-Pacific’s first Broadband Development Summit in Bangkok, launches AI-Net Certification appeared first on e27.",
+    "url": "https://e27.co/wbba-convenes-asia-pacifics-first-broadband-development-summit-in-bangkok-launches-ai-net-certification-20260717/",
+    "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "The young Kenyan engineer who thinks robots belong in every classroom",
+    "summary": "During her mentoring of young people in STEM, she met deaf students struggling through STEM classes because qualified sign language interpreters were scarce.…",
+    "body": "It struck her as an engineering problem as much as an educational one.",
+    "url": "https://techcabal.com/2026/07/17/the-young-kenyan-engineer-who-thinks-robots-belong-in-every-classroom/",
+    "date": "2026年7月17日"
   }
 ]
