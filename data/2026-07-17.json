@@ -1311,5 +1311,18 @@
     "body": "It struck her as an engineering problem as much as an educational one.",
     "url": "https://techcabal.com/2026/07/17/the-young-kenyan-engineer-who-thinks-robots-belong-in-every-classroom/",
     "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "IntelliJ IDEA 2026.2 integriert Copilot und bietet Support für TypeScript 7.0",
+    "summary": "Die IDE ermöglicht die direkte Verwendung von GitHub Copilot und kann mit neuen Versionen der Programmiersprachen Java, Kotlin und TypeScript umgehen.",
+    "body": "",
+    "url": "https://www.heise.de/news/IntelliJ-IDEA-2026-2-integriert-Copilot-und-bietet-Support-fuer-TypeScript-7-0-11369167.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月17日"
   }
 ]
