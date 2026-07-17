@@ -661,5 +661,57 @@
     "body": "",
     "url": "https://www.thehindu.com/opinion/editorial/promise-of-chips-on-the-india-semiconductor-mission-phase-ii/article71234320.ece",
     "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "The Zoom hack that says, ‘Don’t record me’",
+    "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+    "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Agility Robotics plants its flag in Tesla’s backyard",
+    "summary": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+    "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "AI-driven memory crunch jolts India’s smartphone market",
+    "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+    "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates",
+    "summary": "The chipmaker is fleshing out its physical AI ecosystem, from foundation models and edge hardware to software, developer tools and industrial partnerships.",
+    "body": "",
+    "url": "https://aibusiness.com/robotics/nvidia-physical-ai-push-robotics-edge-ai-updates",
+    "date": "2026年7月17日"
   }
 ]
