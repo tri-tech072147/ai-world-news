@@ -830,5 +830,31 @@
     "body": "Enterprises should still ensure the model they use aligns with their business and security workflows.",
     "url": "https://aibusiness.com/generative-ai/openai-ugpt-red-tests-ai-model-safety",
     "date": "2026年7月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Google、「NotebookLM」を「Gemini Notebook」に改称 Geminiエコシステムへの統合を強化",
+    "summary": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
+    "date": "2026年7月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "これからのロボットは「買ったときが一番性能低い」？ ソフトバンクと安川電機「フィジカルAI」学習工程の効率化を実証",
+    "summary": "「SoftBank World 2026」でソフトバンクと安川電機がフィジカルAI協業の成果を披露した。ソフトバンクの湧川隆次CTOは、強化学習によって使うほど性能が向上するロボットへの転換を「大きなパラダイムシフト」と表現した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/17/2000000196/",
+    "date": "2026年7月16日"
   }
 ]
