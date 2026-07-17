@@ -596,5 +596,57 @@
     "body": "Cloudflare announced the change on July 1, and most of the coverage since then has focused on Google. The more useful part [ ] The post AI agent crawlers now need permission. Here s how to get it appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
     "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI s chief hardware officer…",
+    "body": "and claims more than 400 former Apple employees now work at the company. OpenAI s response so far has been carefully hedged, and the timing couldn t be worse with the company reportedly eyeing an IPO [ ]",
+    "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+    "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI s chief hardware officer…",
+    "body": "and claims more than 400 former Apple employees now work at the company. OpenAI s response so far has been carefully hedged, and the timing couldn t be worse with the company reportedly eyeing an IPO [ ]",
+    "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+    "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Top 10: Die besten Poolroboter mit Akku im Test – Aiper vor Wybot und Mammotion",
+    "summary": "Poolroboter halten Wasser sowie Becken sauber und sparen Zeit. Wir zeigen die besten Modelle aus unseren Tests von Aiper, Wybot, Mammotion & Co.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-poolroboter-mit-akku-im-test-aiper-vor-wybot-und-mammotion/c9wkf56?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Chinese AI Startup Releases Massive Open Weight Model",
+    "summary": "Kimi K3 offers enterprises a 2.8 trillion parameter open model. But for U.S.-based companies, deciding whether to use it is complicated.",
+    "body": "",
+    "url": "https://aibusiness.com/foundation-models/moonshot-ai-releases-kimi-k3",
+    "date": "2026年7月17日"
   }
 ]
