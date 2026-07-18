@@ -869,5 +869,31 @@
     "body": "",
     "url": "https://techcabal.com/2026/07/18/gocab-yango/",
     "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Apple mal kurz wieder wertvollstes Unternehmen der Welt",
+    "summary": "Nvidia war dank KI-Chips ein Jahr lang das wertvollste Unternehmen. Doch Apple holte zuletzt stark auf.",
+    "body": "",
+    "url": "https://www.heise.de/news/Apple-mal-kurz-wieder-wertvollstes-Unternehmen-der-Welt-11369742.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "San Francisco wants Google and Apple to remove AI ‘Nudification’ apps from their app stores",
+    "summary": "Apple and Google both reiterated their stance on policy violating-apps and confirmed they had taken action against the offending apps",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/san-francisco-wants-google-and-apple-to-remove-ai-nudification-apps-from-their-app-stores/article71237506.ece",
+    "date": "2026年7月18日"
   }
 ]
