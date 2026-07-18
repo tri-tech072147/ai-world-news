@@ -895,5 +895,18 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/san-francisco-wants-google-and-apple-to-remove-ai-nudification-apps-from-their-app-stores/article71237506.ece",
     "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Alibaba targets Nvidia’s dominant software ecosystem with open-source AI stack",
+    "summary": "Alibaba Group Holding’s chip design unit, T-Head, has announced that it will open-source its proprietary software stack, marking its latest effort to streamline developer operations and challenge the…",
+    "body": "dominance of American chip giant Nvidia’s CUDA ecosystem. At the World AI Conference (WAIC) in Shanghai on Saturday, T-Head announced that it was making the full technical stack of SAIL – the foundational software architecture for the unit’s Zhenwu series of AI chips – freely available to...",
+    "url": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack?utm_source=rss_feed",
+    "date": "2026年7月18日"
   }
 ]
