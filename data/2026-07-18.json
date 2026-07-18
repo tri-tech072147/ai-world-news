@@ -752,5 +752,57 @@
     "body": "Yet, as he noted, that staggering volume “doesn’t even put me near the top of the consumption rankings in my department”. That currency is not yuan, but artificial intelligence tokens. “Using AI has become part of almost every task now,” said the employee, who requested anonymity as he was not authorised by the company to speak to...",
     "url": "https://www.scmp.com/tech/tech-trends/article/3360956/chinas-tech-giants-fuel-rise-ai-tokens-new-corporate-currency?utm_source=rss_feed",
     "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Neil Rimer thinks the AI money is coming back out",
+    "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+    "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI lokal nutzen: LLMs und KI-Agenten ganz ohne OpenAI & Anthropic | c’t uplink",
+    "summary": "Mehr Datenschutz, weniger Kosten: Was ist mit einem lokalen KI-Server möglich? Gibt es Einschränkungen oder überwiegen die Vorteile?",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-lokal-nutzen-LLMs-und-KI-Agenten-ganz-ohne-OpenAI-Anthropic-c-t-uplink-11367246.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象",
+    "summary": "米Anthropicは、最上位AIモデル「Claude Fable 5」を7月20日から有料プラン「Max」「Team Premium」の標準機能にする。利用上限の50%まで追加費用なしで利用でき、「Pro」「Team Standard」は「使用クレジット」での利用となり、100ドル分のクレジットを1回限り付与する。無償提供の期限を2度延長した末の方針転換となる。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
+    "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "U.S. judge won't block Meta from laying off workers who filed AI discrimination lawsuit",
+    "summary": "The judge said the workers could not show that losing their jobs amounted to the “irreparable harm” required for him to issue an emergency order blocking the layoffs",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/us-judge-wont-block-meta-from-laying-off-workers-who-filed-ai-discrimination-lawsuit/article71237060.ece",
+    "date": "2026年7月18日"
   }
 ]
