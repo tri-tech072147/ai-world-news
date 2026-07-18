@@ -804,5 +804,70 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/us-judge-wont-block-meta-from-laying-off-workers-who-filed-ai-discrimination-lawsuit/article71237060.ece",
     "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chinese chip start-up Biren bets on light-based ‘supernodes’ to match Nvidia",
+    "summary": "Chinese semiconductor design firm Biren Technology has unveiled its next-generation “supernode” solutions – systems designed to link thousands of AI chips across a single cluster – by using optical…",
+    "body": "data transmission to bypass current hardware limits. The launch underscores how these highly connected server systems have become one of the latest battlegrounds for AI infrastructure companies. The industry is currently racing to scale up raw computing power as artificial intelligence models advance...",
+    "url": "https://www.scmp.com/tech/tech-war/article/3361040/chinese-chip-start-biren-bets-light-based-supernodes-match-nvidia?utm_source=rss_feed",
+    "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: iX-Workshop: RAG-Systeme effizient evaluieren und optimieren",
+    "summary": "Lernen Sie, RAG-Systeme professionell zu analysieren und gezielt zu optimieren – mit praxiserprobten Techniken und echten Anwendungsfällen.",
+    "body": "",
+    "url": "https://www.heise.de/news/iX-Workshop-RAG-Systeme-effizient-evaluieren-und-optimieren-11354452.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "India’s old computing wars offer a roadmap for future chips",
+    "summary": "Over the years, the Indian software industry has acquired significant technological capacity, just not in hardware design and development",
+    "body": "",
+    "url": "https://www.thehindu.com/books/india-old-computing-wars-offer-roadmap-future-chips/article71230149.ece",
+    "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Trump blames Canada for wildfire smoke, says he will add cost to tariffs",
+    "summary": "OTTAWA — President Donald Trump on Friday blamed Canada for wildfire smoke spreading across the United States and said he would add the \"incalculable cost\" of dealing with the pollution to existing…",
+    "body": "tariffs on Canadian goods. Heavy smoke from hundreds of Canadian fires enveloped a swath of the U.S. from the Midwest to the Northeast on Thursday and Friday, prompting warnings to residents to stay indoors.…",
+    "url": "https://www.koreatimes.co.kr/world/20260718/trump-blames-canada-for-wildfire-smoke-says-he-will-add-cost-to-tariffs?utm_source=rss",
+    "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "GoCab deploys 100 electric vehicles in Abidjan as part of Yango’s fleet",
+    "summary": "GoCab, the mobility fintech that operates Yango's largest fleet in Côte d'Ivoire, has handed over 100 fully electric cars to drivers in Abidjan.",
+    "body": "",
+    "url": "https://techcabal.com/2026/07/18/gocab-yango/",
+    "date": "2026年7月18日"
   }
 ]
