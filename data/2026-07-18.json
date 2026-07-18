@@ -739,5 +739,18 @@
     "body": "",
     "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
     "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s tech giants fuel the rise of AI tokens as a new corporate currency",
+    "summary": "Every month, a Beijing-based ByteDance employee says he burns through close to a billion units of a new corporate currency – one that cannot buy a coffee or pay rent.…",
+    "body": "Yet, as he noted, that staggering volume “doesn’t even put me near the top of the consumption rankings in my department”. That currency is not yuan, but artificial intelligence tokens. “Using AI has become part of almost every task now,” said the employee, who requested anonymity as he was not authorised by the company to speak to...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3360956/chinas-tech-giants-fuel-rise-ai-tokens-new-corporate-currency?utm_source=rss_feed",
+    "date": "2026年7月18日"
   }
 ]
