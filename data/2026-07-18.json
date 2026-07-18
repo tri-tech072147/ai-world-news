@@ -908,5 +908,31 @@
     "body": "dominance of American chip giant Nvidia’s CUDA ecosystem. At the World AI Conference (WAIC) in Shanghai on Saturday, T-Head announced that it was making the full technical stack of SAIL – the foundational software architecture for the unit’s Zhenwu series of AI chips – freely available to...",
     "url": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack?utm_source=rss_feed",
     "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China AI summit hears Global South needs equal access to avoid digital divide",
+    "summary": "Greater global cooperation and development-focused AI regulations are urgently needed to prevent a widening digital divide, scholars and international figures said at China’s premier AI conference on…",
+    "body": "Saturday. The message aligned with a broader pitch on display at the annual World AI Conference (WAIC) in Shanghai, where Beijing is courting the Global South with an artificial intelligence package centred on training, infrastructure and a bid for greater influence over global governance. “We need...",
+    "url": "https://www.scmp.com/tech/policy/article/3361057/china-ai-summit-hears-global-south-needs-equal-access-avoid-digital-divide?utm_source=rss_feed",
+    "date": "2026年7月18日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Andy Burnham’s plan to scrap technology department triggers backlash",
+    "summary": "MPs and industry experts say potential reorganisation will waste time at critical moment for AI and economic growthAndy Burnham’s plan to scrap the government’s technology department has triggered an…",
+    "body": "angry backlash from MPs, Whitehall officials and tech experts.The incoming prime minister has asked officials to draw up plans to abolish the Department for Science, Innovation and Technology as part of a wider Whitehall shake-up. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-plan-to-scrap-technology-department-triggers-backlash",
+    "date": "2026年7月18日"
   }
 ]
