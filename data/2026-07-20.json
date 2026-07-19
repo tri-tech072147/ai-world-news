@@ -687,5 +687,18 @@
     "body": "",
     "url": "https://www.heise.de/news/Bericht-Nvidias-Super-Serie-der-RTX-5000-angeblich-fertig-11370096.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "date": "2026年7月19日"
   }
 ]
