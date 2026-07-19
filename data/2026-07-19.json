@@ -739,5 +739,57 @@
     "body": "For purposes of this column, a democratic society is one where life chances and opportunities are equal for women and men. The equalizing face of Korea is mixed with elements of an authoritarian past, Confucianism and other value streams. While there is a ministry for gender equality, needed reforms are sparse.…",
     "url": "https://www.koreatimes.co.kr/opinion/20260719/for-korean-women-better-days-still-unequal?utm_source=rss",
     "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Victoria announces new social media ‘demasking’ powers for accounts accused of vilification",
+    "summary": "New laws would give Vcat power to force social and AI platforms to identify anonymous users in move premier says will protect childrenGet our breaking news email, free app or daily news podcastSocial…",
+    "body": "media companies could be forced to identify anonymous accounts accused of online vilification, under new laws being proposed in Victoria.The Victorian premier, Jacinta Allan, announced a suite of social media reforms on Sunday, saying families needed new ways to protect their children online. Continue reading...",
+    "url": "https://www.theguardian.com/australia-news/2026/jul/19/victoria-proposes-social-media-account-identification-powers",
+    "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "„Wir sehen, dass Telemedizin inzwischen auch bei sehr alten Menschen ankommt“",
+    "summary": "Die Nutzung von Videosprechstunden wächst bei Senioren. TeleClinic-Chef Benedikt Luber spricht im Interview über Hürden, Technik und einen Datenschutzvorfall.",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/Wir-sehen-dass-Telemedizin-inzwischen-auch-bei-sehr-alten-Menschen-ankommt-11368521.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Single-stock leverage: a major policy bungle",
+    "summary": "The government's decision not to abolish single-stock leveraged exchange-traded funds (ETFs) tied to Samsung Electronics and SK hynix is understandable.…",
+    "body": "With more than 10 trillion won ($6.7 billion) already invested in these products, an abrupt delisting could trigger severe market disruption and inflict significant losses on investors. Financial markets depend on predictability, and policymakers should not create unnecessary shocks through sudden regulatory reversals.…",
+    "url": "https://www.koreatimes.co.kr/opinion/editorial/20260719/ed-single-stock-leverage-a-major-policy-bungle?utm_source=rss",
+    "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Chip boom puts Korea's per capita GDP within reach of $40,000",
+    "summary": "Korea’s per capita gross domestic product (GDP) is on track for its largest increase in five years this year amid the global semiconductor boom, bringing the country close to the $40,000 threshold,…",
+    "body": "government data showed Sunday. If the average won-dollar exchange rate declines in the second half of the year, Korea’s per capita GDP could surpass $40,000 for the first time this year. According to data provided by the Ministry of Finance and Economy and the Bank of Korea, the country’s per capita GDP is projected to reach $39,164 this year, up $2,750, or 7.6 percent, from a year earlier,…",
+    "url": "https://www.koreatimes.co.kr/economy/others/20260719/chip-boom-puts-koreas-per-capita-gdp-within-reach-of-40000?utm_source=rss",
+    "date": "2026年7月19日"
   }
 ]
