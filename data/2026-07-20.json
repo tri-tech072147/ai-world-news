@@ -635,5 +635,44 @@
     "body": "Cloudflare announced the change on July 1, and most of the coverage since then has focused on Google. The more useful part [ ] The post AI agent crawlers now need permission. Here s how to get it appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
     "date": "2026年7月13日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Amazon Web Services bets on 'one-person unicorns' with new accelerator for Chinese founders",
+    "summary": "[The content of this article has been produced by our advertising partner.] Amazon Web Services (AWS) has launched a flagship accelerator programme aimed at Chinese-speaking entrepreneurs, betting…",
+    "body": "that artificial intelligence has ushered in an era in which a single founder with a laptop can build a global company.The programme, called From Idea to Frontier, will select up to 100 early-stage teams from applicants across the mainland, Hong Kong and overseas Chinese communities, offering them AWS...",
+    "url": "https://www.scmp.com/presented/tech/topics/generative-ai-and-cloud-services/article/3360886/amazon-web-services-bets-one-person-unicorns-new-accelerator-chinese-founders?utm_source=rss_feed",
+    "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "AI job worries grow. But some human skills can’t be replaced by machines | Gaynor Parkin and Dave Winsborough",
+    "summary": "The fear of becoming obsolete is a rising source of anxiety as artificial intelligence emerges in the workplace.…",
+    "body": "Staying strongly connected with others will helpThe modern mind is a column where experts discuss mental health issues they are seeing in their workEarlier this year Paul* discovered via a flurry of media stories that his business group had been targeted for job cuts, alongside a number of other public sector agencies.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/jul/20/ai-job-worries-human-skills-machines-cant-replace",
+    "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "WTF: Billionenbeträge berechnet: Abrechnungsfehler bei Amazon Web Services",
+    "summary": "Kunden wurden plötzlich astronomische Kosten für Amazon Web Services angezeigt. Dahinter steckt ein technischer Fehler.",
+    "body": "",
+    "url": "https://www.heise.de/news/Billionenbetraege-berechnet-Abrechnungsfehler-bei-Amazon-Web-Services-11370078.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月19日"
   }
 ]
