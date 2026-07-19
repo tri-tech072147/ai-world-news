@@ -674,5 +674,18 @@
     "body": "",
     "url": "https://www.heise.de/news/Billionenbetraege-berechnet-Abrechnungsfehler-bei-Amazon-Web-Services-11370078.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Bericht: Super-Version von Nvidias Grafikkarten hängt an 3-GByte-Chips",
+    "summary": "Bei den Kartenherstellern sollen erste seriennahe Versionen von RTX 5080 Super und kleineren Versionen vorliegen. Nur die Speicherkrise bremst den Marktstart.",
+    "body": "",
+    "url": "https://www.heise.de/news/Bericht-Nvidias-Super-Serie-der-RTX-5000-angeblich-fertig-11370096.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月19日"
   }
 ]
