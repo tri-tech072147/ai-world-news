@@ -791,5 +791,57 @@
     "body": "government data showed Sunday. If the average won-dollar exchange rate declines in the second half of the year, Korea’s per capita GDP could surpass $40,000 for the first time this year. According to data provided by the Ministry of Finance and Economy and the Bank of Korea, the country’s per capita GDP is projected to reach $39,164 this year, up $2,750, or 7.6 percent, from a year earlier,…",
     "url": "https://www.koreatimes.co.kr/economy/others/20260719/chip-boom-puts-koreas-per-capita-gdp-within-reach-of-40000?utm_source=rss",
     "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Changzhou says it is building China’s first city-level clean-power token factory",
+    "summary": "The Chinese city of Changzhou is building what it claims will be the country’s first city-level “green token factory”, as local governments race to answer Beijing’s call to power massive artificial…",
+    "body": "intelligence computing demands with clean energy. The project would be powered by green energy and could produce 60 trillion tokens per year once completed, the municipal government said in a statement on Sunday during the World Artificial Intelligence Conference in Shanghai. The city in the eastern...",
+    "url": "https://www.scmp.com/tech/article/3361089/changzhou-says-it-building-chinas-first-city-level-clean-power-token-factory?utm_source=rss_feed",
+    "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Leveraged ETFs and the \"Korean discount\"",
+    "summary": "Korean retail investors are in the global spotlight due to volatility stemming from the potent mix of the semiconductor sector boom and leveraged exchange-traded funds (ETFs).…",
+    "body": "After breaking the 9,000-point mark, Korea’s main bourse KOSPI index has now corrected to 6,000, causing much angst among retail investors, with losses likely to be much greater for those invested in leveraged ETFs. Right on cue, China delivered another “DeepSeek moment” when Chinese startup company Moonshot revealed a model that claims to be on par with recent models from OpenAI and Anthropic.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260719/leveraged-etfs-and-the-korean-discount?utm_source=rss",
+    "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "[PHOTO] Amazon visits APR",
+    "summary": "APR Executive Vice President Shin Jae-ha, center, poses with Vice President of Worldwide Fulfillment by Amazon Piyush Saraogi, third from left, in front of the Korean cosmetics and beauty device…",
+    "body": "company’s Factory Campus 2 in Pyeongtaek, Gyeonggi Province, earlier this month. Saraogi and his team visited the Korean beauty company’s facility to inspect its automated production lines and logistics capabilities amid surging U.S. demand for K-beauty products, including APR’s flagship Medicube cosmetics and AGE-R beauty devices. Courtesy of APR",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260719/photo-amazon-visits-apr?utm_source=rss",
+    "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "KCCI chief warns of chip supply crunch as memory demand set to nearly double",
+    "summary": "Korea Chamber of Commerce and Industry (KCCI) Chairman Chey Tae-won said global memory chip demand could nearly double next year, while overall semiconductor demand is expected to increase by 50 to…",
+    "body": "60 percent, underscoring the need to expand manufacturing capacity. \"I do not know if I would go so far as to call it complete chaos, but we are under immense lobbying and pressure,\" Chey said Friday on the sidelines of the KCCI Jeju Forum. “Despite the surge in demand, there will be almost no increase in supply next year.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260719/kcci-chief-warns-of-chip-supply-crunch-as-memory-demand-set-to-nearly-double?utm_source=rss",
+    "date": "2026年7月19日"
   }
 ]
