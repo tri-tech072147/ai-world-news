@@ -869,5 +869,44 @@
     "body": "offer?",
     "url": "https://www.thehindu.com/sci-tech/technology/what-goals-does-semicon-20-aim-to-achieve-explained/article71238876.ece",
     "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Alibaba says newest Qwen AI model is second only to Anthropic’s Claude Fable 5",
+    "summary": "Alibaba Group Holding has previewed its next-generation artificial intelligence model Qwen3.8, which the company says is “second only” to Anthropic’s Claude Fable 5.…",
+    "body": "Qwen3.8-Max-Preview, the preview version of the strongest model of the Qwen family, had been made available on Alibaba’s Token Plan subscription service, as well as its Qoder and QoderWork agentic platforms, the Chinese tech giant said on an official X post on Sunday. With 2.4 trillion parameters, it was “one of the most powerful...",
+    "url": "https://www.scmp.com/tech/article/3361119/alibaba-says-newest-qwen-ai-model-second-only-anthropics-claude-fable-5?utm_source=rss_feed",
+    "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "How Chinese tech giants from Ant to Tencent use AI agents to win over enterprise clients",
+    "summary": "Chinese tech giants are doubling down on enterprise artificial intelligence agents with new products unveiled at the country’s top AI summit, signalling heightened domestic rivalry to win over…",
+    "body": "business clients as agent-based AI adoption accelerates. At the four-day World Artificial Intelligence Conference (WAIC) in Shanghai which concludes on Monday, major tech companies including Ant Group, Tencent Holdings, Alibaba Group Holding and Baidu launched or showcased offerings designed to integrate...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3361109/how-chinese-tech-giants-ant-tencent-use-ai-agents-win-over-enterprise-clients?utm_source=rss_feed",
+    "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
+    "summary": "New national plan accompanied by Labor push for digital duty of care legislationGet our breaking news email, free app or daily news podcastThe use of AI in automated decision-making by government…",
+    "body": "departments and agencies will be subject to tough rules under a new national plan, expected to extend to consumer protections, workplace safety and privacy.As the Albanese government grapples with the rapid growth in the use of artificial intelligence and a boom in datacentre construction, senior ministers have begun work to draw up new rules to ensure safety is built into AI processes inside…",
+    "url": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
+    "date": "2026年7月19日"
   }
 ]
