@@ -843,5 +843,31 @@
     "body": "60 percent, underscoring the need to expand manufacturing capacity. \"I do not know if I would go so far as to call it complete chaos, but we are under immense lobbying and pressure,\" Chey said Friday on the sidelines of the KCCI Jeju Forum. “Despite the surge in demand, there will be almost no increase in supply next year.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260719/kcci-chief-warns-of-chip-supply-crunch-as-memory-demand-set-to-nearly-double?utm_source=rss",
     "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Could AI be conscious?",
+    "summary": "Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implicationsIn January, the AI company Anthropic published a new constitution for Claude, its most advanced…",
+    "body": "large language model (LLM), which contained the comment: “We are caught in a difficult position where we neither want to overstate the likelihood of Claude’s moral patienthood nor dismiss it out of hand.” A month later, Anthropic’s CEO Dario Amodei went on a podcast and said his company couldn’t rule out the possibility that Claude was conscious.…",
+    "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+    "date": "2026年7月19日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "What goals does Semicon 2.0 aim to achieve? | Explained",
+    "summary": "What are the key focus areas of Semicon 2.0? How is it different from the first phase? Why is India focusing on semiconductor manufacturing? What incentives does the Mobile Phone Manufacturing Scheme…",
+    "body": "offer?",
+    "url": "https://www.thehindu.com/sci-tech/technology/what-goals-does-semicon-20-aim-to-achieve-explained/article71238876.ece",
+    "date": "2026年7月19日"
   }
 ]
