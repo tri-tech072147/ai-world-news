@@ -622,5 +622,83 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/startup-launches-foundry-develop-materials-chips",
     "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "AI’s most important protocol is getting a little bit easier to use",
+    "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services.…",
+    "body": "It s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers building custom pipes for every connection. Next [ ]",
+    "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "The 20-somethings betting big on tech stocks",
+    "summary": "The BBC hears from people about the risks and rewards of investing in technology shares.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
+    "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「AIに期待」65％も「明確な成果」16％、製造業の多くがPoC止まりの理由は",
+    "summary": "primeNumberが「AI・データ活用実態調査 2026」を公開した。AIへの高い期待に対し、明確な成果を得た企業は16.4％にとどまる。成果を左右する原因や、製造業でPoC止まりが多発する構造的課題を同社に聞いた。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2607/21/news048.html",
+    "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Greece seeks to elevate Korea ties through maritime innovation, Indo-Pacific partnership",
+    "summary": "As Greece and Korea celebrate the 65th anniversary of diplomatic relations this year, Athens is seeking to expand a partnership long anchored in shipping, shipbuilding and trade into new areas…",
+    "body": "including green growth, digital governance, innovation and regional security, while strengthening cooperation between the two like-minded middle power countries. In a written interview with The Korea Times marking his three-day visit to Seoul this week, Greek Foreign Minister George Gerapetritis said maritime cooperation remains at the heart of bilateral economic relations, with Greece being the…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20260721/greece-seeks-to-elevate-korea-ties-through-maritime-innovation-indo-pacific-partnership?utm_source=rss",
+    "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Is semiconductor stock rally shifting from Korea to China?",
+    "summary": "Korean stocks led the global semiconductor rally over the past year, but the momentum is shifting toward China as shares of the country's two biggest chipmakers pull back, analysts said Monday.…",
+    "body": "The TIGER China Semiconductor FACTSET ETF (exchange-traded fund), which tracks large-cap Chinese semiconductor companies, gained 49 percent in the three months through Thursday, making it the best performer among three Korea-listed semiconductor ETFs managed by Mirae Asset Global Investments, according to the Korea Exchange. That compared with a 33.6 percent gain for the TIGER U.S.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260721/is-semiconductor-stock-rally-shifting-from-korea-to-china?utm_source=rss",
+    "date": "2026年7月20日"
   }
 ]
