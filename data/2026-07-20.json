@@ -999,5 +999,83 @@
     "body": "",
     "url": "https://techcabal.com/2026/07/20/techcabal-daily-ma-machine/",
     "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | Confidential AI: So funktionieren vertrauliche Berechnungen auf der GPU",
+    "summary": "Confidential Computing schützt Daten in fremden Clouds. Wir zeigen, wie die Erweiterung auf GPUs diese Technik auch für KI-Anwendungen nutzbar macht.",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/Confidential-AI-So-funktionieren-vertrauliche-Berechnungen-auf-der-GPU-11329114.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: iX-Workshop: ISO 27001 als Admin im Unternehmen praktisch umsetzen",
+    "summary": "Administratoren und IT-Verantwortliche lernen ihre Rolle im ISMS kennen und trainieren, wie sie Maßnahmen der ISO 27001 technisch und organisatorisch umsetzen.",
+    "body": "",
+    "url": "https://www.heise.de/news/iX-Workshop-ISO-27001-als-Admin-im-Unternehmen-praktisch-umsetzen-11362144.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "US public health agencies to test OpenAI and Anthropic AI models",
+    "summary": "Public health departments across the United States will test generative AI tools under a new programme involving the Coalition for Health AI, OpenAI, Anthropic, and Accenture.…",
+    "body": "The Public Health Use Case and Learning Scaling Engine, known as PULSE, will support trials in 10 state, local, tribal, or territorial jurisdictions. The programme is intended to produce [ ] The post US public health agencies to test OpenAI and Anthropic AI models appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
+    "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Kimi K3 open-weight model: China’s biggest AI is a bet on memory, not compute",
+    "summary": "Moonshot AI s Kimi K3 open-weight model has been read almost entirely through its parameter count since it launchedon July 16.…",
+    "body": "At 2.8 trillion parameters, it is the largest open-weight model released to date. Model sizes are usually grouped into rough brackets, and 2.8 trillion rounds into what the industry calls the 3T class. A tier no [ ] The post Kimi K3 open-weight model: China s biggest AI is a bet on memory, not compute appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/kimi-k3-open-weight-model-memory-compute-china/",
+    "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Nigeria’s central bank is rewriting the rules for fintech growth",
+    "summary": "Over the past decade, the playbook for Nigerian fintechs has been remarkably consistent: build payment products, acquire merchants, scale transaction volumes, obtain microfinance bank licences,…",
+    "body": "expand into lending, and eventually launch savings products.",
+    "url": "https://techcabal.com/2026/07/20/nigerias-central-bank-is-rewriting-the-rules-for-fintech-growth/",
+    "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "As AI Spending Climbs, Enterprises Get Serious About Token Cost",
+    "summary": "Opaque pricing and backward-looking bills force enterprises to rethink their AI model strategy.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/as-ai-spending-climbs-enterprises-serious-about-token-cost",
+    "date": "2026年7月20日"
   }
 ]
