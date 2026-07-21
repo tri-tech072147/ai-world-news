@@ -622,5 +622,83 @@
     "body": "",
     "url": "https://www.heise.de/news/Google-plant-KI-Chips-mit-integrierten-Gemini-Strukturen-11372439.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年7月21日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+    "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+    "date": "2026年7月21日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Google bringt Gemini 3.6 Flash und 3.5 Flash-Lite, hadert mit 3.5 Pro",
+    "summary": "Google legt neue Light-Varianten seines LLMs auf. Bei der mächtigeren Pro-Variante spießt es sich weiter.",
+    "body": "",
+    "url": "https://www.heise.de/news/Google-bringt-Gemini-3-6-Flash-und-3-5-Flash-Lite-hadert-mit-3-5-Pro-11372719.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月21日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIトークン消費「24倍」の衝撃 本番運用に向けて絶対に“やってはいけない”コストの捉え方",
+    "summary": "AIの試験導入から本番運用への移行が進む中、多くの企業がコストと統制の壁に直面している。将来的なトークン消費の急増を見据え、組織が今見直すべき視点とは何か。実運用を持続させるための「3つの条件」を解説します。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/22/news005.html",
+    "date": "2026年7月21日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul to turn into citywide art playground with Kiaf, Frieze in September",
+    "summary": "Seoul is gearing up for a blockbuster month of art and culture in September, as Kiaf Seoul and Frieze Seoul return with expanded citywide programs ranging from classical music and public art to film…",
+    "body": "and late-night gallery events. This year’s Kiaf Seoul, Korea’s largest international art fair, runs from Sept. 2-6 at Coex in southern Seoul under the theme “Coexistence,” reflecting on the relationship between humans and technology in the age of artificial intelligence (AI).…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20260722/seoul-to-turn-into-citywide-art-playground-with-kiaf-frieze-in-september?utm_source=rss",
+    "date": "2026年7月21日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Sogang University lays foundation for global talent hub",
+    "summary": "Sogang University has laid out the blueprint for an advanced industry talent development model through the government-funded Regional Innovation System & Education (RISE) program.…",
+    "body": "The model is designed to transform the university into Seoul’s premier hub for cultivating global talent in high-tech industries under the motto, “Educate in Seoul and expand globally.” The university said the initiative has made progress in talent development and technological innovation since its launch last year.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/education/20260722/sogang-university-lays-foundation-for-global-talent-hub?utm_source=rss",
+    "date": "2026年7月21日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "New Gemini 3.5 Flash Models Are Faster and Cheaper but Not Smarter",
+    "summary": "The updated models are intended to be more affordable for enterprises. The new cyber model is designed to orchestrate.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/new-gemini-3-5-flash-models-are-faster-cheaper-not-smarter",
+    "date": "2026年7月21日"
   }
 ]
