@@ -583,5 +583,44 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/openai-urges-enterprises-use-its-scorecard-measure-worth-of-ai",
     "date": "2026年7月21日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "date": "2026年7月21日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "AI and the rise of the universal entertainment app",
+    "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks.…",
+    "body": "Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
+    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "date": "2026年7月21日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Googles plant \"Frozen v2\": KI-Chips mit fest integrieren Gemini-Eigenschaften",
+    "summary": "Google plant Chips, in die Gemini-Modellstrukturen fest integriert sein sollen. Sie sollen KI-Anwendungen schneller und effektiver machen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Google-plant-KI-Chips-mit-integrierten-Gemini-Strukturen-11372439.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月21日"
   }
 ]
