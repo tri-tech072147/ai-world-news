@@ -531,5 +531,57 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/enterprise-ai-prove-value-beyond-deployment",
     "date": "2026年7月17日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Data centers expected to use 4x more electricity by 2035",
+    "summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+    "date": "2026年7月21日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google releases three new Gemini models — but no 3.5 Pro",
+    "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+    "date": "2026年7月21日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | Bit-Rauschen: Neue Infineon-Fab, irreführende Chiptechnik-Namen, schnelles RAM",
+    "summary": "Infineon eröffnet eine große Fab in Dresden. Elon Musk kritisiert die Benennung von Chip-Fertigungstechnik. Neue RAM-Varianten versprechen mehr Speed.",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Neue-Infineon-Fab-irrefuehrende-Chiptechnik-Namen-schnelles-RAM-11264150.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年7月21日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "OpenAI Urges Enterprises to Use Its Scorecard to Measure Worth of AI",
+    "summary": "The tool comes amid mounting pressure from low-cost AI providers in China on U.S. AI vendors.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/openai-urges-enterprises-use-its-scorecard-measure-worth-of-ai",
+    "date": "2026年7月21日"
   }
 ]
