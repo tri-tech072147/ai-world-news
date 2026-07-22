@@ -570,5 +570,83 @@
     "body": "The Public Health Use Case and Learning Scaling Engine, known as PULSE, will support trials in 10 state, local, tribal, or territorial jurisdictions. The programme is intended to produce [ ] The post US public health agencies to test OpenAI and Anthropic AI models appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/openai-anthropic-public-health-ai/",
     "date": "2026年7月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Monday.com lays off hundreds to focus on AI",
+    "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+    "date": "2026年7月22日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+    "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+    "date": "2026年7月22日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+    "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "date": "2026年7月22日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+    "summary": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures Matt Murphy says he s never seen in 25 years of investing, not…",
+    "body": "in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic s $500M Series D, and Murphy has had a front-row seat as the company went from a pre-revenue, [ ]",
+    "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+    "date": "2026年7月22日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "We must reject any notion of AI consciousness | Letters",
+    "summary": "Artificial intelligence systems won’t become conscious for the same reason they won’t become pregnant, says Dr John PickeringAnil Seth is right to point out that to overestimate artificial…",
+    "body": "intelligence is to underestimate ourselves (Once again we are told AI may be conscious – I study consciousness, and I have my doubts, 15 July). But he is wrong only to have doubts about whether AI systems like Claude may become conscious. He should be certain, and should say so more forcefully.It’s not like anything to be Claude, just as it’s not like anything to be a washing machine.…",
+    "url": "https://www.theguardian.com/technology/2026/jul/22/we-must-reject-any-notion-of-ai-consciousness",
+    "date": "2026年7月22日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Milliarden-Deal: Anthropic setzt auf AMD-GPUs für KI-Rechenzentren",
+    "summary": "Anthropic setzt ab 2027 AMDs Instinct-MI455X-Beschleuniger ein. Bis zu zwei Gigawatt Kapazität sind geplant.",
+    "body": "",
+    "url": "https://www.heise.de/news/Anthropic-will-ueber-eine-Million-AMD-GPUs-kaufen-11374084.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月22日"
   }
 ]
