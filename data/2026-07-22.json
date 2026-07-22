@@ -1246,5 +1246,44 @@
     "body": "During the second hearing of a special parliamentary committee investigating the incident, the ruling Democratic Party of Korea (DPK) called for an immediate recount before the committee wraps up its probe to help determine whether the ballots had been properly handled, while lawmakers of the main opposition People Power Party (PPP) argued that it should be conducted after a proposed special…",
     "url": "https://www.koreatimes.co.kr/southkorea/politics/20260722/rival-parties-spar-over-timing-of-ballot-recount-over-ballot-shortage-in-local-elections?utm_source=rss",
     "date": "2026年7月22日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+    "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "date": "2026年7月22日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Beijing ramps up computing power to boost ‘token economy’ in tech race with US",
+    "summary": "Beijing is ramping up its computing power and unveiling new policies to boost the city’s “token economy”, as China accelerates AI adoption across key industries in its tech race with the US.…",
+    "body": "The Chinese capital aims to add another 50,000 petaflops of intelligent computing power in the second half of 2026, pushing its total capacity over 130,000 petaflops by the end of the year, the Beijing Municipal Bureau of Economy and Information Technology said at a press briefing on Tuesday. One petaflop is...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3361458/beijing-ramps-computing-power-boost-token-economy-tech-race-us?utm_source=rss_feed",
+    "date": "2026年7月22日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "SenseTime’s Galaxy Project targets domestic AI chip scale-up",
+    "summary": "SenseTime has launched the Galaxy Project, teaming with nearly 20 partners to scale domestic AI chip infrastructure in China.…",
+    "body": "In a keynote titled ‘Intelligent Transformation and Symbiosis,’ Yang Fan – the company’s co-founder and president of its Large Device Business Group – laid out what SenseTime describes as a closed loop connecting chip-level technology, ecosystem [ ] The post SenseTime s Galaxy Project targets domestic AI chip scale-up appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/sensetimes-galaxy-project-targets-domestic-ai-chip-scale-up/",
+    "date": "2026年7月22日"
   }
 ]
