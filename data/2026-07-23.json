@@ -648,5 +648,44 @@
     "body": "",
     "url": "https://www.heise.de/news/Anthropic-will-ueber-eine-Million-AMD-GPUs-kaufen-11374084.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年7月22日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on…",
+    "body": "Hugging Face possible.",
+    "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "date": "2026年7月22日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "date": "2026年7月22日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding.…",
+    "body": "Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
+    "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+    "date": "2026年7月22日"
   }
 ]
