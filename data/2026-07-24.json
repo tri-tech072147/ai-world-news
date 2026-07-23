@@ -765,5 +765,57 @@
     "body": "",
     "url": "https://aibusiness.com/data-centers/schneider-electric-amd-unveil-blueprint-ai-factory-deployments",
     "date": "2026年7月23日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "date": "2026年7月23日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
+    "summary": "‘Ratepayer Protection Pledge’ president has touted is non-binding as people continue to struggle with rising billsDonald Trump has announced that about 200 entities have signed on to his non-binding…",
+    "body": "“Ratepayer Protection Pledge”, expanding a voluntary commitment which claims to ensure US consumers will not bear the cost of the AI datacenter build-out.Trump delivered remarks on Thursday at the Environmental Protection Agency (EPA) headquarters, alongside Lee Zeldin, the agency’s administrator, and Chris Wright, the energy secretary.…",
+    "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-datacenter-costs-big-tech",
+    "date": "2026年7月23日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Lawmakers push for AI 'kill switch' after OpenAI goes rogue",
+    "summary": "A new bill would let the US government order the shutdown AI models that pose a major public threat.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年7月23日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "What the OpenAI-Hugging Face Hack Means for Enterprises",
+    "summary": "The incident is a lesson for enterprises that they need to implement appropriate cybersecurity guidance and keep their data within safe confines.",
+    "body": "",
+    "url": "https://aibusiness.com/cybersecurity/what-openai-hugging-face-hack-means-enterprises",
+    "date": "2026年7月23日"
   }
 ]
