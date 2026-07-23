@@ -700,5 +700,70 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/eu-hits-google-with-1-billion-fine-over-its-play-app-store-and-search/article71259337.ece",
     "date": "2026年7月23日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "summary": "Claude's new voice model will let you reschedule your meeting or draft an email",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "date": "2026年7月23日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "summary": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "date": "2026年7月23日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Helios-Server: AMD greift Nvidia mit Instinct MI455X an",
+    "summary": "AMD baut seinen schnellsten KI-Beschleuniger grundlegend um. Bis zu 80 Billiarden Rechenoperationen pro Sekunde sind möglich.",
+    "body": "",
+    "url": "https://www.heise.de/news/Instinct-MI455X-AMD-stellt-das-Herzstueck-seiner-Helios-Server-vor-11376275.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月23日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "AMD Epyc 9006: Zen-6-Generation der Serverprozessoren bringt neue Varianten",
+    "summary": "AMD-CPUs für Server mit Zen-6-Technik bieten bis zu 256 Kerne oder besonders hohen Takt sowie PCIe 6.0. Sie steuern bis zu 16 RAM-Kanäle oder LPDDR an.",
+    "body": "",
+    "url": "https://www.heise.de/news/AMD-Epyc-9006-Zen-6-Generation-der-Serverprozessoren-bringt-neue-Varianten-11376591.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月23日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Schneider Electric, AMD Unveil Blueprint for AI Factory Deployments",
+    "summary": "The companies’ design supports AI racks of up to 246kW.",
+    "body": "",
+    "url": "https://aibusiness.com/data-centers/schneider-electric-amd-unveil-blueprint-ai-factory-deployments",
+    "date": "2026年7月23日"
   }
 ]
