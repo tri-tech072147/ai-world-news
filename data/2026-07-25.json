@@ -609,5 +609,18 @@
     "body": "",
     "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
     "date": "2026年7月24日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s AI vision gives the Global South a seat at the table",
+    "summary": "The ninth World Artificial Intelligence Conference marked a shift from the technology-focused exhibitions of previous editions to a high-profile international gathering of government officials, world…",
+    "body": "leaders, scientists and entrepreneurs. President Xi Jinping delivered an opening speech to articulate China’s role in governing AI. While Silicon Valley, Washington and Brussels debate national security, frontier capabilities and corporate profitability, China is pushing AI to generate social good....",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3361318/chinas-ai-vision-gives-global-south-seat-table?utm_source=rss_feed",
+    "date": "2026年7月24日"
   }
 ]
