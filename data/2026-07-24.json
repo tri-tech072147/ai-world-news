@@ -869,5 +869,18 @@
     "body": "",
     "url": "https://monoist.itmedia.co.jp/mn/articles/2607/24/news046.html",
     "date": "2026年7月23日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Googleが“自社AIの裏切り”に備え始めた 異例の構想「AI Control Roadmap」とは",
+    "summary": "米Google DeepMindが発表した異例の構想「AI Control Roadmap」について解説する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000215/",
+    "date": "2026年7月23日"
   }
 ]
