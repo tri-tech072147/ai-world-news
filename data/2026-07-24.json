@@ -1155,5 +1155,57 @@
     "body": "",
     "url": "https://techcabal.com/2026/07/24/techcabal-daily-mr-price-mr-europe/",
     "date": "2026年7月24日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "近畿大、入試にAIの利用認める 情報学部の総合型選抜で",
+    "summary": "近畿大学は、2027年度の情報学部の総合型選抜入学試験で、生成AIの利用を認めると発表した。提出する自己PR動画やプレゼンテーション資料などでのAIの利用方針を明示した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000221/",
+    "date": "2026年7月24日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIにもサプライチェーン管理が必要？ 中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
+    "summary": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
+    "date": "2026年7月24日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "'Spirits' Homecoming' returning to theaters",
+    "summary": "\"Spirits' Homecoming,\" a widely discussed movie addressing the tragedy of Japanese military sexual slavery, is returning to theaters in an extended cut to mark its 10th anniversary, bringing renewed…",
+    "body": "attention to an issue with only five surviving victims remaining. Connect Pictures, the film's distributor, said Friday that the extended version of \"Spirits' Homecoming\" — subtitled \"Sister, Let's Go Home\" in Korean — will open in theaters nationwide on Aug. 26.…",
+    "url": "https://www.koreatimes.co.kr/entertainment/films/20260724/spirits-homecoming-returning-to-theaters?utm_source=rss",
+    "date": "2026年7月24日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Ecosystem Roundup: When AI acts, humans are still responsible",
+    "summary": "When OpenAI recently disclosed that Hugging Face had been breached through access to its pre-release models, the instinctive question was technical: how did the system fail? But the more important…",
+    "body": "question was human: who decided to grant that access, under what safeguards, and who owns the consequences? That question sits at the heart of one [ ] The post Ecosystem Roundup: When AI acts, humans are still responsible appeared first on e27.",
+    "url": "https://e27.co/ecosystem-roundup-when-ai-acts-humans-are-still-responsible-20260724/",
+    "date": "2026年7月24日"
   }
 ]
