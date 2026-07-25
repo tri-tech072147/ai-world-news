@@ -570,5 +570,18 @@
     "body": "",
     "url": "https://www.heise.de/news/Claude-Opus-5-soll-Sicherheitsluecken-auf-Mythos-Niveau-finden-11378138.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Mega datacentre planned for outer Melbourne will be almost six times the size of Chadstone shopping centre",
+    "summary": "More than 3,600 people sign petition for careful assessment of proposed AI hub, now a flashpoint for national debate on datacentre boomGet our breaking news email, free app or daily news podcastFor…",
+    "body": "some residents it started with a letter in the mailbox. It was a “friendly introduction from the team behind the Victorian AI hub”.“I am knocking on doors to explain what we have in mind and, most importantly, to listen,” the letter from Syncline Energy stated. Continue reading...",
+    "url": "https://www.theguardian.com/australia-news/2026/jul/26/mega-datacentre-planned-for-outer-melbourne-will-be-almost-six-times-the-size-of-chadstone-shopping-centre",
+    "date": "2026年7月25日"
   }
 ]
