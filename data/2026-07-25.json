@@ -752,5 +752,57 @@
     "body": "other fields. Samsung Electronics Chairman Lee Jae-yong, Hyundai Motor Group Executive Chair Euisun Chung and Lee Hae-jin, founder of South Korea's top portal operator Naver, visited Nvidia's headquarters to meet Huang, according to the companies.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260725/top-korean-biz-chiefs-meet-with-nvidia-global-tech-leaders?utm_source=rss",
     "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT",
+    "summary": "Avtar spent decades wondering what happened to the mother he never got to know. Thousands of miles away, Nicci was haunted by the story of a half-brother given away before she was born.…",
+    "body": "How did a chatbot bring them together?As a small boy growing up in Amritsar, India, in the 1960s, Avtar Singh used to hear whispers. Your mum isn’t really your mum, the rumours would say. Your mum lives abroad. Avtar didn’t really pay any attention to it. “I thought, the neighbours are just making up stories.” But the stories were true: the woman raising Avtar was actually his grandmother.…",
+    "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai",
+    "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "OpenAI vs ANI case: what it means for the future of information",
+    "summary": "The Delhi High Court order is the first detailed attempt by an Indian court to place AI training within the Copyright Act.",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-vs-ani-case-what-it-means-for-the-future-of-information/article71265247.ece",
+    "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korean, global tech firms agree on $950 bil. cooperation projects: official",
+    "summary": "SAN FRANCISCO — Korean conglomerates and global tech giants, including Nvidia Corp., agreed Friday to pursue a series of cooperation projects that together are worth $950 billion, a senior…",
+    "body": "presidential official said. The projects include a long-term deal under which SK Group will supply $750 billion worth of high-performance semiconductors to global tech firms, including Nvidia, presidential chief of staff for policy Kim Yong-beom said at a press briefing.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260725/korean-global-tech-firms-agree-on-950-bil-cooperation-projects-official?utm_source=rss",
+    "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Naver wins $10 bil. investment from Nvidia, Brookfield",
+    "summary": "Naver, the country's leading internet portal operator, has received a combined $10 billion investment commitment from Nvidia and U.S.…",
+    "body": "private equity firm Brookfield to finance its project to build an artificial intelligence (AI) data center here. With the funding, Naver, also a major cloud service provider, will be able to accelerate its project, according to Lee Hae-jin, founder of Naver, in an AI summit held in San Francisco on Friday (local time).…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260725/naver-wins-10-bil-investment-from-nvidia-brookfield?utm_source=rss",
+    "date": "2026年7月25日"
   }
 ]
