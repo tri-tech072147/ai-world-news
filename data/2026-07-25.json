@@ -687,5 +687,70 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
     "date": "2026年7月24日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Investment with Chinese characteristics: how Beijing’s money is reshaping tech ventures",
+    "summary": "On the surface, China’s cutting-edge tech sector – from the algorithmic breakthroughs of DeepSeek and Zhipu AI to the hardware of Unitree Robotics and ChangXin Memory Technologies (CXMT) – mirrors…",
+    "body": "Silicon Valley’s venture capital-backed ecosystem. But a closer look at their financing histories reveals a common investor: the Chinese state. Beijing’s strong presence underscores a more profound structural shift in how China’s frontier technology is being funded. As Western venture capital and...",
+    "url": "https://www.scmp.com/tech/policy/article/3361779/investment-chinese-characteristics-how-beijings-money-reshaping-tech-ventures?utm_source=rss_feed",
+    "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul Arts Center chief lists 18th-century cello, Steinway grand in assets report",
+    "summary": "Cellist and conductor Chang Han-na, president of the Seoul Arts Center, reported assets totaling 7.82 billion won (about $5.62 million), including a cello valued at more than 1.37 billion won, a…",
+    "body": "Steinway piano worth 133.75 million won and holdings in major U.S. technology stocks such as Nvidia, Apple and Meta. According to the Government Public Ethics Committee's disclosure of public officials' assets released Thursday, Chang reported total assets of 7.817 billion won, the largest amount among the six heads of organizations under the Ministry of Culture, Sports and Tourism subject to the…",
+    "url": "https://www.koreatimes.co.kr/southkorea/20260725/seoul-arts-center-chief-lists-18th-century-cello-steinway-grand-in-assets-report?utm_source=rss",
+    "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Daiso becomes go-to destination for tourists seeking K-diet products",
+    "summary": "Click here for more articles by Kormedi.com. Daiso has emerged as a must-visit shopping destination for foreign tourists visiting Korea, thanks to its reputation for offering a wide range of products…",
+    "body": "at affordable prices. As interest in weight management and healthy eating continues to grow, diet-related products are also drawing attention. Reflecting the trend, domestic health supplement companies are introducing K-diet products through Daiso.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/20260725/daiso-becomes-go-to-destination-for-tourists-seeking-k-diet-products?utm_source=rss",
+    "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Top Korean biz chiefs meet with Nvidia, global tech leaders",
+    "summary": "SAN FRANCISCO — Chiefs of Korean tech giants, such as Samsung Electronics, met with Jensen Huang, chief executive officer of Nvida, Friday, to discuss cooperation in artificial intelligence (AI) and…",
+    "body": "other fields. Samsung Electronics Chairman Lee Jae-yong, Hyundai Motor Group Executive Chair Euisun Chung and Lee Hae-jin, founder of South Korea's top portal operator Naver, visited Nvidia's headquarters to meet Huang, according to the companies.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260725/top-korean-biz-chiefs-meet-with-nvidia-global-tech-leaders?utm_source=rss",
+    "date": "2026年7月25日"
   }
 ]
