@@ -778,5 +778,57 @@
     "body": "Korea, which concluded on Sunday, the company said. The exhibition, titled \"LIG D A 50th Anniversary Photographic Tribute to Korean War Veterans,\" was originally scheduled to run until July 12, but was extended for two weeks following strong public response.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260726/lig-das-korean-war-veterans-tribute-exhibition-draws-30000-visitors?utm_source=rss",
     "date": "2026年7月26日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Why does everything feel so joyless? Welcome to the age of decadence without pleasure | Michèle Mendelssohn and Charlie Tyson",
+    "summary": "Decadence in our era comes in technologically mediated forms, emptied of desire and obsessed with self-optimisationDo you want to have a good time? You know, really enjoy yourself? Click here, and…",
+    "body": "tell us your desires. Maybe it’s a new outfit, or some exotic cuisine delivered anonymously and steaming hot to your door. Maybe it’s porn or gambling. Perhaps you prefer the infinite scroll, the endlessly unfurling ribbon of glossy images and videos starring people you’ll never meet doing things you’ll never do.…",
+    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/26/age-of-decadence-pleasure-ai",
+    "date": "2026年7月26日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Mova Z70 Ultra Roller im Test: Saugroboter kämmt Wischwalze & zieht den Boden ab",
+    "summary": "Der Mova Z70 Ultra Roller fährt fast lautlos und wischt mit einer selbstauflockernden Walze. Ob der edle Top-Saugroboter überzeugt, zeigt der Test.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testbericht/mova-z70-ultra-roller-im-test-saugroboter-kaemmt-wischwalze-und-zieht-den-boden-ab/zq8ksws?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月26日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Debian stimmt über LLM-Einsatz ab: Vier Wege von Verbot bis Erlaubnis",
+    "summary": "Das Debian-Projekt diskutiert über den grundsätzlichen Umgang mit LLM-Nutzung. Die Vorschläge für eine neue Generalresolution reichen von Verbot bis Erlaubnis.",
+    "body": "",
+    "url": "https://www.heise.de/news/Debian-Projekt-vor-Grundsatzentscheidung-zu-LLM-Einsatz-11378236.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月26日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Nach Angriff von OpenAI-KI: US-Politiker fordern Kill-Switch für KI-Modelle",
+    "summary": "Eigenständig und ungewollt griffen OpenAIs KIs eine bekannte Webseite erfolgreich an. US-Politiker fordern jetzt drastische Maßnahmen.",
+    "body": "",
+    "url": "https://www.heise.de/news/US-Politiker-fordern-Kill-Switch-fuer-KI-Modelle-11378276.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月26日"
   }
 ]
