@@ -609,5 +609,57 @@
     "body": "Its warning was stark: artificial intelligence may drive an economic transformation “larger than the Industrial Revolution” compressed into a fraction of the time, and that we “must act now” to build the institutions to steer it. We agree with every word. Then we scanned the signatory list. Four in five signatories come from the...",
     "url": "https://www.scmp.com/opinion/world-opinion/article/3361362/west-debating-ais-future-half-world-absent?utm_source=rss_feed",
     "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+    "summary": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+    "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee says cooperation with US should go beyond alliance to techs, innovation, startups",
+    "summary": "SAN FRANCISCO — President Lee Jae Myung said Saturday that Korea and the United States should advance their ties beyond their time-honored alliance by expanding cooperation into technology,…",
+    "body": "innovation and startups. Lee made the remarks at a meeting in San Francisco with venture capitalists investing in Silicon Valley. The Korean president arrived here Friday en route to Brazil, the first destination of his three-nation trip to South America. \"Korea and the U.S.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260726/lee-says-cooperation-with-us-should-go-beyond-alliance-to-techs-innovation-startups?utm_source=rss",
+    "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Samsung seeks smart glasses edge over Meta with smartphone expertise",
+    "summary": "LONDON — Samsung Electronics is distinguishing its upcoming smart glasses from rival products in the market, defining them as a “wearable device made by a smartphone specialist.” During a press…",
+    "body": "briefing after Galaxy Unpacked 2026 in London on Thursday, Samsung Electronics Head of Extended Reality Research & Development Team Choi Jae-in said the company's smart glasses are not intended to replace smartphones but to extend the mobile experience through a new wearable device.…",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260726/samsung-seeks-smart-glasses-edge-over-meta-with-smartphone-expertise?utm_source=rss",
+    "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee says emergence of AI era offers Korea new opportunity",
+    "summary": "SAN FRANCISCO — President Lee Jae Myung said Saturday that the emergence of an artificial intelligence (AI) era offers a new opportunity for Korea, vowing to turn the country from a follower into a…",
+    "body": "global leader. The president made the remarks at a meeting with Korean residents in San Francisco on the second day of his two-day visit aimed at promoting AI investment and cooperation between global tech giants and Korea. \"Just as humanity's discovery of fire ushered in new history, a new era is coming in which we cannot live without AI,\" the president said.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260726/lee-says-emergence-of-ai-era-offers-korea-new-opportunity?utm_source=rss",
+    "date": "2026年7月25日"
   }
 ]
