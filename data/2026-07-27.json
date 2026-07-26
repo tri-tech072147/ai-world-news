@@ -583,5 +583,31 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/microsoft-mistral-partnership-about-sovereign-ai",
     "date": "2026年7月22日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "date": "2026年7月26日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Chinas Chip-Offensive: Wie Peking die US-Sanktionen parieren will",
+    "summary": "Mit Druck vom Staat, technischem Einfallsreichtum und enormem Kapital bläst China zur Aufholjagd bei KI-Hardware. Doch der Rückstand auf Nvidia bleibt gewaltig.",
+    "body": "",
+    "url": "https://www.heise.de/news/Chinas-Chip-Offensive-Wie-Peking-die-US-Sanktionen-parieren-will-11378342.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月26日"
   }
 ]
