@@ -661,5 +661,31 @@
     "body": "global leader. The president made the remarks at a meeting with Korean residents in San Francisco on the second day of his two-day visit aimed at promoting AI investment and cooperation between global tech giants and Korea. \"Just as humanity's discovery of fire ushered in new history, a new era is coming in which we cannot live without AI,\" the president said.…",
     "url": "https://www.koreatimes.co.kr/southkorea/politics/20260726/lee-says-emergence-of-ai-era-offers-korea-new-opportunity?utm_source=rss",
     "date": "2026年7月25日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "date": "2026年7月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "SK hynix expected to post record $43.7 bil. in Q2 operating profit: report",
+    "summary": "SK hynix is expected to post an all-time high operating profit of 64.1 trillion won ($43.7 billion) in the second quarter, driven by its leadership in the high bandwidth memory (HBM) market amid an…",
+    "body": "artificial intelligence (AI)-led semiconductor supercycle, a report showed Sunday. A consensus estimate compiled by Yonhap Infomax from forecasts from 14 local brokerages showed SK hynix is expected to post 84.1 trillion won in sales and 64.1 trillion won in operating profit for the April-June period.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260726/sk-hynix-expected-to-post-record-437-bil-in-q2-operating-profit-report?utm_source=rss",
+    "date": "2026年7月26日"
   }
 ]
