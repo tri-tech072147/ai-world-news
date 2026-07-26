@@ -726,5 +726,57 @@
     "body": "The latest talks come after the United States resumed attacks on Iran in an effort to end Tehran's control of the strait, following a June memorandum of understanding aimed at ending the war that had briefly eased tensions.…",
     "url": "https://www.koreatimes.co.kr/world/20260726/iran-says-progress-in-oman-talks-on-hormuz-strait-management?utm_source=rss",
     "date": "2026年7月26日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Low profile, high AI ambition: What leaked comments reveal about DeepSeek’s Liang Wenfeng",
+    "summary": "In an era dominated by aggressive tech founders who chase billion-dollar valuations and maximal profits while curating loud public profiles, Liang Wenfeng stands out for his insistence on staying in…",
+    "body": "the background. With only a couple of photographs of him circulating online, the founder of Chinese artificial intelligence start-up DeepSeek and quantitative hedge fund High-Flyer Quant has long been a reclusive figure. But last week, a leaked transcript of a closed-door meeting with potential...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3361731/low-profile-high-ai-ambition-what-leaked-comments-reveal-about-deepseeks-liang-wenfeng?utm_source=rss_feed",
+    "date": "2026年7月26日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Corporate America may be using AI to cut jobs, but small businesses are using it to keep them",
+    "summary": "Reports of wide-scale replacement of workers by AI are overblown. Small businesses use it to help workersI recently met the owner of a company that sells windows and doors.…",
+    "body": "He told me he invested about $10,000 in an AI application that is used by his salespeople in his showroom. The application listens to the conversations between the salesperson and the prospective customer and then automatically creates a quote for the salesperson to review and send.“It allows my salespeople to talk to more customers and spend less time doing paperwork,” he said.…",
+    "url": "https://www.theguardian.com/business/2026/jul/26/small-businesses-ai",
+    "date": "2026年7月26日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: Claude Code in der Praxis – eigenen KI-Chat-Agenten in fünf Sessions entwickeln",
+    "summary": "Claude Code produktiv einsetzen und durch agentische Entwicklung mit Mastra, Tool Calls, MCP, Frontend und AG-UI-Protokoll zum eigenen Chat-Agenten.",
+    "body": "",
+    "url": "https://www.heise.de/news/Claude-Code-in-der-Praxis-eigenen-KI-Chat-Agenten-in-fuenf-Sessions-entwickeln-11353330.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "LIG D&A's Korean War veterans tribute exhibition draws 30,000 visitors",
+    "summary": "A photo exhibition paying tribute to Korean War veterans held by LIG Defense & Aerospace (LIG D A) to mark its 50th anniversary drew 30,000 visitors during its five-week run at the War Memorial of…",
+    "body": "Korea, which concluded on Sunday, the company said. The exhibition, titled \"LIG D A 50th Anniversary Photographic Tribute to Korean War Veterans,\" was originally scheduled to run until July 12, but was extended for two weeks following strong public response.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260726/lig-das-korean-war-veterans-tribute-exhibition-draws-30000-visitors?utm_source=rss",
+    "date": "2026年7月26日"
   }
 ]
