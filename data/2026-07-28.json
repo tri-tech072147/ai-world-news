@@ -739,5 +739,31 @@
     "body": "",
     "url": "https://www.heise.de/news/iOS-26-6-macOS-26-6-und-mehr-Apple-stellt-neue-Betriebssysteme-bereit-11379483.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年7月27日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "date": "2026年7月27日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Improved Voice Mode Makes Working With Claude Easier",
+    "summary": "Voice mode now works with a selection of Claude models.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/improved-voice-mode-makes-working-claude-easier",
+    "date": "2026年7月27日"
   }
 ]
