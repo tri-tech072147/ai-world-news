@@ -622,5 +622,44 @@
     "body": "",
     "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
     "date": "2026年7月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US, Iran pause their attacks after days of escalation",
+    "summary": "CAIRO — The United States and Iran paused their attacks for a second straight day Sunday, as efforts continued to bring them back to negotiations on an interim ceasefire deal largely undermined by…",
+    "body": "recent exchanges of fire. It was not clear why the U.S. has paused after targeting Iranian coastal areas and infrastructure in a nearly two-week escalation sparked by Iran’s firing at ships trying to transit the Strait of Hormuz. The Pentagon did not respond to questions. U.S. President Donald Trump is “giving talks some space. He’s giving it a little bit of room,\" Mike Waltz, the U.S.…",
+    "url": "https://www.koreatimes.co.kr/world/20260727/us-iran-pause-their-attacks-after-days-of-escalation?utm_source=rss",
+    "date": "2026年7月27日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「iPhone高騰」はこれからも続く？ 中国CXMTに近づくApple、メモリ競合へのけん制が不発に終わりそうなワケ【後編】",
+    "summary": "前編「Appleはもう『メモリのお得意様』ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま」では、米Appleによる中華メモリメーカー・CXMTへの接近と、その対応にはあまり意味がないのでは？ という疑問を述べた。後編では筆者がそう考える背景をご紹介したい。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/articles/2607/27/news021.html",
+    "date": "2026年7月26日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "法人被害45億円、元警視庁が解説「会話もできるAI詐欺」の手口と対策",
+    "summary": "生成AIによる音声合成の進化で、経営者や上司の声が数秒で複製される時代が訪れた。元警視庁職員やAI音声開発企業のCEOなど3人の専門家が、実演で脅威を体感させながら、最新のボイスフィッシングの手口と、組織が今すぐ取るべき備えを示した。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2607/27/news029.html",
+    "date": "2026年7月26日"
   }
 ]
