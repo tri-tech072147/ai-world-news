@@ -713,5 +713,31 @@
     "body": "Science and Technology (KAIST) and Texas Tech University. The university said researchers from the three institutions worked together to develop an AI-based passenger movement estimation system to help prevent subway door entrapment accidents. The system is designed to predict passenger movements using CCTV footage by detecting passengers and classifying their movement types.…",
     "url": "https://www.koreatimes.co.kr/southkorea/education/20260728/sungkyunkwan-university-researchers-develop-system-to-prevent-subway-door-accidents-through-collaboration?utm_source=rss",
     "date": "2026年7月27日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "date": "2026年7月27日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "iOS 26.6, macOS 26.6 und mehr: Apple stellt neue Betriebssysteme bereit",
+    "summary": "Apple liefert weitere Varianten seiner 26er Betriebssysteme aus. Es gibt Bugfixes und sicherheitsrelevante Neuerungen. Zudem wird auf Siri AI vorbereitet.",
+    "body": "",
+    "url": "https://www.heise.de/news/iOS-26-6-macOS-26-6-und-mehr-Apple-stellt-neue-Betriebssysteme-bereit-11379483.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月27日"
   }
 ]
