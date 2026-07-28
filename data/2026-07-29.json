@@ -648,5 +648,31 @@
     "body": "responsible for developing international cybersecurity standards for uncrewed aircraft systems (UAS). The university said Monday that Lee’s appointment was officially confirmed at the ISO/TC 20/SC 16 plenary meeting held in Brussels, Belgium, July 20-24. ISO/TC 20/SC 16 is an ISO technical subcommittee responsible for developing international standards for UAS.…",
     "url": "https://www.koreatimes.co.kr/southkorea/education/20260729/sejong-university-professor-appointed-inaugural-convener-of-iso-working-group?utm_source=rss",
     "date": "2026年7月28日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Sam Altman is ready to decelerate",
+    "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "date": "2026年7月28日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Samsung Agrees to Chip Deal With Broadcom",
+    "summary": "The agreement marks another significant step for the South Korean AI sector.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/samsung-agrees-chip-deal-with-broadcom",
+    "date": "2026年7月28日"
   }
 ]
