@@ -609,5 +609,44 @@
     "body": "",
     "url": "https://aibusiness.com/cybersecurity/what-openai-hugging-face-hack-means-enterprises",
     "date": "2026年7月23日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Labour MP suing Elon Musk’s xAI says chatbot added own fake abusive content",
+    "summary": "Jess Asato’s particulars of claim states Grok added explicit sexual material users had not asked forA Labour MP who is taking legal action against Elon Musk’s xAI company over fake sexualised images…",
+    "body": "created by Grok says the AI tool was instructed to operate with “no restrictions on adult sexual content or offensive content”.Jess Asato’s lawyers published her particulars of claim in the case on Tuesday, which included details of publicly posted instructions that the claim says illustrate how Grok was trained to generate harmful sexualised content. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/jul/28/jess-asato-labour-mp-sue-elon-musk-xai-chatbot-abusive-content",
+    "date": "2026年7月28日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Apple becomes second ever $5tn company as investors flee AI stocks",
+    "summary": "Share price rally driven by strong product demand as well as decision to sit out AI spending race, amid wider tech sell-offApple has become only the second company to pass the $5tn valuation mark, as…",
+    "body": "it benefited from investors fleeing AI and semiconductor stocks amid a wider tech sell-off.The iPhone maker’s shares hit a session high ⁠of $342.89 on Tuesday, giving it a market ⁠capitalisation of $5.04tn (£3.78tn), then eased back to 0.8% up at $339.68 – around the $4.99tn mark. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
+    "date": "2026年7月28日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Sejong University professor appointed inaugural convener of ISO working group",
+    "summary": "Lee Jong-hyouk, a professor of information security at Sejong University, has been appointed as the inaugural convener of an International Organization for Standardization (ISO) working group…",
+    "body": "responsible for developing international cybersecurity standards for uncrewed aircraft systems (UAS). The university said Monday that Lee’s appointment was officially confirmed at the ISO/TC 20/SC 16 plenary meeting held in Brussels, Belgium, July 20-24. ISO/TC 20/SC 16 is an ISO technical subcommittee responsible for developing international standards for UAS.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/education/20260729/sejong-university-professor-appointed-inaugural-convener-of-iso-working-group?utm_source=rss",
+    "date": "2026年7月28日"
   }
 ]
