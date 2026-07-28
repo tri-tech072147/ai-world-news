@@ -947,5 +947,70 @@
     "body": "It s a roadmap that card networks, fintechs, and protocol foundations have already started shipping. And it forces a hard question on every founder and bank [ ] The post How the next-generation neobank should be built for the agentic economy? appeared first on e27.",
     "url": "https://e27.co/how-the-next-generation-neobank-should-be-built-for-the-agentic-economy-20260727/",
     "date": "2026年7月28日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "date": "2026年7月28日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Dienstag: Amazon Leo mit D2D-Service, Ausweiszwang für Soziale Netzwerke",
+    "summary": "Direktvernetzung mit Amazon Leo + Altersverifikation in Österreich + Allianz gegen China + Nvidia versammelt Tech-Riesen + BWM baut Elektrofahrzeuge in Mexiko",
+    "body": "",
+    "url": "https://www.heise.de/news/Dienstag-Amazon-Leo-mit-D2D-Service-Ausweiszwang-fuer-Soziale-Netzwerke-11379652.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月28日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「Claudeより4割安い」 M365のExcel/メール操作を丸投げる「Copilot Cowork」“従量課金”の落とし穴",
+    "summary": "Microsoftは、AIアシスタント「Microsoft 365 Copilot」の新機能「Copilot Cowork」の一般提供を全世界で開始した。業務効率化に向けた実証が進んでおり、今後企業で本格的に活用されるかどうか注目されている。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/28/news053.html",
+    "date": "2026年7月28日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AnthropicのCEO、オープンなAIモデルに対する見解を明示 NVIDIAなど“共同声明”との違いは？",
+    "summary": "米Anthropicのダリオ・アモデイCEOは、オープンウェイトのAIモデルに対して「禁止を提唱したことは一度もない」との声明を出した。一方、AI向けのチップの輸出などに関し、一定の制限を設けるべきとも主張している。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2607/28/2000000227/",
+    "date": "2026年7月28日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "U.S. Big Tech companies call for American open-weight models as Anthropic CEO disagrees over cyber-security risks",
+    "summary": "The letter—signed by companies including Microsoft, Nvidia, OpenAI, SpaceX, Google, IBM, Palantir, and Meta—stressed the importance of American AI leadership",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/us-big-tech-companies-call-for-american-open-weight-models-as-anthropic-ceo-disagrees-over-cyber-security-risks/article71272078.ece",
+    "date": "2026年7月28日"
   }
 ]
