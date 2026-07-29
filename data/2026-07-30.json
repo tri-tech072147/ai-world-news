@@ -635,5 +635,18 @@
     "body": "",
     "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
     "date": "2026年7月29日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+    "date": "2026年7月29日"
   }
 ]
