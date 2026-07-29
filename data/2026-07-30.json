@@ -596,5 +596,31 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/improved-voice-mode-makes-working-claude-easier",
     "date": "2026年7月27日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Neue Befugnisse: Bundesnetzagentur übernimmt KI-Aufsicht in Deutschland",
+    "summary": "Ein neues KI-Gesetz tritt in Kraft: Die Regulierungsbehörde ist damit für Marktüberwachung, Beschwerden und Innovationsförderung im Sinne des AI Acts zuständig.",
+    "body": "",
+    "url": "https://www.heise.de/news/Neue-Befugnisse-Bundesnetzagentur-uebernimmt-KI-Aufsicht-in-Deutschland-11383935.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月29日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "OpenAI says rogue AI agent attack hit other companies",
+    "summary": "In an update late on July 28, 2026 to a blog post detailing its probe into the incident, OpenAI said its AI agent affected these “publicly-available services,” though it did not name the companies",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology//article71282580.ece",
+    "date": "2026年7月29日"
   }
 ]
