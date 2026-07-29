@@ -622,5 +622,18 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology//article71282580.ece",
     "date": "2026年7月29日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "date": "2026年7月29日"
   }
 ]
