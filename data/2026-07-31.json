@@ -674,5 +674,83 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/chinese-startups-dominate-humanoid-patent-rankings",
     "date": "2026年7月30日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and…",
+    "body": "AI tools.",
+    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "date": "2026年7月30日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "date": "2026年7月30日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Trump considering AI controls after OpenAI hacking incidents",
+    "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年7月30日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Zoox darf in den USA Robotaxis kommerziell betreiben",
+    "summary": "Zoox darf als dritter Anbieter in den USA kommerziell autonome Taxis betreiben. Es ist der erste Anbieter mit echten Robotaxis.",
+    "body": "",
+    "url": "https://www.heise.de/news/Zoox-darf-in-den-USA-Robotaxis-kommerziell-betreiben-11387581.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月30日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Top 10: Der beste Saugroboter im Test – Roborock vor Dreame, Ecovacs und Mova",
+    "summary": "Saugroboter mit Wischfunktion erleichtern den Alltag. Wir zeigen die besten Modelle mit Absaug- oder Reinigungsstation.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-saugroboter-im-test-roborock-vor-dreame-ecovacs-und-mova/2dxtvlp?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年7月30日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
+    "summary": "The partnership aims to give users more choice when building AI agents and automating business processes.",
+    "body": "",
+    "url": "https://aibusiness.com/agentic-ai/oracle-brings-google-gemini-models-enterprise-customers",
+    "date": "2026年7月30日"
   }
 ]
