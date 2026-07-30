@@ -778,5 +778,83 @@
     "body": "",
     "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
     "date": "2026年7月30日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "date": "2026年7月30日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「アイデア出しを抜いた」 生成AIなしで最も不安になる業務といえば？",
+    "summary": "サイバーセキュリティクラウドが実施した調査で、上司よりも生成AIを参考にした経験を持つ人が半数に上るなど、職場でのAI依存が進んでいる実態が明らかになった。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2607/31/news055.html",
+    "date": "2026年7月30日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "日立が「SI全工程」をAI化 仕様確定で「最大240倍」効率化のワケ",
+    "summary": "日立は、エンジニア不足やシステム複雑化に対応するため、SIの全工程にAIを全面適用する「Agentic AI Integration…",
+    "body": "Platform」を開発した。最先端AIと独自ノウハウを融合し、社内検証では画面仕様確定で最大240倍などの効率化を実証。顧客固有の暗黙知を蓄積しながら自律進化する仕組みを構築した。2027年度に工程全体で30％の生産性向上を目指し、金融や社会インフラなど大規模レガシーシステムの刷新を推進する。",
+    "url": "https://www.itmedia.co.jp/business/articles/2607/31/news049.html",
+    "date": "2026年7月30日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "悪用厳禁、「ChatGPT」の会話履歴をごっそりとぶっこ抜く“AIハック”：890th Lap",
+    "summary": "「ChatGPT」との会話履歴をPCへ簡単に保存できるとして、ある方法が注目を集めている。一方で、利用規約や情報管理の面で注意すべき点もある。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2607/31/news040.html",
+    "date": "2026年7月30日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "U.S. mulling $100,000 fee for foreign students hoping to work after graduation: WSJ",
+    "summary": "WASHINGTON — U.S. President Donald Trump's administration is considering imposing a $100,000 fee on foreign students seeking to work in the United States after graduating from American universities,…",
+    "body": "a news report said Thursday. The Wall Street Journal reported, citing people familiar with the matter, that the administration is weighing the idea of attaching the fee to an \"optional practical training (OPT)\" program that allows foreign university graduates to work in the U.S. for one to three years on student visas. The proposed measure, if implemented, could affect U.S.…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20260731/us-mulling-100000-fee-for-foreign-students-hoping-to-work-after-graduation-wsj?utm_source=rss",
+    "date": "2026年7月30日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "S. Korean envoy asks new US Amb. Steel to help advance alliance's 'new leap'",
+    "summary": "WASHINGTON — South Korea's Ambassador to the United States Kang Kyung-wha called on new U.S. Ambassador to Seoul Michelle Steel to play an important role in advancing the bilateral alliance's \"new…",
+    "body": "leap\" during a meeting last week, her office said Thursday. Kang and Steel met on July 21 before Steel's departure for Seoul to assume the ambassadorial post. Steel arrived in Seoul on Thursday (Korea time) as the two countries face a series of joint tasks, including implementing last year's bilateral agreements on security, trade and investment.…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20260731/s-korean-envoy-asks-new-us-amb-steel-to-help-advance-alliances-new-leap?utm_source=rss",
+    "date": "2026年7月30日"
   }
 ]
