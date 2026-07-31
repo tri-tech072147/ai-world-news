@@ -765,5 +765,57 @@
     "body": "",
     "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
     "date": "2026年7月31日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "date": "2026年7月31日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+    "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年7月31日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "High-speed rail packages offer hassle-free summer travel in Korea",
+    "summary": "During the summer holidays, travelers map out plans to recharge, but the prospect of repeated long-distance driving and traffic congestion often deters them.…",
+    "body": "Train travel is gaining attention as an alternative that offers a full vacation experience while avoiding these burdens. The rail system is evolving beyond a simple means of transportation into a comprehensive travel platform. Korea Railroad Corp. (KORAIL) introduced three-day, two-night premium train travel packages this summer.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260801/high-speed-rail-packages-offer-hassle-free-summer-travel-in-korea?utm_source=rss",
+    "date": "2026年7月31日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "When in ROAM: Health care made easier for foreigners in Korea",
+    "summary": "A usual trip to Korea is often filled with palace visits, Korean street food and the occasional cafe-hopping. But nowadays, typical tourist itineraries are a little different.…",
+    "body": "With K-beauty in the global spotlight, stopping by a medical clinic has become a must for many visitors. Known for cutting-edge health care technology, Korea is now one of the leading destinations for medical tourism. According to the Ministry of Health and Welfare, 2.01 million foreign patients visited Korea last year, the highest since the country began compiling relevant data in 2009.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/20260801/when-in-roam-health-care-made-easier-for-foreigners-in-korea?utm_source=rss",
+    "date": "2026年7月31日"
   }
 ]
