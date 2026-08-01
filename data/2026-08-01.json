@@ -934,5 +934,18 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/google-takes-down-ai-image-generator-tied-to-google-earth-after-satellite-photo-deepfakes/article71293885.ece",
     "date": "2026年8月1日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "China’s tech advances are causing chaos from Silicon Valley to the White House",
+    "summary": "New AI models, advanced robots and specialty computer chips are unsettling markets and the US tech industryOver the past month, a series of advancements in China’s artificial intelligence, chip…",
+    "body": "manufacturing and robotics technologies have rattled financial markets, caused divisions among US tech moguls and left the Trump administration scrambling to respond.Silicon Valley has long pointed to China’s tech industry as a competitive threat and used its growth as rationale for why US firms should not face regulatory oversight that could slow them down.…",
+    "url": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
+    "date": "2026年8月1日"
   }
 ]
