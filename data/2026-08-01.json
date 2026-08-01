@@ -882,5 +882,57 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/what-pacing-the-frontier-reveals-about-the-us-ai-industry-explained/article71293538.ece",
     "date": "2026年8月1日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "What a visit to China’s AI labs reveals about the battle for global soft power",
+    "summary": "Inside the exhibition hall of a Shanghai-based artificial intelligence research institute, an ink-wash map covered an entire wall, immediately drawing your attention.…",
+    "body": "It was a cartography of AI: chipmakers were rendered as mountains on islands and algorithms as jagged mountain ranges, while questions of privacy, fairness and machine consciousness drifted at the edges like uncharted islands. Foreign guests and I leaned in, tracing the brushstrokes. “Why is Huawei’s chip placed right at the...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3362548/what-visit-chinas-ai-labs-reveals-about-battle-global-soft-power?utm_source=rss_feed",
+    "date": "2026年8月1日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "If you think kids will respect a robot teacher, you have never met a kid | Dave Schilling",
+    "summary": "A New York school district has paused plans to bring an android into the classroom. Is this our educational future?What’s more harrowing than sending your child to school? Maybe getting stuck on a…",
+    "body": "city bus that can’t drop below 55 miles per hour or it will explode, but that’s about it. Once your kid hits school age, you have to decide (if you’re lucky) between public and private education, vet the teachers, and neurotically worry about whether they’re learning enough and are socializing effectively.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/01/new-york-salamanca-school-robot-teacher-plan",
+    "date": "2026年8月1日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Developer Häppchen: Binutils, OpenJDK und kubara",
+    "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Binutils, OpenJDK, IntelliJ IDEA, ESLint, SystemDS, glibc, kubara, KotlinLLM und PSF.",
+    "body": "",
+    "url": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LLM-SimCity-Vibes-und-gestopfte-Luecken-bei-glibc-11381748.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月1日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Google takes down AI image generator tied to Google Earth after satellite photo deepfakes",
+    "summary": "Google said it was rolling back the AI image generation feature in Google Earth while working on implementing stronger guardrails",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/google-takes-down-ai-image-generator-tied-to-google-earth-after-satellite-photo-deepfakes/article71293885.ece",
+    "date": "2026年8月1日"
   }
 ]
