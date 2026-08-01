@@ -674,5 +674,44 @@
     "body": "",
     "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-fuer-kleine-flaechen-gut-guenstig-getestet/dtx14fd?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月1日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "date": "2026年8月1日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "date": "2026年8月1日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI",
+    "summary": "Secondhand booksellers believe they may have been caught up in the AI supply chain that sees old books scanned then destroyed“Sometimes books tell you more than the content,” says Tim White, as he…",
+    "body": "lines up carefully dust-jacketed books and pamphlets in plastic sleeves on temporary shelves in Melbourne University’s Wilson Hall.He’s preparing his stall for this weekend’s Melbourne Rare Book Fair. For people like White, who runs independent bookshop Books for Cooks, the book as a physical object is just as important as what’s inside it. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
+    "date": "2026年8月1日"
   }
 ]
