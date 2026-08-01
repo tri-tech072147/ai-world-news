@@ -817,5 +817,57 @@
     "body": "With K-beauty in the global spotlight, stopping by a medical clinic has become a must for many visitors. Known for cutting-edge health care technology, Korea is now one of the leading destinations for medical tourism. According to the Ministry of Health and Welfare, 2.01 million foreign patients visited Korea last year, the highest since the country began compiling relevant data in 2009.…",
     "url": "https://www.koreatimes.co.kr/lifestyle/20260801/when-in-roam-health-care-made-easier-for-foreigners-in-korea?utm_source=rss",
     "date": "2026年7月31日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "OpenAI finds evidence other AI agents escaped containment as it widens hacking probe",
+    "summary": "The discovery of additional rogue behaviour at OpenAI, ‌even if ⁠limited in nature, could feed growing appetite for regulation coming out of the White House and elsewhere",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-finds-evidence-other-ai-agents-escaped-containment-as-it-widens-hacking-probe/article71293526.ece",
+    "date": "2026年8月1日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Chinese military researchers tap U.S. AI models to train defence systems",
+    "summary": "As Chinese AI models close the gap with their U.S. counterparts, military researchers are also examining distillation as a potential security risk",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/chinese-military-researchers-tap-us-ai-models-to-train-defence-systems/article71293484.ece",
+    "date": "2026年8月1日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "'Spider-Man 4' becomes fastest 2026 film to top 2 mil. admissions in S. Korea",
+    "summary": "The latest Spider-Man film has become the fastest film of 2026 to attract 2 million moviegoers in South Korea, reaching the milestone just three days after its release, the film's local distributor…",
+    "body": "said Saturday. \"Spider-Man: Brand New Day,\" the fourth installment starring Tom Holland, hit the 2 million mark Saturday morning, its local distributor, Sony Pictures, said. The achievement beat the previous record for the year set by Na Hong-jin's sci-fi thriller \"Hope,\" which took four days to reach the same threshold after its release on July 15.…",
+    "url": "https://www.koreatimes.co.kr/entertainment/films/20260801/spider-man-4-becomes-fastest-2026-film-to-top-2-mil-admissions-in-s-korea?utm_source=rss",
+    "date": "2026年8月1日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee says S. Korea, Argentina will usher in new era of cooperation",
+    "summary": "BUENOS AIRES — President Lee Jae Myung said Friday that South Korea and Argentina will usher in a new era of cooperation, saying closer bilateral collaboration is strategically more important than…",
+    "body": "ever. Lee made the remarks at a meeting with members of the South Korean community in Argentina, the final stop on his three-nation South America tour aimed at strengthening cooperation on critical mineral supply chains and others. \"I am confident that a new era of cooperation between Argentina and South Korea will fully unfold,\" the president said.…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20260801/lee-says-s-korea-argentina-will-usher-in-new-era-of-cooperation?utm_source=rss",
+    "date": "2026年8月1日"
   }
 ]
