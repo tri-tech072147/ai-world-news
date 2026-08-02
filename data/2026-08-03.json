@@ -544,5 +544,18 @@
     "body": "",
     "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
     "date": "2026年8月2日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "As AI glasses get harder to detect, universities scramble to update exam rules",
+    "summary": "Artificial intelligence (AI) glasses are emerging as a new tool for academic dishonesty, with a string of recent cases exposing their potential for misuse, putting the education sector under growing…",
+    "body": "pressure to respond. The Ministry of Education recently instructed metropolitan and provincial education offices to classify AI glasses as prohibited items in examination rooms and closely monitor examinees for suspicious behavior, according to Yonhap News Agency, Sunday. The directive follows a series of cases of cheating involving the devices.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20260803/as-ai-glasses-get-harder-to-detect-universities-scramble-to-update-exam-rules?utm_source=rss",
+    "date": "2026年8月2日"
   }
 ]
