@@ -531,5 +531,18 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/fcc-blocks-chinese-humanoid-robot-imports-security-risks",
     "date": "2026年7月29日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Sam Altman and AI’s decel debate",
+    "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "date": "2026年8月2日"
   }
 ]
