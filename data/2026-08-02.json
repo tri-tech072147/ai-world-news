@@ -752,5 +752,31 @@
     "body": "crisis, market data showed Sunday. A total of 1,859 stocks had closed lower as of Friday than at the end of June, according to data from the Korea Exchange (KRX). They accounted for some 70 percent of a total of 2,645 companies listed on the benchmark Korea Composite Stock Price Index (KOSPI) and the tech-heavy Korea Securities Dealers Automated Quotations (KOSDAQ).…",
     "url": "https://www.koreatimes.co.kr/economy/20260802/7-in-10-stocks-fall-in-july-as-stock-market-posts-steepest-decline-since-2008?utm_source=rss",
     "date": "2026年8月2日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "First impressions count as Chinese buyers open their homes to UBTech’s consumer humanoids",
+    "summary": "When 39-year-old Beijing investor Song shelled out 159,800 yuan (US$23,680) for a companion robot, he knew it would not be cooking meals or scrubbing floors.…",
+    "body": "For him, becoming one of China’s first owners of a consumer humanoid was more about embracing the cutting edge. “The happiest part is often the waiting,” Song said of his decision to buy the female version of the U1 Pro, made by Shenzhen-based UBTech Robotics. For years, humanoid robots have been confined to factory floors and structured...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3362557/first-impressions-count-chinese-buyers-open-their-homes-ubtechs-consumer-humanoids?utm_source=rss_feed",
+    "date": "2026年8月2日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Immigrants can vote well because they care",
+    "summary": "Readers of The Korea Times, did you vote in the June 3 local elections as a foreign resident? For the past two decades, foreigners have been allowed to vote in local elections if they have held…",
+    "body": "permanent resident status for more than three years — a rare privilege anywhere in the world, I hear. Welcome to Korea. A Canadian friend of mine told me how it actually works: A couple of weeks before the Election Day, he received a mail package with all the necessary information about voting. The instructions were written in English and several other languages.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260802/immigrants-can-vote-well-because-they-care?utm_source=rss",
+    "date": "2026年8月2日"
   }
 ]
