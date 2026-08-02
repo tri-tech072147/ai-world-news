@@ -778,5 +778,70 @@
     "body": "permanent resident status for more than three years — a rare privilege anywhere in the world, I hear. Welcome to Korea. A Canadian friend of mine told me how it actually works: A couple of weeks before the Election Day, he received a mail package with all the necessary information about voting. The instructions were written in English and several other languages.…",
     "url": "https://www.koreatimes.co.kr/opinion/20260802/immigrants-can-vote-well-because-they-care?utm_source=rss",
     "date": "2026年8月2日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Stock market turmoil sheds stark light on the opaque AI economy",
+    "summary": "Investors scramble to make sense of a shock Chinese challenge to the dominance of western chipmakersEven for the rollercoaster world of AI, last week was particularly volatile as investors scrambled…",
+    "body": "to keep up with developments that threatened the dominance of the largest western chipmakers.It began with a double whammy. On Monday, the Chinese memory chipmaker CXMT floated on the Shanghai stock market, soaring by 466% in value to 3.3tn yuan (£365bn). Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
+    "date": "2026年8月2日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | Desinfec’t 2026: Ein Blick unter die Haube",
+    "summary": "Wir haben unser Live-System zur Schädlingsjagd auf Windows-PCs erneuert. Dieser Artikel blickt technisch auf die Neuerungen und die Auswirkungen für Nutzer.",
+    "body": "",
+    "url": "https://www.heise.de/ratgeber/Desinfec-t-2026-Ein-Blick-unter-die-Haube-11323044.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年8月2日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
+    "summary": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+    "body": "",
+    "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-11366204.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月2日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee returns from overseas trip with economic security gains, domestic tests ahead",
+    "summary": "President Lee Jae Myung returns home Monday after wrapping up the longest overseas trip of his presidency, an 11-day tour encompassing Germany, the United States and three South American countries…",
+    "body": "that focused on securing artificial intelligence (AI) partnerships and broadening supply chains for critical minerals and energy. The trip offered the clearest picture yet of Lee’s economic diplomacy. Rather than centering on traditional security issues, he sought to strengthen Korea’s position in the global AI race while expanding access to strategic resources needed for semiconductors,…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260802/lee-returns-from-overseas-trip-with-economic-security-gains-domestic-tests-ahead?utm_source=rss",
+    "date": "2026年8月2日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee arrives in Frankfurt for meeting with members of Korean community",
+    "summary": "President Lee Jae Myung arrived in Frankfurt on Sunday, where he was scheduled to meet with members of the Korean community in Germany before returning to Seoul.…",
+    "body": "Frankfurt is the final stop in his five-nation tour, which began July 24 in San Francisco, where he met with the heads of global tech companies to promote Korea's vision to become a global hub for artificial intelligence (AI) semiconductors.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260802/lee-arrives-in-frankfurt-for-meeting-with-members-of-korean-community?utm_source=rss",
+    "date": "2026年8月2日"
   }
 ]
