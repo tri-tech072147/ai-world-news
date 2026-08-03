@@ -479,5 +479,44 @@
     "body": "",
     "url": "https://aibusiness.com/data-centers/eu-pledges-11-5b-seven-ai-gigafactories",
     "date": "2026年7月31日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Congress’s favorite AI tool? ChatGPT",
+    "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent…",
+    "body": "communications.",
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "date": "2026年8月3日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Sophia Space und Caltech entwickeln modulare Weltraumrechenzentren",
+    "summary": "Rechenzentren im Weltraum müssen anders aufgebaut sein als auf der Erde. Das Start-up Sophia Space hat ein Konzept dafür entwickelt.",
+    "body": "",
+    "url": "https://www.heise.de/news/Sophia-Space-und-Caltech-entwickeln-modulare-Weltraumrechenzentren-11395796.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月3日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "OpenAI senkt Tokenpreise auf Chinaniveau",
+    "summary": "OpenAI senkt die Tokenpreise für zwei seiner drei Modelle aus der GPT 5.6-Reihe. Sie rangieren damit auf Preisniveaus wie die chinesische Konkurrenz.",
+    "body": "",
+    "url": "https://www.heise.de/news/GPT-5-6-OpenAI-senkt-Preise-fuer-Luna-und-Terra-11395656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月3日"
   }
 ]
