@@ -648,5 +648,70 @@
     "body": "The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic s Claude Code in three others. Worth flagging upfront: this is a vendor publishing a survey of its own [ ] The post OpenAI report links coding agents to faster science software builds appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
     "date": "2026年7月29日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Erste Fahrt im Audi A2 e-tron: Retro-Design für moderne Elektroauto-Technik",
+    "summary": "Audi lässt den A2 als Elektroauto wiederaufleben. Eine Fahrt in einem Vorserien-A2 e-tron wirft die Frage auf, ob der A2 als E-Auto den hohen Preis wert ist.",
+    "body": "",
+    "url": "https://www.heise.de/tests/Erste-Fahrt-im-Audi-A2-e-tron-Retro-Design-fuer-moderne-Elektroauto-Technik-11395600.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月3日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AI活用を「個人の効率化」で終わらせるな セールスフォース流「4つの組織改革術」",
+    "summary": "生成AIを全社活用できている企業が11％にとどまる中、セールスフォース・ジャパンの社内では300ものAIエージェントが自律稼働している。同社はなぜ「個人の業務効率化」で止めず、全社変革（AX）へ導けるのか。管理不能な「野良エージェント」を防ぐ線引きや、組織と人員を再構築する「4R」のフレームワーク、「人とAIの両方を管理する」マネジメント像まで、変革の極意を聞く。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/04/news027.html",
+    "date": "2026年8月3日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「融資」現場にAIの足音、資金調達どう変わる？ カネを借りられる企業の条件、専修大教授に聞く",
+    "summary": "融資の審査にAIを使う動きがある。資金を調達する企業にとっての「審査が遅い」などの課題を解決できのか。逆に、借りる側に変化はあるのか。専修大学の尾木研三教授に聞いた。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/04/news005.html",
+    "date": "2026年8月3日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「大きな投資計画が次々に。久しぶりだ」――強く豊かな日本投資枠、経済成長かなうか？ 片山大臣が語る狙い",
+    "summary": "政府は、2027年度予算の概算要求において、成長投資枠は「予算の上限額を設けない」とした。その狙いと意気込みを片山さつき財務大臣が語った。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/04/news024.html",
+    "date": "2026年8月3日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korean investors flock to leveraged US ETFs, take another hit",
+    "summary": "A retail investor surnamed Min knew the risks before pressing the buy button. But the urge to make up for the gains he had missed overwhelmed his better judgment.…",
+    "body": "In early July, the 29-year-old purchased 5 million won ($3,496.26) worth of Direxion Daily Semiconductor Bull 3X Shares, an exchange-traded fund (ETF) known by its ticker, SOXL. The fund seeks to deliver three times the daily return of the Philadelphia Semiconductor Index. When he checked his account the next morning, his position was already down more than 10 percent.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260804/korean-investors-flock-to-leveraged-us-etfs-take-another-hit?utm_source=rss",
+    "date": "2026年8月3日"
   }
 ]
