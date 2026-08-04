@@ -505,5 +505,18 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/openai-cuts-model-prices-amid-enterprises-concerns-ai-spend",
     "date": "2026年7月31日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Trump administration reportedly drafting ban on Chinese datacenter components",
+    "summary": "Trump’s FCC is developing a measure to bar US imports of new models of Chinese datacenter devices, sources sayThe Trump administration is reportedly drafting a ban on US imports of new models of…",
+    "body": "Chinese datacenter components, in the latest sign US authorities are scrambling to respond to the rapid development of AI technology in China.Four people familiar with the matter told Reuters that the Federal Communications Commission (FCC), which oversees the US ⁠telecommunications industry, is developing a measure to bar imports of new ​Chinese optical transceivers, which allow data to travel…",
+    "url": "https://www.theguardian.com/technology/2026/aug/04/fcc-ban-china-datacenter-devices",
+    "date": "2026年8月4日"
   }
 ]
