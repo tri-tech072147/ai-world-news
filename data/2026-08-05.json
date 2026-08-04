@@ -583,5 +583,31 @@
     "body": "Although Palantir was not immune to the AI jitters that caused industry-wide drops in share prices earlier this year, the AI and analytics company reported that its overall revenue grew 93% year over year to $1.94bn. That’s well over the $1.8bn Wall Street expected Palantir to bring in for the second quarter.The glowing financials sparked a 10% surge in share prices in the immediate aftermath.…",
     "url": "https://www.theguardian.com/us-news/2026/aug/03/palantir-second-quarter-earnings",
     "date": "2026年8月3日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "date": "2026年8月4日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "US stock market hits record highs as AI profits pile and oil prices ease",
+    "summary": "S P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months agoThe US stock market rallied to records on Tuesday as profits kept piling up for…",
+    "body": "companies and as oil prices eased.The S P 500 shot up 1.8%, and the main measure of Wall Street’s health topped its prior all-time high set a couple months ago. The Dow Jones industrial average added 907 points, or 1.7%, to its own record set the day before, while the Nasdaq composite jumped 2.6%. Continue reading...",
+    "url": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
+    "date": "2026年8月4日"
   }
 ]
