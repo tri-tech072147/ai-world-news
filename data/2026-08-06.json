@@ -492,5 +492,70 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/prompt-next-enterprise-ai-controlling-cost-of-scale",
     "date": "2026年7月31日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "summary": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "date": "2026年8月5日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Hark previews its browser use agent for completing tasks",
+    "summary": "Hark claims that its browser use agent is faster and cheaper than competition.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+    "date": "2026年8月5日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Google shakes up AI leadership as DeepMind chief Demis Hassabis shifts role",
+    "summary": "Demis Hassabis becomes chief scientist, relinquishes DeepMind CEO role; Jeff Dean and other key engineers leave to found new startup; moves follow departure of two star researchers to AI rivals",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/google-shakes-up-ai-leadership-as-deepmind-chief-demis-hassabis-shifts-role/article71310807.ece",
+    "date": "2026年8月5日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Anthropic, OpenAI Agents Faked Identities in Security Test",
+    "summary": "The vendors' most advanced AI models attempted to manipulate real people during cybersecurity testing, according to the U.K.'s AI Security Institute.",
+    "body": "",
+    "url": "https://aibusiness.com/cybersecurity/anthropic-openai-agents-faked-identities-security-test",
+    "date": "2026年8月5日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Infrastructure Startup to Build $10B AI Factory in Norway",
+    "summary": "The vendor's fundraising has been unusually successful for a new startup as it joins the rush to build AI compute infrastructure.",
+    "body": "",
+    "url": "https://aibusiness.com/data-centers/infrastructure-startup-build-10-billion-ai-factory-norway",
+    "date": "2026年8月5日"
   }
 ]
