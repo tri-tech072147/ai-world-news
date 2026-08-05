@@ -583,5 +583,31 @@
     "body": "have targeted real people and organisations in the latest safety scare to hit the technology. The UK’s AI Security Institute (AISI) said the incident was unprecedented but could become more common as the technology becomes increasingly capable. Continue reading...",
     "url": "https://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be",
     "date": "2026年8月5日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "date": "2026年8月5日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Google DeepMindが描く「AGIの次」 超知能に至る4つの経路と6つのボトルネック",
+    "summary": "Google DeepMindが、人間並みのAGIが実現した後にAIはどこまで進むのかを整理した論文を公開した。ASI（人工超知能）への4つの経路と6つのボトルネックという枠組みだけを抜き出し、初心者にも分かるように短く読み解く。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/06/news015.html",
+    "date": "2026年8月5日"
   }
 ]
