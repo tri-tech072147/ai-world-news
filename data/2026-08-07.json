@@ -1142,5 +1142,57 @@
     "body": "Enterprises running generative AI tools now have to comply with Article 50, which requires providers and deployers of certain AI systems to tell people when they re interacting with a machine, and to [ ] The post EU AI Act Article 50 transparency rules enter force appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/eu-ai-act-article-50-transparency-rules-enter-force/",
     "date": "2026年8月3日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "date": "2026年8月7日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Update Deep-Dive: Wie Schulen KI-Kompetenz systematisch vermitteln können",
+    "summary": "Das AI Literacy Framework gibt Lehrkräften erstmals konkrete Lernszenarien zur KI-Vermittlung an die Hand – von der Grundschule bis zur Weiterbildung.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-Update-Deep-Dive-Wie-Schulen-KI-Kompetenz-systematisch-vermitteln-koennen-11397738.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月7日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "How AI Is changing Instagram engagement without replacing the human touch",
+    "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system.…",
+    "body": "With over three billion people using it, that’s not a small detail; it s the whole algorithm. But here’s the point: the more AI controls over how you see the content, the more it [ ] The post How AI Is changing Instagram engagement without replacing the human touch appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+    "date": "2026年8月7日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Prompt: Why Better AI Models Aren't Enough",
+    "summary": "This week's developments suggest enterprise AI success increasingly depends on business processes, context, cost management and operational execution, not just model performance.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/prompt-why-better-ai-models-aren-t-enough",
+    "date": "2026年8月7日"
   }
 ]
