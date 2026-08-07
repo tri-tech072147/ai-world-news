@@ -609,5 +609,31 @@
     "body": "Zheng Zeguang rightly celebrates openly released AI models, and the Chinese labs behind Qwen, DeepSeek and Kimi have led the way – competition that benefits everyone, especially where models can run on modest hardware in the developing world (The future of AI hinges on openness and cooperation.…",
     "url": "https://www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
     "date": "2026年8月7日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+    "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they re forming a new government.…",
+    "body": "And whether you re thinking of Twitter s old “town hall in your pocket” or Anthropic s Claude constitution, it s a theory that doesn t paint Silicon Valley in a very flattering light. In Lepore s upcoming book, The Rise and Fall of the Artificial State, the Pulitzer [ ]",
+    "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "date": "2026年8月7日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "SpaceX, Tesla to Spend $16.8B on Terafab Chip Factory in Texas",
+    "summary": "The move comes as Elon Musk’s companies look to secure chip capacity for AI, robotics and space-based data centers.",
+    "body": "",
+    "url": "https://aibusiness.com/data-centers/tesla-spacex-spend-16-8b-terafab-chip-factory-texas",
+    "date": "2026年8月7日"
   }
 ]
