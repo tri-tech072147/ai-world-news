@@ -804,5 +804,18 @@
     "body": "At IIT Madras, researchers at AI4Bharat are travelling across India, collecting voices, preserving dialects and teaching AI to understand the country’s incredible linguistic diversity.",
     "url": "https://www.thehindu.com/children/teaching-ai-to-speak-india/article71280380.ece",
     "date": "2026年8月7日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Rising number of UK children report seeing explicit deepfakes of themselves",
+    "summary": "Exclusive: anonymous flagging service says cases have surged, as watchdog says AI is making sexualised or ‘nudified’ content easier to produceChildren in the UK have reported a surge in explicit…",
+    "body": "deepfake images featuring their likenesses, as a safety watchdog warned AI is making such content easier to produce.The Report Remove service, which blocks intimate images from appearing online, said there had been a rapid increase in imagery that had been digitally manipulated or “faked” in some way, including with AI and nudification tools. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai",
+    "date": "2026年8月8日"
   }
 ]
