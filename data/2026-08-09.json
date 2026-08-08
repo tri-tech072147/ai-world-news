@@ -609,5 +609,18 @@
     "body": "Qwen3.8-Max has 2.4 trillion parameters and uses a mixture-of-experts architecture, which activates only part of the model for each request. Alibaba said around 95 billion parameters are active [ ] The post Alibaba, DeepSeek push China’s AI model race towards lower costs appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
     "date": "2026年8月5日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "OpenAI to pause some work on AI model Astra due to security concerns",
+    "summary": "Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacksOpenAI will pause some work on an artificial intelligence model because of…",
+    "body": "security concerns, the company stated Friday, following a series of incidents in which AI agents have escaped containment.The company had evaluated the agent, Astra, and found “significant advancements in agentic coding and cybersecurity”, which had moved to a “critical” threshold where it can find and exploit vulnerabilities without human intervention, or devise and execute cyber-attacks when…",
+    "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+    "date": "2026年8月8日"
   }
 ]
