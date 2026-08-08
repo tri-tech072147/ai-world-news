@@ -687,5 +687,83 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/news/article/2608/08/2000000460/",
     "date": "2026年8月7日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China faces new AI bottleneck as it runs out of Chinese-language training data",
+    "summary": "China’s high-stakes race to build next-generation artificial intelligence models is entering a critical new phase, where a less visible yet far more existential threat is coming into view: a severe…",
+    "body": "shortage of high-quality training data. While the US chokehold on advanced computing chips has dominated headlines, Chinese AI experts increasingly warn that running out of quality data could prove to be the next major bottleneck to the nation’s tech ambitions – and one that hardware workarounds...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3363318/china-faces-new-ai-bottleneck-it-runs-out-chinese-language-training-data?utm_source=rss_feed",
+    "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "EU aims for seven AI gigafactories with €10 billion plan in race with U.S., China",
+    "summary": "European Commission said it aims to attract at least €20 billion in ‌private investments for the ‌projects; the total was increased from five ⁠planned gigafactories to seven following strong interest…",
+    "body": "from EU countries",
+    "url": "https://www.thehindu.com/news/international/eu-aims-for-seven-ai-gigafactories-with-10-billion-plan-in-race-with-us-china/article71285920.ece",
+    "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Sarvam AI | All about the Bengaluru startup’s plans for a trillion-parameter model",
+    "summary": "Sarvam AI’s plan has clear geopolitical implications, but developing a trillion-parameter model is a huge challenge.",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/sarvam-ai-all-about-the-bengaluru-startups-plans-for-a-trillion-parameter-model/article71320461.ece",
+    "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "What is the EU AI transparency code? | Explained",
+    "summary": "Starting from August 2, the EU mandates labels for AI-generated content to boost transparency online.…",
+    "body": "From deepfakes to manipulated text, find out how this new code seeks to protect users and maintain the integrity of information",
+    "url": "https://www.thehindu.com/sci-tech/what-is-the-eu-ai-transparency-code-explained/article71279676.ece",
+    "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "'Spider-Man: Brand New Day' exceeds 5 mil. ticket sales in Korea",
+    "summary": "The latest Spider-Man film surpassed 5 million ticket sales on the 11th day of its release in Korea, the film's local distributor said Saturday.…",
+    "body": "\"Spider-Man: Brand New Day,\" the fourth installment starring Tom Holland, hit the 5 million mark Saturday morning, its local distributor, Sony Pictures, said. According to the distributor, \"Spider-Man: Brand New Day\" has become the fastest foreign film released in Korea since 2023. The movie reached the 3 million sales mark on its third day and the 4 million sales mark on the seventh day.…",
+    "url": "https://www.koreatimes.co.kr/entertainment/films/20260808/spider-man-brand-new-day-exceeds-5-mil-ticket-sales-in-korea?utm_source=rss",
+    "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Nocturnal 'coffee frog' discovered in Costa Rica",
+    "summary": "COSTA RICA — A tiny greenish, noctural frog that thrives in coffee plantations has been discovered in the Costa Rica's central Pacific region, where it also faces risks from agrochemicals used in…",
+    "body": "farming. Measuring less than four centimeters and known as the \"spring frog,\" AFP reporters observed the dark green-spotted amphibians in San Lorenzo de Tarrazu. \"It's a new species of tree frog for science, and endemic to Costa Rica,\" researcher Wagner Chaves-Acuna told AFP, per the findings of colleagues from the University of Costa Rica and Argentina's National Council for Scientific and…",
+    "url": "https://www.koreatimes.co.kr/world/20260808/nocturnal-coffee-frog-discovered-in-costa-rica?utm_source=rss",
+    "date": "2026年8月8日"
   }
 ]
