@@ -648,5 +648,57 @@
     "body": "",
     "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
     "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明",
+    "summary": "OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手段で再構築されていた。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/09/2000000463/",
+    "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Why is it called the shift key?",
+    "summary": "Technology keeps shifting. In this case, shift kept shifting quite literally. Confused? Here’s how your favourite shift key got it’s name",
+    "body": "",
+    "url": "https://www.thehindu.com/children/why-is-it-called-the-shift-key/article71253116.ece",
+    "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Karnataka explores partnership with Anthropic for governance, skilling and deep-tech growth",
+    "summary": "CM D.K. Shivakumar sought Anthropic’s expertise on how AI could help reduce fraud in government systems and improve the effectiveness, security and confidentiality of setting question papers for…",
+    "body": "examinations conducted by various government agencies and educational institutions.",
+    "url": "https://www.thehindu.com/news/national/karnataka/karnataka-explores-partnership-with-anthropic-for-governance-skilling-and-deep-tech-growth/article71312525.ece",
+    "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Kimi K3 | Moonshot’s rising star",
+    "summary": "The July launch of the Chinese company’s AI model has prompted much soul-searching among U.S. Big Tech giants over their approach to open models and AI competition",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/kimi-k3-moonshots-rising-star/article71322651.ece",
+    "date": "2026年8月8日"
   }
 ]
