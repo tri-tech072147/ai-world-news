@@ -895,5 +895,44 @@
     "body": "",
     "url": "https://www.heise.de/news/Komplett-ueberarbeitetes-Desinfec-t-2026-ab-sofort-auf-USB-Stick-erhaeltlich-11401846.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
+    "summary": "Observers express concern that the division has lost its independence and commercial reality has taken overWhen Sir Demis Hassabis said AI had brought the world to a “pivotal moment in human history”…",
+    "body": "last month, he knew another big change was imminent.This shift was closer to home. The Nobel prize-winning head of Google DeepMind, Google’s AI unit, announced this week he was relinquishing his day-to-day duties as chief executive and becoming chair. He is also taking on the role of chief scientist at DeepMind’s parent, Alphabet. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
+    "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+    "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "OpenAI tritt bei Arbeit an neuem KI-Modell auf die Bremse",
+    "summary": "OpenAI will beim Training neuer KI die Sicherheitsmaßnahmen stärken. Die Entwicklung eines neuen Modells soll sich dadurch verzögern.",
+    "body": "",
+    "url": "https://www.heise.de/news/OpenAI-tritt-bei-Arbeit-an-neuem-KI-Modell-auf-die-Bremse-11403942.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月8日"
   }
 ]
