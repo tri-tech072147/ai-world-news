@@ -622,5 +622,18 @@
     "body": "security concerns, the company stated Friday, following a series of incidents in which AI agents have escaped containment.The company had evaluated the agent, Astra, and found “significant advancements in agentic coding and cybersecurity”, which had moved to a “critical” threshold where it can find and exploit vulnerabilities without human intervention, or devise and execute cyber-attacks when…",
     "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
     "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "summary": "NextSlide says its team members are now working on ChatGPT.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "date": "2026年8月8日"
   }
 ]
