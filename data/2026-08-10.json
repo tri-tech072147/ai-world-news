@@ -609,5 +609,57 @@
     "body": "",
     "url": "https://monoist.itmedia.co.jp/mn/articles/2608/10/news042.html",
     "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Australia news live: NSW schools may ban take-home tests over AI concerns; minister calls urgent meeting over airport chaos",
+    "summary": "Intervention follows days of delays and a near-miss between two planes on the Sydney aiport tarmac. Follow today’s news liveButler confident about ‘constructive discussions’ on gambling during…",
+    "body": "upcoming session of parliamentMark Butler said evidence given before a parliamentary inquiry on gambling was shocking and the government remains set on getting legislation through parliament when it returns this week.I’m confident again over the course of this sitting fortnight there will be constructive discussions between the government and the opposition about that.…",
+    "url": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
+    "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "中国AI「DeepSeek」、設立3年・残業ゼロで「ChatGPTのライバル」にのし上がった若き創業者の手腕",
+    "summary": "中国のAI大手DeepSeekは、残業ゼロで「ChatGPTのライバル」と言わしめる立場にまで登り詰めた。若き創業者の驚くべき経営手腕とは。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/10/news027.html",
+    "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「Windowsの重い・遅い」の性能分析に専門知識はもう不要？ Microsoftが新ツール",
+    "summary": "Windowsの動作遅延や高負荷は、情シスを悩ませる問題の一つだ。これまでは、原因究明に向けたログ解析や分析の難しさが対応の壁となっていた。専門的な知識がなくてもスピーディーに原因を特定できるツールが発表された。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2608/10/news034.html",
+    "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Malaysia positions itself as Korea's long-term tech partner",
+    "summary": "Malaysia is seeking to elevate its economic partnership with Korea beyond traditional manufacturing and trade by positioning itself as a long-term strategic partner in high-value industries, ranging…",
+    "body": "from semiconductors and artificial intelligence (AI) to electric vehicles, renewable energy and the fast-growing global halal economy. In an interview with The Korea Times, Malaysian Investment Development Authority (MIDA) Director Redzuan Abd Rahman and Malaysia External Trade Development Corporation (MATRADE) Trade Commissioner Mohamad Termizi HJ Piee said the two countries' economic…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20260810/malaysia-positions-itself-as-koreas-long-term-tech-partner?utm_source=rss",
+    "date": "2026年8月9日"
   }
 ]
