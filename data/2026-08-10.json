@@ -570,5 +570,18 @@
     "body": "Qwen3.8-Max has 2.4 trillion parameters and uses a mixture-of-experts architecture, which activates only part of the model for each request. Alibaba said around 95 billion parameters are active [ ] The post Alibaba, DeepSeek push China’s AI model race towards lower costs appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
     "date": "2026年8月5日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "summary": "Programming with Claude Code will soon require even less human oversight.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "date": "2026年8月9日"
   }
 ]
