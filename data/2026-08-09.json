@@ -843,5 +843,31 @@
     "body": "",
     "url": "https://www.heise.de/news/iX-Workshop-ISO-27001-als-Admin-im-Unternehmen-praktisch-umsetzen-11378626.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s AI models spooked Wall Street. But they may turbocharge industry growth",
+    "summary": "Breakthroughs in cheap Chinese open-weight artificial intelligence models have spooked US investors, but analysts argue plummeting model costs will benefit the AI industry in the long run by…",
+    "body": "supercharging global demand for AI systems. Companies across the AI industry have slashed prices in recent weeks, with large-language model (LLM) inference prices per million tokens falling from above US$2 at the start of June to just US$1.2 this week, according to research firm Silicon Data’s LLM Token...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3363381/chinas-ai-models-spooked-wall-street-they-may-turbocharge-industry-growth?utm_source=rss_feed",
+    "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "AI push is putting banks at mercy of tech firms, warns Moody’s",
+    "summary": "Finance sector will gain from the tech but it will need substantial investment and create risks, says rating agencyThe rating agency Moody’s has said the race to adopt AI is putting big banks at the…",
+    "body": "mercy of a small group of Silicon Valley firms, leaving them vulnerable to widespread outages and price gouging by profit-hungry tech bosses.The financial sector’s efforts to integrate AI into day-to-day operations will eventually cut costs and increase revenues across the City and Wall Street, Moody’s said. Continue reading...",
+    "url": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
+    "date": "2026年8月9日"
   }
 ]
