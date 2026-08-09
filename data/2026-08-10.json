@@ -492,5 +492,83 @@
     "body": "",
     "url": "https://aibusiness.com/responsible-ai/ai-pioneer-geoffrey-hinton-agent-breakouts-scary",
     "date": "2026年8月6日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Stanford Evo 2 AI model generates phages against E. coli",
+    "summary": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model.…",
+    "body": "Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174, pronounced “FYE-ex-1-7-4”. Brian Hie, an assistant professor of chemical engineering and Dieter Schwarz Foundation Stanford Data [ ] The post Stanford Evo 2 AI model generates phages against E. coli appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+    "date": "2026年8月7日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "How AI Is changing Instagram engagement without replacing the human touch",
+    "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system.…",
+    "body": "With over three billion people using it, that’s not a small detail; it s the whole algorithm. But here’s the point: the more AI controls over how you see the content, the more it [ ] The post How AI Is changing Instagram engagement without replacing the human touch appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+    "date": "2026年8月7日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Alibaba tests new business model for Qwen open-source AI",
+    "summary": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans.…",
+    "body": "The arrangement would require larger companies that generate revenue from offering the model as a service to reach a commercial agreement with Alibaba. The exact revenue-sharing rate has [ ] The post Alibaba tests new business model for Qwen open-source AI appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+    "date": "2026年8月7日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Why health AI interfaces must adapt to user expertise",
+    "summary": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them.…",
+    "body": "When applied to skin disease diagnosis, non-experts improved their accuracy with AI assistance, although the improvement largely came from deferring to the model. Primary care providers showed a different pattern: they performed [ ] The post Why health AI interfaces must adapt to user expertise appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
+    "date": "2026年8月6日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "PRISM2 model uses clinical dialogue to interpret pathology slides",
+    "summary": "Built by Paige and Microsoft, PRISM2 reads whole-slide images through a perceiver-based encoder trained jointly on tissue tiles and clinical dialogue drawn from pathology reports.…",
+    "body": "The model aggregates thousands of tile embeddings per slide into one representation, then generates text that answers diagnostic questions rather than simply classifying pixels. Training data spans 2.3 million whole-slide [ ] The post PRISM2 model uses clinical dialogue to interpret pathology slides appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/prism2-model-clinical-dialogue-interpret-pathology-slides/",
+    "date": "2026年8月5日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Alibaba, DeepSeek push China’s AI model race towards lower costs",
+    "summary": "Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems.…",
+    "body": "Qwen3.8-Max has 2.4 trillion parameters and uses a mixture-of-experts architecture, which activates only part of the model for each request. Alibaba said around 95 billion parameters are active [ ] The post Alibaba, DeepSeek push China’s AI model race towards lower costs appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
+    "date": "2026年8月5日"
   }
 ]
