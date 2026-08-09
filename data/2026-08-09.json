@@ -700,5 +700,44 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/kimi-k3-moonshots-rising-star/article71322651.ece",
     "date": "2026年8月8日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "The Beijing model meets the Brussels effect",
+    "summary": "PARIS — For years, Europe and China embodied rival development and energy-transition models. Europe was primarily committed to markets, common rules, and multilateral institutions, whereas China…",
+    "body": "emphasized industrial policy, infrastructure investment, and manufacturing. Europe produced regulations that often became global benchmarks (the “Brussels Effect”). China produced factories. But this distinction is dissolving. As Europe races to rebuild its industrial base, China is focusing more on influencing international standards and governance frameworks.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260809/the-beijing-model-meets-the-brussels-effect?utm_source=rss",
+    "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "The canary in the AI coal mine",
+    "summary": "CAMBRIDGE — The artificial intelligence (AI) race between the United States and China is accelerating at a breathtaking pace.…",
+    "body": "Time and again, the US has appeared to pull ahead, only to see China quickly close the gap. At the heart of this competition lie two contrasting visions of how AI should be developed and deployed. While US firms largely rely on proprietary technologies to maintain their competitive advantage, China has increasingly embraced open-source AI, making advanced models widely available to developers…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260809/the-canary-in-the-ai-coal-mine?utm_source=rss",
+    "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea's energy opportunity in Central Asia",
+    "summary": "For much of the post-Soviet period, Korea’s relationship with Central Asia has been defined by trade.…",
+    "body": "Seoul saw Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan and Tajikistan as emerging markets for Korean cars, electronics and consumer goods. Three decades later, that relationship is being transformed. Central Asia is no longer simply a destination for Korean exports. It is becoming an important part of Korea’s long-term energy, industrial and supply chain strategy.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260809/koreas-energy-opportunity-in-central-asia?utm_source=rss",
+    "date": "2026年8月9日"
   }
 ]
