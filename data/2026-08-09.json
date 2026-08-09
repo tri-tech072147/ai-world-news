@@ -739,5 +739,70 @@
     "body": "Seoul saw Kazakhstan, Uzbekistan, Turkmenistan, Kyrgyzstan and Tajikistan as emerging markets for Korean cars, electronics and consumer goods. Three decades later, that relationship is being transformed. Central Asia is no longer simply a destination for Korean exports. It is becoming an important part of Korea’s long-term energy, industrial and supply chain strategy.…",
     "url": "https://www.koreatimes.co.kr/opinion/20260809/koreas-energy-opportunity-in-central-asia?utm_source=rss",
     "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに 8月14日から",
+    "summary": "Anthropicは、AIコーディングツール「Claude Code」で、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表した。危険なコマンドを分類器が自動でブロックする仕組みで、人間による確認の形骸化を防ぐ。実験では人間の拒否率を大きく上回る検出精度を示し、作業効率の向上も確認されている。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
+    "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「Claude Code」にセッション同士がメッセージを送り合う機能 macOSとLinuxに",
+    "summary": "AnthropicはAIコーディングツール「Claude Code」に、起動中の複数セッション間でメッセージを相互送信できる新機能を追加した。作業の変更や移行プロセスの進捗などをClaudeが自律的に連携する。セキュリティに配慮し共有はテキストのみに制限され、ローカル間通信では外部サーバを経由しない仕様だ。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
+    "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Chungnam National University team develops technology to triple antimalarial compound yield",
+    "summary": "A Chungnam National University research team has developed a technology that more than triples the yield of a key antimalarial compound in sweet wormwood.…",
+    "body": "The university said Thursday that the team has developed a highly efficient cultivation strategy to enhance the growth of sweet wormwood and increase its yield of artemisinin, a key ingredient in antimalarial drugs. The team was led by Park Jong-seok, a professor in the Department of Bio-AI Convergence and the Department of Horticulture Science.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/education/20260809/chungnam-national-university-team-develops-technology-to-triple-antimalarial-compound-yield?utm_source=rss",
+    "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "University of Seoul student team wins grand prize at Simulation Challenge 2026",
+    "summary": "A University of Seoul student team won the grand prize at Simulation Challenge 2026, held at Yeoksam POSCO Tower in southern Seoul on July 30.…",
+    "body": "The Simulation Challenge was an academic competition organized by Synopsys Korea’s Simulation & Analysis Division and co-hosted by Tae Sung S E. Participating teams used simulation software to propose solutions to technical industry challenges and demonstrate the feasibility of their designs.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/education/20260809/university-of-seoul-student-team-wins-grand-prize-at-simulation-challenge-2026?utm_source=rss",
+    "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Tibetan cooperative keeps centuries-old weaving tradition alive",
+    "summary": "SHANNAN, Tibet — More than a dozen men and women sit at wooden looms, sliding shuttles through rows of wool yarn before pulling each thread tight.…",
+    "body": "They repeat it again and again as they weave Pulu, the traditional woolen fabric that has clothed people on the Tibetan plateau for centuries. They work at the Ethnic Huaji Handwoven Cooperative in Shannan, where artisans are trying to preserve one of Tibet’s oldest weaving traditions while creating jobs for local residents.…",
+    "url": "https://www.koreatimes.co.kr/world/20260809/tibetan-cooperative-keeps-centuries-old-weaving-tradition-alive?utm_source=rss",
+    "date": "2026年8月9日"
   }
 ]
