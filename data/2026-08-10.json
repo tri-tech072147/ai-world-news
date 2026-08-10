@@ -895,5 +895,83 @@
     "body": "The company announced on Monday that it has signed a 956 billion won ($675.6 million) contract with Corban Energy Group, a U.S.-based energy infrastructure developer, to supply power generation equipment featuring its 9.6-megawatt HiMSEN engines. The equipment, with a combined capacity of 1,000 megawatts, will provide power for a data center being built by a U.S.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260810/hd-hyundai-heavy-wins-676-mil-deal-to-supply-1gw-generators-to-us-data-center?utm_source=rss",
     "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "How long can the AI memory price boom last? Research suggests not much longer",
+    "summary": "A sharp run-up in global memory-chip stocks is beginning to falter as cooling price growth raises questions over how long the sector’s explosive boom can last, even as artificial intelligence (AI)…",
+    "body": "demand remains robust and Chinese producers prepare to add more supply. While data-centre spending continues to fuel appetite for high-end memory, analysts are warning that the steep price increases – which drove record profits over past quarters – are signal a shift towards a late-stage industry...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3363519/how-long-can-ai-memory-price-boom-last-research-suggests-not-much-longer?utm_source=rss_feed",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Meme factories are churning out hard right AI slop on Facebook | First Dog on the Moon",
+    "summary": "What does it even mean? You don’t want to know – stop reading now! I’m seriousSign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if…",
+    "body": "what you need is First Dog merchandise and prints Continue reading...",
+    "url": "https://www.theguardian.com/commentisfree/picture/2026/aug/10/meme-factories-are-churning-out-pro-one-nation-ai-slop-on-facebook-im-frightened",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIエージェントの「Skills」などが標準規格化 CodexやVS Codeなど対応、Claudeは未対応",
+    "summary": "VercelがAIエージェント拡張のオープン標準「Agent Plugins」を発表。「Agent Skills」やMCPサーバ設定を共通形式にし、クライアント間で使い回せるようにする。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000487/",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul district marks 81st Liberation Day at historic prison complex",
+    "summary": "The red-brick walls and narrow iron grates of Seodaemun Prison have stood as stark monuments to Korea’s darkest hours under Japan's 1910-45 colonial rule.…",
+    "body": "Thousands of independence advocates — from teenagers to prominent scholars — were incarcerated within its brick corridors. Today, that solemn landmark has transformed into an enduring sanctuary of civic memory, connecting generations of Koreans to the sacrifice behind their modern democracy. This week, as Korea prepares to mark the 81st anniversary of National Liberation Day on Aug.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260810/seoul-district-marks-81st-liberation-day-at-historic-prison-complex?utm_source=rss",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul to hold event offering glimpse into fully automated city",
+    "summary": "As the world’s major metropolises struggle to modernize aging public infrastructure and streamline civil services, Korea’s capital is accelerating its push to integrate artificial intelligence…",
+    "body": "directly into the urban environment. The Seoul Metropolitan Government opened pre-registration, Monday, for Smart Life Week 2026, a global tech exposition designed to show how machine intelligence is moving out of server farms and into city streets. Scheduled for Oct.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260810/seoul-to-hold-event-offering-glimpse-into-fully-automated-city?utm_source=rss",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "👨🏿‍🚀TechCabal Daily – Less drama, more SuperSport",
+    "summary": "In today's edition: MultiChoice to shut down four channels TVS enters Kenya Nigeria mandates cybersecurity budgets for telcos Eutelsat reports satellite Internet growth",
+    "body": "",
+    "url": "https://techcabal.com/2026/08/10/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-less-drama-more-supersport/",
+    "date": "2026年8月10日"
   }
 ]
