@@ -674,5 +674,31 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/business/articles/2608/10/news028.html",
     "date": "2026年8月9日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee to check progress on AI-related investment initiative",
+    "summary": "President Lee Jae Myung was set to preside over a meeting Monday to discuss ways to promptly implement a large-scale investment initiative for semiconductor manufacturing facilities and artificial…",
+    "body": "intelligence (AI) data centers. The meeting, set for 2 p.m., is the second of its kind since the Lee administration unveiled the \"three megaprojects\" in late June, outlining plans for large-scale investments in a semiconductor production cluster, physical AI and AI data centers in regional areas.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260810/lee-to-check-progress-on-ai-related-investment-initiative?utm_source=rss",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Gaps found between final voter count, on-site tallies from local elections: data",
+    "summary": "Discrepancies have been found between final voter figures and on-site tallies from the June 3 local elections, data acquired by a lawmaker showed Monday, amid a widening probe into irregularities…",
+    "body": "surrounding the elections. The discrepancies were found in 1,971 neighborhoods out of the total 3,558 across the nation for the local elections, according to the National Election Commission (NEC) data submitted to Rep. Chung Choon-saeng of the minor Rebuilding Korea Party.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260810/gaps-found-between-final-voter-count-on-site-tallies-from-local-elections-data?utm_source=rss",
+    "date": "2026年8月10日"
   }
 ]
