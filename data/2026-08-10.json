@@ -817,5 +817,83 @@
     "body": "The business would establish a regional base in Singapore, identify a few priority markets, adapt its messaging slightly and begin expanding. The technology stack was often global, the strategy was usually designed at headquarters and [ ] The post Why Southeast Asia must become more than the world’s connector in 2026 and beyond appeared first on e27.",
     "url": "https://e27.co/why-southeast-asia-must-become-more-than-the-worlds-connector-in-2026-and-beyond-20260806/",
     "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s top AI is still trained on Nvidia chips. What is delaying a switch to local tech?",
+    "summary": "China’s most advanced artificial intelligence models are still being trained on Nvidia chips, sources at major Chinese large language model (LLM) developers say, as the prohibitively high cost of…",
+    "body": "switching to local semiconductors continues to hamper Beijing’s push for self-sufficiency. While domestic hardware continues to advance, changing chip architecture presents a steep engineering bottleneck. “Training LLMs on Nvidia chips for now remains the norm among Chinese AI developers,” said a person...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech?utm_source=rss_feed",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "How China DRAM champion CXMT’s MSCI entry could lure fund inflows, cement its top ranking",
+    "summary": "The inclusion of ChangXin Memory Technologies (CXMT) in a broad MSCI gauge of Chinese stocks may strengthen the chipmaker’s position as the most valuable stock on the onshore market, with the move…",
+    "body": "expected to spur passive buying, analysts say. CXMT, China’s biggest maker of dynamic random access memory (DRAM) chips used mostly in electronic products, joined the MSCI China All Shares Index on Monday. The benchmark tracks yuan-denominated stocks as well as mainland Chinese companies trading in...",
+    "url": "https://www.scmp.com/business/china-business/article/3363490/how-china-dram-champion-cxmts-msci-entry-could-lure-fund-inflows-cement-its-top-ranking?utm_source=rss_feed",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+    "summary": "Tech companies are not modelling their own claims of the technology giving people more free time.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "NEC、部門長から社員まで「全員AI」の新組織",
+    "summary": "AIマネージャーが都度AI社員を生成して役割を任命する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/10/2000000484/",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "“脱モノ売り”のリコー 同社が説く「営業AXの勘所」とは",
+    "summary": "営業AXは、どう進めれば成果が出るのか。営業力で定評のあるリコージャパンの、“脱モノ売り”を図り、“課題解決型”への転換から勘所を探る。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news066.html",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "HD Hyundai Heavy wins $676 mil. deal to supply 1GW generators to US data center",
+    "summary": "HD Hyundai Heavy Industries has secured a deal to supply large-scale power generation equipment for a data center operated by a major U.S. tech company.…",
+    "body": "The company announced on Monday that it has signed a 956 billion won ($675.6 million) contract with Corban Energy Group, a U.S.-based energy infrastructure developer, to supply power generation equipment featuring its 9.6-megawatt HiMSEN engines. The equipment, with a combined capacity of 1,000 megawatts, will provide power for a data center being built by a U.S.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260810/hd-hyundai-heavy-wins-676-mil-deal-to-supply-1gw-generators-to-us-data-center?utm_source=rss",
+    "date": "2026年8月10日"
   }
 ]
