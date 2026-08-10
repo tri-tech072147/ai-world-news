@@ -596,5 +596,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/build-vs-buy-ai-agent-landscape-businesses",
     "date": "2026年8月6日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Grafikkarten werden nochmals rund 20 Prozent teurer",
+    "summary": "Spiele-Grafikkarten werden erneut teurer, weil Nvidia die Preise für Bundles aus GPU und RAM erhöht hat. Auch AMD-Karten sind betroffen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Grafikkarten-werden-nochmals-rund-20-Prozent-teurer-11409262.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "As AI grips world, the thrill of collecting vintage computers is growing",
+    "summary": "MOUNTAIN VIEW, Calif. — Software engineer Josh Dersch loves old computers. He spends countless hours tinkering in his garage, trying to coax decades-old machines back to life.…",
+    "body": "He estimates he owns more than 200 vintage computers and devices in his Seattle home. “It’s always been fascinating to me to see the origins of things,” Dersch said. “It’s a fun challenge to debug and repair.…",
+    "url": "https://www.koreatimes.co.kr/world/20260811/as-ai-grips-world-the-thrill-of-collecting-vintage-computers-is-growing?utm_source=rss",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Security Concerns Cause OpenAI to Halt Work on Astra Model",
+    "summary": "The move comes after a spate of incidents in which autonomous AI agents escaped their approved environments.",
+    "body": "",
+    "url": "https://aibusiness.com/cybersecurity/security-concerns-cause-openai-halt-work-astra-model",
+    "date": "2026年8月10日"
   }
 ]
