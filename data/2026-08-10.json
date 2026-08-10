@@ -1038,5 +1038,44 @@
     "body": "root. The historic site in central Seoul, long vulnerable to unauthorized visitors and accidental damage, has quietly adopted modern sensor technology to safeguard its centuries-old timber structures. The Deoksu Palace Management Office, a division of the Royal Palaces and Tombs Center under the Korea Heritage Service, announced the completion, Monday, of an advanced intrusion detection system…",
     "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260810/seouls-historic-deoksu-palace-turns-to-high-tech-security-to-detect-intruders?utm_source=rss",
     "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "AgiBot overtakes Unitree as top global humanoid robot vendor in first half amid IPO push",
+    "summary": "China’s AgiBot has surpassed its domestic rival Unitree Robotics to become the world’s largest humanoid robot vendor in the first half of 2026, according to new research, as both industry…",
+    "body": "heavyweights prepare for public listings amid a physical AI boom. Shanghai-based Agibot captured 44 per cent of the global market after shipping roughly 8,400 humanoid robots from January to June, San Francisco-based research firm Smart Analytics Global (SAG) said in a report published on Sunday. AgiBot’s...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3363544/agibot-overtakes-unitree-top-global-humanoid-robot-vendor-first-half-amid-ipo-push?utm_source=rss_feed",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Apple-Watch-Umbau: Neues Design – und ein Tracker ohne Bildschirm",
+    "summary": "Apple will bei seiner designtechnisch vernachlässigten Computeruhr nachlegen und künftig angeblich erstmals einen Tracker ohne Screen im Whoop-Stil anbieten.",
+    "body": "",
+    "url": "https://www.heise.de/news/Apple-Watch-Umbau-Neues-Design-und-ein-Tracker-ohne-Bildschirm-11405895.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Weniger Klicks, mehr Kontrolle? Claude Code standardmäßig im Auto Mode",
+    "summary": "Anthropic aktiviert den Auto Mode in Claude Code standardmäßig. Die KI arbeitet dann selbstständig bei Shell-, Git- und Tool-Aufrufen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Weniger-Klicks-mehr-Kontrolle-Claude-Code-standardmaessig-im-Auto-Mode-11406246.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月10日"
   }
 ]
