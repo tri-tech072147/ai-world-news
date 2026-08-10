@@ -973,5 +973,70 @@
     "body": "",
     "url": "https://techcabal.com/2026/08/10/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-less-drama-more-supersport/",
     "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Convince an AI it’s not alive in psychological horror game Prove You’re Human",
+    "summary": "Sunset Visitor studio’s founder tells us about their new, unnerving Captcha-filled world which prompts players to ask what it means to have a ‘meat body’Sunset Visitor is a studio that has long…",
+    "body": "engaged with the idea that video games are an effective vehicle for ruminating on societal problems. Its Peabody award-winning project, 1000XResist, incorporated the development team’s complex feelings about the Covid pandemic. “We’re pretty used to absorbing the world into the work,” says studio founder Remy Siu.…",
+    "url": "https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Agent hackt Fitnessstudio: Wie sich Claude Zugang zu Kursen verschaffte",
+    "summary": "Über Openclaw und Claude wollte ein Nutzer einen Platz im Fitnessstudio reservieren. Der KI-Agent hat dabei allerdings die Webseite des Studios gehackt.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-Agent-hackt-Fitnessstudio-Wie-sich-Claude-Zugang-zu-Kursen-verschaffte-11406206.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Hyundai Wia to test parking robots in residential area of Seoul",
+    "summary": "Hyundai Wia, the auto parts and machinery affiliate of Hyundai Motor Group, said Monday it will begin testing autonomous parking robots in a residential apartment complex for the first time in Korea.…",
+    "body": "Formed as part of a consortium with Hyundai Motor and Hyundai Engineering & Construction, the trial will run at the Hillstate The Wave City complex in Siheung, Gyeonggi Province, under a Ministry of Land, Infrastructure and Transport regulatory sandbox initiative.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260810/hyundai-wia-to-test-parking-robots-in-residential-area-of-seoul?utm_source=rss",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Gov't to register state-certified trademarks worldwide to stop counterfeit cosmetics",
+    "summary": "Powered by viral social media trends and precise skin care routines, Korean cosmetics have transformed from a regional favorite into a multibillion-dollar global juggernaut.…",
+    "body": "But as products from top brands flood medicine cabinets from East Asia to Western Europe, an increasingly sophisticated illicit market is following right behind, threatening both consumer safety and the industry’s reputation.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260810/govt-to-register-state-certified-trademarks-worldwide-to-stop-counterfeit-cosmetics?utm_source=rss",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul's historic Deoksu Palace turns to high-tech security to detect intruders",
+    "summary": "Beneath the curved eaves and ornate wooden beams of Deoksu Palace, where Korea’s last monarchs once navigated the closing days of the 1392-1910 Joseon Dynasty, a quieter form of vigilance has taken…",
+    "body": "root. The historic site in central Seoul, long vulnerable to unauthorized visitors and accidental damage, has quietly adopted modern sensor technology to safeguard its centuries-old timber structures. The Deoksu Palace Management Office, a division of the Royal Palaces and Tombs Center under the Korea Heritage Service, announced the completion, Monday, of an advanced intrusion detection system…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260810/seouls-historic-deoksu-palace-turns-to-high-tech-security-to-detect-intruders?utm_source=rss",
+    "date": "2026年8月10日"
   }
 ]
