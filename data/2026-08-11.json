@@ -648,5 +648,44 @@
     "body": "",
     "url": "https://aibusiness.com/cybersecurity/security-concerns-cause-openai-halt-work-astra-model",
     "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity",
+    "summary": "Progressive US senator urges Meta, OpenAI and Anthropic to ‘stop building machines that humans cannot control’Senator Bernie Sanders has called on Meta, OpenAI and Anthropic executives to halt their…",
+    "body": "development of artificial intelligence, warning that the US Senate will implement regulation if the companies continue deploying AI at their current pace.In a new letter addressed to the CEOs of three of the country’s leading AI companies, Sanders said the capabilities of these AI models have reached a critical risk threshold and that the companies are losing control over the technology.…",
+    "url": "https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "ChatGPT im Gerichtssaal: Hessische Richter kopieren erkennbar KI-Quellen",
+    "summary": "Am Hessischen Verwaltungsgerichtshof hinterlässt ChatGPT Spuren in einem Beschluss für den EuGH. Das verschärft die Debatte über Risiken von KI in der Justiz.",
+    "body": "",
+    "url": "https://www.heise.de/news/ChatGPT-im-Gerichtssaal-Hessische-Richter-kopieren-erkennbar-KI-Quellen-11409312.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US court rules Meta, tech firms must face thousands of lawsuits over social media addiction",
+    "summary": "A U.S. appeals court on Monday allowed thousands of lawsuits to move forward against Meta Platforms , Alphabet's Google, ByteDance's TikTok, and other social media companies over claims they designed…",
+    "body": "their products to be addictive to young users. The San Francisco-based 9th U.S. Circuit Court of Appeals rejected the companies’ bid to reverse a lower court’s ruling forcing them to face more than 3,000 lawsuits over the claims filed in federal court, concluding that the appeal came too early in the litigation.…",
+    "url": "https://www.koreatimes.co.kr/world/20260811/us-court-rules-meta-tech-firms-must-face-thousands-of-lawsuits-over-social-media-addiction?utm_source=rss",
+    "date": "2026年8月10日"
   }
 ]
