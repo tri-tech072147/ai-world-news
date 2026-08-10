@@ -804,5 +804,31 @@
     "body": "National Assembly’s Legislation and Judiciary Committee. The proposal, introduced by Rep. Huh Young and nine other lawmakers of the liberal ruling Democratic Party of Korea (DPK), would criminalize the creation, distribution and possession of sexually explicit material made using the technology, even when it does not depict a real person.…",
     "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260811/korea-moves-to-criminalize-ai-generated-sexual-content-of-fictional-people?utm_source=rss",
     "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model",
+    "summary": "Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley debate over government regulationMark Zuckerberg published a lengthy essay on Monday detailing his views on artificial…",
+    "body": "intelligence and announced several plans for how Meta would develop the technology in the future. The CEO’s essay went online the same day as Meta released a new, open-source AI model that seeks to rival Anthropic and OpenAI’s products called Muse Glimmer.Over the course of more than 6,000 words in a post titled “The Future is for Everyone,” Zuckerberg addressed a range of topics related to AI…",
+    "url": "https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta",
+    "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "2028年にSOCの人手対応、30％減へ 常態化する攻撃に企業は勝てるのか",
+    "summary": "AIが混乱を拡大させる中で、セキュリティリーダーはどう対応するか。ガートナーは、企業が競争優位を保つために注力すべき優先事項を3つ挙げた。その中身とは。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html",
+    "date": "2026年8月10日"
   }
 ]
