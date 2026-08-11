@@ -713,5 +713,57 @@
     "body": "",
     "url": "https://aibusiness.com/cybersecurity/openai-expands-daybreak-tackle-growing-ai-security-threat",
     "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google’s Gemini app surges to one billion users",
+    "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "The Guardian view on AI money in US politics: not the way to hold an urgent democratic debate | Editorial",
+    "summary": "Amid public concern over the impact of new technology, Silicon Valley’s use of its wealth to influence specific election races is an unwelcome developmentAs the huge societal ramifications of…",
+    "body": "artificial intelligence have become clear, some of the tech industry’s most senior figures have taken to writing thinkpieces on what comes next. The latest to do so is Mark Zuckerberg, who this week published 6,500 words making the case for a laissez-faire approach to AI development.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/11/the-guardian-view-on-ai-money-in-us-politics-not-the-way-to-hold-an-urgent-democratic-debate",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "The Difference Between Artificial Intelligence and Artificial Intellect",
+    "summary": "Intelligence involves imagination and emotions, attributes that machines can’t replicate. Successful companies pay attention to people and to what they can do that machines can’t.",
+    "body": "",
+    "url": "https://aibusiness.com/ai-ethics/the-difference-between-artificial-intelligence-and-artificial-intellect",
+    "date": "2026年8月11日"
   }
 ]
