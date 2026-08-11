@@ -1116,5 +1116,70 @@
     "body": "receipts alone won’t beat a KRA tax bill",
     "url": "https://techcabal.com/2026/08/11/techcabal-daily-age-gating-social-media/",
     "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Meta to challenge China’s open-weight AI dominance amid US regulatory fears",
+    "summary": "China’s dominance in open-weight artificial intelligence faces a fresh challenge from Meta Platforms, whose renewed push into open-source models could lure away American customers anxious about…",
+    "body": "looming regulatory restrictions in Washington, analysts say. The US tech giant on Monday launched Muse Glimmer, a 30-billion parameter open-weight model light enough to run locally on personal computers, while also announcing plans to release the weights of its latest flagship Muse Spark 1.2 model. In a...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3363638/meta-challenge-chinas-open-weight-ai-dominance-amid-us-regulatory-fears?utm_source=rss_feed",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold launch: What to expect?",
+    "summary": "Under the hood, the Pixel 11 series is believed to operate on Android 17 out of the box while promising 7 years of OS updates and 7 years of security updates.…",
+    "body": "Gemini is expected to dominate the show with some new upgrades",
+    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/google-pixel-11-pixel-11-pro-pixel-11-pro-xl-and-pixel-11-pro-fold-launch-what-to-expect/article71331641.ece",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Anthropic’s Claude to mark all AI content, including text",
+    "summary": "The changes are being rolled out as Anthropic signed the EU AI Act’s Article 50(2) Code of Practice on Transparency of AI-Generated Content",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropics-claude-to-mark-all-ai-content-including-text/article71331079.ece",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Is that the real Faker? Generative AI replaces live filming in Korean TV shows",
+    "summary": "Generative artificial intelligence (AI) is becoming a routine part of television production in Korea.…",
+    "body": "Moving beyond its previous limits as a preproduction and postproduction tool, the technology has rapidly emerged as a core creative element, whether by replacing expensive filming entirely or by serving as the central premise of entire programs. Disney+ released murder-mystery game show \"Murder Club: Liar's Table\" on July 29.…",
+    "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260811/is-that-the-real-faker-generative-ai-replaces-live-filming-in-korean-tv-shows?utm_source=rss",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Is the US$63,750 line the only thing standing between Bitcoin and US$62,000?",
+    "summary": "The digital asset ecosystem is facing a reality check as total crypto capitalisation drops 1.24 per cent to US$2.18T over the past 24 hours.…",
+    "body": "This decline reflects a profound shift in investor sentiment rather than a mere technical correction. Market participants now view digital coins through a strictly macroeconomic lens. They act as highly sensitive [ ] The post Is the US$63,750 line the only thing standing between Bitcoin and US$62,000? appeared first on e27.",
+    "url": "https://e27.co/is-the-us63750-line-the-only-thing-standing-between-bitcoin-and-us62000-20260811/",
+    "date": "2026年8月11日"
   }
 ]
