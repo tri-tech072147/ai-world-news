@@ -1259,5 +1259,57 @@
     "body": "Two mega-rounds drove the surge: Kling AI s US$2.8 billion raise and Ant International s US$1.2 billion round, together accounting for roughly US$4 billion, or the bulk [ ] The post Ecosystem Roundup: SEA tech funding hits US$4.78B in July, led by mega rounds appeared first on e27.",
     "url": "https://e27.co/ecosystem-roundup-sea-tech-funding-hits-us4-78b-in-july-led-by-mega-rounds-20260811/",
     "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Alibaba tests paid AI appetite with US$30 annual QwenWork subscription",
+    "summary": "Alibaba Group Holding is asking app users to open their wallets for its artificial intelligence office assistant QwenWork, as the Chinese technology giant tests whether businesses and consumers are…",
+    "body": "ready to pay for its digital assistant. The e-commerce giant’s Qwen app now offers three membership tiers for QwenWork, with annual plans ranging from 200 yuan (US$29.6) to 1,499 yuan for its flagship version, according to the listing on Apple’s App Store. Users can also buy extra video generation...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3363656/alibaba-tests-paid-ai-appetite-us30-annual-qwenwork-subscription?utm_source=rss_feed",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Keine Chance für Schummler: Claude bekommt jetzt ein unsichtbares Wasserzeichen",
+    "summary": "Die EU will mehr Transparenz im Umgang mit KI-Inhalten schaffen. Anthropic kommt den neuen Vorgaben nach und fügt ab sofort ein unsichtbares Wasserzeichen ein.",
+    "body": "",
+    "url": "https://www.heise.de/news/Keine-Chance-fuer-Schummler-Claude-bekommt-jetzt-ein-unsichtbares-Wasserzeichen-11410129.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Touchstone backs Vietnam’s N2TP to build AI infrastructure for scientific discovery",
+    "summary": "Vietnam’s startup ecosystem has spent the past few years proving it can produce consumer apps, fintech platforms and edutech companies at regional scale.…",
+    "body": "N2TP is attempting something less common, and arguably harder: building AI infrastructure for scientific research, where outputs are not measured in clicks or transactions, but in hypotheses, experiments, papers and patents. The [ ] The post Touchstone backs Vietnam s N2TP to build AI infrastructure for scientific discovery appeared first on e27.",
+    "url": "https://e27.co/touchstone-backs-vietnams-n2tp-to-build-ai-infrastructure-for-scientific-discovery-20260811/",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "What you should know about Googlebook laptops ahead of launch",
+    "summary": "The Googlebook is the company's follow-up to the Chromebook, built with the Gemini assistant at its core and made by five of the world's biggest PC brands.",
+    "body": "",
+    "url": "https://techcabal.com/2026/08/11/googlebook-laptops-release-date-price-specs/",
+    "date": "2026年8月11日"
   }
 ]
