@@ -609,5 +609,70 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/deepseek-invests-unitree-develop-ai-brain-for-humanoid-bots",
     "date": "2026年8月7日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+    "summary": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics.…",
+    "body": "Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+    "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Ethikchefin verlässt OpenAI nach weniger als einem Jahr",
+    "summary": "OpenAI verliert seine für KI-Ethik zuständige Führungskraft. Zugleich arbeitet die frühere Robotikchefin Caitlin Kalinowski nun für Anthropic.",
+    "body": "",
+    "url": "https://www.heise.de/news/OpenAI-KI-Ethikchefin-geht-nach-weniger-als-einem-Jahr-11410597.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Claude: KI-Wasserzeichen – ein Bärendienst für die Wahrheit",
+    "summary": "Die EU fordert eine Kennzeichnung für KI-Inhalte. Anthropic reagiert mit Wasserzeichen in Claude – doch die Technik birgt Risiken für Nutzer und die Wahrheit.",
+    "body": "",
+    "url": "https://www.heise.de/meinung/KI-Wasserzeichen-in-Text-Ein-Stempel-der-falsche-Sicherheit-schafft-11410549.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Nvidia Partners With Wall Street Giants to Mobilize $500B for AI",
+    "summary": "The funding will be used to build AI infrastructure and establish compute and full-stack infrastructure as an “investable asset class.”",
+    "body": "",
+    "url": "https://aibusiness.com/data-centers/nvidia-partners-wall-street-giants-mobilize-500b-for-ai",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "New Premium Tier for ChatGPT Business",
+    "summary": "The pricing adjustment is part OpenAI's push for the enterprise market.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/new-premium-tier-for-chatgpt-business",
+    "date": "2026年8月11日"
   }
 ]
