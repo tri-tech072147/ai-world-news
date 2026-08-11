@@ -830,5 +830,83 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html",
     "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "summary": "San Francisco's housing market is in trouble again.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Unitree IPO frenzy leaves Chinese retail investors with 1-in-5,500 odds",
+    "summary": "While Unitree Robotics’ early backers are poised for a windfall in one of China’s most closely watched technology initial public offerings (IPOs), retail investors are scrambling for a tiny chance of…",
+    "body": "securing shares. Nearly 9.8 million accounts competed in the Hangzhou-based robot maker’s online subscription process on Monday, fighting for just 9.7 million shares, its filings in the evening showed. The final online allocation rate was just 0.018 per cent – roughly one winning lot for every 5,500...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3363570/unitree-ipo-frenzy-leaves-chinese-retail-investors-1-5500-odds?utm_source=rss_feed",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Defense ministry vows push for temporary relocation of Gwangju air base operations",
+    "summary": "The defense ministry vowed Tuesday to actively push for the temporary relocation of Air Force operations from an air base in the southwestern city of Gwangju to help speed up a key chip cluster…",
+    "body": "project in the broader surrounding region. Its pledge reinforces the government's broader push to build a vast semiconductor and artificial intelligence (AI) cluster in the country's southwestern and central regions, a multibillion-dollar project joined by Samsung Electronics and SK hynix.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/defense/20260811/defense-ministry-vows-push-for-temporary-relocation-of-gwangju-air-base-operations?utm_source=rss",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Police raid Korea Airports Corp., transport ministry over Jeju Air crash",
+    "summary": "Police raided the Korea Airports Corp. (KAC) and two other sites Tuesday to seize evidence related to their ongoing investigation into the 2024 Jeju Air plane crash that killed 179 people.…",
+    "body": "A special team handling the probe said its investigators were sent to the KAC, which oversees most major domestic airports excluding Incheon International Airport, the transport ministry and the Busan Regional Office of Aviation.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260811/police-raid-korea-airports-corp-transport-ministry-over-jeju-air-crash?utm_source=rss",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "AI Frankenstein debates kill switch",
+    "summary": "AI Frankenstein debates kill switch",
+    "body": "",
+    "url": "https://www.koreatimes.co.kr/opinion/20260811/ai-frankenstein-debates-kill-switch?utm_source=rss",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "date": "2026年8月10日"
   }
 ]
