@@ -817,5 +817,70 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/business/articles/2608/12/news012.html",
     "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「AI生成コンテンツ、実は嫌いではない」 だが「客の半分が去る」本当の理由",
+    "summary": "TWOSTONE＆SonsがBtoBの比較検討・発注担当者を対象とした意識調査結果を発表した。約9割がコンテンツに「AIっぽさ」を感じた経験があり、その後問い合わせや資料請求を取りやめたと回答する割合も示された。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news040.html",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "37兆円のSaaS支出が2030年までに「消える」 Gartnerが予測するエージェントAIの破壊力",
+    "summary": "Gartnerは、企業向けソフトウェアの支出のうち最大2340億ドル（約37兆円）が、エージェント型AIの影響にさらされるとの予測を発表した。従来型SaaSのシート課金モデルが崩れ、ユーザー数の増加と収益の増加が連動しなくなるという。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news044.html",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Presidential office labels N. Korea's missile launch as provocation, urges immediate halt",
+    "summary": "The presidential office on Wednesday held an emergency meeting to address North Korea's latest ballistic missile launch, describing it as a provocation and calling for an immediate halt to such…",
+    "body": "actions. The emergency security assessment meeting of Cheong Wa Dae's national security office came shortly after North Korea fired at least one ballistic missile toward the East Sea earlier Wednesday. The office discussed Seoul's responses to the missile launch, assessed its impact on national security and instructed officials to take necessary measures, Cheong Wa Dae said.…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260812/presidential-office-labels-n-koreas-missile-launch-as-provocation-urges-immediate-halt?utm_source=rss",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "ICE plans to give officers gloves that can deliver electric shocks",
+    "summary": "Immigration and Customs Enforcement officers may soon be outfitted with gloves that can deliver painful electric shocks intended to gain compliance from combative individuals.…",
+    "body": "ICE plans to spend up to $20 million to purchase thousands of “conductive distraction and de-escalation devices” for officers and agents by March, according to a notice published Monday by the Department of Homeland Security. The devices are known as the G.L.O.V.E., which stands for Generated Low Output Voltage Emitter, and are manufactured by Compliant Technologies LLC of Lexington, Kentucky.…",
+    "url": "https://www.koreatimes.co.kr/world/20260812/ice-plans-to-give-officers-gloves-that-can-deliver-electric-shocks?utm_source=rss",
+    "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "UN remains humanity's last hope",
+    "summary": "The year 2026 marks a profound turning point in the international order. The protracted war in Ukraine and the military confrontation in the Middle East surrounding Iran have destabilized vital…",
+    "body": "international maritime routes, including the Strait of Hormuz, posing a grave threat to international peace. On the Korean Peninsula, North Korea's nuclear and missile programs continue to undermine regional security. Meanwhile, tensions in the Taiwan Strait and the South China Sea continue to intensify, while deepening geopolitical divisions are disrupting the global economy and supply chains.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260812/un-remains-humanitys-last-hope?utm_source=rss",
+    "date": "2026年8月11日"
   }
 ]
