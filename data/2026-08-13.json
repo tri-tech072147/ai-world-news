@@ -739,5 +739,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/ibm-signs-240m-deal-nvidia-powered-ai-cluster",
     "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Architektur-Schwachstelle bei GPT-5, Claude und Gemini aufgedeckt",
+    "summary": "Über eine Sicherheitslücke lassen sich Abwägungsprotokolle von KI-Top-Systemen wie GPT-5 im Klartext auslesen – mithilfe kleinerer Modelle desselben Anbieters.",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/Verschluesselter-KI-Denkprozess-gehackt-Schwache-Modelle-verraten-Geheimnisse-11412087.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Fed expected to leave rates unchanged next month after soft inflation data",
+    "summary": "Federal Reserve policymakers are likely to feel little fresh urgency to raise interest rates in September after data on Wednesday showed inflation cooled on a year-over-year basis for a second…",
+    "body": "straight month, but they may take little comfort that monetary policy is tight enough to continue the easing trend. The Consumer Price Index rose 3.4 percent in the 12 months through July, down from 3.5 percent in June, the Bureau of Labor Statistics reported, in line with economists' expectations.…",
+    "url": "https://www.koreatimes.co.kr/world/20260813/fed-expected-to-leave-rates-unchanged-next-month-after-soft-inflation-data?utm_source=rss",
+    "date": "2026年8月12日"
   }
 ]
