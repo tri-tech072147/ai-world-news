@@ -882,5 +882,70 @@
     "body": "international maritime routes, including the Strait of Hormuz, posing a grave threat to international peace. On the Korean Peninsula, North Korea's nuclear and missile programs continue to undermine regional security. Meanwhile, tensions in the Taiwan Strait and the South China Sea continue to intensify, while deepening geopolitical divisions are disrupting the global economy and supply chains.…",
     "url": "https://www.koreatimes.co.kr/opinion/20260812/un-remains-humanitys-last-hope?utm_source=rss",
     "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Why does SK Hynix want to sell its chip facility in southwest China?",
+    "summary": "South Korean chipmaker SK Hynix’s potential deal to offload a packaging plant in southwest China is part of a strategic pivot towards higher-margin artificial intelligence (AI) memory products,…",
+    "body": "according to analysts. But a sale might not be straightforward, as the memory chip giant would need to navigate valuation hurdles and a volatile chip cycle, they cautioned. SK Hynix said on Monday it was “looking into various solutions to enhance the competitiveness of its packaging business”, after...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3363713/why-does-sk-hynix-want-sell-its-chip-facility-southwest-china?utm_source=rss_feed",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "GeminiアプリのMAUが10億人を突破 Googleで14番目の大台到達製品に",
+    "summary": "GoogleのGeminiアプリの月間アクティブユーザー数（MAU）が10億人を突破した。Google検索やWorkspaceなどの組み込み機能を除いたアプリ単体の数字で、同社として14番目の10億ユーザー到達製品となる。競合のChatGPTに続く大台達成で、iOSユーザー数や音声利用の比率なども公開された。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000500/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "The diagnosis is becoming free, the operation is not",
+    "summary": "AI will change medicine, but not in the way the easiest story suggests. The simple story says that everyone will soon have access to the kind of medical advice once available only to the wealthy: a…",
+    "body": "good differential diagnosis, an explanation of what might be wrong, and a list of questions to ask the doctor. [ ] The post The diagnosis is becoming free, the operation is not appeared first on e27.",
+    "url": "https://e27.co/the-diagnosis-is-becoming-free-the-operation-is-not-20260811/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "If AI can’t find your startup, does your startup exist?",
+    "summary": "Over the past few weeks, I ve noticed a rather interesting trend on social media. More and more founders, creators and professionals are opening ChatGPT, Gemini or Claude and asking the same…",
+    "body": "question: What do you know about me? At first, I thought it was just another viral trend. Then curiosity got the better of me, [ ] The post If AI can t find your startup, does your startup exist? appeared first on e27.",
+    "url": "https://e27.co/if-ai-cant-find-your-startup-does-your-startup-exist-20260806/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "The scarcity mindset is killing creativity, not AI",
+    "summary": "San Francisco is not short of AI conferences promising to reveal the future. Most deliver a parade of demos and a lot of vague optimism.…",
+    "body": "Upscale Conf, organised by Magnific (the Spanish company formerly known as Freepik), was different, not because it avoided the hype, but because the people on stage and in the hallway [ ] The post The scarcity mindset is killing creativity, not AI appeared first on e27.",
+    "url": "https://e27.co/the-scarcity-mindset-is-killing-creativity-not-ai-20260811/",
+    "date": "2026年8月12日"
   }
 ]
