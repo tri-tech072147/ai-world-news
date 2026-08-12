@@ -856,5 +856,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/mistral-aims-build-1gb-of-compute-capacity-2030",
     "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "結局、AIで仕事はラクになった？ データで読む「効率化＝成果」の勘違い",
+    "summary": "生成AIの利用が広がる一方、効率化と成果の間にはギャップも。企業のAI活用に関する調査データや事例をまとめた無償ブックレットを提供する。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2608/13/news024.html",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "SpaceXAI、「Grok 4.6」を発表 総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
+    "summary": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン当たり2ドルから。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "EU's 'battery passport' policy: Trade barrier or fresh opportunity for Korean players?",
+    "summary": "The European Union's (EU) battery passport regulation is set to reshape the competitive landscape in Europe’s battery market, potentially giving Korean manufacturers an edge over Chinese rivals with…",
+    "body": "weaker supply-chain transparency, experts and industry officials said Monday. Starting from Feb. 18, 2027, a new EU law will require batteries on the European market to carry detailed digital information covering their identity, technical characteristics, performance, durability, sustainability and recycling-related data.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260813/eus-battery-passport-policy-trade-barrier-or-fresh-opportunity-for-korean-players?utm_source=rss",
+    "date": "2026年8月12日"
   }
 ]
