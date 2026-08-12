@@ -908,5 +908,70 @@
     "body": "weaker supply-chain transparency, experts and industry officials said Monday. Starting from Feb. 18, 2027, a new EU law will require batteries on the European market to carry detailed digital information covering their identity, technical characteristics, performance, durability, sustainability and recycling-related data.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260813/eus-battery-passport-policy-trade-barrier-or-fresh-opportunity-for-korean-players?utm_source=rss",
     "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
+    "summary": "New owner is said to be involved in AI industry, as new class of multimillionaires is entering the real estate raceA luxury Lake Como-inspired estate in the San Francisco Bay Area has sold to a buyer…",
+    "body": "“in the AI world” for a record $70m, in the latest sign of a new tech wealth boom that’s pushing home prices to extraordinary heights in the regionThe property south of San Francisco not only becomes the most expensive sale in its affluent town of Hillsborough, doubling a previous record, but is also the most expensive sale in northern California this year, according to listing agent Jennifer…",
+    "url": "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIが数学の未解決問題「リーマン予想」で新発見 当初苦戦も「諦めないで」との励まし受け Anthropic「AIも自身を過小評価か」",
+    "summary": "「諦めないで」「自分を信じて」と励ましたおかげで、AIが数学の未解決問題「リーマン予想」に関する新発見をした――米Anthropicはこのような報告をした。「AIも自身の進歩の速さを過小評価していたのかもしれない」と指摘している。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000511/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「AIツール関連サイト」でサポート詐欺被害 PC遠隔操作で個人情報含む4000件のファイルが削除、漏えいの可能性も 葬祭事業者が発表",
+    "summary": "葬祭事業を手掛けるエスケーアイマネージメントは、AIツール関連サイトでサポート詐欺の被害に遭い、個人情報を含む約4000件のファイルが漏えいした可能性があると発表した。第三者によって業務用PCが遠隔操作されたという。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000513/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "OpenAIが明かす、ユーザーはChatGPTを「こう使っている」",
+    "summary": "AIが業務で利用される中、従来別の職種が担っていた仕事が持ち込まれるようになった。OpenAIはこれを「タスクの越境」と呼ぶ。具体的にどの職種、どのタスクで越境が起きているのか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news033.html",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "【注目記事まとめ】NEC、日立、富士通――Anthropicとの電撃的協業、その舞台裏 経営陣の狙いは？",
+    "summary": "NEC、日立製作所、富士通が相次いでAnthropicとの協業を発表した。その舞台裏とは。経営陣の狙いとは。注目の記事をまとめてお届けする。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/13/news025.html",
+    "date": "2026年8月12日"
   }
 ]
