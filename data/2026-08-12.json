@@ -1103,5 +1103,83 @@
     "body": "estimated arrival times. Singapore-based Ryde is now trying to improve that layer through a strategic partnership with HERE Technologies, the mapping [ ] The post Ryde taps HERE to improve ride-hailing routes and ETAs in Singapore appeared first on e27.",
     "url": "https://e27.co/ryde-taps-here-to-improve-ride-hailing-routes-and-etas-in-singapore-20260812/",
     "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chinese AI start-up ModelBest kicks off pre-IPO tutoring process for mainland listing",
+    "summary": "Chinese AI start-up ModelBest has kicked off its pre-initial public offering (IPO) tutoring process for a listing in mainland China, capitalising on growing demand for compact artificial intelligence…",
+    "body": "models that run locally on devices like smartphones and laptops, and in cars. The four-year-old company also appears to be banking on its small-model strategy to overcome China’s acute shortage of advanced American computing chips by training lightweight systems optimised for domestic...",
+    "url": "https://www.scmp.com/tech/article/3363762/chinese-ai-start-modelbest-kicks-pre-ipo-tutoring-process-mainland-listing?utm_source=rss_feed",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "SpaceXAI、AIエージェント「Grok Bot」発表 クラウド環境で常時稼働、GrokやCursorの有料ユーザー向けに",
+    "summary": "米SpaceXAIは8月11日（現地時間）、常時稼働型のAIエージェント「Grok Bot」（β版）を発表した。チャットでタスクを渡すとBotがアプリやWebサイトを操作して作業を進め、役割の異なる複数のBotを並列で働かせることもできる。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000506/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "中国発AIエージェント「Manus」、Metaから独立へ 中国政府が買収に反発、一部ユーザーデータは削除に",
+    "summary": "AIエージェント「Manus」を提供するManusは8月11日（現地時間）、独立企業としての運営をまもなく再開すると発表した。米Metaからの分離に伴い、一部ユーザーのデータを23日から削除するとして、事前のバックアップを呼び掛けている。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/12/2000000508/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "SK hynix to hold groundbreaking ceremony for Indiana chip packaging plant on Aug. 27",
+    "summary": "SK hynix will hold a formal groundbreaking ceremony for its new semiconductor packaging plant in the U.S. state of Indiana on Aug. 27, industry sources said Wednesday.…",
+    "body": "The Korean chipmaker has announced plans to invest $3.87 billion into its first U.S. advanced packaging and research and development (R D) facility in West Lafayette, Indiana, to produce high bandwidth memory (HBM) chips for artificial intelligence (AI) applications.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260812/sk-hynix-to-hold-groundbreaking-ceremony-for-indiana-chip-packaging-plant-on-aug-27?utm_source=rss",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "[PHOTO] Power supply deal for chip clusters",
+    "summary": "From left, Kim Yong-kwan, president of management strategy at Samsung Electronics' Device Solutions division, Gwangju Mayor Min Hyung-bae, Climate Minister Kim Sung-whan, KEPCO CEO Kim Dong-cheol and…",
+    "body": "Yeom Seong-jin, president of SK hynix's communications division, pose after signing a power supply deal for the planned chip clusters in Yongin, Gyeonggi Province, and Jeonnam-Gwangju Special Metropolitan City at KEPCO's office in Seoul, Wednesday.…",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260812/photo-power-supply-deal-for-chip-clusters?utm_source=rss",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "👨🏿‍🚀TechCabal Daily – Kenya’s new Internet bouncers",
+    "summary": "In today's edition: Kenya’s cyber cafes are becoming data collectors Uber discontinues UberX in South Africa BRICS wants faster cross-border payments South Africa’s central bank takes over the…",
+    "body": "payment rail",
+    "url": "https://techcabal.com/2026/08/12/techcabal-daily-kenyas-new-internet-bouncers/",
+    "date": "2026年8月12日"
   }
 ]
