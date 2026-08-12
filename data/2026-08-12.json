@@ -947,5 +947,83 @@
     "body": "Upscale Conf, organised by Magnific (the Spanish company formerly known as Freepik), was different, not because it avoided the hype, but because the people on stage and in the hallway [ ] The post The scarcity mindset is killing creativity, not AI appeared first on e27.",
     "url": "https://e27.co/the-scarcity-mindset-is-killing-creativity-not-ai-20260811/",
     "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "NVIDIAが30Bのオープンモデル公開 「OpenClaw」など常時稼働エージェント向けに設計",
+    "summary": "NVIDIAが30Bのオープンモデル「Nemotron 3.5 Lightning」を公開。「OpenClaw」など常時稼働エージェント向けに設計し、「gpt-oss-120b」同等の性能を約4分の1の規模で実現するという。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Senior OpenAI executive Brad Lightcap to leave for new venture",
+    "summary": "In response to Lightcap’s post, OpenAI CEO Sam Altman said he was “excited to work together on ‌what’s next.”",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/senior-openai-executive-brad-lightcap-to-leave-for-new-venture/article71334924.ece",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "KRX activates buy-side sidecar for KOSPI on sharp rise",
+    "summary": "Korea's bourse operator on Wednesday activated a buy-side sidecar for the benchmark Korea Composite Stock Price Index (KOSPI) as the stock index sharply rose, led by a chip rally.…",
+    "body": "Program trading for the KOSPI-listed shares was suspended for five minutes at 11:57 a.m., according to the Korea Exchange (KRX). After opening 1.47 percent higher, the KOSPI rose 315.69 points, or 4.97 percent, to 6,661.22 as of 12:15 p.m. The stock rise came as semiconductor shares gained ground despite overnight losses on Wall Street.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260812/krx-activates-buy-side-sidecar-for-kospi-on-sharp-rise?utm_source=rss",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "A day in the life of a retiree",
+    "summary": "One of my favorite songs is \"My Way,\" sung by Frank Sinatra. The song's quiet dignity in facing the closing chapter of life resonates deeply with me and often leads me to reflect on my own journey.…",
+    "body": "Unlike the man in the song, however, I cannot claim that I have lived entirely my own way. Nor can I say that I have no regrets. My greatest regret is that I have few fond memories of my youth. Born into a poverty-stricken and socially unstable country, I spent my formative years amid hardship and uncertainty.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260812/a-day-in-the-life-of-a-retiree?utm_source=rss",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "From chatbots to payment agents: AI’s next role in SEA commerce",
+    "summary": "For years, artificial intelligence in business has been discussed in sweeping terms: faster decisions, fewer manual tasks, smarter operations.…",
+    "body": "But in payments, where errors can be expensive and compliance failures can be severe, the harder question has always been more practical: what does AI actually do once it is plugged into real workflows? A new [ ] The post From chatbots to payment agents: AI s next role in SEA commerce appeared first on e27.",
+    "url": "https://e27.co/from-chatbots-to-payment-agents-ais-next-role-in-sea-commerce-20260812/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Sovereign AI starts long before the AI model",
+    "summary": "Over the past year, I ve noticed something interesting. Infrastructure discussions have started sounding very different.…",
+    "body": "Not because the technology has fundamentally changed—we re still talking about cloud architecture, APIs, data platforms, and security—but because entirely new questions have entered the room. Instead of debating latency, scalability, or cost optimisation, we re increasingly discussing where data can legally [ ] The post Sovereign AI starts long before the AI model appeared first on e27.",
+    "url": "https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/",
+    "date": "2026年8月12日"
   }
 ]
