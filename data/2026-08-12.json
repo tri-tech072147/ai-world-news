@@ -1376,5 +1376,57 @@
     "body": "modular reactors (SMRs), industry sources said Wednesday. It would mark their first meeting in seven months since they met on the sidelines of the World Economic Forum in Davos, Switzerland. The meeting comes as HD Hyundai, Korea's leading shipbuilding group, and TerraPower, which specializes in advanced nuclear energy technology, have been expanding cooperation in the SMR sector.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260812/hd-hyundai-chairman-bill-gates-to-meet-friday-to-discuss-smr-cooperation-sources?utm_source=rss",
     "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Fund backed by China memory giant YMTC invests in push for alternative chipmaking route",
+    "summary": "A venture capital fund backed by Yangtze Memory Technologies Corp (YMTC), China’s top producer of NAND flash memory, has taken a stake in domestic semiconductor manufacturer SOI Micro, adding a…",
+    "body": "high-profile investor to the country’s push for an alternative chipmaking ecosystem. Led by a prominent figure in China’s semiconductor industry, SOI Micro is focused on developing fully depleted silicon-on-insulator (FD-SOI) technology – a low-power chipmaking technology that offers a complementary route...",
+    "url": "https://www.scmp.com/tech/article/3363797/fund-backed-china-memory-giant-ymtc-invests-push-alternative-chipmaking-route?utm_source=rss_feed",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: iX-Workshop: Einführung in die SAP Business Technology Platform (BTP)",
+    "summary": "Lernen Sie, wie Sie mit SAP BTP Anwendungen entwickeln, Schnittstellen integrieren und Geschäftsprozesse optimieren.",
+    "body": "",
+    "url": "https://www.heise.de/news/iX-Workshop-Einfuehrung-in-die-SAP-Business-Technology-Platform-BTP-11389387.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Putin threatens retaliation for Western seizures of Russian commercial vessels",
+    "summary": "MOSCOW — Russian President Vladimir Putin on Wednesday threatened retaliation for Western seizures of its commercial vessels , describing them as “piracy.” Speaking on a visit to a Russian warship…",
+    "body": "that was taking part in a naval exercise in the Pacific, Putin described the Western moves to detain vessels linked to Russia as a breach of international maritime law. “It’s nothing but piracy and robbery,” Putin said.…",
+    "url": "https://www.koreatimes.co.kr/world/20260812/putin-threatens-retaliation-for-western-seizures-of-russian-commercial-vessels?utm_source=rss",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "How the US Ban on Chinese Humanoid Robots Could Affect the Industry",
+    "summary": "The restrictions could accelerate supply-chain diversification, but analysts say the impact on the still-emerging humanoid market will be limited in the near term.",
+    "body": "",
+    "url": "https://aibusiness.com/robotics/how-us-ban-chinese-humanoid-robots-could-affect-the-industry",
+    "date": "2026年8月11日"
   }
 ]
