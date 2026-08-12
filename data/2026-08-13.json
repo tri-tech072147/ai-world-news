@@ -804,5 +804,57 @@
     "body": "",
     "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
     "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "メルカリが明かす「Claude Code全社展開」「シャドーAI対策」を支える仕組み",
+    "summary": "「AIを使わない選択自体がビジネスリスク」と断言するメルカリ。同社は2026年5月、「Claude Code」「Claude Cowork」の全社展開に踏み切った。だが、ローカルファイルの操作やOSコマンドまで実行できる強力なツールの配布は、ガバナンスの課題も伴う。全社のAI活用を支える同社の「仕組み」に迫る。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news002.html",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "［Python］Polars公式が「全部書き換えるな」と言う理由 pandasからの移行、3戦略",
+    "summary": "Polars公式が、pandasからPolarsへの移行戦略を3つに整理した記事を公開した。区間ごとに移す手順を整理しつつ、AIに任せれば片付くのかという疑問についても筆者の見解を述べる。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/13/news008.html",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Mistral Aims to Build 1GB of Compute Capacity by 2030",
+    "summary": "The Paris-based vendor continues to build European AI infrastructure.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/mistral-aims-build-1gb-of-compute-capacity-2030",
+    "date": "2026年8月12日"
   }
 ]
