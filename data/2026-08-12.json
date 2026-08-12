@@ -1025,5 +1025,83 @@
     "body": "Not because the technology has fundamentally changed—we re still talking about cloud architecture, APIs, data platforms, and security—but because entirely new questions have entered the room. Instead of debating latency, scalability, or cost optimisation, we re increasingly discussing where data can legally [ ] The post Sovereign AI starts long before the AI model appeared first on e27.",
     "url": "https://e27.co/sovereign-ai-starts-long-before-the-ai-model-20260811/",
     "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Rekord für Google-Dienst: Gemini erreicht eine Milliarde monatliche Nutzer",
+    "summary": "Als 14. Produkt von Google kommt Gemini jetzt auf eine Milliarde Nutzer und Nutzerinnen im Monat. Dabei läuft es bei der KI-Technik nicht mehr reibungslos.",
+    "body": "",
+    "url": "https://www.heise.de/news/Rekord-fuer-Google-Dienst-Gemini-erreicht-eine-Milliarde-monatliche-Nutzer-11410799.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "24時間働く“AI同僚”「Grok Bot」公開 業務アプリにログインして操作、「仕事を任せられる」",
+    "summary": "Botが業務アプリにサインインして人間の操作と同じ手順で画面を動かし、仕事を最後まで仕上げるという。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000505/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "ChatGPTデスクトップアプリにLinux版 「お待たせ。MacBookはキャンセルしていいよ」",
+    "summary": "プレビュー版だが「待ちきれずにMacBookを注文してしまったなら、キャンセルしていい。それくらい出来がいい」という。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000504/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea Insurance Institute's AI joint venture draws industry scrutiny",
+    "summary": "An artificial intelligence (AI) joint venture pushed by the Korea Insurance Institute has drawn criticism from insurance industry officials, with questions raised over its legality and business…",
+    "body": "rationale, according to officials, Wednesday. Since Ha Tae-keung, the former lawmaker, took over as president in 2024, the institute has developed three AI-based education tools: a sales coach for training insurance agents, a system that generates questions for insurance qualification exams and an AI-powered learning experience platform.…",
+    "url": "https://www.koreatimes.co.kr/business/20260812/korea-insurance-institutes-ai-joint-venture-draws-industry-scrutiny?utm_source=rss",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Does the US$1,780 support zone hold the key to a US$2,200 Ethereum rally",
+    "summary": "Ethereum developers are pursuing an aggressive technical roadmap to secure the blockchain against future computational threats while vastly improving transaction throughput.…",
+    "body": "The primary objective is to achieve a processing capacity of 10,000 transactions per second. This massive scalability upgrade runs parallel to a comprehensive integration of quantum safety measures. Network architects recognise that the advancement [ ] The post Does the US$1,780 support zone hold the key to a US$2,200 Ethereum rally appeared first on e27.",
+    "url": "https://e27.co/does-the-us1780-support-zone-hold-the-key-to-a-us2200-ethereum-rally-20260812/",
+    "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Ryde taps HERE to improve ride-hailing routes and ETAs in Singapore",
+    "summary": "In a city where a five-minute delay can be the difference between keeping or losing a customer, ride-hailing is often won in the invisible layer behind the app: maps, traffic data, dispatch logic and…",
+    "body": "estimated arrival times. Singapore-based Ryde is now trying to improve that layer through a strategic partnership with HERE Technologies, the mapping [ ] The post Ryde taps HERE to improve ride-hailing routes and ETAs in Singapore appeared first on e27.",
+    "url": "https://e27.co/ryde-taps-here-to-improve-ride-hailing-routes-and-etas-in-singapore-20260812/",
+    "date": "2026年8月12日"
   }
 ]
