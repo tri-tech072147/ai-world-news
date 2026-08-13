@@ -687,5 +687,44 @@
     "body": "",
     "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
     "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Massachusetts teen accused of killing mother and brother used ChatGPT",
+    "summary": "District attorney says Arjun Aravind, 17, used internet and AI to search for fantasy stories regarding killing of his familyA Massachusetts teenager accused of killing his mother and younger brother…",
+    "body": "is being held without bail as authorities investigate a double-murder case that prosecutors say is connected to his use of ChatGPT.Arjun Aravind, 17, appeared Thursday morning for his arraignment in Concord district court, where a not-guilty plea was entered on his behalf to murder and several additional charges. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2026/aug/13/massachusetts-teen-killing-chatgpt",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Neue KI-Modelle: Gemini 3.7 Flash und DeepSeek V4-Pro im Vergleich",
+    "summary": "Google bringt Gemini 3.7 Flash, OpenAI beschleunigt GPT-5.6 Sol mit Ultrafast, DeepSeek V4-Pro kommt mit Zeitzonen-Tarif.",
+    "body": "",
+    "url": "https://www.heise.de/news/Google-und-DeepSeek-veroeffentlichen-neue-Flash-und-Pro-Modelle-11413510.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月13日"
   }
 ]
