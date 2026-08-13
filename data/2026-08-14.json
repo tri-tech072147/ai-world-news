@@ -622,5 +622,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/grok-4-6-out-undercutting-ai-prices-rivals",
     "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+    "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "S&P 500 hits record high as rate-hike worries ease",
+    "summary": "The S P 500 climbed to a record high on Thursday, fueled by advances in Sandisk and other heavyweight technology stocks, as tame producer price inflation data supported expectations the Federal…",
+    "body": "Reserve will not raise interest rates at its September meeting. Memory chip makers Sandisk and Micron Technology surged 16 percent and 6.7 percent, respectively. Broadcom added 1.3 percent and Meta Platforms rose 2.8 percent. Strong forecasts in recent weeks from companies including Microsoft and Amazon have reduced investors' concerns about massive spending on AI data centers.…",
+    "url": "https://www.koreatimes.co.kr/world/20260814/sp-500-hits-record-high-as-rate-hike-worries-ease?utm_source=rss",
+    "date": "2026年8月13日"
   }
 ]
