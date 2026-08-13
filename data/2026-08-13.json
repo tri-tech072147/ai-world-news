@@ -1246,5 +1246,83 @@
     "body": "",
     "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
     "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "DeepSeek’s updated V4 Pro AI model struggles on benchmarks, shines in cybersecurity",
+    "summary": "Chinese artificial intelligence start-up DeepSeek has quietly released DeepSeek-V4-Pro-0813, an updated version of its latest flagship model, leaving some developers underwhelmed by its overall…",
+    "body": "capabilities and disappointed in its pricing – but impressing researchers in niche areas like cybersecurity. The stealth update to April’s preview version came with a brief statement on DeepSeek’s official website on Wednesday, noting that the model offered “significantly enhanced agent capabilities”, but...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3363895/deepseeks-updated-v4-pro-ai-model-struggles-benchmarks-shines-cybersecurity?utm_source=rss_feed",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Amazon is using Twitch to train generative AI",
+    "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: data2day 2026: Agentic AI, Datenarchitekturen und „Women in Tech“ in Köln",
+    "summary": "Im Fokus der data2day stehen eine Keynote von Dr. Constanze Kurz, agentische KI-Systeme, Datenkontrakte und moderne Lakehouse-Architekturen sowie Governance.",
+    "body": "",
+    "url": "https://www.heise.de/news/data2day-2026-Agentic-AI-Datenarchitekturen-und-Women-in-Tech-in-Koeln-11403636.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Google、「Gemini」開発遅延で焦りか 共同創業者ブリン氏が“全力投球”促す",
+    "summary": "Google共同創業者ブリン氏が、AI部門の従業員に「Gemini」へ全力を注ぐよう促していたという。旗艦モデルは競合への後れで公開が2カ月延期。「再帰的自己改善」への資源配分も進めている。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "PPP files constitutional complaint against revision to Criminal Procedure Act",
+    "summary": "The main opposition People Power Party (PPP) on Thursday filed a constitutional complaint against a recent legal revision abolishing prosecutors' authority to conduct direct investigations, calling…",
+    "body": "it a measure that dismantles the country's criminal justice system. The move came amid concerns that scrapping the prosecution's investigative authority under the revision to the Criminal Procedure Act could conflict with their constitutionally recognized authority to request warrants.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260813/ppp-files-constitutional-complaint-against-revision-to-criminal-procedure-act?utm_source=rss",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Chip rally lifts KOSPI 3.56% in 4th straight gain",
+    "summary": "KOSPI surged 3.56 percent Thursday, extending its winning streak to four sessions as sharp gains in semiconductor heavyweights kept the index in positive territory.…",
+    "body": "The benchmark KOSPI closed at 6,813.34, up 3.56 percent from the previous session. The index opened 2.96 percent higher and extended its gains throughout the session. Foreign and institutional investors bought a net 2.1 trillion won ($1.47 billion) and 680.9 billion won worth of shares, respectively. Retail investors, however, sold a net 2.73 trillion won worth of shares amid profit-taking.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260813/chip-rally-lifts-kospi-356-in-4th-straight-gain?utm_source=rss",
+    "date": "2026年8月13日"
   }
 ]
