@@ -726,5 +726,57 @@
     "body": "",
     "url": "https://www.heise.de/news/Google-und-DeepSeek-veroeffentlichen-neue-Flash-und-Pro-Modelle-11413510.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "“梅干し職人”のためツール自作 老舗漬物店のClaude活用、「チャット+コピペ」で成果を出せたワケ",
+    "summary": "明治創業の老舗漬物店が、AI活用で成果を出している。Claudeを活用して「梅干し職人向けツール」などを開発。PCが苦手な人にも使いやすいツールをどのように作っているのか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/14/news053.html",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "小田原の老舗梅干し店、世界で稼ぐ――「この外国人は何を言っているんだ」から逆転、築いた“売れる仕組み”",
+    "summary": "小田原の老舗梅干し店がビジネス変革を成し遂げた。主導したのはドイツ出身のゾェルゲルさん。数々の課題をどう乗り越えたのか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/14/news019.html",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格",
+    "summary": "Googleは、コーディングやエージェント用途に特化したAIモデル「Gemini 3.7 Flash」を発表した。前モデルからわずか3週間での投入だ。従来比半額の導入価格で提供し、個人向けエージェント機能「Gemini Spark」など各種プロダクトへ適用される。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "[WEEKENDER] Can AI guide tourists through Korean history?",
+    "summary": "Artificial intelligence (AI)-assisted travel often has a goal of finding cheaper flight tickets or affordable accommodation options.…",
+    "body": "Recently, however, an acquaintance of mine living in Seattle reached out, asking for advice on planning her upcoming trip to Korea. She confessed to relying heavily on generative AI. Seeking an immersive “time-travel” itinerary that would take her to important historical sites related to late 19th and early 20th century events, she asked Google Gemini to craft a one-day historical tour through…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260814/weekender-can-ai-guide-tourists-through-korean-history?utm_source=rss",
+    "date": "2026年8月13日"
   }
 ]
