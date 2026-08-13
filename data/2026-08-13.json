@@ -973,5 +973,31 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/business/articles/2608/13/news025.html",
     "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul shares open sharply higher on chip rally",
+    "summary": "Korean shares opened sharply higher Thursday, led by gains in major chipmakers, tracking an overnight gains in U.S. technology stocks.…",
+    "body": "After opening 2.96 percent higher, the benchmark Korea Composite Stock Price Index (KOSPI) traded up 290.02 points, or 4.41 percent, at 6,869.06 as of 9:15 a.m. The benchmark Korea Composite Stock Price Index (KOSPI) opened 194.88 points, or 2.96 percent, higher at 6,773.92. Overnight, U.S. stocks tied to the artificial intelligence technology sector rose.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260813/seoul-shares-open-sharply-higher-on-chip-rally?utm_source=rss",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "The language tax: Why AI skips your startup when buyers ask in Thai",
+    "summary": "AI assistants answer in fluent Thai, Vietnamese and Bahasa Indonesia, but they only recommend companies that exist in those languages sources. Most expanding startups do not. Run a quick experiment.…",
+    "body": "Ask ChatGPT, in English, for the best providers in your category in Thailand. If you have done the visibility work, your company shows up. Now [ ] The post The language tax: Why AI skips your startup when buyers ask in Thai appeared first on e27.",
+    "url": "https://e27.co/the-language-tax-why-ai-skips-your-startup-when-buyers-ask-in-thai-20260812/",
+    "date": "2026年8月13日"
   }
 ]
