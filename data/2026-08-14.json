@@ -531,5 +531,70 @@
     "body": "Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the technology has a firm limit, and Sam Mahalingam, [ ] The post The limits of physics AI: where Siemens says the human stays in charge appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
     "date": "2026年8月10日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+    "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "An AI agent for all? Try using your brain, Mark Zuckerberg | Brief letters",
+    "summary": "Meta AI | Future Guardian writers and Neets | Food for thought | Plants surviving the heat | Living and dying wellYour article (Zuckerberg pushes ‘superintelligent’ AI for all as Meta releases…",
+    "body": "open-weight model, 10 August) quotes Mark Zuckerberg as saying: “Everyone will have an exceptionally capable personal agent that understands you, your goals, and everything you care about. You’ll be able to interact with your agent through any device, including your glasses.” He is wasting his time, as we already have one – it’s called “your brain”.Peter WallisNorth Luffenham, Rutland• I agree…",
+    "url": "https://www.theguardian.com/technology/2026/aug/13/an-ai-agent-for-all-try-using-your-brain-mark-zuckerberg",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | So wird Claude zum persönlichen Assistenten: Tipps für die Einrichtung",
+    "summary": "Claude merkt sich Vorlieben und Regeln über einzelne Chats hinaus. Wie Sie den Chatbot einrichten, damit er nicht bei jedem Chat von vorn anfängt.",
+    "body": "",
+    "url": "https://www.heise.de/ratgeber/Claude-personalisieren-Gedaechtnis-Anweisungen-und-Projekte-einrichten-11362510.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Bill Gates in Korea to discuss cooperation in next-generation nuclear reactors",
+    "summary": "SEOUL — American billionaire and founder of TerraPower Bill Gates arrived in South Korea on Thursday to meet with political and business leaders to discuss cooperation on next-generation nuclear…",
+    "body": "reactors. Gates, who also chairs the Gates Foundation, landed aboard a private jet at Gimpo International Airport in western Seoul at around 9:20 p.m., according to people close to the matter. He last visited Seoul just about a year ago.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/20260814/bill-gates-in-korea-to-discuss-cooperation-in-next-generation-nuclear-reactors?utm_source=rss",
+    "date": "2026年8月13日"
   }
 ]
