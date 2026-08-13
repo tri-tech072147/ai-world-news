@@ -596,5 +596,31 @@
     "body": "reactors. Gates, who also chairs the Gates Foundation, landed aboard a private jet at Gimpo International Airport in western Seoul at around 9:20 p.m., according to people close to the matter. He last visited Seoul just about a year ago.…",
     "url": "https://www.koreatimes.co.kr/southkorea/20260814/bill-gates-in-korea-to-discuss-cooperation-in-next-generation-nuclear-reactors?utm_source=rss",
     "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "summary": "Dali Rajic will take over as OpenAI's top salesperson.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Grok 4.6 is Out, Undercutting AI Prices of Rivals",
+    "summary": "SpaceXAI’s new model focuses on long-running tasks, while remaining competitively priced compared to other frontier models.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/grok-4-6-out-undercutting-ai-prices-rivals",
+    "date": "2026年8月13日"
   }
 ]
