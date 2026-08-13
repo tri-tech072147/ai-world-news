@@ -778,5 +778,44 @@
     "body": "Recently, however, an acquaintance of mine living in Seattle reached out, asking for advice on planning her upcoming trip to Korea. She confessed to relying heavily on generative AI. Seeking an immersive “time-travel” itinerary that would take her to important historical sites related to late 19th and early 20th century events, she asked Google Gemini to craft a one-day historical tour through…",
     "url": "https://www.koreatimes.co.kr/lifestyle/trends/20260814/weekender-can-ai-guide-tourists-through-korean-history?utm_source=rss",
     "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Unemployed young people to join AI boot camps to get job-ready",
+    "summary": "Pilot scheme will provide three weeks of training as part of UK government’s latest attempt to address Neets crisisYoung people out of work or at risk of unemployment in the UK are to join “AI boot…",
+    "body": "camps” where they harness the technology to get a foothold in the workplace.The government’s latest attempt to address the crisis in Neets – young people not in work or education – involves turning to a technology that many view as a potential threat to employment. Continue reading...",
+    "url": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "南海電鉄「数カ月かかった乗務員計画」が1週間に 「量子コンピュータを疑似再現」で鉄道現場はどう変わる？",
+    "summary": "南海電気鉄道と日立製作所は、日立独自技術「CMOSアニーリング」を活用し、鉄道の乗務員・車両の運用計画を自動作成するシステムの構築を始める。熟練者の手作業に依存してきた計画づくりを自動化し、業務負荷の軽減を図る。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "データセンターが“アツい”――「潜入レポート」「フジクラ取材」など注目記事5選（2026年前半版）",
+    "summary": "データセンターが“ホットなテーマ”だ。AI時代のデータセンターとは一体どのようなものなのか。潜入記事やフジクラ取材記事など、お薦め記事をまとめた。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/14/news040.html",
+    "date": "2026年8月13日"
   }
 ]
