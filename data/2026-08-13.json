@@ -1545,5 +1545,31 @@
     "body": "and impersonate executives and public figures. Deepfake incidents increased sevenfold between the second and fourth quarters of 2024.",
     "url": "https://techcabal.com/2026/08/13/africa-cybercriminals-adopting-ai-institutions-them/",
     "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Mark Zuckerberg says the future of AI is for everyone. But who owns it?",
+    "summary": "It’s a nice sentiment, but all AI users should ask three questions about their preferred choice of AI platformOn Monday, Mark Zuckerberg published a 6,500-word essay, The Future Is for Everyone.…",
+    "body": "The essay came with something even rarer: a new Meta open-weight model. An open-weight AI model is the kind of AI with which you download the entire thing, and it works on your own computer (with or without the internet) and nobody can switch it off except for you. Almost every mainstream AI tool you use, whether it be Gemini, ChatGPT or Claude, is one you rent access to.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Hilfestellung: BSI gibt technische Richtlinie zum Cyber Resilience Act frei",
+    "summary": "Die „Allgemeinen Anforderungen“ sollen Orientierung für Hersteller vernetzter Produkte schaffen. Auf Anfrage erhalten Unternehmen weitere Handreichungen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Cyber-Resilience-Act-BSI-veroeffentlicht-1-0-der-TR-03183-11413010.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月13日"
   }
 ]
