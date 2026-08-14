@@ -1259,5 +1259,44 @@
     "body": "TerraPower’s board chairman, who has been holding meetings with the groups' heads and top government officials in Korea. HD Hyundai said its Chairman Chung Ki-sun and Hyundai E C CEO Lee Han-woo met Gates and TerraPower CEO Chris Levesque at a hotel in Seoul on Friday.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260814/hd-hyundai-sk-join-bill-gates-terrapower-for-smr-biz?utm_source=rss",
     "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Launch of DeepSeek’s Harness marks its strategic pivot towards autonomous agentic AI",
+    "summary": "Chinese artificial intelligence company DeepSeek is venturing into a new battleground beyond large language models, launching a developer preview of its long-anticipated Harness – a software…",
+    "body": "framework that helps developers turn AI models into autonomous agents. The release on Thursday marks a strategic pivot as DeepSeek moves to build foundational digital scaffolding for AI agents – systems capable of using AI models to operate external software, run code, and complete complex jobs on their...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3364082/launch-deepseeks-harness-marks-its-strategic-pivot-towards-autonomous-agentic-ai?utm_source=rss_feed",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Zhipu launches flagship model GLM-5.3 as China seeks Mythos-level edge in cyber defence",
+    "summary": "Chinese artificial intelligence firm Zhipu, also known as Z.ai, has unveiled its flagship GLM-5.3 model, saying it beat Anthropic’s frontier Mythos 5 model in a key cybersecurity test, as China races…",
+    "body": "to counter Western advances in AI defence. Beijing-based Zhipu said GLM-5.3 achieved a success rate of 84.5 per cent on CyberGym, a benchmark that measures whether models can identify and validate security flaws from source code. That was above Anthropic’s Mythos at 83.8 per cent and OpenAI’s...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3364077/zhipu-launches-flagship-model-glm-53-china-seeks-mythos-level-edge-cyber-defence?utm_source=rss_feed",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Samsung Electronics spends record $19 bil. on R&D in H1",
+    "summary": "Samsung Electronics spent a record 27.3 trillion won ($19 billion) on research and development activities in the first half of 2026, its regulatory filing showed Friday.…",
+    "body": "The South Korean tech giant's R D spending for the January-June period marks a 51.5 percent rise from the previous year's 18.06 trillion won, setting a record high for the six-month period. Samsung Electronics also spent 28 trillion won on facility investment in the first half, setting a fresh high for the period and rising nearly 5 trillion won from a year earlier.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260814/samsung-electronics-spends-record-19-bil-on-rd-in-h1?utm_source=rss",
+    "date": "2026年8月14日"
   }
 ]
