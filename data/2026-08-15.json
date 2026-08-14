@@ -609,5 +609,31 @@
     "body": "The pressure is particularly visible around Zero-day vulnerabilities, a recent Minimus analysis considers how container composition, dependency records and rebuild speed affect the response after an unknown flaw is exposed. Faster analysis helps only [ ] The post How AI is changing the vulnerability response timeline appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-the-vulnerability-response-timeline/",
     "date": "2026年8月11日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+    "summary": "Users of the popular streaming platform criticised allowing Amazon to use their data by dafault.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026年8月13日"
   }
 ]
