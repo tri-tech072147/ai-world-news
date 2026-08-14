@@ -1350,5 +1350,57 @@
     "body": "information. Under a multiyear agreement, data from Abbott’s Lingo continuous glucose monitor will be integrated into the Google Health app. Users will be able to view glucose trends alongside [ ] The post Google AI health coach to use Abbott glucose data appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
     "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Microsoft retreats in China, but AI boom helps it keep a window open",
+    "summary": "Microsoft ultimately decided to remain because it had carved out a profitable business servicing Chinese companies like TikTok owner ByteDance",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/microsoft-retreats-in-china-but-ai-boom-helps-it-keep-a-window-open/article71343964.ece",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Prompt: Wall Street Is Coming for AI Infrastructure",
+    "summary": "What AI infrastructure’s transformation into an investable asset class means for the next stage of enterprise AI.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/prompt-wall-street-coming-for-ai-infrastructure",
+    "date": "2026年8月14日"
   }
 ]
