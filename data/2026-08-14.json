@@ -817,5 +817,70 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/business/articles/2608/14/news040.html",
     "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
+    "summary": "When Beijing-based neurosurgeon Jin Shanmu pulled up a chair at his computer, he was not looking to make mathematical history. He was simply trying to crack a problem related to brain ultrasounds.…",
+    "body": "Instead, the self-taught maths enthusiast, with help from OpenAI’s latest flagship artificial intelligence (AI) model, solved a two-decade-old mathematical puzzle that had frustrated experts around the world since 2004. Jin, a postdoctoral researcher and resident at the Peking Union Medical College...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3363966/chinese-doctor-stuns-maths-world-cracking-decades-old-problem-using-chatgpt?utm_source=rss_feed",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
+    "summary": "Anthropicは、複数のAIエージェントが同じ環境で働くとどうなるかを検証した実験結果を公開した。互いを妨害し合う“縄張り争い”や、示し合わせたような価格カルテル、全員が同じ判断をして資源を食い潰す現象などが確認された。個々のAIを安全にするだけでは防げない問題があると警告している。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "The hidden problem inside AI teams isn’t skills — it’s the human environment",
+    "summary": "A few weeks ago, an SME CEO shared his frustration with me over coffee. His company had invested heavily in AI tools over the past year. Licences were purchased. Teams attended workshops.…",
+    "body": "Managers were instructed to integrate AI into workflows. Like many businesses today, the organisation moved quickly because it feared falling behind. Yet despite [ ] The post The hidden problem inside AI teams isn’t skills — it’s the human environment appeared first on e27.",
+    "url": "https://e27.co/the-hidden-problem-inside-ai-teams-isnt-skills-its-the-human-environment-20260809/",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Europe’s AI rules may become India’s opportunity",
+    "summary": "India could build an industry around the paperwork and proof required under the European Union’s Artificial Intelligence (AI) Act",
+    "body": "",
+    "url": "https://www.thehindu.com/opinion/op-ed/europes-ai-rules-may-become-indias-opportunity/article71342087.ece",
+    "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Anthropic watermarking Claude AI content | Explained",
+    "summary": "While many regulators want AI content to be more clearly labelled, Claude users are worried about the risks of their written work being flagged as AI",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropic-watermarking-claude-ai-content-explained/article71339909.ece",
+    "date": "2026年8月13日"
   }
 ]
