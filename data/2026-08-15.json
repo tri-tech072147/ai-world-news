@@ -635,5 +635,31 @@
     "body": "",
     "url": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
     "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres",
+    "summary": "‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force saysPolice in Scotland have issued a stark public warning about the need for “robust security…",
+    "body": "measures” to stop proposed AI datacentres from being attacked by protesters.The alert follows mounting opposition to AI infrastructure worldwide, including in the US, where such projects have become a major political rallying point. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "What is Antigravity and why does it matter?",
+    "summary": "Google Antigravity explained: what the agentic development platform is, how AI agents work, and why it matters for the future of coding.",
+    "body": "",
+    "url": "https://techcabal.com/2026/08/14/antigravity-explained/",
+    "date": "2026年8月14日"
   }
 ]
