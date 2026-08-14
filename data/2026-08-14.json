@@ -1298,5 +1298,57 @@
     "body": "The South Korean tech giant's R D spending for the January-June period marks a 51.5 percent rise from the previous year's 18.06 trillion won, setting a record high for the six-month period. Samsung Electronics also spent 28 trillion won on facility investment in the first half, setting a fresh high for the period and rising nearly 5 trillion won from a year earlier.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260814/samsung-electronics-spends-record-19-bil-on-rd-in-h1?utm_source=rss",
     "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "As online dating goes into ‘salvage mode’, can AI solve all its problems?",
+    "summary": "Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ growsBumble was supposed to be different.…",
+    "body": "When it launched in 2014, it offered women a simple proposition: if you matched with a man, you had to make the first move. The rule was meant to make online dating safer and less intimidating, while giving women control over who got to speak first.This week, Bumble abandoned it. Continue reading...",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/aug/14/online-dating-salvage-mode--ai-bumble-app",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "OpenAI plant neues Büro in Berlin – KI-Ausbau in Deutschland",
+    "summary": "OpenAI möchte mit einem neuen Berliner Büro in Deutschland richtig durchstarten. Was Firmenchef Altman über deutsche KI-Pläne und Datenschutz sagt.",
+    "body": "",
+    "url": "https://www.heise.de/news/OpenAI-plant-neues-Buero-in-Berlin-KI-Ausbau-in-Deutschland-11414435.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "After Moonshot’s Kimi K3, U.S. AI rivals launch new models and upgrades",
+    "summary": "Google and Meta both released new models this week, even as U.S. users wait for an open-weight model breakthrough",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/after-moonshots-kimi-k3-us-ai-rivals-launch-new-models-and-upgrades/article71344542.ece",
+    "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Google AI health coach to use Abbott glucose data",
+    "summary": "Abbott and Google are linking continuous glucose monitoring data with Google’s AI-powered health coaching tools, giving the Gemini-powered service access to another source of personal health…",
+    "body": "information. Under a multiyear agreement, data from Abbott’s Lingo continuous glucose monitor will be integrated into the Google Health app. Users will be able to view glucose trends alongside [ ] The post Google AI health coach to use Abbott glucose data appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/google-ai-health-coach-abbott-glucose-data/",
+    "date": "2026年8月14日"
   }
 ]
