@@ -700,5 +700,44 @@
     "body": "On the occasion of the 81st National Liberation Day, marking the end of Japanese colonial rule in 1945, the Ministry of the Interior and Safety is launching a sweeping campaign Saturday designed to integrate the Taegeukgi — Korea’s national flag — into the rhythm of daily routines.…",
     "url": "https://www.koreatimes.co.kr/southkorea/20260815/to-honor-liberation-day-korea-brings-its-flag-to-everyday-life?utm_source=rss",
     "date": "2026年8月14日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "How China’s young managers grappled with billion-yuan mandates as AI shocks hit portfolios",
+    "summary": "As Leopold Aschenbrenner’s US hedge fund saw assets wiped off by more than two-thirds in a single month, some of China’s new portfolio managers also felt the shock across the Pacific, learning bitter…",
+    "body": "lessons early in their careers. The 50-day market turmoil, sparked by a global correction in artificial intelligence stocks in June, turned some of China’s rookie managers into an unwitting focal point. Even seasoned investors faced hard questions from clients as portfolios sagged. For Yuan Zeqiang,...",
+    "url": "https://www.scmp.com/business/banking-finance/article/3364034/how-chinas-young-managers-grappled-billion-yuan-mandates-ai-shocks-hit-portfolios?utm_source=rss_feed",
+    "date": "2026年8月15日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports",
+    "summary": "Nvidia has revised its plans to support a proposed OpenAI data center project in Ohio and is now expected to initially guarantee less than $120 billion, down from the $250 billion previously…",
+    "body": "discussed, the Wall Street Journal reported on Friday, citing people familiar with the matter. * The Journal said Nvidia and OpenAI are nearing an agreement, with the chipmaker expected to provide a financial backstop only for the first phase of the project. A deal could be signed as early as this weekend, according to the report.…",
+    "url": "https://www.koreatimes.co.kr/world/20260815/nvidia-scales-back-funding-guarantee-for-ohio-openai-data-center-wsj-reports?utm_source=rss",
+    "date": "2026年8月15日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Only .400 hitter in Korean baseball history dies",
+    "summary": "Baek In-chun, the only man to bat .400 in a Korean professional baseball season, died Saturday at the age of 83, officials said.…",
+    "body": "According to the Korea Baseball Organization (KBO), Baek died at 6:41 a.m. Saturday while being treated for a brain hemorrhage at Dankook University Hospital in Cheonan, some 90 kilometers south of Seoul. He was found in cardiac arrest in his home in Cheonan early Friday and transported to a nearby hospital.…",
+    "url": "https://www.koreatimes.co.kr/sports/20260815/only-400-hitter-in-korean-baseball-history-dies?utm_source=rss",
+    "date": "2026年8月15日"
   }
 ]
