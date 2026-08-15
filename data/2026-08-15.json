@@ -752,5 +752,31 @@
     "body": "to strengthen it. While using Chinese technology might seem counterintuitive to Europe’s goals, running open-weight Chinese models on local servers can actually give firms greater operational control than relying on proprietary US services, according to a Germany-based consultant. “A...",
     "url": "https://www.scmp.com/tech/tech-trends/article/3364085/open-weight-chinese-ai-models-gain-foothold-europe-despite-brussels-trepidation?utm_source=rss_feed",
     "date": "2026年8月15日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Global leaders must wake up to threat of unbridled AI adoption",
+    "summary": "To describe the uncontrolled adoption of artificial intelligence (AI) as a “mixed blessing” is a grotesque understatement.…",
+    "body": "It is better termed a miscalculated risk that reflects the world’s present sad and potentially tragic lack of responsible leadership, in Western nations especially. On the one hand, we are assured AI will raise productivity and economic growth. It will be a particular blessing for developing countries, such as those in Asia, enabling them to leapfrog the centuries it took...",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3363725/global-leaders-must-wake-threat-unbridled-ai-adoption?utm_source=rss_feed",
+    "date": "2026年8月15日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ bulk orders",
+    "summary": "Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’Secondhand booksellers in the UK and Ireland are reporting a flurry of bulk orders from…",
+    "body": "mystery buyers, amid speculation AI companies are acquiring the tomes for their data.Bookshops contacted by the Guardian say they have been receiving orders from buyers in the US, Canada, continental Europe and the UK. The increase has been replicated around the world, with booksellers in the US, Australia and Europe also reporting unusual orders. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+    "date": "2026年8月15日"
   }
 ]
