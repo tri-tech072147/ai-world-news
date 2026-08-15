@@ -739,5 +739,18 @@
     "body": "According to the Korea Baseball Organization (KBO), Baek died at 6:41 a.m. Saturday while being treated for a brain hemorrhage at Dankook University Hospital in Cheonan, some 90 kilometers south of Seoul. He was found in cardiac arrest in his home in Cheonan early Friday and transported to a nearby hospital.…",
     "url": "https://www.koreatimes.co.kr/sports/20260815/only-400-hitter-in-korean-baseball-history-dies?utm_source=rss",
     "date": "2026年8月15日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Open-weight Chinese AI models gain foothold in Europe despite Brussels’ trepidation",
+    "summary": "European businesses are increasingly weighing whether cheap but capable Chinese artificial intelligence systems represent a new threat to the continent’s technological sovereignty or a practical tool…",
+    "body": "to strengthen it. While using Chinese technology might seem counterintuitive to Europe’s goals, running open-weight Chinese models on local servers can actually give firms greater operational control than relying on proprietary US services, according to a Germany-based consultant. “A...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3364085/open-weight-chinese-ai-models-gain-foothold-europe-despite-brussels-trepidation?utm_source=rss_feed",
+    "date": "2026年8月15日"
   }
 ]
