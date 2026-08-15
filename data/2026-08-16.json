@@ -531,5 +531,18 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/mistral-aims-build-1gb-of-compute-capacity-2030",
     "date": "2026年8月12日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "date": "2026年8月15日"
   }
 ]
