@@ -674,5 +674,18 @@
     "body": "",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html",
     "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chokepoints and the cost of cutting off access",
+    "summary": "In 2022, Ukraine asked SpaceX CEO Elon Musk to activate Starlink coverage around Sevastopol to support an attack on Russia’s Black Sea Fleet.…",
+    "body": "He refused, saying SpaceX would become “explicitly complicit in a major act of war”; he later also cited US sanctions covering Crimea. At the moment that mattered, one private actor had the final say. It exposed a question hidden inside every chokepoint. We usually ask where dependence is concentrated: a strait, mineral, technology, network. But three...",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3363772/chokepoints-and-cost-cutting-access?utm_source=rss_feed",
+    "date": "2026年8月16日"
   }
 ]
