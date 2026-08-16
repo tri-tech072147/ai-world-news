@@ -674,5 +674,31 @@
     "body": "Without ideal lighting, a black dog's facial expressions can blur into shadows on a smartphone screen, making them easier for prospective adopters to scroll past. To give these overlooked rescues their moment in the spotlight, Gyeonggi Province said Thursday it will host Black Dog Day at Banryeomaru Yeoju, Korea’s largest companion animal cultural complex, Monday.…",
     "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20260816/woof-worthy-cause-gyeonggi-province-hosts-adoption-drive-for-its-darkest-coated-dogs?utm_source=rss",
     "date": "2026年8月15日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Stock short selling on rise despite market upturn",
+    "summary": "Stock short selling has been on the rise despite the country's stock market sharply rebounding from a rout caused by a crash in chipmakers and artificial intelligence (AI)-related shares, data showed…",
+    "body": "Sunday. According to the data from the Korea Exchange (KRX), outstanding short selling reached some 19 trillion won ($13.4 billion) as of Tuesday, up 14 percent, or 2.27 trillion won, from 16.73 trillion won at the end of last month. Stock short selling stood at 15 trillion won at the end of February but fell to 12 trillion won in early March. The figure rose to 23 trillion won in early June.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260816/stock-short-selling-on-rise-despite-market-upturn?utm_source=rss",
+    "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」",
+    "summary": "Anthropicは、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを公表した。乱数生成に秘密鍵を用いて統計的パターンを残す手法で、品質や速度、料金に影響を与えない。「EU AI Act」への準拠を目的とするが全世界で適用され、コードや短文などでは入りにくいといった限界も明示している。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
+    "date": "2026年8月15日"
   }
 ]
