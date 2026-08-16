@@ -700,5 +700,44 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
     "date": "2026年8月15日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Home province of DeepSeek, Moonshot founders seeks to retain, attract future AI talent",
+    "summary": "China’s southern manufacturing powerhouse of Guangdong province welcomed nearly 40 computer science students from Tsinghua University this week, part of a targeted push by local authorities to bridge…",
+    "body": "a widening gap in China’s artificial intelligence race by attracting top-tier talent from Beijing. Despite raising two of China’s brightest minds in artificial intelligence – Moonshot AI founder Yang Zhilin and DeepSeek founder Liang Wenfeng – Guangdong failed to retain either. After graduating from...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3364095/home-province-deepseek-moonshot-founders-seeks-retain-attract-future-ai-talent?utm_source=rss_feed",
+    "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Kookmin University Solar Car Team holds technical exchange with Hyundai Motor staff",
+    "summary": "The Kookmin University Solar Car Team (KUST) held a technical exchange meeting with Hyundai Motor staff members at the university’s Seoul campus on Aug.…",
+    "body": "7 to prepare for its participation in the 2027 World Solar Challenge. The university said Thursday that eight Hyundai Motor staff members, including Park Jeong-hee, head of FC System Design Team 2, attended the meeting, along with Shin Dong-hoon, KUST’s faculty advisor and professor of mechanical engineering.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/education/20260816/kookmin-university-solar-car-team-holds-technical-exchange-with-hyundai-motor-staff?utm_source=rss",
+    "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "N. Korea silent on Lee's proposal for dialogue to officially end Korean War",
+    "summary": "North Korea remained silent Sunday on South Korean President Lee Jae Myung's proposal to officially end the 1950-53 Korean War.…",
+    "body": "Lee proposed dialogue to formally end the Korean War and establish a peace regime during a Liberation Day address Saturday that marked the 81st anniversary of Korea's liberation from Japan's 1910-45 colonial rule. The two Koreas technically remain at war since the three-year conflict ended with an armistice, not a peace treaty.…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260816/n-korea-silent-on-lees-proposal-for-dialogue-to-officially-end-korean-war?utm_source=rss",
+    "date": "2026年8月16日"
   }
 ]
