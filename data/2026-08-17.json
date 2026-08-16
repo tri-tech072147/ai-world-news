@@ -609,5 +609,31 @@
     "body": "",
     "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
     "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "The Guardian view on the changed world of job interviews: missing the human factor | Editorial",
+    "summary": "Andy Burnham’s doubts about Zoom interviews apply more widely to a hiring process being transformed by AIAlmost half of UK jobseekers have found themselves pitching to an AI bot, according to recent…",
+    "body": "research, leading many to give up in frustration. As one despairing applicant lamented in the pages of the Guardian a few months ago: “The hiring process has become so mechanised, both figuratively and literally, that it’s hard to believe that the people who end up getting hired aren’t merely the best at gaming the system.” For young people especially, experiencing repeated rejection without…",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/16/the-guardian-view-on-the-changed-world-of-job-interviews-missing-the-human-factor",
+    "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Top 10: Der beste Mähroboter ohne Begrenzungskabel mit Kamera, GPS oder LiDAR",
+    "summary": "Mähroboter ohne Begrenzungskabel versprechen eine leichte Inbetriebnahme. Mit LiDAR-Navigation gelingt das sogar noch einfacher. Wir zeigen die besten Geräte.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月16日"
   }
 ]
