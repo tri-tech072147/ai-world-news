@@ -869,5 +869,31 @@
     "body": "its unconventional message. The ad promotes Bonghwa apples, a local specialty of the southeastern region. Rather than making a conventional sales pitch, it declares, “Bonghwa apples are delicious, but we don’t advertise,” creating an ironic twist.…",
     "url": "https://www.koreatimes.co.kr/southkorea/20260816/korean-apple-ad-lights-up-new-york?utm_source=rss",
     "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘It will help get mid-budget films made’: why directors are embracing AI",
+    "summary": "Some film-makers say the technology could enable them to bypass the studio giants and take more creative risksNear the collonaded entrance to Sony Pictures’ historic Culver City film studio, a…",
+    "body": "tech-powered rival has sprung up this summer. The artists at Promise, a new studio feeding off the potential of AI, can glimpse the lots where Singin’ in the Rain and Men in Black were shot, but no longer do they need to get beyond the studio’s high walls to make their visions come true.From far more modest premises, they are making movies with rapidly accelerating AI models that create…",
+    "url": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making",
+    "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "ChatGPT zeigt mehr Nutzern Werbeeinblendungen",
+    "summary": "Werbung im eigenen Chat mit dem LLM: Das testet OpenAI gerade mit einem Teil der ChatGPT-Nutzer, auch Chatinhalte sollen einfließen.",
+    "body": "",
+    "url": "https://www.heise.de/news/ChatGPT-Werbeeinblendungen-kommen-in-weitere-Laender-11415303.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月16日"
   }
 ]
