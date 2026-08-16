@@ -895,5 +895,31 @@
     "body": "",
     "url": "https://www.heise.de/news/ChatGPT-Werbeeinblendungen-kommen-in-weitere-Laender-11415303.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Russlands Starlink-Klon: Wie Moskaus Satellitennetz die Ukraine bedroht",
+    "summary": "Moskau baut im Eiltempo das Satellitensystem Rassvet auf. Die Technik bedroht die Ukraine und könnte künftig auch Europa vor neue Herausforderungen stellen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Russland-baut-Satellitensystem-Rassvet-zur-Drohnensteuerung-aus-11415359.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Secondhand book sales are booming. Is it because of AI?",
+    "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年8月15日"
   }
 ]
