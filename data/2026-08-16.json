@@ -765,5 +765,18 @@
     "body": "",
     "url": "https://www.heise.de/hintergrund/Missing-Link-Chlorfreies-Naturbad-dank-Technik-11399104.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos",
+    "summary": "Fraudsters use pictures posted on Instagram or Facebook to create emails seeking bank account detailsYou are on a short break in Porto and post some pictures of your family on Instagram or Facebook.…",
+    "body": "With a small section of the Douro river in the background, you think it could have been taken anywhere.A few days later, you get a text saying that your card was compromised. “We detected unusual activity while you were travelling in Porto – please verify immediately,” says the message. Continue reading...",
+    "url": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
+    "date": "2026年8月16日"
   }
 ]
