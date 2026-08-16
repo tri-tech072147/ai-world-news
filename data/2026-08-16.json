@@ -778,5 +778,31 @@
     "body": "With a small section of the Douro river in the background, you think it could have been taken anywhere.A few days later, you get a text saying that your card was compromised. “We detected unusual activity while you were travelling in Porto – please verify immediately,” says the message. Continue reading...",
     "url": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
     "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Young Korean workers hit hardest as AI automation slashes jobs",
+    "summary": "More than half of the jobs lost by young Koreans in July were concentrated in industries heavily exposed to artificial intelligence (AI).…",
+    "body": "This marks a dramatic departure from previous years, when youth employment dips were primarily driven by slowdowns in traditional manufacturing and in-person services. The latest figures from the Ministry of Data and Statistics reveal that the number of employed individuals aged 15 to 29 fell by more than 191,000 compared to the same period last year.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260816/young-korean-workers-hit-hardest-as-ai-automation-slashes-jobs?utm_source=rss",
+    "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+    "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026年8月15日"
   }
 ]
