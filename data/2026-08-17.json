@@ -1324,5 +1324,44 @@
     "body": "Lee made the call as heavy downpours pounded South Gyeongsang Province, including Geoje, throughout the weekend, triggering a landslide that killed one resident. \"I am concerned about the damage from heavy rains in Geoje and other southern regions,\" he wrote in a post on X, urging local authorities and relevant ministries to swiftly take all necessary measures and mobilize available resources to…",
     "url": "https://www.koreatimes.co.kr/southkorea/politics/20260817/lee-calls-for-swift-measures-to-minimize-damage-from-heavy-rains?utm_source=rss",
     "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "The next silicon? AI data centre material faces price spike amid China supply crunch",
+    "summary": "The artificial intelligence boom is driving demand for optical modules that enable ultra-fast data transmission in data centres, with the latest beneficiary a chemical compound that is seeing an…",
+    "body": "unprecedented surge in prices. Indium phosphide (InP) is used to make lasers that convert electrical signals into light, allowing data to travel rapidly through fibre-optic cables. As a major producer of the material, China has seen prices climb sharply. According to a recent report by financial services...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3364327/next-silicon-ai-data-centre-material-faces-price-spike-amid-china-supply-crunch?utm_source=rss_feed",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Ukraine findet weiter Nvidias Auto-Prozessoren in russischen Waffen",
+    "summary": "In Russlands Marschflugkörper steckt offenbar Nvidias Jetson Orin NX. Die integrierte GPU könnte bei der Zielfindung assistieren.",
+    "body": "",
+    "url": "https://www.heise.de/news/Ukraine-findet-weiter-Nvidias-Auto-Prozessoren-in-russischen-Waffen-11416368.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "LG to Release Nvidia-Powered Humanoid in 2027",
+    "summary": "The robot is part of the companies’ expanded partnership to shift physical AI from concepts to real-world deployments.",
+    "body": "",
+    "url": "https://aibusiness.com/robotics/lg-release-nvidia-powered-humanoid-in-2027",
+    "date": "2026年8月17日"
   }
 ]
