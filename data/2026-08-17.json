@@ -999,5 +999,57 @@
     "body": "according to HSBC Global Investment Research. In a report released last week, the research house said Malaysia, alongside Singapore and Vietnam, stands out as a primary regional beneficiary [ ] The post AI demand lifts Malaysia s chip sector, but not every player wins appeared first on e27.",
     "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/",
     "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Kommentar: Schummelnde KI – einfach nur peinlich",
+    "summary": "OpenAIs KI hackt Hugging Face – um zu schummeln. Dann rühmt sich Anthropic mit ähnlichen Vorfällen. Philipp Steevens findet das vor allem peinlich.",
+    "body": "",
+    "url": "https://www.heise.de/meinung/Kommentar-Schummelnde-KI-einfach-nur-peinlich-11412339.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「データがない」「スキルがない」「発想が広がらない」 味の素冷凍食品は“3つのない”をどう解消した？",
+    "summary": "マーケティングにAIを活用することで、どのような課題をどう解消できるのか。キーワードは「AIペルソナ」だ。NECのBestMoveを利用する、味の素冷凍食品の事例から探る。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/17/news071.html",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "CJ eyes $8.47 bil. in annual sales in N. America by 2028",
+    "summary": "CJ Group has set a goal of generating 12 trillion won ($8.47 billion) in annual sales in North America by 2028 through synergies among its Korean food, entertainment and beauty businesses.…",
+    "body": "CJ unveiled its mid- to long-term North American business strategy at an event in Los Angeles on Saturday (local time), outlining plans to leverage the growing popularity of K-culture to expand its presence in the region. The Korean retail and entertainment conglomerate's sales in the region exceeded 8 trillion won last year, more than 10 times the approximately 800 billion won recorded in 2017.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260817/cj-eyes-847-bil-in-annual-sales-in-n-america-by-2028?utm_source=rss",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Nvidia executive to visit LG Electronics robotics hub on Tuesday",
+    "summary": "Madison Huang, a senior director at Nvidia and the daughter of CEO Jensen Huang, is scheduled to visit LG Electronics's robotics hub in Korea later this week, industry sources said Monday.…",
+    "body": "During the visit scheduled for Tuesday, Huang plans to hold closed-door talks with senior LG Electronics officials on partnerships as the two companies deepen cooperation in artificial intelligence (AI) infrastructure and robotics. The meeting is expected to focus heavily on robotics, with the talks set to take place at LG Electronics' data factory under construction in southern Seoul.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260817/nvidia-executive-to-visit-lg-electronics-robotics-hub-on-tuesday?utm_source=rss",
+    "date": "2026年8月17日"
   }
 ]
