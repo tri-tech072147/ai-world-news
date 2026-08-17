@@ -713,5 +713,31 @@
     "body": "Within minutes, two U.S. Army officers were dead. Capt. Arthur Bonifas and 1st Lt. Mark Barrett were killed by North Korean guards during a confrontation that lasted only a few minutes. Several other American and South Korean members of the detail were also injured. This Aug. 18 marks the 50th anniversary of their deaths.…",
     "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260818/morning-calm-tales-the-tree-at-panmunjeom-50-years-later?utm_source=rss",
     "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "summary": "Relay, which offered businesses workflow automation, will stop operating next month. Its CEO and some of its staff plan to get to work on Google Chrome next.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Speech-to-Text AI Specialist Now Valued at $2B",
+    "summary": "The vendor is part of a wave of native-AI startups that are attracting strong funding.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/speech-to-text-ai-specialist-valued-at-2b",
+    "date": "2026年8月17日"
   }
 ]
