@@ -661,5 +661,44 @@
     "body": "",
     "url": "https://www.heise.de/news/KI-Training-und-Urheberrecht-Heftiger-Streit-ueber-Daten-und-Lizenzen-11416611.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Nvidia to provide up to US$105 billion guarantee for OpenAI’s Ohio data centre",
+    "summary": "Nvidia has agreed to provide a ⁠guarantee of up to US$105 billion ⁠to help ⁠OpenAI lease a sprawling data centre in Ohio being developed by SoftBank-backed SB Energy, in one of the chipmaker’s…",
+    "body": "largest infrastructure financing commitments. The Jensen Huang-led firm said on Monday it will also invest US$1.5 billion in SB Energy, months after a US$1 billion investment from OpenAI and SoftBank to expand data centre infrastructure. The new deal is the latest example of Nvidia financing the...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3364341/nvidia-provide-us105-billion-guarantee-openais-ohio-data-centre?utm_source=rss_feed",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US midterm election betting races past 2024 congressional total, data shows",
+    "summary": "Betting on November's U.S. midterm elections has already hit $133 million, surpassing the $92.4 million wagered during the 2024 congressional election cycle, the Anti-Corruption Data Collective said…",
+    "body": "on Monday. The non-profit research and advocacy group forecast that total wagers on the 2026 midterms could reach $1.6 billion if betting activity accelerates at the same pace as it did in 2024. The data underscores the rapid growth of prediction markets, as rising retail and institutional adoption drives users to platforms such as Polymarket and Kalshi, which allow betting on real-world outcomes…",
+    "url": "https://www.koreatimes.co.kr/world/20260818/us-midterm-election-betting-races-past-2024-congressional-total-data-shows?utm_source=rss",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Alibaba Qwen 3.8 27B Model Targets Edge AI",
+    "summary": "The model can run locally on a laptop and demonstrates how Alibaba plans to continue pioneering open source.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-27b-model-targets-edge-ai",
+    "date": "2026年8月17日"
   }
 ]
