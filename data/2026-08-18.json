@@ -739,5 +739,44 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/speech-to-text-ai-specialist-valued-at-2b",
     "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "ChatGPTやClaudeの利用量とコストを一元管理、無料で使える法人向け新サービス マネーフォワード",
+    "summary": "マネーフォワードは、AIサービスの利用量とコストを一元管理できる法人向けサービス「マネーフォワード クラウドAIトークン管理」の提供を始めた。同社サービスの共通ID「マネーフォワードID」を取得すれば無料で使える。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000571/",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「AI進化の裏でモノづくりは30年止まっている」、直列工程を並列化する産業OS",
+    "summary": "キャディは次世代版「製造業AIデータプラットフォームCADDi」を発表した。AIと人が共有するデータ／セマンティクス基盤で現場の暗黙知を構造化し、直列工程の並列化でモノづくりの加速を目指す。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/18/news045.html",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Nexen Tire's weak product mix widens profit gap with Hankook, Kumho",
+    "summary": "Nexen Tire’s weaker product mix is widening its profitability gap with Hankook Tire and Kumho Tire, as the company lags behind its rivals in the shift toward higher-margin, high-inch tires, according…",
+    "body": "to data and industry officials, Monday. Nexen Tire was the only one of Korea’s three major tiremakers to report a decline in operating profit in the April-June period from a year earlier. Hankook Tire’s operating profit jumped 58 percent, while Kumho Tire posted a 24 percent increase.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260818/nexen-tires-weak-product-mix-widens-profit-gap-with-hankook-kumho?utm_source=rss",
+    "date": "2026年8月17日"
   }
 ]
