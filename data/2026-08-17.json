@@ -1246,5 +1246,44 @@
     "body": "",
     "url": "https://www.heise.de/news/Gefahr-durch-Sonnenstuerme-KI-Modell-sagt-aktive-Region-auf-Sonne-frueher-vorher-11415886.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "AI eyes in the sky: new satellites and artificial intelligence are transforming wildfire detection",
+    "summary": "Hi-tech cameras orbiting Earth and on the ground, along with AI, help firefighters extinguish blazes before they spreadThe fires in Spokane, Washington, this summer are the latest reminder that when…",
+    "body": "a wildfire is detected can be just as important as where it starts. A blaze found within minutes can often be contained before it spreads. Wait too long, and a small spark can become a major disaster.A new effort to shorten that timeline began in July when a SpaceX rocket carried the first three FireSat satellites into orbit.…",
+    "url": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
+    "summary": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+    "body": "",
+    "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-11404518.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "UNC reorganization creates unnecessary anxiety in Korea",
+    "summary": "Recent reports about an internal administrative reorganization of the United Nations Command (UNC) have generated controversy in some South Korean government and media circles.…",
+    "body": "Yet a closer examination of the issue shows that much of the concern is based on suspicions that have little foundation, creating unnecessary security anxiety and potential friction within the Korea-U.S. alliance. First, it is important to understand the actual role of the UNC on the Korean Peninsula.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260817/unc-reorganization-creates-unnecessary-anxiety-in-korea?utm_source=rss",
+    "date": "2026年8月17日"
   }
 ]
