@@ -739,5 +739,70 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/business/articles/2608/17/news045.html",
     "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Hong Kong firm bets on Chinese open-weight models to rival CoreWeave",
+    "summary": "The rise of Chinese open-weight models has shaken up the global artificial intelligence (AI) market in recent months.…",
+    "body": "With China’s systems offering high performance at a lower cost, businesses around the world are looking at shifting away from Silicon Valley’s leading providers. Now, a new Hong Kong-based company aims to turn that trend into a billion-dollar business. The “neo-cloud” provider Antimatter is helping firms switch from the dominant US models – and the cloud systems that serve them –...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3364190/hong-kong-firm-bets-chinese-open-weight-models-rival-coreweave?utm_source=rss_feed",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Hugging Face分析、中国のオープンモデルが台頭 Qwenは派生モデル15万件超",
+    "summary": "Hugging Faceは、オープンモデル動向をまとめたレポートを公開した。中国勢が2兆パラメータ超の大規模モデルを相次いで公開するなど台頭する一方、実際のダウンロードの8割以上は10億パラメータ未満の小型モデルが占めた。Alibabaの「Qwen」は派生モデル数でMetaを上回り、開発者コミュニティの事実上の基盤モデルになりつつある。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/17/2000000557/",
+    "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "外資AIベンダー襲来、システム開発の“垣根”消失…… 新生TISIはどう対抗する？",
+    "summary": "AIの普及によってITシステム開発の“垣根”が崩れつつある中、外資のAIベンダーがFDEを掲げて日本市場に参入してきた。SIerを取り巻く環境が急激に変わる中、TISとインテックが合併して発足したTISIはどのように自社の強みを打ち出そうとしているのか。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2607/29/news010.html",
+    "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "現役組み込みエンジニアがAIを業務利用して分かったこと――期待と限界と現実解",
+    "summary": "組み込み開発の業務でもAI活用に対する期待は大きく高まっている。本稿では、現役の組み込みエンジニアが本業である筆者が、日々の業務にAIを組み込み続けてきて見えてきたAI活用の限界と現実解について解説する。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/17/news019.html",
+    "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「社内情報をAIに食わせればいい」だけでは足りない、情報検索精度向上の鉄則",
+    "summary": "「RAGを導入すれば業務が変わる」。そう信じて始めたのに、検索精度は上がらず、複雑な権限制御にも阻まれる――。Skyもまた、その壁にぶつかった一社だ。だが同社は「取りあえずRAG」を捨てることで前に進んだ。何でもベクトル化するのをやめたSkyの判断とは。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2608/17/news010.html",
+    "date": "2026年8月16日"
   }
 ]
