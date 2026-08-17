@@ -609,5 +609,57 @@
     "body": "",
     "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
     "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Claude to start watermarking AI-generated text – but will it make quality worse?",
+    "summary": "Anthropic says it will change way chatbot makes small, random choices, to comply with EU regulationThe world is familiar by now with the usual tropes of machine-generated text: overuse of the word…",
+    "body": "“delve”, an excess of em dashes, and the chirpy, relentless construction of “it’s not X but Y”.But is it about to get even worse? Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "OpenAI löst Preparedness-Team für KI-Risiken auf",
+    "summary": "OpenAI hat sein Preparedness-Team aufgelöst, das KI-Modelle auf katastrophale Risiken prüfen sollte. Die Aufgaben werden auf bestehende Teams verteilt.",
+    "body": "",
+    "url": "https://www.heise.de/news/OpenAI-loest-Preparedness-Team-fuer-KI-Risiken-auf-11416601.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Training und Urheberrecht: Heftiger Streit über Daten und Lizenzen",
+    "summary": "Eine EU-Konsultation legt Gräben zwischen Tech-Branche und Rechteinhabern beim KI-Training offen. Zwischen Extrempositionen keimen aber auch Kompromissansätze.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-Training-und-Urheberrecht-Heftiger-Streit-ueber-Daten-und-Lizenzen-11416611.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月17日"
   }
 ]
