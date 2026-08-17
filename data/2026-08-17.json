@@ -1116,5 +1116,44 @@
     "body": "",
     "url": "https://techcabal.com/2026/08/17/techcabal-daily-icasa-rolls-over/",
     "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "人型ロボが“人間超え”――助走なしで高さ2mのジャンプ、時速45kmで走行も 中国Unitreeが開発中の新モデルを公開",
+    "summary": "ロボット開発企業の中国Unitree Roboticsは、開発中の新型ヒューマノイドのデモ動画を公開した。助走なしで高さ2mのジャンプをしたほか、最高で秒速12.66m（時速45.576km）で走る姿を披露した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/17/2000000567/",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Anthropic releases more info about Claude AI watermarking amid user confusion",
+    "summary": "Anthropic noted that Claude’s text watermark was a version of the SynthID-Text approach published by Google DeepMind in a paper two years ago",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropic-releases-more-info-about-claude-ai-watermarking-amid-user-confusion/article71355224.ece",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Premium seats reshaping Korea's summer box office",
+    "summary": "As local movie fans become more careful with their spending at theaters, high-end cinema experiences led by the IMAX giant screen are emerging as the main catalyst behind Korea’s summer box office…",
+    "body": "rebound. The domestic box office is seeing a strong comeback as major summer blockbusters bring crowds back to theaters. Driven by the hot weather and peak holiday season, people are heading to air-conditioned cinemas for big-screen visual spectacles they cannot get at home on streaming platforms.…",
+    "url": "https://www.koreatimes.co.kr/entertainment/films/20260817/premium-seats-reshaping-koreas-summer-box-office?utm_source=rss",
+    "date": "2026年8月17日"
   }
 ]
