@@ -1181,5 +1181,57 @@
     "body": "",
     "url": "https://techcabal.com/2026/08/17/defence-tech-startup-terra-industries-closes-seed-round-at-52-million/",
     "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Alibaba sells gaming arm Lingxi Games as tech giant sharpens focus on AI and e-commerce",
+    "summary": "Alibaba Group Holding has agreed to sell its wholly owned gaming business Lingxi Games to Trustar Capital as the Chinese technology giant pivots away from noncore sectors to prioritise e-commerce and…",
+    "body": "artificial intelligence, according to an internal letter issued on Monday. “As part of Alibaba’s broader strategy to sharpen its focus, the group has decided to entrust Lingxi to Trustar Capital,” stated the letter seen by the South China Morning Post and signed by Lingxi CEO Zhou Bingshu. The...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3364287/alibaba-sells-gaming-arm-lingxi-games-tech-giant-sharpens-focus-ai-and-e-commerce?utm_source=rss_feed",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Nvidia will Milliardenrisiko bei OpenAIs Rechenzentrum begrenzen",
+    "summary": "Nvidia und OpenAI stehen kurz vor einem Deal für eines der größten KI-Rechenzentren der Welt, aber mit einer kleineren Garantiesumme als zunächst berichtet.",
+    "body": "",
+    "url": "https://www.heise.de/news/Nvidia-will-Milliardenrisiko-bei-OpenAIs-Rechenzentrum-begrenzen-11415946.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: Last Call: KI im Unternehmen verankern – vom Use Case zu skalierter KI-Strategie",
+    "summary": "In fünf Sessions lernen IT-Entscheider, KI strategisch im Unternehmen zu verankern und dabei Mitarbeitende mitzunehmen – alles im Einklang mit dem EU AI Act.",
+    "body": "",
+    "url": "https://www.heise.de/news/Last-Call-KI-im-Unternehmen-verankern-vom-Use-Case-zu-skalierter-KI-Strategie-11353416.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "'People could get hurt': Conservationists decry AI wildlife visuals",
+    "summary": "Conservationists say AI visuals portraying wild animals as cute or cuddly make it harder for social media users to discern what is real and can fuel exploitation",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/energy-and-environment/people-could-get-hurt-conservationists-decry-ai-wildlife-visuals/article71355713.ece",
+    "date": "2026年8月17日"
   }
 ]
