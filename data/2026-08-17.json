@@ -804,5 +804,83 @@
     "body": "",
     "url": "https://kn.itmedia.co.jp/kn/articles/2608/17/news010.html",
     "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
+    "summary": "Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AIFollow our Australia news live blog…",
+    "body": "for latest updatesGet our breaking news email, free app or daily news podcastThe authors of a report testing the technology underpinning Australia’s social media ban have conceded ChatGPT was used in editing, but denied a number of citation errors in the report were due to AI hallucinations.The $3.48m age assurance technology trial, run by the UK-based Age Check Certification Scheme (ACCS) last…",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "70 Cars, 55,000 hours, one question: Can you forecast when an EV battery will die?",
+    "summary": "Singaporean deeptech startup Datakrew just wrapped a year-long study with Hyundai s venture arm and GetGo.…",
+    "body": "The headline numbers are big 3.6 billion data points, 70 vehicles, 101,000 trips, but the more interesting story is what Datakrew is trying to build after the pilot ends. Batteries do not fail like engines. There is no warning [ ] The post 70 Cars, 55,000 hours, one question: Can you forecast when an EV battery will die? appeared first on e27.",
+    "url": "https://e27.co/70-cars-55000-hours-one-question-can-you-forecast-when-an-ev-battery-will-die-20260817/",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Why Southeast Asia doesn’t need to pick a side in the AI race",
+    "summary": "For most of my career, building a technology company felt like solving a complicated but understandable puzzle.…",
+    "body": "You studied the market, listened to customers, assembled a great team, built the right product, and executed better than everyone else. The journey was never easy, but it was predictable enough that you could create a strategy, adjust [ ] The post Why Southeast Asia doesn t need to pick a side in the AI race appeared first on e27.",
+    "url": "https://e27.co/why-southeast-asia-doesnt-need-to-pick-a-side-in-the-ai-race-20260815/",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "AI is not the advantage, build what competitors cannot copy",
+    "summary": "In one afternoon, she sorts customer comments, spots a recurring problem, explores possible solutions, improves the packaging copy, and drafts a clearer process for her team.…",
+    "body": "Work that might once have taken weeks takes days. This is the exciting part of AI. Her competitors have access to similar tools. They can ask similar questions, draft [ ] The post AI is not the advantage, build what competitors cannot copy appeared first on e27.",
+    "url": "https://e27.co/ai-is-not-the-advantage-build-what-competitors-cannot-copy-20260815/",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "What does Anthropic stand to gain and risk with its IPO | Explained",
+    "summary": "With a reported goal of a $2 trillion valuation, the Claude maker’s fortunes could rise astronomically with a public offering, but September is a long way away in the world of AI",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/what-does-anthropic-stand-to-gain-and-risk-with-its-ipo-explained/article71344125.ece",
+    "date": "2026年8月16日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "France's constitutional authority strikes down social media ban for under-15",
+    "summary": "The Constitutional Council found that Article 1 of the legislation \"constitutes an infringement that is neither appropriate, necessary, nor proportionate\" to the freedom of expression and…",
+    "body": "communication of those under 15.",
+    "url": "https://www.thehindu.com/news/international/frances-constitutional-authority-strikes-down-social-media-ban-for-under-15/article71346180.ece",
+    "date": "2026年8月14日"
   }
 ]
