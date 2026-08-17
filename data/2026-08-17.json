@@ -1285,5 +1285,44 @@
     "body": "Yet a closer examination of the issue shows that much of the concern is based on suspicions that have little foundation, creating unnecessary security anxiety and potential friction within the Korea-U.S. alliance. First, it is important to understand the actual role of the UNC on the Korean Peninsula.…",
     "url": "https://www.koreatimes.co.kr/opinion/20260817/unc-reorganization-creates-unnecessary-anxiety-in-korea?utm_source=rss",
     "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "summary": "Wispr’s total funding is now over $361 million.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘Humiliated’: Sainsbury’s store pauses AI scanning after false shoplifting accusation",
+    "summary": "Supermarket chain says ‘human error’, not its Facewatch technology, to blame for ejecting a customerSainsbury’s has paused the use of AI face scanning in one of its stores after a customer was…",
+    "body": "wrongly identified as a shoplifter and ejected from the shop.“I was embarrassed, mortified even, and felt quite humiliated and powerless,” Matt Arnold, 46, said of his ordeal. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
+    "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee calls for swift measures to minimize damage from heavy rains",
+    "summary": "President Lee Jae Myung on Monday called for swift measures to minimize damage from torrential rains that battered the country's southern region.…",
+    "body": "Lee made the call as heavy downpours pounded South Gyeongsang Province, including Geoje, throughout the weekend, triggering a landslide that killed one resident. \"I am concerned about the damage from heavy rains in Geoje and other southern regions,\" he wrote in a post on X, urging local authorities and relevant ministries to swiftly take all necessary measures and mobilize available resources to…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260817/lee-calls-for-swift-measures-to-minimize-damage-from-heavy-rains?utm_source=rss",
+    "date": "2026年8月17日"
   }
 ]
