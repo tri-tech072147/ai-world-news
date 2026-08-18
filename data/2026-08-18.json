@@ -1259,5 +1259,44 @@
     "body": "questions about daily life and even companionship. The San Francisco-based company says ChatGPT for Teens, which launches Tuesday, is tailored for kids aged 13 to 17 with stronger protections including content restrictions around things like suicide, self-harm and romantic or sexual chats.…",
     "url": "https://www.koreatimes.co.kr/world/20260818/openai-launches-chatgpt-for-teens-promising-a-more-age-appropriate-chatbot?utm_source=rss",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Meta’s legal jeopardy is growing by the day",
+    "summary": "Also: AI’s implications on cybersecurity in an era of private attacksHello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian.…",
+    "body": "Today in tech, we’re discussing Meta’s legal danger in the US and the implications of artificial intelligence for cybersecurity in an era of private cyberattacks.Why the US government is banning Chinese robots – video explainerSpotify to distinguish AI artists from real people – and stop recommending themBumble drops women-first chat rule as dating apps seek engagement boost‘Nightmare fodder’:…",
+    "url": "https://www.theguardian.com/technology/2026/aug/17/meta-lawsuits-ai-cybersecurity",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Smartphone buyers seek AI phones while performance remains a key ask, report",
+    "summary": "Nearly 25% buyers said they need a phone that can understand and suggest action, 18% needed it for generative photo editing, 17% for doing visual search",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/gadgets/smartphone-buyers-seek-ai-phones-while-performance-remains-a-key-ask-report/article71360604.ece",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea's first AI dating survival set to launch",
+    "summary": "Can a human truly fall in love with artificial intelligence (AI)? That is the central question behind SBS new unscripted series \"My AI Partner — Strange Romance.\" Billed as Korea’s first AI dating…",
+    "body": "survival show, the program explores whether emotional bonds can form between human participants and AI partners. As Kian84, Jang Do-youn and Lee Yu-bi date and live alongside AI partners, they face an unpredictable roller coaster of emotions — sparks of attraction, surges of jealousy, deep confusion and lingering regret.…",
+    "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260818/koreas-first-ai-dating-survival-set-to-launch?utm_source=rss",
+    "date": "2026年8月18日"
   }
 ]
