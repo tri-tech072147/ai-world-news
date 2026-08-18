@@ -661,5 +661,31 @@
     "body": "",
     "url": "https://www.thehindu.com/news/international/openai-unveils-chatgpt-for-teens-with-stronger-guardrails-parental-controls/article71362103.ece",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Education must change to account for AI",
+    "summary": "A future we cannot predict cannot be prepared for by adding ever more material to the curriculum. We should instead give undergraduates the time and freedom to practise entering the unknown.",
+    "body": "",
+    "url": "https://www.thehindu.com/opinion/op-ed/education-must-change-to-account-for-ai/article71362071.ece",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "How Enterprises Can Catch Up With the Rapid Pace of AI Advances",
+    "summary": "To be successful using constantly evolving AI technology, enterprises need a deep understanding of their business processes and flexibility in the models and agents they use.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/how-enterprises-catch-up-with-rapid-pace-of-ai-advances",
+    "date": "2026年8月18日"
   }
 ]
