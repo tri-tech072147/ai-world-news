@@ -1298,5 +1298,70 @@
     "body": "survival show, the program explores whether emotional bonds can form between human participants and AI partners. As Kian84, Jang Do-youn and Lee Yu-bi date and live alongside AI partners, they face an unpredictable roller coaster of emotions — sparks of attraction, surges of jealousy, deep confusion and lingering regret.…",
     "url": "https://www.koreatimes.co.kr/entertainment/shows-dramas/20260818/koreas-first-ai-dating-survival-set-to-launch?utm_source=rss",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Meet the Chinese AI star who splashed a reported US$70m on a California mansion",
+    "summary": "Tony Wu Yuhuai, the China-born co-founder of Elon Musk’s artificial intelligence lab, sparked discussions across Chinese social media after reportedly spending US$70 million on a six-bedroom…",
+    "body": "Californian mega-mansion. The property deal, the largest so far this year in the Bay Area, pushed the thirty-something AI star under the spotlight, alongside other Silicon Valley-based Chinese talent that has contributed to frontier AI labs from OpenAI to Meta Platforms. Wu appeared to be the buyer of a...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3364380/meet-chinese-ai-star-who-splashed-reported-us70m-california-mansion?utm_source=rss_feed",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Alvys launches AI agents for freight TMS workflows",
+    "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS).…",
+    "body": "Called Alvys Foundry, the platform supports pre-built and custom AI agents that work with freight data and workflows already held within the TMS. Foundry includes more than 20 pre-built [ ] The post Alvys launches AI agents for freight TMS workflows appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+    "date": "2026年8月18日"
   }
 ]
