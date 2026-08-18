@@ -752,5 +752,57 @@
     "body": "deepening anxiety about their place in an AI-driven labor market. The Federation of Korean Industries released the results of a survey Tuesday on job perceptions among young people as AI use grows, polling 1,000 people aged 19 to 34 who are either employed or looking for work.…",
     "url": "https://www.koreatimes.co.kr/southkorea/society/20260819/young-people-expect-ai-to-replace-desired-jobs-within-5-years-amid-hiring-slump?utm_source=rss",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "OpenAI、フロンティアAIの強化学習を一部停止 安全対策を強化",
+    "summary": "OpenAIは、外部侵害インシデントや次期モデルの高いサイバー能力を受け、開発・テスト段階の安全対策を強化すると発表した。一部の大規模モデルの強化学習を一時停止し、研究環境の隔離や内部活動の監視多段化、アラインメント手法の拡張を実施。安全性基準を満たした上で開発を進める姿勢を示した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000605/",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「害悪すぎる」「バカ迷惑」──嫌われまくる“AI営業電話”、今すぐ取れる自衛策は",
+    "summary": "AI営業電話に迷惑を被ったという声が少なくない。SNSでは迷惑がる声も……。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000583/",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "ニンテンドーシステムズ開発者が明かす、通信「低遅延・安定運用」のコツ【事例集】",
+    "summary": "レガシーシステムの解析、通信の遅延、現場ナレッジの活用。IT部門が抱える難題を、先進企業はどう突破したのか。3社の事例から、IT課題解決のための具体的なアプローチを紹介する。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2608/19/news046.html",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "フィジカルAIとヒューマノイドの可能性、PFNの見立てとトヨタのアプローチ",
+    "summary": "「インテル・ロボティクス・ワークショップ2026」のレポート記事をお送りする。今回の後編では、ヒューマノイドとフィジカルAIをテーマにした、三菱UFJ銀行、Preferred Networks（PFN）、トヨタ自動車 未来創生センターの講演内容を紹介する。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/19/news019.html",
+    "date": "2026年8月18日"
   }
 ]
