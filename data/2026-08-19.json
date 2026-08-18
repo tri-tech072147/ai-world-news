@@ -583,5 +583,44 @@
     "body": "",
     "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Etched’s valuation doubles to $21B in a month",
+    "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Autonomous drones and the future of war in an AI-driven world | Letter",
+    "summary": "Machines that kill without distinction, answerable to no one, leave no one safe, writes military surgeon Dr Darren MannStuart Russell is right that AI’s builders fear losing control of it (Experts…",
+    "body": "are warning: our AI arms race is putting humanity at risk, 11 August). But it is not only a future superintelligence’s problem; it is already loaded into weapons, where a loss of control kills a civilian today, not humanity tomorrow.An autonomous drone told to clear a “kill box” is the genie your other columnists described (How do we prevent AI agents from going rogue? It starts with a new kind…",
+    "url": "https://www.theguardian.com/technology/2026/aug/18/autonomous-drones-and-the-future-of-war-in-an-ai-driven-world",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Sinking AI stocks pull Wall Street further from its record",
+    "summary": "NEW YORK — Wall Street is pulling further from its all-time high on Tuesday as AI stocks get back to sinking.…",
+    "body": "The S P 500 fell 0.5 percent and is on track for a third straight modest loss since setting its all-time high on Thursday. The Dow Jones Industrial Average was down 56 points, or 0.1 percent, as of 12:25 p.m. Eastern time, and the Nasdaq composite was 1.1 percent lower. Leading the way lower were stocks that have been big winners in the boom around artificial-intelligence technology.…",
+    "url": "https://www.koreatimes.co.kr/world/20260819/sinking-ai-stocks-pull-wall-street-further-from-its-record?utm_source=rss",
+    "date": "2026年8月18日"
   }
 ]
