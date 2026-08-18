@@ -1181,5 +1181,31 @@
     "body": "",
     "url": "https://techcabal.com/2026/08/18/absas-digital-push-comes-with-a-540-million-price-tag/",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Baidu’s quarterly revenue drops 4% as AI cloud surge fails to offset advertising slump",
+    "summary": "Chinese tech giant Baidu on Tuesday posted a 4 per cent year-on-year decline in second-quarter revenue, as continued weakness in advertising outweighed growth in its artificial intelligence cloud…",
+    "body": "operations, highlighting intensifying competition in China’s tech sector. Revenue for the three months ended June reached 31.3 billion yuan (US$4.62 billion), slightly missing the 31.6 billion yuan consensus estimate from analysts polled by Bloomberg. Net profit for the quarter was 2.3 billion...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3364436/baidu-quarterly-revenue-drops-4-ai-cloud-surge-fails-offset-advertising-slump?utm_source=rss_feed",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Reading Zhipu’s GLM-5.3 results past the headline number",
+    "summary": "Zhipu s release note for GLM-5.3 contains a sentence that did not make it into most of the coverage. Describing its own cybersecurity results, the Beijing company writes that capability is growing…",
+    "body": "fastest exactly where we are furthest behind. Zhipu, which also trades as Z.ai, is one of a handful of Chinese labs releasing models that compete with [ ] The post Reading Zhipu s GLM-5.3 results past the headline number appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
+    "date": "2026年8月18日"
   }
 ]
