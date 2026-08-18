@@ -1142,5 +1142,44 @@
     "body": "",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/18/news055.html",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Dickovers, baggravation and botiquette: 18 new words to describe our tech hellscape",
+    "summary": "There are many tech irritants that are a scourge of modern life, yet we have lacked the vocabulary to describe them ... until nowThe “dickover” is the scourge of the modern age.…",
+    "body": "Coined in May by John Gruber, a tech writer, it is defined as “a modal panel, popover, or curtain presented by a website or app, deliberately obscuring its own content to frustrate the user”. Essentially, it is the thing (or more often, things) you have to click away in order to read the thing you wanted to read.…",
+    "url": "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Ex-first lady, PPP lawmaker indicted in presidential residence relocation case",
+    "summary": "Former first lady Kim Keon Hee and an opposition lawmaker were indicted Tuesday in connection with a presidential residence relocation project carried out under former President Yoon Suk Yeol, a…",
+    "body": "special counsel team said. Kim, Yoon's wife, and Rep. Yoon Han-hong of the main opposition People Power Party were charged with meddling in the project to award the project worth 4.12 billion won ($ 2.92 million) to an unqualified construction company, 21 Gram, according to special counsel Kwon Chang-young's team.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260818/ex-first-lady-ppp-lawmaker-indicted-in-presidential-residence-relocation-case?utm_source=rss",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Absa’s digital push comes with a $540 million price tag",
+    "summary": "The numbers suggest African banks may be swapping the costs of physical infrastructure for an expensive technology stack.",
+    "body": "",
+    "url": "https://techcabal.com/2026/08/18/absas-digital-push-comes-with-a-540-million-price-tag/",
+    "date": "2026年8月18日"
   }
 ]
