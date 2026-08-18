@@ -1077,5 +1077,57 @@
     "body": "",
     "url": "https://techcabal.com/2026/08/18/techcabal-daily-mega-terra/",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | Kopf oder KI? So kombinieren Sie beides sinnvoll für Schule und Studium",
+    "summary": "Wer Hausaufgaben von ChatGPT schreiben lässt, ist schneller fertig, lernt aber nichts. Wir klären, wie KI in Schule und Studium unterstützt und wo sie stört.",
+    "body": "",
+    "url": "https://www.heise.de/ratgeber/Kopf-oder-KI-So-kombinieren-Sie-beides-sinnvoll-fuer-Schule-und-Studium-11394106.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Ma Dong-seok joins Netflix's 'Extraction 3' alongside Hemsworth",
+    "summary": "Korean American actor Ma Dong-seok will join the cast of Netflix's action franchise \"Extraction\" for its third installment, his agency said Tuesday.…",
+    "body": "Ma, also known as Don Lee, will appear in \"Extraction 3,\" currently in production, alongside Chris Hemsworth and Idris Elba, according to Big Punch Entertainment. The film continues the series' focus on Tyler Rake, a former special forces operative turned mercenary played by Hemsworth, who undertakes dangerous rescue missions against international criminal syndicates.…",
+    "url": "https://www.koreatimes.co.kr/entertainment/films/20260818/ma-dong-seok-joins-netflixs-extraction-3-alongside-hemsworth?utm_source=rss",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Nvidia executive visits LG Electronics robotics hub",
+    "summary": "Madison Huang, a senior director at Nvidia and the daughter of Chief Executive Officer (CEO) Jensen Huang, visited LG Electronics' robotics hub in Korea on Tuesday.…",
+    "body": "The younger Huang met with senior LG Electronics officials to discuss ways to expand their partnership in artificial intelligence (AI) infrastructure and robotics. The visit comes after LG Electronics announced last week that it plans to unveil a next-generation humanoid robot capable of bipedal walking in the first quarter of 2027, based on Nvidia's robotics platform.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260818/nvidia-executive-visits-lg-electronics-robotics-hub?utm_source=rss",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "LG AI Research, SK Telecom, Upstage survive next cut in national AI model project",
+    "summary": "The government has narrowed its state-backed project to develop a domestic artificial intelligence (AI) foundation model to three teams led by LG AI Research, SK Telecom and Upstage, eliminating…",
+    "body": "startup Motif Technologies despite its strong showing on global benchmarks. The Ministry of Science and ICT announced Tuesday that the three consortia advanced after the second evaluation of four contenders, which assessed benchmark performance, expert reviews and user experience.…",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260818/lg-ai-research-sk-telecom-upstage-survive-next-cut-in-national-ai-model-project?utm_source=rss",
+    "date": "2026年8月18日"
   }
 ]
