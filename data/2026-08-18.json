@@ -1207,5 +1207,57 @@
     "body": "fastest exactly where we are furthest behind. Zhipu, which also trades as Z.ai, is one of a handful of Chinese labs releasing models that compete with [ ] The post Reading Zhipu s GLM-5.3 results past the headline number appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Xiaomi ‘in no rush’ to turn vast AI spending into profits despite earnings slump",
+    "summary": "Chinese technology giant Xiaomi has said it is “in no rush” to convert its large investments in artificial intelligence into profit, after recording another decline in net profits in the second…",
+    "body": "quarter amid intense competition and cost inflation. “Our investment in AI is currently still in a phase of large-scale input. However, as a large corporation, Xiaomi is in no rush to pursue immediate monetisation,” said Alain Lam, the firm’s vice-president and chief financial officer, during an earnings...",
+    "url": "https://www.scmp.com/business/china-evs/article/3364458/xiaomi-no-rush-turn-vast-ai-spending-profits-despite-earnings-slump?utm_source=rss_feed",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu",
+    "summary": "Alibaba Group Holding’s new lightweight AI model Qwen3.8-27B has matched much larger near-frontier rivals while being able to run on everyday hardware, impressing developers as local AI gains…",
+    "body": "momentum. The Qwen3.8-27B, a small model with 27 billion parameters, performed on par with OpenAI’s GPT-5.6 Luna, which was billed as the most cost-efficient model in the US lab’s latest flagship series, benchmark firm Artificial Analysis said on Monday. It nearly matched leading open-weight models from...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3364404/alibabas-lightweight-qwen-model-takes-larger-ai-systems-openai-deepseek-zhipu?utm_source=rss_feed",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
+    "summary": "Analysieren Sie aktuelle Angriffstechniken mit und ohne KI, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen.",
+    "body": "",
+    "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-11404532.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot",
+    "summary": "SAN FRANCISCO (AP) — OpenAI is launching a version of ChatGPT designed for teenagers — the first generation to grow up with artificial intelligence — who are already using it for schoolwork,…",
+    "body": "questions about daily life and even companionship. The San Francisco-based company says ChatGPT for Teens, which launches Tuesday, is tailored for kids aged 13 to 17 with stronger protections including content restrictions around things like suicide, self-harm and romantic or sexual chats.…",
+    "url": "https://www.koreatimes.co.kr/world/20260818/openai-launches-chatgpt-for-teens-promising-a-more-age-appropriate-chatbot?utm_source=rss",
+    "date": "2026年8月18日"
   }
 ]
