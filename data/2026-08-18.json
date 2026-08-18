@@ -908,5 +908,44 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/",
     "date": "2026年8月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee stresses growth, inclusion in tribute to late President Kim Dae-jung",
+    "summary": "President Lee Jae Myung said Tuesday he will strive for growth and inclusion by carrying on the legacy of the late former President Kim Dae-jung, as he paid tribute to Kim on the 17th anniversary of…",
+    "body": "his death. \"I will create tangible changes in the lives of every citizen by making growth that drives a leap forward and inclusion that spreads warmth the two pillars of my administration,\" Lee said in a message read on his behalf by his chief of staff, Kang Hoon-sik, at a memorial service held at the Seoul National Cemetery.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260818/lee-stresses-growth-inclusion-in-tribute-to-late-president-kim-dae-jung?utm_source=rss",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "AI will not just automate tasks, it will repackage responsibilities",
+    "summary": "Most conversations about AI at work still start with the same question: which tasks can AI automate? That is a useful question, but it is too small.…",
+    "body": "A task is a single action: summarise this meeting, draft this email, extract this invoice detail, or rewrite this paragraph. These are real uses of AI, and they [ ] The post AI will not just automate tasks, it will repackage responsibilities appeared first on e27.",
+    "url": "https://e27.co/ai-will-not-just-automate-tasks-it-will-repackage-responsibilities-20260815/",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Southeast Asia solved distribution: Now fintech has to scale on the balance sheet",
+    "summary": "A founder showed me a growth chart earlier this year. Monthly actives climbing, merchant count doubling, transaction volume up across three markets.…",
+    "body": "Then he asked which wallet licence he should apply for next. I asked what his cost of funds would be. He did not have an answer. Neither did his finance lead. That [ ] The post Southeast Asia solved distribution: Now fintech has to scale on the balance sheet appeared first on e27.",
+    "url": "https://e27.co/southeast-asia-solved-distribution-now-fintech-has-to-scale-on-the-balance-sheet-20260815/",
+    "date": "2026年8月18日"
   }
 ]
