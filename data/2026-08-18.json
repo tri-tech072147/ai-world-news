@@ -973,5 +973,44 @@
     "body": "Over the four-year period from June 2022 to June 2026, the number of jobs held by people aged 15 to 29 fell by 285,000, according to the report published by the Bank of Korea (BOK). Of the total decline, 268,000 jobs, or 94 percent, were in sectors highly exposed to AI, such as information technology (IT) services, publishing, computer programming and professional services.…",
     "url": "https://www.koreatimes.co.kr/southkorea/society/20260818/ai-exposed-sectors-see-sharp-drop-in-youth-employment-bok-report?utm_source=rss",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Dienstag: Trump profitiert trotz Sanktionen, Cyberangriff auf Berliner Netz",
+    "summary": "World Liberty kooperiert mit WorldClaw + Krisenstab in Berlin + UberEats-Bestellung per Zipline-Drohne + OpenAI löst Team auf + Streit über Daten und Lizenzen",
+    "body": "",
+    "url": "https://www.heise.de/news/Dienstag-Trump-profitiert-trotz-Sanktionen-Cyberangriff-auf-Berliner-Netz-11416735.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Hallucinating history: Korea enlists youth ambassadors to fix AI errors on cultural heritage",
+    "summary": "When queried about Deoksu Palace, a prominent generative artificial intelligence (AI) system hallucinated a striking piece of architecture, rendering an image of the fountain in front of Seokjojeon…",
+    "body": "hall as a traditional lotus pond similar to Buyongji, located kilometers away at Changdeok Palace. The glitch is symbolic of a growing challenge for cultural institutions in the digital age and maintaining historical truth as generative AI becomes the world’s default reference tool.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260818/hallucinating-history-korea-enlists-youth-ambassadors-to-fix-ai-errors-on-cultural-heritage?utm_source=rss",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korean, African researchers join forces to protect food supplies from pests",
+    "summary": "As climate change accelerates the spread of crop-destroying pests across sub-Saharan Africa, Korea is stepping in with scientific expertise to help secure the continent’s fragile food supply.…",
+    "body": "The Rural Development Administration (RDA), Korea’s national agricultural research agency, said Tuesday that it signed a memorandum of understanding with the Nairobi-based International Centre of Insect Physiology and Ecology (icipe) to expand joint research into insect science and pest management.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/environment-animals/20260818/korean-african-researchers-join-forces-to-protect-food-supplies-from-pests?utm_source=rss",
+    "date": "2026年8月18日"
   }
 ]
