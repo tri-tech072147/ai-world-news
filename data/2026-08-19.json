@@ -622,5 +622,44 @@
     "body": "The S P 500 fell 0.5 percent and is on track for a third straight modest loss since setting its all-time high on Thursday. The Dow Jones Industrial Average was down 56 points, or 0.1 percent, as of 12:25 p.m. Eastern time, and the Nasdaq composite was 1.1 percent lower. Leading the way lower were stocks that have been big winners in the boom around artificial-intelligence technology.…",
     "url": "https://www.koreatimes.co.kr/world/20260819/sinking-ai-stocks-pull-wall-street-further-from-its-record?utm_source=rss",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Top 10: Der beste In-Ear-Kopfhörer im Test – AKG & Technics vor Apple & Sony",
+    "summary": "Wir haben dutzende richtig gute In-Ear-Kopfhörer getestet. In dieser Bestenliste zeigen wir die zehn besten In-Ears.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-in-ear-kopfhoerer-im-test-akg-und-technics-vor-apple-und-sony/ef5cmyq?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails, parental controls",
+    "summary": "The $852-billion startup faces ⁠multiple lawsuits alleging ChatGPT harmed children, as it prepares for a potentially record-breaking initial public offering",
+    "body": "",
+    "url": "https://www.thehindu.com/news/international/openai-unveils-chatgpt-for-teens-with-stronger-guardrails-parental-controls/article71362103.ece",
+    "date": "2026年8月18日"
   }
 ]
