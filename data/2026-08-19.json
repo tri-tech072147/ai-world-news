@@ -687,5 +687,44 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/how-enterprises-catch-up-with-rapid-pace-of-ai-advances",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "OpenAI announces slowing pace of development after hack by rogue agent",
+    "summary": "Firm said it was overhauling its research and training and will require greater safety parameters of AI after hackOpenAI on ⁠Tuesday said it had slowed down the ⁠pace of ⁠its ​AI development while it…",
+    "body": "overhauled its ⁠research and training systems.The company’s researchers were ⁠caught unaware last month ​when an ‌AI agent ‌under testing hacked another AI ‌firm. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "ChatGPT for Teens soll zu „Nutzung von KI mit Selbstbewusstsein” führen",
+    "summary": "Vermeint OpenAI einen jugendlichen Nutzer zu erkennen, schaltet es automatisch auf ChatGPT for Teens um. Dessen Schranken sollen Eltern überzeugen.",
+    "body": "",
+    "url": "https://www.heise.de/news/ChatGPT-for-Teens-soll-zu-Nutzung-von-KI-mit-Selbstbewusstsein-fuehren-11418666.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "【Pythonで学ぶデータ分析】対応のあるデータの母平均に差があるかどうかをベイズt検定で調べる ～ ホラー映画を観ると握力は上がるのか？",
+    "summary": "手に汗握るホラー映画を観た後では、観る前よりも握力が強くなったような気がしませんか？ 同じ人の2回の測定値の差を求め、ベイズ統計により検定します。事前分布のパラメーターを変えても結果が安定するかどうかを調べる「感度分析」にも触れます。『社会人1年生から学ぶ、やさしいデータ分析』ベイズ統計編の第7回です。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news004.html",
+    "date": "2026年8月18日"
   }
 ]
