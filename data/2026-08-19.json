@@ -726,5 +726,31 @@
     "body": "",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news004.html",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+    "summary": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Young people expect AI to replace desired jobs within 5 years amid hiring slump",
+    "summary": "More than half of young job seekers and workers say artificial intelligence (AI) is likely to replace or reduce the need for workers in their desired occupations within five years, reflecting…",
+    "body": "deepening anxiety about their place in an AI-driven labor market. The Federation of Korean Industries released the results of a survey Tuesday on job perceptions among young people as AI use grows, polling 1,000 people aged 19 to 34 who are either employed or looking for work.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20260819/young-people-expect-ai-to-replace-desired-jobs-within-5-years-amid-hiring-slump?utm_source=rss",
+    "date": "2026年8月18日"
   }
 ]
