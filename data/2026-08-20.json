@@ -583,5 +583,31 @@
     "body": "every tool exposed by a MCP server. Okta calls the resulting prompt overhead the “tool tax”: tokens consumed as a model considers tools, including [ ] The post Okta targets AI agent token costs with MCP scoping appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/okta-targets-ai-agent-token-costs-with-mcp-scoping/",
     "date": "2026年8月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Paradox am Arbeitsmarkt: Berufseinsteiger verlieren, Erfahrene gewinnen",
+    "summary": "Eine aktualisierte Stanford-Studie und internationale Daten belegen: Generative KI führt nicht zu Massenentlassungen, blockiert aber gezielt junge Fachkräfte.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-Paradox-am-Arbeitsmarkt-Berufseinsteiger-verlieren-Erfahrene-gewinnen-11419713.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月19日"
   }
 ]
