@@ -1428,5 +1428,57 @@
     "body": "not appeal to him. He wanted something different, although he was not quite sure what that would be. “I don t [ ]",
     "url": "https://techcabal.com/2026/08/19/my-life-in-tech-al-amin-ajao/",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Shanghai lays out plan to boost digital economy, catch up with Beijing, Shenzhen",
+    "summary": "Shanghai has issued plans to boost its digital economy by doubling down on sectors including blockchain technology and AI infrastructure, as it steps up efforts to compete with other Chinese tech…",
+    "body": "hubs such as Beijing and Shenzhen. In a new five-year plan for building “digital Shanghai”, the municipal government said on Wednesday that it aimed to promote the use of blockchain technology across various fields of the economy, including financial services, shipping and logistics, and green...",
+    "url": "https://www.scmp.com/tech/blockchain/article/3364593/shanghai-lays-out-plan-boost-digital-economy-catch-beijing-shenzhen?utm_source=rss_feed",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Privacy Gateway: Filter entfernt sensible Daten, bevor sie ChatGPT erreichen",
+    "summary": "Einzelne Informationen können Rückschlüsse auf Personen zulassen. Das stellt besonders für Firmen ein Risiko dar. Eine neue Lösung soll das Problem beheben.",
+    "body": "",
+    "url": "https://www.heise.de/news/Privacy-Gateway-Filter-entfernt-sensible-Daten-bevor-sie-ChatGPT-erreichen-11419501.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Update kompakt: Trainingsdaten, OpenAI Astra, Fotografie, Sonnenstürme",
+    "summary": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-Update-kompakt-Trainingsdaten-OpenAI-Astra-Fotografie-Sonnenstuerme-11419131.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Unitree Shares Surge in Stock Market Debut",
+    "summary": "The company is the world’s biggest humanoid robot maker by sales.",
+    "body": "",
+    "url": "https://aibusiness.com/robotics/unitree-shares-surge-stock-market-debut",
+    "date": "2026年8月19日"
   }
 ]
