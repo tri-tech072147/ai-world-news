@@ -1376,5 +1376,57 @@
     "body": "",
     "url": "https://www.heise.de/news/OpenAI-startet-Werbegeschaeft-in-Deutschland-und-Europa-11419269.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+    "summary": "It's the data, stupid.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Making better robots depends on better data capture, Chinese firm 51World says",
+    "summary": "The race to develop intelligent humanoid robots faces a major roadblock in a severe shortage of high-quality training data, but Beijing-based tech company 51World believes it has the tools to break…",
+    "body": "the bottleneck. Best known for its digital twin and simulation technology, 51 World on Tuesday unveiled a new suite of data-collection devices and platforms designed to help train embodied AI systems – artificial intelligence models that help machines perceive, reason and interact with the physical...",
+    "url": "https://www.scmp.com/tech/article/3364587/making-better-robots-depends-better-data-capture-chinese-firm-51world-says?utm_source=rss_feed",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "From spectacle to scale: why China’s robotics firms face a ‘critical juncture’",
+    "summary": "At China’s annual World Robot Conference (WRC) that kicked off on Wednesday, the hall was filled with humanoid robots wowing visitors with feats of dexterity: from playing table tennis to performing…",
+    "body": "drum solos. These eye-catching displays have helped China’s robotics industry win global attention – and raise huge amounts of capital – over the past couple of years. But at this year’s summit, the overriding sentiment among executives, investors and policymakers was starkly pragmatic: the era of...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3364582/spectacle-scale-why-chinas-robotics-firms-face-critical-juncture?utm_source=rss_feed",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "He was almost a bricklayer. Now Amin Ajao is building in tech",
+    "summary": "Al-Amin Ajao knew one thing about the career he wanted: he did not want a white-collar job. The routine of waking up every morning, dressing for work and spending Monday to Friday in an office did…",
+    "body": "not appeal to him. He wanted something different, although he was not quite sure what that would be. “I don t [ ]",
+    "url": "https://techcabal.com/2026/08/19/my-life-in-tech-al-amin-ajao/",
+    "date": "2026年8月19日"
   }
 ]
