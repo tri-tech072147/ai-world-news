@@ -1246,5 +1246,57 @@
     "body": "(AI) and robotics, government data showed Wednesday. A total of 8.87 trillion won ($6.34 billion) was invested into promising venture firms and startups in the January-June period, up 54.3 percent from the same period a year earlier, according to the data from the Ministry of SMEs and Startups.…",
     "url": "https://www.koreatimes.co.kr/business/20260819/koreas-venture-investments-touch-new-high-in-h1-data?utm_source=rss",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "The Rise and Fall of the Artificial State by Jill Lepore review – an ominous warning of tech takeover",
+    "summary": "A historian charts the emergence of a democracy-crushing dystopia that is – in some ways – already with usPulitzer prize-winning US historian Jill Lepore’s new book addresses the threat posed to…",
+    "body": "liberal democracy by artificial intelligence. According to Lepore, the extraordinary power of private tech companies led by men whose priorities may not align with the wellbeing of the Earth or its inhabitants is set to destroy civilisation as we know it.Lepore’s concept of the Artificial State is capacious. It includes both a fantasy desired by a select few and a reality that is already with us.…",
+    "url": "https://www.theguardian.com/books/2026/aug/19/the-rise-and-fall-of-the-artificial-state-by-jill-lepore-review-an-ominous-warning-of-tech-takeover",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "ChatGPTの反論で「道徳的判断」の3割超が覆る 高齢者が説得されやすい傾向 神戸大",
+    "summary": "生成AIの反論によって道徳的な判断の3割超が覆る――神戸大学がこのような研究結果を発表した。米OpenAIのチャットAI「ChatGPT」を利用し、AIの反論が正解のない道徳問題への回答に与える影響を調べた。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000627/",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big",
+    "summary": "Southeast Asia s travel industry has roared back from the COVID-19 pandemic, and a new generation of founders is betting that the region s next big travel wins won t come from another…",
+    "body": "flight-and-hotel search engine, but from the unglamorous plumbing around it: visas, eSIMs, hourly hotel bookings, corporate travel expense trails, and the local guides who make [ ] The post The unsexy side of SEA traveltech: eSIMs, visas and hourly hotels win big appeared first on e27.",
+    "url": "https://e27.co/the-unsexy-side-of-sea-traveltech-esims-visas-and-hourly-hotels-win-big-20260819/",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Hong Kong Electronics Fairs (Autumn Edition) and electronicAsia: Cutting-Edge Technologies on Display This October, Shaping the Future of Industries",
+    "summary": "The Hong Kong Trade Development Council (HKTDC) will host two prominent exhibitions from 13-16 October in Hong Kong — the Hong Kong Electronics Fair (Autumn Edition) and electronicAsia , jointly…",
+    "body": "organized by HKTDC and MMI Asia Pte Ltd. The fairs will be held at the Hong Kong Convention and Exhibition Centre (HKCEC), showcasing the latest consumer electronics, smart products, electronic [ ] The post Hong Kong Electronics Fairs (Autumn Edition) and electronicAsia: Cutting-Edge Technologies on Display This October, Shaping the Future of Industries appeared first on e27.",
+    "url": "https://e27.co/hong-kong-electronics-fairs-autumn-edition-and-electronicasia-cutting-edge-technologies-on-display-this-october-shaping-the-future-of-industries-20260819/",
+    "date": "2026年8月19日"
   }
 ]
