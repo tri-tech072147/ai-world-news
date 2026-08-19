@@ -674,5 +674,57 @@
     "body": "Treasury knocked down bond yields and the dollar ahead of the release of the Federal Reserve's July meeting minutes. Spot gold climbed 3.6 percent to $4,487.91 per ounce by 2:10 p.m. EDT (1810 GMT) after touching its highest level since June 4 at $4,499.20 earlier in the session. U.S. gold futures settled 2.8 percenthigher at $4,545.30.…",
     "url": "https://www.koreatimes.co.kr/world/20260820/gold-surges-over-3-as-us-treasury-announcement-hurts-yields-dollar?utm_source=rss",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Waymoが自動運転AI戦略を解説、「単一AIモデルのE2E方式には2つの問題がある」",
+    "summary": "米国で自動運転車によるモビリティサービスを展開するWaymo（ウェイモ）が、2009年スタートの「Google Self-Driving Car Project」から開発を積み重ねてきた自動運転技術に基づく同社のAI戦略について説明した。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/20/news055.html",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "OpenAI Scales Back AI Development, but it Could be Too Late",
+    "summary": "The move is a response to the Hugging Face hacking incident and other cybersecurity concerns about AI models.…",
+    "body": "However, enterprises need to ramp up security protections regardless of the models they use.",
+    "url": "https://aibusiness.com/generative-ai/openai-scales-down-ai-development-could-be-too-late",
+    "date": "2026年8月19日"
   }
 ]
