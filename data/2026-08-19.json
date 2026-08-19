@@ -804,5 +804,70 @@
     "body": "",
     "url": "https://monoist.itmedia.co.jp/mn/articles/2608/19/news019.html",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "冷間鍛造FEMをAIで高速予測するサロゲートモデル「ForgeNet」を発表",
+    "summary": "ゴーデルブロックは、計算力学の国際会議「WCCM ECCOMAS Munich 2026」で冷間鍛造シミュレーション向けAIサロゲートモデル「ForgeNet」の研究成果を発表した。解析結果を固定オイラー格子へ投影することで、適応的リメッシュに伴う節点対応の課題に対処する。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/19/news030.html",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "AI won’t replace leaders, but it will expose weak leadership",
+    "summary": "The conversation around artificial intelligence has become strangely polarised. One camp believes AI will replace millions of jobs.…",
+    "body": "Another believes it s the greatest productivity revolution in modern business. I believe both camps are asking the wrong question. After spending the last few years working alongside CEOs, Managing Directors and executive teams across financial services, technology [ ] The post AI won t replace leaders, but it will expose weak leadership appeared first on e27.",
+    "url": "https://e27.co/ai-wont-replace-leaders-but-it-will-expose-weak-leadership-20260815/",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「AIに原始人っぽく話すとトークン65％削減」は本当か？ JetBrainsが検証してみた",
+    "summary": "JetBrainsは、AIエージェントの応答を圧縮するスキル「Caveman」の効果を検証したした結果を公式ブログで公開した。Cavemanは、「エージェントの応答を原始人のような簡潔な言葉に変えることで、トークンを65％削減する」と主張しているスキルだ。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/19/news042.html",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "話題の職種「FDE」、実際何をやってるの？ OpenAIの現役2人に聞いた",
+    "summary": "話題の職種「FDE」の実態はどのようなものか。米OpenAIでFDEとして働く2人に聞いた。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000560/",
+    "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "OpenAI、「ChatGPT for Teens」発表──宿題の“丸投げ”検知、自傷や摂食障害などの保護も強化",
+    "summary": "OpenAIは、13?17歳向けの新環境「ChatGPT for Teens」を発表した。年齢推定や申告に基づいて自動適用され、段階的な理解を促す「Study Mode」などの学習機能を提供。自傷行為や摂食障害などの高リスク領域での保護を標準で有効にし、感情的な依存を促す対話を禁じるなど安全対策を強化した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/19/2000000606/",
+    "date": "2026年8月18日"
   }
 ]
