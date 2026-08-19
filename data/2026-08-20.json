@@ -622,5 +622,57 @@
     "body": "products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge their exposure when the price changes. Silicon Data [ ]",
     "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "AI was supposed to win people over by now — it hasn’t",
+    "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like…",
+    "body": "OpenAI.",
+    "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched…",
+    "body": "faster.",
+    "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Gold surges over 3% as US Treasury announcement hurts yields, dollar",
+    "summary": "Gold surged over 3 percent to its highest in over two-and-a-half months on Wednesday after a surprise liquidity support announcement by the U.S.…",
+    "body": "Treasury knocked down bond yields and the dollar ahead of the release of the Federal Reserve's July meeting minutes. Spot gold climbed 3.6 percent to $4,487.91 per ounce by 2:10 p.m. EDT (1810 GMT) after touching its highest level since June 4 at $4,499.20 earlier in the session. U.S. gold futures settled 2.8 percenthigher at $4,545.30.…",
+    "url": "https://www.koreatimes.co.kr/world/20260820/gold-surges-over-3-as-us-treasury-announcement-hurts-yields-dollar?utm_source=rss",
+    "date": "2026年8月19日"
   }
 ]
