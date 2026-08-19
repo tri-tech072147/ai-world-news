@@ -609,5 +609,18 @@
     "body": "",
     "url": "https://www.heise.de/news/KI-Paradox-am-Arbeitsmarkt-Berufseinsteiger-verlieren-Erfahrene-gewinnen-11419713.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI…",
+    "body": "products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge their exposure when the price changes. Silicon Data [ ]",
+    "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "date": "2026年8月19日"
   }
 ]
