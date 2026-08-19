@@ -1480,5 +1480,57 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/unitree-shares-surge-stock-market-debut",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Calendly throws its hat into meeting note-taker circus",
+    "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "OpenAI slows down training after its AI carried out hack",
+    "summary": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Bipartisan senators call for reversing UFS exercise cuts in letters to Trump, Hegseth",
+    "summary": "WASHINGTON — Two senators have sent a letter to U.S. President Donald Trump and Defense Secretary Pete Hegseth calling on them to reverse their decision to scale back the ongoing South Korea-U.S.…",
+    "body": "military exercise, warning that the cuts could degrade the allies' readiness and send a \"wrong\" signal to North Korea. Sen. Mark Kelly (D-AZ) and Sen. Thom Tillis (R-NC) sent a letter Tuesday, as Seoul and Washington announced that the Ulchi Freedom Shield exercise will be cut short by a week, with associated live-training events having also been reduced.…",
+    "url": "https://www.koreatimes.co.kr/world/20260819/bipartisan-senators-call-for-reversing-ufs-exercise-cuts-in-letters-to-trump-hegseth?utm_source=rss",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "These Kenyan startups raised $500 million before shutting down. Where are the founders now?",
+    "summary": "Over the past five years, startups across logistics, e-commerce, agriculture, fintech, food delivery, clean energy, AI, and auto manufacturing have shut down, entered administration, or abandoned…",
+    "body": "their core businesses.",
+    "url": "https://techcabal.com/2026/08/19/500m-raised-shutdown-kenyan-startup-founders-now/",
+    "date": "2026年8月19日"
   }
 ]
