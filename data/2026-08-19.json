@@ -1194,5 +1194,57 @@
     "body": "",
     "url": "https://techcabal.com/2026/08/19/techcabal-daily-opay-gains-an-admirer/",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "OpenAI vs. Anthropic: Umsatzwachstum vs. Umsatzverdoppelung, Verlust vs. Gewinn",
+    "summary": "Die Entwicklung von OpenAI und Anthropic koppelt sich wohl voneinander ab. Etwas mehr Umsatz und mehr Verlust stehen viel mehr Umsatz und Gewinn gegenüber.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-OpenAI-waechst-bei-mehr-Verlust-Anthropic-waechst-schneller-und-macht-Gewinn-11418779.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「オープンな国産モデル」に33Bパラメータの新バージョン 国立情報学研究所",
+    "summary": "国立情報学研究所（NII）が、オープンな国産LLMの新バージョン「LLM-jp-4 33B」を公開。約332億パラメータのDense型モデルで、4種類のベンチマーク全てで従来モデルを上回るスコアを記録したという。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000626/",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea eyes energy for 1st project under $350 bil. US investment plan: finance minister",
+    "summary": "The energy sector is being considered for Korea's first project under its $350 billion investment commitment to the United States, Finance Minister Koo Yun-cheol said Wednesday.…",
+    "body": "Speaking at a luncheon hosted by the American Chamber of Commerce in Korea (AMCHAM), Koo said the launch of the Korea-U.S. Strategic Investment Corp. (KUIC) in June provided the institutional framework needed to put the investment plan into action. He called for companies from the two countries to work together to identify commercially viable projects that would benefit both sides.…",
+    "url": "https://www.koreatimes.co.kr/economy/others/20260819/korea-eyes-energy-for-1st-project-under-350-bil-us-investment-plan-finance-minister?utm_source=rss",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea's venture investments touch new high in H1: data",
+    "summary": "Korea's investments into startups for the first half of 2026 marked a record high for the six-month period, amid active investments into cutting-edge technologies, such as artificial intelligence…",
+    "body": "(AI) and robotics, government data showed Wednesday. A total of 8.87 trillion won ($6.34 billion) was invested into promising venture firms and startups in the January-June period, up 54.3 percent from the same period a year earlier, according to the data from the Ministry of SMEs and Startups.…",
+    "url": "https://www.koreatimes.co.kr/business/20260819/koreas-venture-investments-touch-new-high-in-h1-data?utm_source=rss",
+    "date": "2026年8月19日"
   }
 ]
