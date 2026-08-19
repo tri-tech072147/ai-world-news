@@ -1064,5 +1064,57 @@
     "body": "The harder asset to build and the easier one to lose is talent. Malaysia’s National AI Action Plan 2026-2030, known as AI Nation 2030, makes that point clearly. The [ ] The post Malaysia wants 300,000 AI jobs by 2030. Talent will decide if it gets there appeared first on e27.",
     "url": "https://e27.co/malaysia-wants-300000-ai-jobs-by-2030-talent-will-decide-if-it-gets-there/",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
+    "summary": "Das kabellose Laden fürs E-Auto funktioniert technisch schon lange, doch nur Porsche bietet das für einen hohen Aufpreis an. Kommt in Zukunft mehr?",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/Elektroautos-laden-Welche-Vor-und-Nachteile-das-induktive-Laden-hat-11375342.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI prüft KI: OpenAI verspricht nach Angriff auf Hugging Face mehr Kontrolle",
+    "summary": "Automatisierte Angriffe von KI-Modellen haben in den vergangenen Wochen viel Aufsehen erregt. Nun erklärt OpenAI, wie eine Wiederholung verhindert werden soll.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-prueft-KI-OpenAI-verspricht-nach-Angriff-auf-Hugging-Face-mehr-Kontrolle-11418742.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Chungnam National University's nursing college, hospital to expand AI-based health care cooperation",
+    "summary": "Chungnam National University’s College of Nursing and Chungnam National University Hospital have joined forces to conduct joint research on artificial intelligence (AI)-based health care and foster…",
+    "body": "professionals in the field. The university said the two institutions signed a partnership agreement on Tuesday to expand cooperation in AI-based health care education, research and technology development. The agreement was signed by Park Myong-hwa, dean of the college, and Bok Soo-kyung, president of the hospital.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/education/20260819/chungnam-national-universitys-nursing-college-hospital-to-expand-ai-based-health-care-cooperation?utm_source=rss",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "KT puts Korean AI chips, language model into one enterprise server",
+    "summary": "KT has packaged a Korean-made artificial intelligence (AI) processor, language model and operating platform into a single enterprise server, offering companies a way to run generative AI entirely…",
+    "body": "within their own networks. KT said Wednesday it launched the KT NPU LLM Station, an integrated AI appliance built around Rebellions’ ATOM-MAX neural processing unit and KT’s proprietary Mi:dm K 2.5 Pro large language model. The system also includes an application programming interface platform, allowing companies to operate the hardware, model and related services as a single package.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260819/kt-puts-korean-ai-chips-language-model-into-one-enterprise-server?utm_source=rss",
+    "date": "2026年8月19日"
   }
 ]
