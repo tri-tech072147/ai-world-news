@@ -1350,5 +1350,31 @@
     "body": "",
     "url": "https://www.heise.de/news/JetBrains-Umfrage-Claude-Code-ist-der-beliebteste-Coding-Agent-11419051.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
+    "summary": "A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fireFor the last four years, Erin Kistler has applied for thousands of jobs at companies like…",
+    "body": "Paypal, Microsoft and Netflix, only to find her résumé disappear into a black hole. A product manager with nearly 20 years of experience, Kistler believes she was qualified for every role, yet she never received a single interview.Now, Kistler is suing Eightfold AI, the Silicon Valley maker of hiring software used by hundreds of companies, including those where she applied, in a class action…",
+    "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "OpenAI startet Werbegeschäft in Deutschland und Europa",
+    "summary": "Werbefrei für Profis, Reklame für Gratis-Nutzer und Einsteiger: OpenAI sucht neue Umsatzquellen. Wie das Angebot für Unternehmen und Verbraucher gestaltet wird.",
+    "body": "",
+    "url": "https://www.heise.de/news/OpenAI-startet-Werbegeschaeft-in-Deutschland-und-Europa-11419269.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月19日"
   }
 ]
