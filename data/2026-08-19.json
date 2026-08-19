@@ -1116,5 +1116,83 @@
     "body": "within their own networks. KT said Wednesday it launched the KT NPU LLM Station, an integrated AI appliance built around Rebellions’ ATOM-MAX neural processing unit and KT’s proprietary Mi:dm K 2.5 Pro large language model. The system also includes an application programming interface platform, allowing companies to operate the hardware, model and related services as a single package.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260819/kt-puts-korean-ai-chips-language-model-into-one-enterprise-server?utm_source=rss",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: Sichtbarkeit in Tech-Strukturen: Workshop-Nachmittag in Frankfurt",
+    "summary": "Wie Fachkompetenz in Tech-Organisationen sichtbar wird: Women-in-Tech-Event am 30. Oktober in Frankfurt. Kostenfrei, die Plätze werden verlost.",
+    "body": "",
+    "url": "https://www.heise.de/news/Sichtbarkeit-in-Tech-Strukturen-Workshop-Nachmittag-in-Frankfurt-11417734.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "What does Anthropic stand to gain and risk with its IPO | Explained",
+    "summary": "With a reported goal of a $2 trillion valuation, the Claude maker’s fortunes could rise astronomically with a public offering, but September is a long way away in the world of AI",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/what-does-anthropic-stand-to-gain-and-risk-with-its-ipo-explained/article71344125.ece",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Anthropic releases more info about Claude AI watermarking amid user confusion",
+    "summary": "Anthropic noted that Claude’s text watermark was a version of the SynthID-Text approach published by Google DeepMind in a paper two years ago",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropic-releases-more-info-about-claude-ai-watermarking-amid-user-confusion/article71355224.ece",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Student architects reimagine classroom in Gwanghwamun Square",
+    "summary": "Twenty-five temporary architectural pavilions transformed the heart of Seoul this week as student designers unveiled physical installations reflecting on academic spaces, community and human…",
+    "body": "connection, municipal authorities said Wednesday. The 15th Union of Architecture University Students (UAUS) Pavilion Exhibition opened Tuesday along the Nolimadang section of Gwanghwamun Square, featuring works created by aspiring architects from 25 universities across Korea. Running through Aug.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260819/student-architects-reimagine-classroom-in-gwanghwamun-square?utm_source=rss",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "LG Display, Samsung Display to showcase next-generation OLED technologies at IMID",
+    "summary": "LG Display and Samsung Display are set to showcase their latest OLED technologies at the International Meeting on Information Display (IMID) 2026 in Busan, highlighting advances in display quality,…",
+    "body": "manufacturing efficiency and design flexibility. The three-day event is scheduled to begin Thursday at BEXCO. LG Display will unveil FLiPP, or FMM-Less innovative Pixel Patterning, an OLED manufacturing technology that eliminates the need for conventional fine metal masks (FMMs).…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260819/lg-display-samsung-display-to-showcase-next-generation-oled-technologies-at-imid?utm_source=rss",
+    "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "👨🏿‍🚀TechCabal Daily – OPay gains an admirer",
+    "summary": "In today's edition: Standard Bank wants OPay pre-IPO stake Absa eyes pan-African expansion SA to telecom firms: make public-benefit websites free New VAT rules proposed in South Africa",
+    "body": "",
+    "url": "https://techcabal.com/2026/08/19/techcabal-daily-opay-gains-an-admirer/",
+    "date": "2026年8月19日"
   }
 ]
