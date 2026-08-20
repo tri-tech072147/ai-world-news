@@ -1350,5 +1350,83 @@
     "body": "The deal adds model selection and routing to Stripe’s existing work around AI usage and token-based billing. OpenRouter supports more than 400 models from over 80 providers, according to Stripe. Rather than requiring [ ] The post Stripe agrees to buy OpenRouter as AI model routing expands appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
     "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Meta AI’s new Mac app wants you to talk to your apps",
+    "summary": "Meta said its Muse Spark model is powering the dictation feature.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chinese AI chips fall short on coding, forcing firms to stretch scarce Nvidia supply",
+    "summary": "Chinese AI companies are optimising software to cope with surging demand for inference, as part of that workload still relies on computing power from a limited pool of high-end chips amid restricted…",
+    "body": "access to Nvidia processors. Compared with training an artificial intelligence model, which relies on high-end chips, inference – a later phase in which the trained model applies its knowledge to process responses – can be adapted to domestic hardware. However, industry insiders said complex tasks...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3364700/chinese-ai-chips-fall-short-coding-forcing-firms-stretch-scarce-nvidia-supply?utm_source=rss_feed",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Microsoft behebt Sicherheitslücke: KI-Assistent Copilot verrät Schwachstellen",
+    "summary": "Sicherheitsforscher haben Microsofts KI-Assistenten dazu gebracht, seine eigenen Schutzmechanismen offenzulegen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Sicherheitsluecke-in-Microsoft-365-Copilot-KI-verraet-eigene-Schutzmechanismen-11420618.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Carlsen vs. OpenAI: ChatGPT erstellt ganze Druckvorlagen für „NEINhorn“-Plagiate",
+    "summary": "Auf Anfrage kann ChatGPT komplett neue Buchtitel zum „NEINhorn“ erstellen, inklusive falscher ISBN. Deshalb zieht der Carlsen Verlag gegen OpenAI vor Gericht.",
+    "body": "",
+    "url": "https://www.heise.de/news/Rechtsverletzende-Kopien-vom-NEINhorn-Carlsen-klagt-gegen-OpenAI-11420543.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Chinese national gets 20 years for hacking accounts of BTS' Jungkook, others",
+    "summary": "A Seoul court on Thursday sentenced a Chinese national to 20 years in prison for leading a hacking scheme targeting K-pop group BTS' member Jungkook and South Korean business executives.…",
+    "body": "The Seoul Central District Court handed down the sentence to the Chinese national, surnamed Chun, on charges of fraud and violating the information network act, in connection with the theft of more than 38 billion won ($27.2 million) from the victims. \"(Chun) targeted wealthy individuals and stole their assets,\" the court said.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260820/chinese-national-gets-20-years-for-hacking-accounts-of-bts-jungkook-others?utm_source=rss",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Police tracking down man for sexual harassment near Seoul university",
+    "summary": "Police are tracking down an unidentified man who reportedly sexually harassed people near a university in Seoul while naked and wearing a black mask, officials said Thursday.…",
+    "body": "The suspect, wearing no clothes and covering his face with a black mask, allegedly groped a student near a dormitory at Yonsei University at 10:10 p.m. the previous day before fleeing the scene, according to police. Police also suspect the man may have been behind a sexual harassment incident near the campus in June, as well as a report last month of a man hiding in bushes near the campus.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260820/police-tracking-down-man-for-sexual-harassment-near-seoul-university?utm_source=rss",
+    "date": "2026年8月20日"
   }
 ]
