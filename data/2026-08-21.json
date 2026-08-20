@@ -765,5 +765,31 @@
     "body": "",
     "url": "https://www.heise.de/news/Australien-Techkonzerne-muessen-fuer-Medieninhalte-zahlen-11421250.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Argentinien: KI-gestützte Überwachung hat unter Präsident Milei zugenommen",
+    "summary": "Laut Amnesty International hat Argentiniens Regierung in den vergangenen zwei Jahren den Einsatz von KI-gestützter Überwachungstechnologie deutlich ausgeweitet.",
+    "body": "",
+    "url": "https://www.heise.de/news/Argentinien-KI-gestuetzte-Ueberwachung-hat-unter-Praesident-Milei-zugenommen-11421270.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "GoogleはAI競争に負けたのか 「最強のAI」ではなく「AIの“電力網”」を選ぶ賭け",
+    "summary": "GoogleからAI研究の中心人物が相次いで去った。「Geminiは終わった」という見方に対し、「最先端ではなく、AIを社会全体に行き渡らせる“電力網”で勝つ賭けだ」という別の解釈もある。電気の歴史になぞらえながら整理する。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/21/news006.html",
+    "date": "2026年8月20日"
   }
 ]
