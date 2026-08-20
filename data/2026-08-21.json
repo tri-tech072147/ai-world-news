@@ -583,5 +583,83 @@
     "body": "",
     "url": "https://aibusiness.com/data-centers/nvidia-back-openai-data-center-105b-investment",
     "date": "2026年8月18日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+    "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+    "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Fotolack statt Metallmaske: LG optimiert die Fertigung großer OLEDs",
+    "summary": "LG Display will seine OLED-Panels statt mit Metallmasten per Photolithografie strukturieren und so hellere und sparsamere OLEDs produzieren.",
+    "body": "",
+    "url": "https://www.heise.de/news/Fotolack-statt-Metallmaske-LG-optimiert-die-Fertigung-grosser-OLEDs-11421126.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "PayPal-Alternative: dm führt Wero im Onlineshop ein",
+    "summary": "Ab dem 25. August kann man im Onlineshop der Drogeriekette dm mit dem EU-Bezahldienst Wero zahlen. dm-Finanzchef Martin Dallmeier sieht Potenzial für Wero.",
+    "body": "",
+    "url": "https://www.heise.de/news/PayPal-Alternative-dm-fuehrt-Wero-im-Onlineshop-ein-11421070.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee meets SK chairman for possible discussion on chip projects: sources",
+    "summary": "President Lee Jae Myung met with SK Group Chairman Chey Tae-won on Thursday, sources said, with the two presumed to have discussed the country's three mega projects centered on semiconductors and…",
+    "body": "artificial intelligence (AI). Lee and Chey met over dinner, according to the sources, possibly discussing a wide array of issues related to the three mega projects initiative, including SK hynix Inc.'s investment in the southwestern region.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/20260821/lee-meets-sk-chairman-for-possible-discussion-on-chip-projects-sources?utm_source=rss",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Google is giving Nigerian students a year of free AI access",
+    "summary": "The offer is Google's latest effort to bring its AI tools into education in Africa.",
+    "body": "",
+    "url": "https://techcabal.com/2026/08/20/google-is-giving-nigerian-students-a-year-of-free-ai-access/",
+    "date": "2026年8月20日"
   }
 ]
