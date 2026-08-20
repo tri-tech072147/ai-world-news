@@ -1441,5 +1441,44 @@
     "body": "The idea is to reduce dependence on the national grid by generating electricity close to where it is consumed. The initial design uses liquefied natural gas (LNG), although AMACO says the system can later accommodate renewable energy and hydrogen.",
     "url": "https://techcabal.com/2026/08/20/amaco-kenya-ai-project-teach-africa/",
     "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
+    "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technologyCinemas across the UK are considering banning customers from wearing Meta’s smart glasses…",
+    "body": "amid fears they could be used to pirate films.The UK Cinema Association (UKCA) trade body said that a number of local chains could end up introducing policies that restrict camera-enabled smart glasses at the big screen, adding to a growing list of venues concerned about covert use. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Amazon’s Prime Air autonomous drones to reach 500 US cities",
+    "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across the US by the end of 2026.…",
+    "body": "That build-out amounts to six times the number of locations Prime Air serves today, extending the option to communities with tens of millions of customers, according to Amazon. Reaching that many [ ] The post Amazon s Prime Air autonomous drones to reach 500 US cities appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Nvidia’s SONIC Teaches Humanoids to Move",
+    "summary": "Nvidia’s model uses real-time human demonstrations and training data to give operators a one-stop shop for humanoid motion.",
+    "body": "",
+    "url": "https://aibusiness.com/robotics/nvidia-s-sonic-teaches-humanoids-move",
+    "date": "2026年8月20日"
   }
 ]
