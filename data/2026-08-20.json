@@ -1116,5 +1116,57 @@
     "body": "",
     "url": "https://techcabal.com/2026/08/20/techcabal-daily-absa-but-make-it-nigerian/",
     "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Hesai rides on lidar growth as smart cars gain ground despite China’s struggling market",
+    "summary": "Chinese carmakers’ reinforced push to produce more smart vehicles could sustain growth for hi-tech component suppliers, even as the broader automotive market remains lacklustre, according to Hesai…",
+    "body": "Group chief financial officer Andrew Fan. “Orders for our lidar sensors [this year] were higher than in the same period last year,” Fan told the South China Morning Post on Wednesday. “An increasing percentage of new [car] models are now fitted with lidars as brands make them more intelligent.” Hesai –...",
+    "url": "https://www.scmp.com/business/china-evs/article/3364636/hesai-rides-lidar-growth-smart-cars-gain-ground-despite-chinas-struggling-market?utm_source=rss_feed",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s supernodes go mainstream as AI model sizes grow",
+    "summary": "Supernodes were everywhere at last month’s World Artificial Intelligence Conference (WAIC) in Shanghai.…",
+    "body": "Assemblies of dozens or hundreds of computer chips and associated hardware, supernodes are China’s way around the United States’ ban on the export of the most advanced artificial intelligence (AI) chips. Using greater quantities of domestic chips to deliver world-class computing power, they allow China to dodge the chokehold the US is trying to place on its AI aspirations. At this year’s WAIC,...",
+    "url": "https://www.scmp.com/plus/tech/big-tech/article/3364660/chinas-supernodes-go-mainstream-ai-model-sizes-grow?utm_source=rss_feed",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee calls for uninterrupted reforms for continued nat'l development",
+    "summary": "President Lee Jae Myung said Thursday that \"uninterrupted reforms\" are needed to root out rule-breaking and unfairness and set the nation on a path to continued development.…",
+    "body": "Lee made the remark during a meeting with his senior aides at Cheong Wa Dae, saying no policy can be effective if the public perceives it to be more beneficial to break the rules than to keep them. \"That is why it is ever more necessary to pursue uninterrupted reforms that correct the rule-breaking, unfairness and abnormalities that weigh heavily on the lives of the people,\" he said.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260820/lee-calls-for-uninterrupted-reforms-for-continued-natl-development?utm_source=rss",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
+    "summary": "Autonomous artificial intelligence agents have already penetrated the offices of large, global enterprises.…",
+    "body": "Now, HoneyBook is trying to bring that same capability to independent businesses with the launch of HoneyBook MCP, recently released as a connector for Anthropic s AI assistant Claude. The move addresses a real gap.…",
+    "url": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
+    "date": "2026年8月20日"
   }
 ]
