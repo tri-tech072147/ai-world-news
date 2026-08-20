@@ -986,5 +986,31 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/openai-says-ads-coming-to-chatgpt-in-europe-next-week/article71367674.ece",
     "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | Herzstück Thermomanagement: Porsches E-Auto-Geheimnis",
+    "summary": "Thermomanagement ist entscheidend, um optimale Leistung, Effizienz und langes Akkuleben unter einen Hut zu bringen. Wie genau löst Porsche das technisch?",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/Heisskalt-Wie-Akkus-auf-ihrer-Wohlfuehltemperatur-gehalten-werden-11398455.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul transforms DDP into living digital canvas",
+    "summary": "This autumn, Dongdaemun Design Plaza (DDP) will transform into a colossal, illuminated stage as Seoul merges the legacies of modern art icons Nam June Paik and Yoo Youngkuk with 18th-century Korean…",
+    "body": "poetry, dynamic live music, and cutting-edge laser design. The Seoul Design Foundation said Thursday that Seoul Light DDP 2026 Fall will run from Sept. 3-13 under the theme “K-Original Light.” Each evening from 7:30 p.m. to 10:30 p.m., the free public spectacle will turn DDP’s iconic 222-meter curved facade into an expansive digital canvas.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20260820/seoul-transforms-ddp-into-living-digital-canvas?utm_source=rss",
+    "date": "2026年8月20日"
   }
 ]
