@@ -856,5 +856,44 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000634/",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Stripe、AIモデルゲートウェイのOpenRouter買収 400以上のAIモデルを束ねる中立基盤は維持",
+    "summary": "Stripeは、AIモデルのゲートウェイを手掛けるOpenRouterを買収することで合意したと発表した。報道による買収額は約75億ドル。OpenRouterは単一APIで400超のモデル切り替えを可能にする。Stripeはトークンコスト最適化を強化し、OpenRouterは買収後も中立的な運営を継続する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/20/2000000639/",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Dongwon F&B upgrades seaweed packaging in global export push",
+    "summary": "Dongwon F B said Thursday it has adopted a nitrogen-flush packaging method for its Yangban brand roasted seaweed, part of a push to expand exports as the company marks the 40th anniversary of the…",
+    "body": "product's launch. The technique reduces oxygen inside the package and replaces it with nitrogen, which is far less reactive. Oxygen triggers oxidation in the oil used to season the seaweed, causing it to develop an off-flavor and lose its crispness over time, while nitrogen helps preserve the fresh, crunchy texture of seaweed straight off the roaster.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260820/dongwon-fb-upgrades-seaweed-packaging-in-global-export-push?utm_source=rss",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "LS Electric powers into Europe with next-gen tech showcase in Paris",
+    "summary": "LS Electric is taking its next-generation power grid technologies to Paris next week, joining LS Cable & System at one of the power industry’s biggest international gatherings as Europe races to…",
+    "body": "modernize its electricity networks. The companies will jointly participate in CIGRE 2026 from Sunday through Friday at the Palais des Congrès de Paris, where LS Electric will showcase high-voltage direct-current (HVDC) systems, artificial intelligence (AI) data center solutions and direct-current technologies.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260820/ls-electric-powers-into-europe-with-next-gen-tech-showcase-in-paris?utm_source=rss",
+    "date": "2026年8月20日"
   }
 ]
