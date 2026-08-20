@@ -726,5 +726,44 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/meta-ai-now-available-as-desktop-app-mac",
     "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+    "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to…",
+    "body": "the web.",
+    "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+    "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Australien: Techkonzerne müssen für Medieninhalte zahlen",
+    "summary": "Meta, Google, TikTok und LinkedIn droht in Australien eine 2,5-prozentige Abgabe auf ihre Werbeerlöse. Das sieht ein neues Gesetz zum Schutz lokaler Medien vor.",
+    "body": "",
+    "url": "https://www.heise.de/news/Australien-Techkonzerne-muessen-fuer-Medieninhalte-zahlen-11421250.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月20日"
   }
 ]
