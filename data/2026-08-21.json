@@ -791,5 +791,18 @@
     "body": "",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/21/news006.html",
     "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Ok, can we actually cool data centers with our pee?",
+    "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+    "date": "2026年8月20日"
   }
 ]
