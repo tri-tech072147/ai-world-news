@@ -804,5 +804,44 @@
     "body": "",
     "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
     "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+    "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Slack、AIとチームで協働する「Slack Code」を発表 ClaudeやDevinを専用チャネルで操作",
+    "summary": "Slackは、AIコーディングエージェントと協働するための新機能「Slack Code」を発表した。メンションで専用の「コードチャネル」が自動生成され、計画やコード差分、プレビューを確認しながら指示できる。ClaudeやDevinなど複数社のエージェントに対応し、人間の承認を経て安全に処理を実行する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/21/2000000667/",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "カルビーが挑むジャガイモ収量の限界――自社開発AIでサプライチェーン最適化",
+    "summary": "「ポテトチップス」や「じゃがりこ」など、カルビーの主力商品に欠かせないばれいしょには、収穫量の限界がある。後手の意思決定から脱却すべく、同社はAIを活用した全社最適シミュレーター「C-BOSS」を自社開発。いかにして現場定着の壁を越え、データに基づく攻めのサプライチェーンを構築したのか。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/21/news046.html",
+    "date": "2026年8月20日"
   }
 ]
