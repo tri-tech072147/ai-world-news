@@ -934,5 +934,57 @@
     "body": "expertise. The luxury brand of Hyundai Motor Group held a world premiere of its long-anticipated GV90 luxury SUV and its higher-end GV90 Neolun at the Palace of Fine Arts. The GV90 is built on Genesis’ dedicated electric mobility prime platform for flagship models.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260820/genesis-unveils-gv90-top-of-the-line-electric-suv?utm_source=rss",
     "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "It used to be our imperfect bodies that made us insecure. With AI, it’s our minds as well",
+    "summary": "For most of modern history, technology sought to imitate humans. Humans increasingly seek to imitate technologyTwo faces that appeared on my Instagram feed in recent months gave me pause.…",
+    "body": "One belonged to John Travolta at Cannes. The other to Carla Bruni on a date night with her husband, former French President Nicolas Sarkozy. Both looked recognisably themselves, yet, they both also looked oddly unfamiliar. Their looks have provoked speculation about cosmetic enhancement, though never acknowledged by them.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "#heiseshow: Fritzhole, ChatGPT für Teens, Wero",
+    "summary": "In der #heiseshow: Die Fritzbox blockt bald Werbung, ChatGPT bekommt einen Teenager-Modus und Wero bleibt vielen unbekannt.",
+    "body": "",
+    "url": "https://www.heise.de/news/heiseshow-Fritzhole-ChatGPT-fuer-Teens-Wero-11419667.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "エイベックス松浦会長、noteの“バズり記事”を「ほぼAI」で作成 「僕の60年分のデータを入れた」",
+    "summary": "エイベックスの松浦勝人会長は、8月13日から「note」に投稿している記事について、ほとんどAIで作成していたと自身のXアカウント（@maxmatsuuratwit）で明かした。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/20/2000000644/",
+    "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "OpenAI says ads coming to ChatGPT in Europe next week",
+    "summary": "The ChatGPT maker is burning through cash even as it girds for an initial public offering that could value it at nearly $1 trillion",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-says-ads-coming-to-chatgpt-in-europe-next-week/article71367674.ece",
+    "date": "2026年8月20日"
   }
 ]
