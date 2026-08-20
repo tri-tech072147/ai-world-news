@@ -1337,5 +1337,18 @@
     "body": "billion yuan (US$4 billion). AI Cloud and Compute Services, the Chinese tech giant’s new business segment covering its cloud business and T-Head chip arm, posted 48.4 billion yuan in revenue for the three months ended June 30, marking its fastest growth pace in 22 quarters. The segment’s AI-related...",
     "url": "https://www.scmp.com/tech/big-tech/article/3364705/alibabas-ai-cloud-growth-surge-drives-earnings-despite-soaring-tech-spending?utm_source=rss_feed",
     "date": "2026年8月20日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+    "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access to hundreds of models through a single interface.…",
+    "body": "The deal adds model selection and routing to Stripe’s existing work around AI usage and token-based billing. OpenRouter supports more than 400 models from over 80 providers, according to Stripe. Rather than requiring [ ] The post Stripe agrees to buy OpenRouter as AI model routing expands appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+    "date": "2026年8月20日"
   }
 ]
