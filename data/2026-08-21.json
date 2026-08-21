@@ -1415,5 +1415,31 @@
     "body": "However, running observer nodes could increase compliance costs for stablecoin issuers, who may need to hire managed services providers to meet the CBN’s proposed technical requirements.",
     "url": "https://techcabal.com/2026/08/21/nigerias-central-bank-wants-to-monitor-stablecoins/",
     "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Wasserzeichen für Anthropics Claude: Coder entwickelt Tool zum Entfernen",
+    "summary": "Mit einem unsichtbaren Wasserzeichen kennzeichnet Anthropic jetzt KI-generierte Inhalte von Claude. Ein Coder hat einen Weg gefunden, es wieder zu entfernen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Wasserzeichen-fuer-KI-Claude-Coder-entwickelt-Tool-zum-Entfernen-11421600.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz",
+    "summary": "From warehouse floor to boardroom Daniel Yun s route into supply chain technology did not begin in a lab or a spreadsheet. It began in a logistics warehouse.…",
+    "body": "Before founding Willog, he ran a traditional logistics operation and saw first-hand where shipments broke down and why customers lost faith in their carriers. One problem kept recurring: [ ] The post Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz appeared first on e27.",
+    "url": "https://e27.co/sensors-predictions-premiums-how-willog-turned-shipment-data-into-an-insurance-biz-20260821/",
+    "date": "2026年8月21日"
   }
 ]
