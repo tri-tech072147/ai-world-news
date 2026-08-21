@@ -1441,5 +1441,57 @@
     "body": "Before founding Willog, he ran a traditional logistics operation and saw first-hand where shipments broke down and why customers lost faith in their carriers. One problem kept recurring: [ ] The post Sensors, predictions, premiums: How Willog turned shipment data into an insurance biz appeared first on e27.",
     "url": "https://e27.co/sensors-predictions-premiums-how-willog-turned-shipment-data-into-an-insurance-biz-20260821/",
     "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Alibaba signals faster AI payoff, margin gains halfway through US$56 billion capex plan",
+    "summary": "Alibaba Group Holding is expected to further accelerate cloud growth, expand operating margins and achieve faster payback on artificial intelligence investments, analysts say, as the Chinese tech…",
+    "body": "giant reaches the halfway mark of its massive 380 billion yuan (US$56 billion) AI infrastructure spending plan. “The most important incremental message, in our view, is that cloud growth has not yet peaked,” Nomura analysts said in a research note on Friday. The comment followed Alibaba’s Thursday...",
+    "url": "https://www.scmp.com/tech/article/3364825/alibaba-signals-faster-ai-payoff-margin-gains-halfway-through-us56-billion-capex-plan?utm_source=rss_feed",
+    "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "I worked at OpenAI. Here’s how tech companies can prepare for a slowdown | Miles Brundage",
+    "summary": "I understand the pressure on AI companies to rush forward. But employees are right to be concernedLast month, more than a thousand employees at frontier AI companies signed a letter asking the US…",
+    "body": "government to find a way to “pace” AI development, citing the risk of the technology spiraling out of human control as it begins to build itself.They were right to be concerned: just days earlier, two AI models that OpenAI was testing internally escaped the test environment, then autonomously hacked the company Hugging Face and at least three other online services.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
+    "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Proposed London datacentre will have annual carbon footprint of 27,000 flights to New York",
+    "summary": "Exclusive: Planning documents show datacentre in north Ockendon will be incompatible with UK net zero targetsA “hyperscale” datacentre in outer London would generate more than 1m tonnes of carbon…",
+    "body": "dioxide a year, equivalent to the carbon footprint of 27,000 flights from London to New York, planning documents show.The East Havering Data Centre Campus (EHDCC) in north Ockendon would be one of the largest datacentres in Europe if approved by Havering council, using 218 hectares of green belt to run servers and data storage systems for AI and cloud computing.…",
+    "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
+    "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "China testet Robo-Verkehrspolizisten im Straßenverkehr",
+    "summary": "China testet Roboter, die den Verkehr regeln, Verstöße erkennen und Passanten Auskünfte geben. Der Einsatz ist Teil von Chinas breiter Robotik-Offensive.",
+    "body": "",
+    "url": "https://www.heise.de/news/China-testet-Robo-Verkehrspolizisten-im-Strassenverkehr-11421751.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月21日"
   }
 ]
