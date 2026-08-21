@@ -1506,5 +1506,31 @@
     "body": "latest AI backlash could influence those all-important elections in November. Are we seeing the beginning of the end of the 'artificial state'? Continue reading...",
     "url": "https://www.theguardian.com/politics/video/2026/aug/21/jill-lepore-on-why-the-artificial-state-is-doomed-politics-weekly-america",
     "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s telecoms giants bet on ‘token factories’ as AI drives revenue growth",
+    "summary": "China’s three state-owned telecoms giants have made billable artificial intelligence tokens a key focus of their growth strategies, as AI adoption accelerates across the country and computing demand…",
+    "body": "soars. China Mobile, China Telecom and China Unicom all pointed to AI and computing operations as key growth drivers in their first-half financial disclosures released this month, presenting usage of tokens – the fundamental unit of data processed by AI models – as a central metric alongside others...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3364873/chinas-telecoms-giants-bet-token-factories-ai-drives-revenue-growth?utm_source=rss_feed",
+    "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | Elektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
+    "summary": "Das kabellose Laden fürs E-Auto funktioniert technisch schon lange, doch nur Porsche bietet das für einen hohen Aufpreis an. Kommt in Zukunft mehr?",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/Elektroautos-laden-Welche-Vor-und-Nachteile-das-induktive-Laden-hat-11375342.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年8月21日"
   }
 ]
