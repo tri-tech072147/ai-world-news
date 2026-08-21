@@ -518,5 +518,18 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/unitree-shares-surge-stock-market-debut",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran.…",
+    "body": "Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that s rarely used against VCs. Board conflicts aren t exactly new, and these companies weren t necessarily direct competitors when a16z first invested [ ]",
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "date": "2026年8月21日"
   }
 ]
