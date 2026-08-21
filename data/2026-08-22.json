@@ -674,5 +674,18 @@
     "body": "",
     "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
     "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Sangdong mine eyes role in securing tungsten for chip industry",
+    "summary": "The Sangdong mine in Yeongwol County, Gangwon Province, is emerging as a strategic asset in efforts to build a non-Chinese tungsten supply chain for the semiconductor industry.…",
+    "body": "Operated by Almonty Korea Tungsten Corp. (AKTC), the mine is one of the world’s largest tungsten deposits and has advanced through development to become fully production-ready. The Sangdong mine is expected to supply tungsten concentrate and support the production of higher-value materials such as high-purity tungsten oxide.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260822/sangdong-mine-eyes-role-in-securing-tungsten-for-chip-industry?utm_source=rss",
+    "date": "2026年8月21日"
   }
 ]
