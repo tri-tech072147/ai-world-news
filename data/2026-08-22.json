@@ -661,5 +661,18 @@
     "body": "President Donald Trump's decision to scale back their military exercises, noting that the \"unnecessary crisis\" between the allies has created a roadblock to a coordinated approach toward Pyongyang. Ankit Panda, a senior fellow in the nuclear policy program at the Carnegie Endowment for International Peace, made the case in an article released by the Bulletin of the Atomic Scientists, a nonprofit…",
     "url": "https://www.koreatimes.co.kr/southkorea/20260822/s-korea-us-must-address-drill-cuts-for-productive-engagement-with-kim-expert?utm_source=rss",
     "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "date": "2026年8月21日"
   }
 ]
