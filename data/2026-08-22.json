@@ -687,5 +687,44 @@
     "body": "Operated by Almonty Korea Tungsten Corp. (AKTC), the mine is one of the world’s largest tungsten deposits and has advanced through development to become fully production-ready. The Sangdong mine is expected to supply tungsten concentrate and support the production of higher-value materials such as high-purity tungsten oxide.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260822/sangdong-mine-eyes-role-in-securing-tungsten-for-chip-industry?utm_source=rss",
     "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に",
+    "summary": "Anthropicは、最上位モデル「Claude Mythos 5」をセキュリティサービス「Claude Security」の脆弱性検出に導入したと発表した。モデル本体への直接アクセスは開放せず、パッチ提案などの出力のみに限定して提供する。オープンソース保護に向けた総額3500万ドルの基金設立も公表した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
+    "date": "2026年8月21日"
   }
 ]
