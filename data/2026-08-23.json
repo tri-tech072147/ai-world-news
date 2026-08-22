@@ -505,5 +505,18 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/unitree-shares-surge-stock-market-debut",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and…",
+    "body": "potentially dangerous behavior.",
+    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "date": "2026年8月22日"
   }
 ]
