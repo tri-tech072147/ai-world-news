@@ -739,5 +739,18 @@
     "body": "The hospital was also completely modern — every MRI scan, CT and X-ray was done with what seemed like the latest technology. My insurance then helped make sure that although still somewhat expensive considering everything I'd received, I was able to walk out without needing to sell my house. That's a joke, of course. I live in Seoul. I don't own a house.…",
     "url": "https://www.koreatimes.co.kr/opinion/20260822/the-lost-future-of-reply-1994?utm_source=rss",
     "date": "2026年8月22日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Would even an AI disaster on the scale of Hiroshima be enough to make humankind protect itself? I fear not | Timothy Garton Ash",
+    "summary": "It’s clear here in Silicon Valley that AI is advancing faster than humans’ ability to control it. That means even sober prophecies seem optimisticHere in Silicon Valley, the experts think that within…",
+    "body": "the next couple of years we’ll see an extraordinary takeoff for artificial intelligence. “Welcome to the foothills of the singularity,” as a Stanford University friend greeted me. More prosaically, the imminent breakthrough is described as “recursive self-improvement” – the point at which AI itself trains each successive model of AI, resulting in an exponential development to something which, in…",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
+    "date": "2026年8月22日"
   }
 ]
