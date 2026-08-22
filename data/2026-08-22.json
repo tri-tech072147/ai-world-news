@@ -726,5 +726,18 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/",
     "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "The lost future of 'Reply 1994'",
+    "summary": "I spent this week in a Korean hospital having surgery on a hand injury I picked up playing football. Thankfully, the surgery was a success, the nurses were kind and the food was decent.…",
+    "body": "The hospital was also completely modern — every MRI scan, CT and X-ray was done with what seemed like the latest technology. My insurance then helped make sure that although still somewhat expensive considering everything I'd received, I was able to walk out without needing to sell my house. That's a joke, of course. I live in Seoul. I don't own a house.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260822/the-lost-future-of-reply-1994?utm_source=rss",
+    "date": "2026年8月22日"
   }
 ]
