@@ -583,5 +583,18 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/unitree-shares-surge-stock-market-debut",
     "date": "2026年8月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "date": "2026年8月23日"
   }
 ]
