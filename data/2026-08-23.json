@@ -765,5 +765,31 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/chatgpt-for-teens-explained/article71367865.ece",
     "date": "2026年8月22日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea's AI ambition faces power crunch",
+    "summary": "Korea’s ambition to build a new generation of semiconductor, physical artificial intelligence (AI) and data-center industries is running into a basic but formidable constraint: electricity.…",
+    "body": "A government assessment incorporating demand from its three “mega-projects” estimates that peak power demand could reach 158.4 to 165 gigawatts (GW) in 2040. That is roughly 27 GW higher than the projection made just four months earlier — equivalent to the capacity of about 19 large 1.4-GW nuclear reactors. The scale of the increase should be a wake-up call.…",
+    "url": "https://www.koreatimes.co.kr/opinion/editorial/20260823/ed-koreas-ai-ambition-faces-power-crunch?utm_source=rss",
+    "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Admissions for 'Spider-Man' top 8 mil., 'The Odyssey' at 7 mil.: data",
+    "summary": "Admissions for the latest Spider-Man film and Christopher Nolan's \"The Odyssey\" were each nearing the 10 million mark in South Korea, data showed Sunday.…",
+    "body": "\"Spider-Man: Brand New Day,\" the fourth installment starring Tom Holland, surpassed the 8 million mark, 26 days after its release, its local distributor, Sony Pictures, said. \"The Odyssey\" is closely following the latest Spider-Man film, with its admissions topping 7 million on Sunday, according to its distributor Universal Pictures. As of 2 p.m., 'The Odyssey\" was the No.…",
+    "url": "https://www.koreatimes.co.kr/entertainment/films/20260823/admissions-for-spider-man-top-8-mil-the-odyssey-at-7-mil-data?utm_source=rss",
+    "date": "2026年8月23日"
   }
 ]
