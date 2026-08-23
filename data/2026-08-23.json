@@ -804,5 +804,18 @@
     "body": "",
     "url": "https://www.heise.de/news/Roboter-Weltmeisterschaft-in-Peking-Neue-Bestzeiten-im-Sprint-11422931.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Bühl als Pioniermodell: Bosch setzt auf Roboter aus dem Schwarzwald",
+    "summary": "Bosch will am Traditionsstandort Bühl nach jahrelangem Stellenabbau nun menschenähnliche Roboter zusammen mit dem britischen Startup Humanoid produzieren.",
+    "body": "",
+    "url": "https://www.heise.de/news/Buehl-als-Pioniermodell-Bosch-setzt-auf-Roboter-aus-dem-Schwarzwald-11422925.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月23日"
   }
 ]
