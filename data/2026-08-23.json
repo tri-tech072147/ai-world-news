@@ -674,5 +674,31 @@
     "body": "Constitution protects our right to publish. We must earn it. That responsibility has become more urgent as confidence in journalism has collapsed. Gallup reported last year that only 28 percent of Americans had a great deal or fair amount of confidence that newspapers, television and radio report the news fully, accurately and fairly, the lowest level since Gallup began asking the question in…",
     "url": "https://www.koreatimes.co.kr/opinion/20260823/how-the-media-can-earn-back-americas-trust?utm_source=rss",
     "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Are humanoid robots the future? Chinese makers instead highlight practical design",
+    "summary": "Humanoid robots were still among the biggest crowd-pleasers at this year’s World Robot Conference (WRC) in Beijing, though other types of robots, such as wheeled machines, were gaining momentum as…",
+    "body": "the industry moves from demonstration to deployment. At Unitree Robotics’ packed booth at the conference, bipedal models played table tennis or squared off in fighting matches, showing off levels of speed, balance and coordination that the industry has only seen in the last few years. But elsewhere...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3364911/are-humanoid-robots-future-chinese-makers-instead-highlight-practical-design?utm_source=rss_feed",
+    "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Kwangwoon University to host Robofest 2027 World Championship May 28-31",
+    "summary": "Kwangwoon University will host the Robofest 2027 World Championship, one of the world’s top three robotics competitions, on its Seoul campus from May 28-31 next year, the university said Friday.…",
+    "body": "The university decided to host the event after signing a memorandum of agreement in May with Lawrence Technological University in the U.S., the founder and operator of Robofest. It said it will begin preparations for the event, which is expected to bring together robotics experts and talented students from around the world.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/education/20260823/kwangwoon-university-to-host-robofest-2027-world-championship-may-28-31?utm_source=rss",
+    "date": "2026年8月23日"
   }
 ]
