@@ -661,5 +661,18 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/",
     "date": "2026年8月22日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "How the media can earn back America's trust",
+    "summary": "The freedom of the press is one of America’s greatest protections against unchecked power. But freedom carries responsibility, and journalism cannot demand the public’s trust simply because the…",
+    "body": "Constitution protects our right to publish. We must earn it. That responsibility has become more urgent as confidence in journalism has collapsed. Gallup reported last year that only 28 percent of Americans had a great deal or fair amount of confidence that newspapers, television and radio report the news fully, accurately and fairly, the lowest level since Gallup began asking the question in…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260823/how-the-media-can-earn-back-americas-trust?utm_source=rss",
+    "date": "2026年8月23日"
   }
 ]
