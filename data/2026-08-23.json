@@ -843,5 +843,31 @@
     "body": "The robot traded forehands and backhands with human players during singles and mixed-doubles demonstrations. At one point, while chasing a ball, it lost its balance and toppled backwards, drawing gasps from the crowd. It then rolled over, pushed itself back to its feet and resumed playing. The robot was...",
     "url": "https://www.scmp.com/tech/tech-trends/article/3364977/chinese-robots-tackle-tennis-smash-track-records-world-humanoid-robot-games?utm_source=rss_feed",
     "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
+    "summary": "Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’A senior leader at OpenAI has said people should prepare to defend against “ongoing,…",
+    "body": "persistent” cyber-attacks from AIs, as cutting-edge artificial intelligence models gain advanced capabilities to plan and launch offensives.The leading AI company this week announced a pause in development of its most advanced internal models amid rising safety fears, and Chris Lehane, its chief global affairs officer, said: “We are hitting a different chapter, a different moment within AI, in…",
+    "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+    "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | Herzstück Thermomanagement: Porsches E-Auto-Geheimnis",
+    "summary": "Thermomanagement ist entscheidend, um optimale Leistung, Effizienz und langes Akkuleben unter einen Hut zu bringen. Wie genau löst Porsche das technisch?",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/Heisskalt-Wie-Akkus-auf-ihrer-Wohlfuehltemperatur-gehalten-werden-11398455.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年8月23日"
   }
 ]
