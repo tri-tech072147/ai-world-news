@@ -596,5 +596,31 @@
     "body": "",
     "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
     "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Ella Baron on AI and the drought – cartoon",
+    "summary": "Continue reading...",
+    "body": "",
+    "url": "https://www.theguardian.com/commentisfree/picture/2026/aug/23/ella-baron-on-ai-and-the-drought-cartoon",
+    "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Robot horse and rider steal the spotlight at Chinese conference",
+    "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年8月22日"
   }
 ]
