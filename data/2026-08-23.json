@@ -869,5 +869,18 @@
     "body": "",
     "url": "https://www.heise.de/hintergrund/Heisskalt-Wie-Akkus-auf-ihrer-Wohlfuehltemperatur-gehalten-werden-11398455.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
     "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
+    "summary": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverableSome experts are warning of a looming “debt bomb” crisis because big…",
+    "body": "datacenter builders such as Meta, Oracle, xAI and CoreWeave are not only raising billions to construct these facilities but are also not recognizing these long-term debt obligations on their balance sheets.Should we be concerned? No. I know because I’ve seen this movie before. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+    "date": "2026年8月23日"
   }
 ]
