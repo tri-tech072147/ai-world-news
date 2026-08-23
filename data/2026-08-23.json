@@ -817,5 +817,31 @@
     "body": "",
     "url": "https://www.heise.de/news/Buehl-als-Pioniermodell-Bosch-setzt-auf-Roboter-aus-dem-Schwarzwald-11422925.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s overlooked internet army is quietly embedding AI into everyday businesses",
+    "summary": "While China’s new “AI tigers” have captured global attention for challenging Silicon Valley front-runners, a quieter wave of domestic technology companies is building in-house artificial intelligence…",
+    "body": "systems serving everyday users. Beyond pure-play AI labs like DeepSeek, Z.ai (also known as Zhipu AI), Moonshot AI and MiniMax, consumer-facing platforms that span e-commerce, video gaming, social media and travel are developing foundation models tailored to their own business ecosystems, in efforts...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3364972/chinas-overlooked-internet-army-quietly-embedding-ai-everyday-businesses?utm_source=rss_feed",
+    "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chinese robots tackle tennis, smash track records at World Humanoid Robot Games",
+    "summary": "A tennis ball flew across the net. On the other side, a humanoid robot crouched, shuffled sideways in a series of quick steps, adjusted its position and swung its racquet to send the ball back.…",
+    "body": "The robot traded forehands and backhands with human players during singles and mixed-doubles demonstrations. At one point, while chasing a ball, it lost its balance and toppled backwards, drawing gasps from the crowd. It then rolled over, pushed itself back to its feet and resumed playing. The robot was...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3364977/chinese-robots-tackle-tennis-smash-track-records-world-humanoid-robot-games?utm_source=rss_feed",
+    "date": "2026年8月23日"
   }
 ]
