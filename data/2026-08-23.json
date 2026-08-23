@@ -713,5 +713,57 @@
     "body": "The exhibition, titled “The Drawing,” is organized by the university’s Convergence and Open Sharing System Future Mobility Consortium. The event features students from the university’s Department of Automotive Engineering and Kyung Hee University’s College of Fine Arts, along with invited artists, to connect different fields of study and perspectives through drawing.…",
     "url": "https://www.koreatimes.co.kr/southkorea/education/20260823/kookmin-university-holds-convergence-exhibition-through-sept-11-to-mark-80th-anniversary?utm_source=rss",
     "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Alibaba to issue HK$80 billion in new shares for global AI push",
+    "summary": "Alibaba Group Holding will issue HK$80 billion worth of new shares and use the entire proceeds to invest in AI, the Chinese tech giant said on Sunday.…",
+    "body": "The move aims to “extend the company’s global AI leadership”, according to the company. It will use the funds raised to “invest in its full stack AI capabilities”, including expanding and enhancing its AI infrastructure, Alibaba said. Last week, Alibaba announced a 45 per cent of year-over-year jump in its second-quarter revenue in cloud and AI...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3364957/alibaba-issue-hk80-billion-new-shares-global-ai-push?utm_source=rss_feed",
+    "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games",
+    "summary": "At a 100-meter sprint, a humanoid robot achieved a result of 9.39 seconds, beating the human record of 9.58 seconds set by Jamaican athlete Usain Bolt in 2009; In a standing high jump, a humanoid…",
+    "body": "robot was able to reach 2.88 meters, surpassing the human high jump record of 2.45 meters set by Cuba’s Javier Sotomayor in 1993",
+    "url": "https://www.thehindu.com/sci-tech/technology/chinese-humanoid-robots-smash-human-records-in-100m-sprint-and-high-jump-at-beijing-robot-games/article71380192.ece",
+    "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Kakao spin-off plan faces lingering investor distrust",
+    "summary": "Kakao’s ambitious plan to split its business into two entities handling its mobile messenger and investment businesses, respectively, is facing lingering investor distrust, with its stock price…",
+    "body": "falling more than 7 percent to wipe out 1.8 trillion won ($1.3 billion) of market cap following the announcement on Friday. The mobile platform giant stressed that the restructuring will take the form of a spin-off, in which shares of the newly created company will be distributed to existing shareholders in proportion to their current stakes, so the measure is aimed at safeguarding shareholder…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260823/kakao-spin-off-plan-faces-lingering-investor-distrust?utm_source=rss",
+    "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Parental control features in ChatGPT for Teens | Explained",
+    "summary": "ChatGPT for Teens, designed for 13 to 17-year-olds, has features such as parental controls, “quiet hours”, study mode, and notifications for situations that need real-world interventions",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/chatgpt-for-teens-explained/article71367865.ece",
+    "date": "2026年8月22日"
   }
 ]
