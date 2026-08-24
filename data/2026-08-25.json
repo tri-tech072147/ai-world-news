@@ -713,5 +713,18 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/alibaba-sells-more-shares-raise-10-2b-spend-on-ai",
     "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "BOK faces rate dilemma amid stronger growth, record household debt",
+    "summary": "The Bank of Korea (BOK) faces a dilemma over whether to raise its policy rate at a meeting later this week, as stronger-than-expected economic growth supports another hike while record-high household…",
+    "body": "debt poses a growing concern, market watchers said Monday. The central bank will hold its Monetary Policy Board meeting Thursday to decide the policy rate, which currently stands at 2.75 percent after the BOK raised it by 25 basis points last month. Markets are closely watching whether the central bank will deliver a second consecutive rate hike or pause after last month's increase.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260825/bok-faces-rate-dilemma-amid-stronger-growth-record-household-debt?utm_source=rss",
+    "date": "2026年8月24日"
   }
 ]
