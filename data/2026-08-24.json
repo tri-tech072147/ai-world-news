@@ -1415,5 +1415,31 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/ode-with-anthropic-makes-acquisition-expand-enterprise-ai",
     "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
+    "summary": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as AEMO forecasts seven-fold rise in datacentre power useGet our breaking news email, free app or daily news…",
+    "body": "podcastAnthony Albanese will seek to use Wednesday’s high-stakes talks with premiers to quell growing unhappiness about national controls on datacentre developments, promising new approval laws will complement state rules.Faced with growing opposition from conservative governments in Queensland and the Northern Territory, Albanese will tell national cabinet he plans a major piece of legislation…",
+    "url": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Africa’s data sovereignty push is reshaping the AI race, and AWS wants in",
+    "summary": "Amazon Web Services (AWS) is betting that it can resolve that tension, giving African organisations access to AI and global cloud infrastructure while allowing them to retain control over sensitive…",
+    "body": "data.",
+    "url": "https://techcabal.com/2026/08/24/africas-data-sovereignty-push-is-reshaping-ai-race-aws-wants-in/",
+    "date": "2026年8月24日"
   }
 ]
