@@ -1337,5 +1337,83 @@
     "body": "",
     "url": "https://techcabal.com/2026/08/24/askya-ai/",
     "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Hugging Face reportedly in talks to be acquired for $13B",
+    "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B.…",
+    "body": "But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+    "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m",
+    "summary": "Chinese electric vehicle (EV) maker Xpeng has secured US$900 million in funding from high-profile investors including Alibaba Group Holding and IDG Capital to spur its robotics unit, despite a…",
+    "body": "widening second-quarter loss. Dogotix, a subsidiary of Xpeng, raised US$900 million in the latest round of financing, which valued it at US$6.3 billion, Xpeng said in a statement on Monday, adding that the fundraising marked the biggest single private-equity deal involving a Chinese robotics maker. The...",
+    "url": "https://www.scmp.com/business/china-evs/article/3365096/ev-maker-xpeng-set-challenge-tesla-embodied-ai-after-robotics-unit-raises-us900m?utm_source=rss_feed",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+    "summary": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "IFA: Fast jeder Zweite will Roboter im Haushalt helfen lassen",
+    "summary": "Sogenannte Smart-Home-Anwendungen verbreiten sich, doch viele Menschen fürchten Kontrollverlust und Hacker. Wie Verbraucher Chancen und Risiken einschätzen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Fast-jeder-Zweite-will-Roboter-im-Haushalt-helfen-lassen-11423993.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Update kompakt: Carlsen vs. OpenAI, Arbeitsmarkt, KI nutzt KI, Smart Glasses",
+    "summary": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-Update-kompakt-Carlsen-vs-OpenAI-Arbeitsmarkt-KI-nutzt-KI-Smart-Glasses-11423824.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Ode With Anthropic Makes First Acquisition to Expand Enterprise AI",
+    "summary": "The standalone company, backed by Wall Street firms, is looking to boost its AI technology implementation capabilities.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/ode-with-anthropic-makes-acquisition-expand-enterprise-ai",
+    "date": "2026年8月24日"
   }
 ]
