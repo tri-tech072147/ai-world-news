@@ -622,5 +622,44 @@
     "body": "From fintechs acquiring banking licenses to mature platforms eyeing foreign IPOs, we examine the consolidation wave reshaping African tech.",
     "url": "https://techcabal.com/2026/08/24/84-ma-deals-worth-11-4-billion-in-disclosed-value-recorded-so-far-in-2026/",
     "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+    "summary": "London and Kyiv in deal to help stop protesters and hostile states targeting military bases and critical infrastructureAI models trained on Ukrainian battlefield data will be used to stop protesters…",
+    "body": "and foreign states targeting UK defence sites, railways and energy plants under a deal struck between London and Kyiv.Private companies will also be given access to the vast trove of data from Ukraine’s Avengers AI lab to help build new systems, the first agreement of its kind in the UK. Continue reading...",
+    "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US Treasury chief vows to cut every 'economic lifeline' of Iran",
+    "summary": "WASHINGTON — U.S. Treasury Secretary Scott Bessent on Monday laid out plans for the \"economic asphyxiation\" of Iran, expanding Washington's secondary sanctions threats and warning of dire…",
+    "body": "consequences for countries that decline to join the pressure campaign. Bessent's address comes almost six months into a war on Tehran that has ground to a stalemate, with stalled peace talks and Iran preventing most traffic through the crucial Strait of Hormuz.…",
+    "url": "https://www.koreatimes.co.kr/world/20260825/us-treasury-chief-vows-to-cut-every-economic-lifeline-of-iran?utm_source=rss",
+    "date": "2026年8月24日"
   }
 ]
