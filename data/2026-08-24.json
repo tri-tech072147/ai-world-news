@@ -1298,5 +1298,44 @@
     "body": "",
     "url": "https://www.thehindu.com/life-and-style/how-to-live-in-the-age-of-ai-gautami-reddy-individuality-critical-thinking/article71368466.ece",
     "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s advanced chip supply to surge by 2035 despite equipment bottlenecks, Goldman says",
+    "summary": "China is on track to dramatically slash its deficit in advanced chips over the next decade as domestic foundries rapidly scale up production, though the weak link of lithography threatens to keep…",
+    "body": "full semiconductor independence out of reach, according to US investment bank Goldman Sachs. The supply of wafers made using 7-nanometre and below advanced processes is projected to grow at a compound annual rate of 46 per cent between 2025 and 2035, far outpacing the 17 per cent growth expected in...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3365074/chinas-advanced-chip-supply-surge-2035-despite-equipment-bottlenecks-goldman-says?utm_source=rss_feed",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Nvidia worker among 9 charged in Taiwan chip smuggling case",
+    "summary": "TAIPEI — Nine people in Taiwan, including a Nvidia worker, were charged on Monday over the illegal export of artificial intelligence servers to China, Taiwanese prosecutors said.…",
+    "body": "The indictments follow an investigation into the shipment of \"high-end\" AI servers made by Nasdaq-listed Super Micro Computer and containing advanced Nvidia chips to China in violation of U.S. export controls.…",
+    "url": "https://www.koreatimes.co.kr/world/20260824/nvidia-worker-among-9-charged-in-taiwan-chip-smuggling-case?utm_source=rss",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Askya wants to build ‘tech Dangotes’ starting with 10 African AI startups",
+    "summary": "Askya is opening applications for a six-week programme for African AI startups, with a minimum commitment of $200,000 to at least one participant.",
+    "body": "",
+    "url": "https://techcabal.com/2026/08/24/askya-ai/",
+    "date": "2026年8月24日"
   }
 ]
