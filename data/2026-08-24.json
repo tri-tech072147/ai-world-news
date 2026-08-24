@@ -1168,5 +1168,57 @@
     "body": "",
     "url": "https://techcabal.com/2026/08/24/techcabal-daily-cell-c-plan-c/",
     "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Malaysia’s data centre rules aim to green the sector, not slam the door",
+    "summary": "In global commercial real estate investment markets, data centres are all the rage. While stock markets continue to suffer bouts of volatility as sentiment oscillates between concerns artificial…",
+    "body": "intelligence (AI) will fall short of expectations and fears it will prove more disruptive than many think, the fundamentals of data centres are exceptionally strong. According to JLL, global data centre occupancy was 97 per cent at the end of last year while 77 per cent of all capacity under construction...",
+    "url": "https://www.scmp.com/opinion/asia-opinion/article/3365008/malaysias-data-centre-rules-aim-green-sector-not-slam-door?utm_source=rss_feed",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: c’t-Webinar: Die Wärmepumpe fürs Eigenheim",
+    "summary": "Das Webinar bietet eine herstellerunabhängige Einführung in die Wärmepumpentechnik, hilft die Machbarkeit zu beurteilen und räumt mit Vorurteilen auf.",
+    "body": "",
+    "url": "https://www.heise.de/news/c-t-Webinar-Waermepumpentechnik-fuer-Einsteiger-erklaert-11419931.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "なぜいま30Bクラスのオープンモデルが“熱い”のか 「27BパラメータでOpus 4.6超え」も",
+    "summary": "MetaとNVIDIA、Alibabaが30Bクラスのオープンモデルを相次ぎ公開し、国産の「LLM-jp-4 33B」も登場した。このサイズのモデルが今“熱い”理由と留意点を考察する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000723/",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea sets national principles for AI ethics",
+    "summary": "Those developing and using artificial intelligence (AI) should keep human dignity and the common good of society as core values while also focusing on fairness, accountability, safety and…",
+    "body": "transparency in practical use, according to the government's AI ethics principles. The government announced national principles for the ethical development and use of AI, Monday, setting out three core values and seven principles to guide its use, as the technology rapidly expands into areas ranging from business to public services, contributing to decisions affecting people's lives.…",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260824/korea-sets-national-principles-for-ai-ethics?utm_source=rss",
+    "date": "2026年8月24日"
   }
 ]
