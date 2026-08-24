@@ -713,5 +713,70 @@
     "body": "",
     "url": "https://kn.itmedia.co.jp/kn/articles/2608/24/news039.html",
     "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Codex、使用量をまたリセットへ “消費早すぎ”問題に対応",
+    "summary": "一部ユーザーで使用量が想定より早く消費される問題が確認されたことを受けた対応。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000703/",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "FTC proposes guidelines to boost transparency at prepaid installment firms",
+    "summary": "Korea's fair trade watchdog said Monday it issued an administrative notice of proposed revisions to consumer protection guidelines for prepaid installment transactions, aimed at strengthening…",
+    "body": "transparency in operators' management of customers' advance payments. The Fair Trade Commission (FTC) said the proposed revisions would require operators to establish internal guidelines for managing advance payments and draw up a management plan for each fiscal year.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260824/ftc-proposes-guidelines-to-boost-transparency-at-prepaid-installment-firms?utm_source=rss",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Here’s why a global company cannot be a copy-and-paste company",
+    "summary": "A few years ago, going global could be reduced to a familiar checklist. Identify the largest addressable market. Find a local partner. Hire a country lead. Translate the website.…",
+    "body": "Announce the expansion. Start selling. Today, that same decision begins with a very different set of questions. Where will the company’s data sit? Which technology providers [ ] The post Here s why a global company cannot be a copy-and-paste company appeared first on e27.",
+    "url": "https://e27.co/heres-why-a-global-company-cannot-be-a-copy-and-paste-company-20260821/",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「非エンジニアに役立つかで価値が決まる」 たった1時間で開発したツール、なぜGitHub史上最速で伸びた？",
+    "summary": "WhatsAppからAIエージェントに指示を出す――。個人の趣味から始まったツールは今、Microsoftの製品基盤にまで使われている。「OpenClaw」開発者がSnowflakeのイベントで語った、コーディングエージェントとの向き合い方をまとめた。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2608/24/news010.html",
+    "date": "2026年8月23日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "日本企業のAI投資「成果あり」はわずか13％ アクセンチュアが指摘する“人任せ”の限界",
+    "summary": "アクセンチュアの調査によれば、日本企業の78％がAI投資拡大に意欲を示す一方、全社的な成果を実感する企業は13％にとどまり、世界平均を大きく下回っている。何が足りていないのか。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news047.html",
+    "date": "2026年8月23日"
   }
 ]
