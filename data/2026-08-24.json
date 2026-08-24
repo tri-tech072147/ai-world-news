@@ -1220,5 +1220,44 @@
     "body": "transparency in practical use, according to the government's AI ethics principles. The government announced national principles for the ethical development and use of AI, Monday, setting out three core values and seven principles to guide its use, as the technology rapidly expands into areas ranging from business to public services, contributing to decisions affecting people's lives.…",
     "url": "https://www.koreatimes.co.kr/business/tech-science/20260824/korea-sets-national-principles-for-ai-ethics?utm_source=rss",
     "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Alibaba’s record stock sale adds to Hong Kong tech flood",
+    "summary": "Alibaba raised HK$80 billion (US$10.2 billion) in a record Hong Kong secondary stock sale as the e-commerce giant pours money into artificial intelligence (AI).…",
+    "body": "Shares were priced at HK$112.70 apiece, an 8.4 per cent discount to Friday’s close, according to a Hong Kong stock exchange filing. The Hangzhou-based company, which owns the South China Morning Post, closed at HK$112.50 on Monday. All of the sale proceeds will support Alibaba’s AI drive, with the company planning to spend more than 380...",
+    "url": "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "„Computer History“: OpenAI bringt Windows-Recall-ähnliche Funktion auf Macs",
+    "summary": "Business-, Enterprise- und Pro-Nutzer können ihre gesamte Rechnerarbeit unter macOS künftig von ChatGPT mitschreiben lassen. Die Memory-Files liegen offen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Computer-History-OpenAI-bringt-Windows-Recall-aehnliche-Funktion-auf-Macs-11422534.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee likely to meet Samsung chief for possible discussion on chip projects: sources",
+    "summary": "President Lee Jae Myung is likely to meet with Samsung Electronics Chairman Lee Jae-yong this week to possibly discuss the country's three mega projects centered on semiconductors and artificial…",
+    "body": "intelligence (AI), sources said Monday. The meeting came days after President Lee met with SK Group Chairman Chey Tae-won. Lee is also likely to have a meeting with Hyundai Motor Group Executive Chair Euisun Chung this week, the sources said.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260824/lee-likely-to-meet-samsung-chief-for-possible-discussion-on-chip-projects-sources?utm_source=rss",
+    "date": "2026年8月24日"
   }
 ]
