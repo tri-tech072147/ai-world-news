@@ -1454,5 +1454,83 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/mathematical-theories-could-be-key-explainable-ai-systems",
     "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Divergent results for Apple suppliers highlight memory price squeeze ahead of new iPhone",
+    "summary": "Two major Chinese suppliers to Apple posted divergent first-half results, underscoring how soaring memory prices are squeezing profits even as component makers pin their hopes on upcoming iPhone…",
+    "body": "releases for a second-half rebound. Lens Technology, a Shenzhen- and Hong Kong-listed maker of smartphone glass screens, saw its net income nearly halve to 577 million yuan (US$85.8 million) in the six months through June, as revenue dropped 12.4 per cent to 28.9 billion yuan. The company blamed the...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3365236/divergent-results-apple-suppliers-highlight-memory-price-squeeze-ahead-new-iphone?utm_source=rss_feed",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "IFA: Garmin Fenix 9: Neue Top-Uhren mit AMOLED und InReach-Technik",
+    "summary": "Garmin hat seine Fenix-Reihe aktualisiert. Die neuen 9er-Modelle bieten AMOLED-Displays, mehr Speicher und optional InReach-Satellitenkommunikation.",
+    "body": "",
+    "url": "https://www.heise.de/news/Garmin-Fenix-9-Neue-Top-Uhren-mit-AMOLED-und-InReach-Technik-11425311.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | Forschung: Roboter lernt Klettern und Ballett aus Handyvideo",
+    "summary": "Mit der Steuersoftware ZEST lernen Roboter Tricks aus Handyvideos oder Bewegungsdaten. Auf der echten Hardware gelingt ihnen der Trick dann auf Anhieb.",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/Forschung-Roboter-lernt-Klettern-und-Ballett-aus-Handyvideo-11414865.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "UN, Red Cross step up call for international rules on 'killer robot' weapons systems",
+    "summary": "The yearslong effort to rein in the use of autonomous weapons systems has struggled to produce limits",
+    "body": "",
+    "url": "https://www.thehindu.com/news/international/un-red-cross-step-up-call-for-international-rules-on-killer-robot-weapons-systems/article71389120.ece",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Fibre is changing Nigeria’s Internet. The hard part is getting everyone connected",
+    "summary": "Nigeria’s fibre boom is reshaping the country’s broadband market, lifting speeds and bringing more users onto faster networks. But the bigger test is no longer just how quickly fibre can be deployed",
+    "body": "",
+    "url": "https://techcabal.com/2026/08/25/fibre-is-changing-nigerias-internet-now-comes-the-hard-part/",
+    "date": "2026年8月25日"
   }
 ]
