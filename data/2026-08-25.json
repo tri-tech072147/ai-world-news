@@ -1532,5 +1532,31 @@
     "body": "",
     "url": "https://techcabal.com/2026/08/25/fibre-is-changing-nigerias-internet-now-comes-the-hard-part/",
     "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "summary": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Mistral and Saudi Vendor to Advance Sovereign AI in Middle East",
+    "summary": "The French AI lab extends its push for regional control of AI from Europe to the Middle East.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/mistral-saudi-vendor-advance-sovereign-ai-in-middle-east",
+    "date": "2026年8月25日"
   }
 ]
