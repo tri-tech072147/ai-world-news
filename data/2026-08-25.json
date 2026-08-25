@@ -843,5 +843,83 @@
     "body": "",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news041.html",
     "date": "2026年8月24日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Black Box: episode 2 – The hunt for ClothOff, the deepfake porn app – podcast",
+    "summary": "Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for societyToday in Focus is on a summer break and will be…",
+    "body": "back with new episodes from 1 September. In the meantime, we are bringing you season one of Black Box, before the launch of season two in early September. This episode was first broadcast on 7 March 2024.For six months, the Guardian journalist Michael Safi has been trying to find out who is behind an AI company that creates deepfakes.…",
+    "url": "https://www.theguardian.com/news/audio/2026/aug/25/black-box-episode-2-the-hunt-for-clothoff-the-deepfake-porn-app-podcast",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「今からロボットを現場投入できないか？」 増えた日本企業からの問い合わせ “頭脳”を作る韓国企業が感じた国内の変化",
+    "summary": "日本にも拠点を置くRLWRLD（リアルワールド）は、フィジカルAI分野で注目を集める国際企業だ。産業用ロボットの導入もかなり進んでいる日本市場で最近起こった変化について聞いた。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/25/2000000731/",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "When work gives you oranges: What Malaysian employees really want from technology",
+    "summary": "Malaysia’s workforce is embracing AI faster than many organisations are changing the way work gets done.…",
+    "body": "According to EY’s Why workers matter in Malaysia’s AI era report, 93 per cent of Malaysian employees are using generative AI at work, with 81 per cent reporting significant time savings and 76 per cent citing improved work productivity. [ ] The post When work gives you oranges: What Malaysian employees really want from technology appeared first on e27.",
+    "url": "https://e27.co/when-work-gives-you-oranges-what-malaysian-employees-really-want-from-technology-20260821/",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "The Philippines doesn’t need more fintech apps; needs rails",
+    "summary": "The first wave of the Philippine digital economy was easy to see, because everyone lived inside it. Lazada and Shopee made online shopping a daily habit.…",
+    "body": "By 2021, the country s e-commerce market had grown to US$17 billion in sales, with 73 million active online users. Angkas and Grab turned how do I get there into [ ] The post The Philippines doesn t need more fintech apps; needs rails appeared first on e27.",
+    "url": "https://e27.co/the-philippines-doesnt-need-more-fintech-apps-needs-rails-20260821/",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Gen Z and the rise of AI-powered travel",
+    "summary": "AI is increasingly becoming a trusted companion for Gen Z as they plan, explore, and enrich their travel experiences.…",
+    "body": "The shift reflects a broader transformation in how younger generations live, interact with technology, and navigate the world. According to a McKinsey study, generative AI has the potential to unlock US$2 trillion to US$4 trillion in [ ] The post Gen Z and the rise of AI-powered travel appeared first on e27.",
+    "url": "https://e27.co/gen-z-and-the-rise-of-ai-powered-travel-20260821/",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "TCS to buyout Porsche’s MHP for €320 million EV in major automotive AI partnership",
+    "summary": "The acquisition is part of a broader €1.25 billion, five-year strategic partnership between TCS and Porsche.",
+    "body": "",
+    "url": "https://www.thehindu.com/business/Industry/tcs-to-buyout-porsches-mhp-for-320-million-ev-in-major-automotive-ai-partnership/article71384592.ece",
+    "date": "2026年8月24日"
   }
 ]
