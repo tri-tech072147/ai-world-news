@@ -479,5 +479,31 @@
     "body": "",
     "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
     "date": "2026年8月22日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Why the threat from the rampaging AI machine went ignored | Letters",
+    "summary": "Jonathan Michie on his father’s efforts in the 1970s to map out concerns regarding widespread social coercion driven by automation.…",
+    "body": "Plus a letter from Callum BrownJill Lepore asks why nobody listened to warnings about the threats posed from the AI revolution (Democracy v the machine, 18 August). As she is a Harvard professor, her piece is understandably US-centric.…",
+    "url": "https://www.theguardian.com/technology/2026/aug/25/why-the-threat-from-the-rampaging-ai-machine-went-ignored",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Gamescom: DLSS 4.5: Nvidia veröffentlicht neues Ray-Reconstruction-Modell",
+    "summary": "Nvidias neues Ray-Reconstruction-Modell für DLSS 4.5 ist jetzt verfügbar. Es reduziert Ghosting und Bildrauschen in Raytracing-Spielen deutlich.",
+    "body": "",
+    "url": "https://www.heise.de/news/DLSS-4-5-Nvidia-veroeffentlicht-neues-Ray-Reconstruction-Modell-11425617.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月25日"
   }
 ]
