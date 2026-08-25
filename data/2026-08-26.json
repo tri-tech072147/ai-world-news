@@ -622,5 +622,18 @@
     "body": "two from Super Micro, for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI ​​rivalry between China and the United States.Prosecutors said the servers involved were graphics processing units known as “B300,” which have been banned from sale to China. Continue reading...",
     "url": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
     "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "In Catch-up Mode, Google Intros AI Agents for Financial, Legal Services",
+    "summary": "The new platforms show how the vendor is moving toward more vertical use of AI agents, but also how far behind it is.",
+    "body": "",
+    "url": "https://aibusiness.com/agentic-ai/in-catch-up-google-intros-ai-agents-financial-legal-services",
+    "date": "2026年8月25日"
   }
 ]
