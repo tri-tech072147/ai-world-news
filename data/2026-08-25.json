@@ -1298,5 +1298,57 @@
     "body": "cutting-edge Fable 5 stalls due to high costs. Open-weight models accounted for 54 per cent of token volume on Vercel’s AI Gateway on Tuesday, surpassing the 46 per cent consumed by proprietary models, according to data on its website. Open models reached a record share of 62 per cent on the platform on...",
     "url": "https://www.scmp.com/tech/tech-trends/article/3365204/deepseek-leads-surge-low-cost-chinese-open-weight-models-us-platform?utm_source=rss_feed",
     "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Jack Ma buys HK$600 million of Alibaba shares, signalling AI confidence: sources",
+    "summary": "Alibaba Group Holding founder Jack Ma has bought more than HK$600 million worth of the company’s Hong Kong-listed shares on consecutive days, according to people familiar with the matter, a show of…",
+    "body": "confidence in the firm’s long-term prospects for artificial intelligence. The purchases showed Ma’s “strong confidence for Alibaba to realise its AI ambitions and capture the long-term growth opportunities ahead”, one source said. Meanwhile, Alibaba chairman Joe Tsai and CEO Eddie Wu Yongming spent a...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3365217/jack-ma-buys-hk600-million-alibaba-shares-signalling-ai-confidence-sources?utm_source=rss_feed",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Sony Xperia 10 VIII: Neues Mittelklasse-Smartphone mit saftigem Aufpreis",
+    "summary": "Sony stellt das Xperia 10 VIII vor. Trotz fast identischer Hardware zum Vorgänger steigt der Preis deutlich auf 599 Euro.",
+    "body": "",
+    "url": "https://www.heise.de/news/Sony-Xperia-10-VIII-Neues-Mittelklasse-Smartphone-mit-saftigem-Aufpreis-11425070.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "政府、AI事業者向け「知財保護ルール」策定 対象範囲・運用方針は？",
+    "summary": "政府は、生成AI事業者向けに透明性の確保と知的財産権の保護を促す「プリンシプル・コード」を策定した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2608/25/2000000767/",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Robot horse and rider steal the spotlight at Chinese conference",
+    "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年8月22日"
   }
 ]
