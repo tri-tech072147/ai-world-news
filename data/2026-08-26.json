@@ -648,5 +648,31 @@
     "body": "",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news010.html",
     "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「Jetson Orin Nano 2」は推論性能が2倍、エッジ生成AIもリアルタイム処理可能",
+    "summary": "NVIDIAは、組み込み機器向けAIモジュール「Jetson Orin」の新たなラインアップとなる「Jetson Orin Nano 2」を発表した。現行の「Jetson Orin Nano」のメモリ容量8GBモデルと比べて推論性能が2倍に向上した一方で、同じ推論性能であれば消費電力を40％削減できるという。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2608/26/news048.html",
+    "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Inside TikTok's transparency center: AI catches 97% of removed videos",
+    "summary": "SINGAPORE — Before a TikTok video reaches the recommendation feed, machines get the first look, scanning its images, sounds and other signals for potential violations of the platform’s community…",
+    "body": "guidelines. In the first quarter of this year, automated systems detected and removed 178 million, or 96.7 percent, of the 184 million videos taken down globally — before they were reviewed by human moderators. Overall, 99.3 percent of removed videos were taken down before users reported them, according to the platform.…",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260826/inside-tiktoks-transparency-center-ai-catches-97-of-removed-videos?utm_source=rss",
+    "date": "2026年8月25日"
   }
 ]
