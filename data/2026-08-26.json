@@ -635,5 +635,18 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/in-catch-up-google-intros-ai-agents-financial-legal-services",
     "date": "2026年8月25日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "あなたが使うAIの「中身」、実は中国モデルかも 米企業のAPI利用で58％",
+    "summary": "Arena AIのコーディング性能ランキングでは、上位20モデルのうち8つを中国発が占める。AIモデルの中継サービスOpenRouterでも、米企業が中国モデルに流すトークンの比率は58％に達した。利用者からは見えないAIサービスの「中身」で、いま何が起きているのかを追う。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/26/news010.html",
+    "date": "2026年8月25日"
   }
 ]
