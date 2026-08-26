@@ -1428,5 +1428,57 @@
     "body": "buying lithium from Nigeria. The software could be built. The architecture could be designed. The engineers could make the system work. [ ]",
     "url": "https://techcabal.com/2026/08/26/my-life-in-tech-peter-otobong-fintech-systems-engineer/",
     "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+    "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "MiniMax revenue surges 283% but remains behind pace to meet forecast amid crowded AI race",
+    "summary": "Chinese artificial intelligence firm MiniMax on Wednesday posted a 283 per cent surge in first-half revenue to US$116.6 million, powered by a 700 per cent jump in its enterprise business, though…",
+    "body": "top-line growth remains off pace to hit full-year analyst forecasts. Revenue for the six months ended June 30 accounted for roughly 32 per cent of the US$363.77 million expected by analysts for the full year 2026, according to estimates compiled by Bloomberg. The company reported full-year revenue of...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3365341/minimax-revenue-surges-283-remains-behind-pace-meet-forecast-amid-crowded-ai-race?utm_source=rss_feed",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+    "summary": "In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows A pro-Israel messaging website badged with the name…",
+    "body": "of a thinktank that does not exist has published more than half a million words in nine days, built on a commercial platform that promises to optimize content so that AI chatbots will cite it.The site gives Israel’s position on subjects including the torture of Palestinian prisoners, Israeli war crimes and whether Israel has deliberately starved Palestinians in Gaza, all presented as neutral…",
+    "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Police to reexamine 310,000 missing person cases closed in past 3 years",
+    "summary": "Police plan to conduct a comprehensive review of about 310,000 missing person cases closed over the past three years following controversies surrounding a missing person case on the southern island…",
+    "body": "of Jeju. The National Police Agency (NPA) is preparing a set of measures aimed at overhauling its missing person investigation system, with the review scheduled to be completed by November, officials said. The agency will identity cases considered particularly vulnerable to improper closure and recheck whether the missing persons are safe and whether the cases were handled appropriately.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260826/police-to-reexamine-310000-missing-person-cases-closed-in-past-3-years?utm_source=rss",
+    "date": "2026年8月26日"
   }
 ]
