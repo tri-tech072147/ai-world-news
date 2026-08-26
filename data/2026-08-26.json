@@ -1350,5 +1350,83 @@
     "body": "",
     "url": "https://techcabal.com/2026/08/26/intron-voice-ai/",
     "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "AI boom, profit surge fuel China’s ambitious chip assembly buildout",
+    "summary": "China’s leading semiconductor packaging and testing companies have launched a multibillion-dollar capacity expansion drive, as they ride a surge in artificial intelligence demand, stellar first-half…",
+    "body": "profit growth, and Beijing’s urgent push for tech self-sufficiency. In the first half of the year, China’s three leading outsourced chip packaging companies – Jiangsu Changjiang Electronics Technology (JCET), Tongfu Microelectronics and Huatian Technology – announced capacity expansion investments...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3365337/ai-boom-profit-surge-fuel-chinas-ambitious-chip-assembly-buildout?utm_source=rss_feed",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Bill Gates calls for ‘human reserved’ jobs in face of AI takeover",
+    "summary": "Microsoft co-founder also expresses concern governments not prepared for technology’s impact in 6,000-word essayBusiness live – latest updatesBill Gates has called for “human reserved” jobs in…",
+    "body": "certain sectors to prevent AI replacing them, and expressed concern that governments are not prepared for the impact the technology will have.In a 6,000 word essay titled The turbulent AI era is here. The choices we make are critical, the billionaire Microsoft co-founder likened the need to spare roles from digital encroachment to how nature reserves operate to protect the environment.…",
+    "url": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Perplexity bringt KI-Agent mit „Portable Computer“ auf lokale Nvidia-Hardware",
+    "summary": "Kein Cloud-Zwang, keine Token-Kosten für lokale Aufgaben: Perplexity startet den KI-Agenten „Portable Computer“ – mit hohen Hardware-Hürden.",
+    "body": "",
+    "url": "https://www.heise.de/news/Perplexity-bringt-KI-Agent-mit-Portable-Computer-auf-lokale-Nvidia-Hardware-11426394.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "非公開の「AI学習データ工場」に潜入 人型ロボ30台超が稼働、意外と知らない「データ収集」の裏側とは",
+    "summary": "フィジカルAI用の学習データを収集する施設「J-HRTI 関東データファクトリー」が稼働した。内部には、約30体のロボットが並び、作業を繰り返している。同施設の全容と狙いを、潜入レポートとして紹介する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2608/26/news082.html",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "AINews",
+    "feedLabel": "AI News",
+    "feedColor": "#884ea0",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+    "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America.…",
+    "body": "The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from Millennium Management, ARK Invest, Intact Private Capital, and other investors. Gatik said it has more than $600 million in [ ] The post Gatik raises $200M to scale AI-powered autonomous freight appeared first on AI News.",
+    "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Peter Otobong: The software engineer who learnt to code on a ‘borrowed’ laptop",
+    "summary": "The technology was not the problem. For Peter Otobong and his team at Fraqtion Finance, the idea was simple enough: allow people to pool money to finance real-world trade, such as a Chinese company…",
+    "body": "buying lithium from Nigeria. The software could be built. The architecture could be designed. The engineers could make the system work. [ ]",
+    "url": "https://techcabal.com/2026/08/26/my-life-in-tech-peter-otobong-fintech-systems-engineer/",
+    "date": "2026年8月26日"
   }
 ]
