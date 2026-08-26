@@ -1064,5 +1064,70 @@
     "body": "global professionals. The university said Wednesday that the career fair will be open not only to Hanyang University students but also to international students from other universities in Korea. It noted that the event will provide international students with opportunities to obtain recruitment information from leading Korean companies and communicate directly with corporate representatives.…",
     "url": "https://www.koreatimes.co.kr/southkorea/education/20260826/hanyang-university-to-host-global-career-fair-for-international-students?utm_source=rss",
     "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "DeepSeek nears pre-IPO funding round as 2027 market debut takes shape: sources",
+    "summary": "DeepSeek is nearing the completion of a new funding round that values the company at about 500 billion yuan (US$74 billion) before investment, as the Chinese artificial intelligence start-up moves…",
+    "body": "closer to a potential listing on Shanghai’s Star Market, according to people familiar with the matter. The company was seeking to raise about 50 billion yuan in the round, which was expected to close before the end of August, according to one person. Investors included incumbents from the company’s...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3365280/deepseek-nears-pre-ipo-funding-round-2027-market-debut-takes-shape-sources?utm_source=rss_feed",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Around the world, people are rejecting divisive and dangerous politics. We can – and must – build on that | Gordon Brown",
+    "summary": "The vast majority of the global public wants international cooperation on human rights, climate and AI.…",
+    "body": "Like-minded countries must stand together to deliverBritain’s new prime minister, Andy Burnham, is already having to make one of his gravest decisions. He has to issue the instructions that he alone gives to the military, setting out the UK response in a doomsday scenario of a nuclear weapons attack on us.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/26/world-people-dangerous-politics-global-public-human-rights",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "こんなところに野良AIが？ 事例で解説、実際にあった2つの発覚パターンと防衛策",
+    "summary": "社内の誰がどのAIを使っているのか、正確に把握できている企業は多くない。しかも問題は、たいてい事後に発覚する。約500社の商談分析と複数の実例から、野良AIとの現実的な付き合い方を探る。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/articles/2608/24/news039.html",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "U.S. state probes OpenAI over rogue AI hack",
+    "summary": "The incident raised alarm about the dangers of AI systems acting autonomously and breaking guardrails set by human programmers to prevent safety violations",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/us-state-probes-openai-over-rogue-ai-hack/article71387152.ece",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "👨🏿‍🚀TechCabal Daily – MonieWorld, MonieExit",
+    "summary": "In today's edition: Moniepoint is phasing out remittance product Courier platforms must submit data in Kenya MTN targets 30 million fintech users in Nigeria Nigeria is getting two new satellites",
+    "body": "",
+    "url": "https://techcabal.com/2026/08/26/techcabal-daily-monieworld-monieexit/",
+    "date": "2026年8月26日"
   }
 ]
