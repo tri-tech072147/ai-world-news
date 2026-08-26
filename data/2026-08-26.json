@@ -1532,5 +1532,57 @@
     "body": "rare case of the judiciary taking legal action against private individuals. The National Court Administration (NCA), a Supreme Court unit responsible for overseeing the judiciary’s administrative affairs, said Wednesday it filed a damages lawsuit with the Seoul Central District Court against five people convicted over their involvement in the Seoul Western District Court riot, seeking 1.18…",
     "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260826/koreas-supreme-court-seeks-damages-against-pro-yoon-courthouse-rioters?utm_source=rss",
     "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "QueryStory wants you to believe what AI is telling you",
+    "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "AI server boom fuels record supply crunch for the ‘rice of electronics’",
+    "summary": "Global inventories of multilayer ceramic capacitors (MLCCs) – tiny components dubbed “the rice of the electronics industry” – have dropped to a record low as the industry grapples with surging demand…",
+    "body": "from artificial intelligence infrastructure. Worldwide distributor inventory volume for the components – which act as electrical buffers in circuit boards and are increasingly used in massive volumes in high-performance servers – declined 8 per cent by August 9 compared with four weeks earlier,...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3365353/ai-server-boom-fuels-record-supply-crunch-rice-electronics?utm_source=rss_feed",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "KI-Update kompakt: Computer History, OpenAI Jalapeño, Militär-KI, AIS.Chat",
+    "summary": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+    "body": "",
+    "url": "https://www.heise.de/news/KI-Update-kompakt-Computer-History-OpenAI-Jalapeno-Militaer-KI-AIS-Chat-11425186.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Challenges With Perplexity Portable Computer",
+    "summary": "The AI agent aligns with the move to more AI on local computers.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/challenges-with-perplexity-portable-computer",
+    "date": "2026年8月26日"
   }
 ]
