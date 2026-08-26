@@ -1584,5 +1584,57 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/challenges-with-perplexity-portable-computer",
     "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+    "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Robot brain builders are pushing out of their GPT-2 era",
+    "summary": "Robot bodies are waiting for their AI brains to catch up.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Key inflation gauge remains elevated during Iran war; ongoing US trade fights",
+    "summary": "WASHINGTON — An inflation measure closely watched by the U.S. Federal Reserve was unchanged last month in the latest sign that many Americans are still struggling with higher costs.…",
+    "body": "The Commerce Department's Wednesday report showed that prices rose 3.7 percent in July compared with a year earlier. Inflation has worsened since the Iran war began in late February, when it stood at 2.9 percent. It's noticeably above the Fed's target of 2 percent.…",
+    "url": "https://www.koreatimes.co.kr/world/20260826/key-inflation-gauge-remains-elevated-during-iran-war-ongoing-us-trade-fights?utm_source=rss",
+    "date": "2026年8月26日"
   }
 ]
