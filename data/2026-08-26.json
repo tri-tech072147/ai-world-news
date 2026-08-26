@@ -1129,5 +1129,31 @@
     "body": "",
     "url": "https://techcabal.com/2026/08/26/techcabal-daily-monieworld-monieexit/",
     "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Linux 7.2: Neuer Kernel bringt Performance-Optimierung",
+    "summary": "Linux 7.2 fokussiert sich auf Modernisierung. Ein neuer GPU-Scheduler sorgt für mehr Fairness, während CPU-Scheduling nun CPU-Caches effizienter nutzt.",
+    "body": "",
+    "url": "https://www.heise.de/news/Linux-7-2-Neuer-Kernel-bringt-Performance-Optimierung-11425914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "LG CNS turns to liquid cooling as AI servers push data centers to the limit",
+    "summary": "LG CNS is bringing liquid cooling to a major data center in Korea as the rise of artificial intelligence (AI) pushes high-performance graphics processing units (GPUs) to consume more power and…",
+    "body": "generate more heat. LG CNS said Wednesday that it is working with Naver Cloud to install direct-to-chip liquid cooling at its Samsong Data Center, preparing the facility to support high-performance AI services.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260826/lg-cns-turns-to-liquid-cooling-as-ai-servers-push-data-centers-to-the-limit?utm_source=rss",
+    "date": "2026年8月26日"
   }
 ]
