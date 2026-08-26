@@ -1155,5 +1155,57 @@
     "body": "generate more heat. LG CNS said Wednesday that it is working with Naver Cloud to install direct-to-chip liquid cooling at its Samsong Data Center, preparing the facility to support high-performance AI services.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20260826/lg-cns-turns-to-liquid-cooling-as-ai-servers-push-data-centers-to-the-limit?utm_source=rss",
     "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise+ | Intel Core 300: Die Technik der Billigprozessoren Wildcat Lake im Überblick",
+    "summary": "Intel speckt die Wildcat-Lake-CPUs gegenüber Core Ultra 300 „Panther Lake“ spürbar ab. Wo der Hersteller genau den Rotstift ansetzt, zeigt unsere Analyse.",
+    "body": "",
+    "url": "https://www.heise.de/hintergrund/Intel-Core-300-Die-Technik-der-Billigprozessoren-Wildcat-Lake-im-Ueberblick-11413320.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "KOSPI inches up as corporate buying offsets foreign, retail sell-offs",
+    "summary": "The KOSPI edged higher Wednesday, buoyed by buying from corporate investors as Samsung Electronics and SK hynix stepped up share buyback plans, though cautious trading ahead of Nvidia’s earnings kept…",
+    "body": "gains in check. The benchmark index opened at 6,727.25, down 0.23 percent from the previous session, and moved within a narrow range before picking up momentum in the afternoon. It ultimately closed at 6,808.21, up 0.97 percent. The gain came despite selling by both retail and foreign investors.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260826/kospi-inches-up-as-corporate-buying-offsets-foreign-retail-sell-offs?utm_source=rss",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Decades after serving in Korea, US veteran begins new chapter with Korean company",
+    "summary": "Korea kept finding its way back into Gene Richards’ life. He first arrived in the country as an 18-year-old U.S. soldier.…",
+    "body": "More than three decades later, that connection has led him to an unexpected new chapter: a job with a Korean company in his home state of Indiana. Richards is now the external relations coordinator for SK ecoplant in West Lafayette and the first person hired through the USFK Job Platform, a platform connecting former and soon-to-retire U.S.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260826/decades-after-serving-in-korea-us-veteran-begins-new-chapter-with-korean-company?utm_source=rss",
+    "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Agritech’s next business model may not charge the farmer",
+    "summary": "For much of the last decade, agritech startups in emerging markets were sold on a seductive idea: millions of smallholder farmers, armed with smartphones, would pay for software that helped them farm…",
+    "body": "better. Investors liked the story because it sounded scalable. Build once, distribute widely, grow user numbers fast. The problem was that the model [ ] The post Agritech s next business model may not charge the farmer appeared first on e27.",
+    "url": "https://e27.co/agritechs-next-business-model-may-not-charge-the-farmer-20260826/",
+    "date": "2026年8月26日"
   }
 ]
