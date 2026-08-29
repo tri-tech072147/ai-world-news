@@ -661,5 +661,31 @@
     "body": "accelerated adoption of coding AI agents. Coding AI agents had previously been predicted to lower the importance of language selection. It was [ ] The post How AI coding tools are contributing to the popularity of JavaScript appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
     "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Für 440 Euro: Dieser Roboter ist eine Ente",
+    "summary": "Der französische Roboterhersteller Pollen Robotics hat eine elektronische Ente für 440 Euro entwickelt. Die große Frage: Wer braucht Microduck?",
+    "body": "",
+    "url": "https://www.heise.de/news/Microduck-Der-Entenroboter-aus-Frankreich-11434210.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年8月29日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Google rolls out Gemini AI feature to help readers analyse their e-books",
+    "summary": "Expert Intelligence allows users to add select e-books from Google Play Books directly to a Gemini Notebook",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/google-rolls-out-gemini-ai-feature-to-help-readers-analyse-their-e-books/article71404063.ece",
+    "date": "2026年8月29日"
   }
 ]
