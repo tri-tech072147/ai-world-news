@@ -609,5 +609,57 @@
     "body": "accelerated adoption of coding AI agents. Coding AI agents had previously been predicted to lower the importance of language selection. It was [ ] The post How AI coding tools are contributing to the popularity of JavaScript appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
     "date": "2026年8月21日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "The AI curse",
+    "summary": "NEW YORK — In a county in northern Virginia, a family’s electricity bill has doubled. A few miles away, a windowless building the size of a shopping mall hums through the night—yet another AI data…",
+    "body": "center, consuming more power than the town it was built beside. The dispute will be conducted in the language of rate structures, zoning variances, and transmission corridors. But a non-technical political question drives it: Are the people who live in the county still needed by the people who constructed the building? The question is not just about AI.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260830/the-ai-curse?utm_source=rss",
+    "date": "2026年8月30日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Samsung Electronics, SK hynix's corporate tax tops $8.1 bil. in H1",
+    "summary": "Corporate taxes paid by Samsung Electronics Co. and SK hynix Inc. totaled a combined 11.2 trillion won ($8.1 billion) in the first half of this year amid the recent semiconductor supercycle,…",
+    "body": "financial data showed Sunday. Samsung Electronics paid 3.99 trillion won in corporate taxes and SK hynix paid 7.22 trillion won in the first half, according to data from the Repository of Korea's Corporate Filings, operated by the Financial Supervisory Service.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260830/samsung-electronics-sk-hynixs-corporate-tax-tops-81-bil-in-h1?utm_source=rss",
+    "date": "2026年8月30日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "BOK highlights demand-pull inflation pressure from strong export growth",
+    "summary": "Korea's monetary policy should focus on preventing core inflation from spreading broadly and remaining elevated as robust exports spill over into the broader economy and intensify demand-side…",
+    "body": "inflationary pressures, a central bank report said Sunday. \"As the recent strong performance in semiconductor exports spills over into domestic demand, there is a possibility that demand-side inflationary pressures will intensify in the future,\" said a report published by the Bank of Korea (BOK).…",
+    "url": "https://www.koreatimes.co.kr/economy/20260830/bok-highlights-demand-pull-inflation-pressure-from-strong-export-growth?utm_source=rss",
+    "date": "2026年8月30日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由",
+    "summary": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+    "date": "2026年8月29日"
   }
 ]
