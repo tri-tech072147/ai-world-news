@@ -453,5 +453,70 @@
     "body": "",
     "url": "https://aibusiness.com/cybersecurity/openai-report-explains-hugging-face-attack-detail",
     "date": "2026年8月27日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+    "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "date": "2026年9月1日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Pentagon official overseeing military AI sold millions worth of stock in AI firm",
+    "summary": "Exclusive: financial disclosures from Emil Michael – who also reaped millions from xAI stock earlier this year – show he sold his Perplexity stock for up to $25mThe top Pentagon official overseeing…",
+    "body": "military artificial intelligence policy, who reaped profits earlier this year of up to $24m selling his private investment in Elon Musk’s AI company, has now sold his holdings in another AI company for between $5m and $25m, according to records seen by the Guardian.…",
+    "url": "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
+    "date": "2026年9月1日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Top 10: Der beste Saugroboter mit Wischfunktion – Topmodelle zum Bestpreis",
+    "summary": "Saugroboter mit Wischfunktion erleichtern den Alltag. Wir zeigen die besten Modelle mit Absaug- oder Reinigungsstation.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-saugroboter-mit-wischfunktion-topmodelle-zum-bestpreis/2dxtvlp?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年9月1日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "【Pythonで学ぶデータ分析】相関があるかどうかをベイズ統計で調べる ～ 年齢と原付事故死傷者数に関係はあるのか？",
+    "summary": "バイクに乗る若い人の運転はどうも危なっかしく感じられることがあります。そこで、手軽に乗れる原付一種（かつての排気量50ccまでのバイク）を対象に、年齢と交通事故死傷者数との間に関係があるかどうかを調べてみたいと思います。つまり、相関のベイズ検定に取り組もうというわけです。『社会人1年生から学ぶやさしいデータ分析』ベイズ統計編の第8回です。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/02/news002.html",
+    "date": "2026年9月1日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US urges G20 to cut trade imbalances, focus on China",
+    "summary": "ASHEVILLE, North Carolina — The Trump administration urged other G20 countries on Tuesday to do more to protect their domestic industries and job markets from Chinese imports, arguing such…",
+    "body": "distortions were \"sucking\" much-needed growth out of the global economy. The two-day meeting of finance chiefs — which saw differences in tone between the U.S. hosts and some of the European participants — came amid a global bond market selloff on worries over growing debt levels and inflation pressures.…",
+    "url": "https://www.koreatimes.co.kr/world/20260902/us-urges-g20-to-cut-trade-imbalances-focus-on-china?utm_source=rss",
+    "date": "2026年9月1日"
   }
 ]
