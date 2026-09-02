@@ -596,5 +596,70 @@
     "body": "The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a machine instead of inside a data centre. NVIDIA s argument for [ ] The post NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
     "date": "2026年8月26日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "date": "2026年9月2日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Trump administration sides with OpenAI in lawsuit against New York Times",
+    "summary": "The Times and many companies are accusing OpenAI of misusing their material to train AI systems without compensationThe Trump administration is supporting OpenAI in ⁠a lawsuit against the New York…",
+    "body": "Times, arguing in favor of the use of copyrighted writing to train artificial intelligence.The Times accuses OpenAI and its largest financial backer, Microsoft, of using millions of newspaper articles without permission to train OpenAI’s popular chatbot. Other newspapers have joined in the suit, first filed in 2023. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/sep/02/trump-new-york-times-lawsuit-ai",
+    "date": "2026年9月2日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Google defeats US justice department bid to force ad tech sale",
+    "summary": "Judge declines to make Google sell AdX in win for firm against US antitrust enforcers’ attempts to break up big techAlphabet’s Google escaped a breakup of its advertising technology business on…",
+    "body": "Wednesday, when a judge in Virginia ⁠rejected US antitrust enforcers’ attempt to force a sale of Google’s online advertising exchange.While the ad exchange is a small part of Google’s business, the ruling is the second powerful ⁠symbolic victory against the US Department ⁠of Justice in ​its efforts to force Google to sell assets to address illegal monopolies. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/sep/02/google-defeats-justice-department-bid-ad-tech-sale",
+    "date": "2026年9月2日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "茨城県鹿嶋市は「公式Web×Claude」で市民対応をどう変えた？ Claude Codeで内製化も",
+    "summary": "限られた職員で行政サービスをどう維持するか――。鹿嶋市は本格的に「生成AI」の活用に乗り出した。まずは公式Webサイトと「Claude」で市民対応業務を改善。「Claude Code」による内製化にも着手している。狙いやその仕組みについて同市に取材した。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/03/news019.html",
+    "date": "2026年9月2日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US pounds Iran, Tehran strikes back at bases in biggest exchange since July",
+    "summary": "WASHINGTON/DUBAI — Iranians and their Arab neighbours feared a return of war on Wednesday after the biggest exchange of fire between Tehran and Washington since July, with U.S.…",
+    "body": "forces striking Iran's southern coast and Iran firing at American bases across the region. The United States threatened more devastating strikes. Iran accused Washington of hitting a wedding party, killing four people and wounding dozens. Its health minister later said 18 people in total had been killed and 108 injured in the latest wave of U.S. strikes.…",
+    "url": "https://www.koreatimes.co.kr/world/20260903/us-pounds-iran-tehran-strikes-back-at-bases-in-biggest-exchange-since-july?utm_source=rss",
+    "date": "2026年9月2日"
   }
 ]
