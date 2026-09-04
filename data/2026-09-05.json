@@ -609,5 +609,70 @@
     "body": "AI capabilities reach a global tipping point. The talks, the first official bilateral discussions devoted exclusively to AI between the U.S. and China since U.S. President Donald Trump took office for a second time, will be led by U.S. Treasury Secretary Scott Bessent on the U.S. side, the sources, who were briefed on the planning, said on condition of anonymity.…",
     "url": "https://www.koreatimes.co.kr/world/20260905/us-china-gear-up-for-mid-september-ai-safety-talks?utm_source=rss",
     "date": "2026年9月4日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "date": "2026年9月4日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "What Sputnik couldn’t do to American science, Beijing has",
+    "summary": "The US government owns 9.9 per cent of Intel, converted out of US Chips Act grants, alongside a golden share in US Steel, US$400 million in the rare earth mining firm MP Materials and stakes in…",
+    "body": "roughly 30 firms worth US$26.7 billion. In 2025, Nvidia and AMD gave up 15 per cent of their China chip sale revenues in exchange for export licences. The country that spent four decades advising its allies against picking winners now runs a portfolio. The United States has not fully turned to state...",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3366099/what-sputnik-couldnt-do-american-science-beijing-has?utm_source=rss_feed",
+    "date": "2026年9月4日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "'10 SNUs' plan faces backlash over funding gap, selection process",
+    "summary": "The government's initiative to create “10 Seoul National Universities” is facing growing backlash following the selection of three universities for concentrated funding, prompting questions over the…",
+    "body": "transparency of the selection process and concerns that the initiative could create a new hierarchy among regional national universities. The Ministry of Education on Tuesday selected Pusan National University, Chonnam National University and Chungnam National University as the first beneficiaries of the initiative.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/education/20260905/10-snus-plan-faces-backlash-over-funding-gap-selection-process?utm_source=rss",
+    "date": "2026年9月4日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea can lead in AI for older people, UN expert says",
+    "summary": "Korea is uniquely positioned to lead global efforts to design and test more inclusive artificial intelligence (AI) systems for older people, combining its advanced technological capabilities with the…",
+    "body": "world’s fastest-aging population, according to a U.N. expert. The country’s rapid technological development and equally fast demographic transition give it an unusual opportunity — and responsibility — to develop an age-inclusive model that can be adopted by other countries, said Zvezdan Pirtosek, the U.N. Independent Expert on the Enjoyment of All Human Rights by Older Persons.…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20260905/korea-can-lead-in-ai-for-older-people-un-expert-says?utm_source=rss",
+    "date": "2026年9月4日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "ASEM forum calls for age-inclusive AI",
+    "summary": "Older people should be treated as rights-holders and active participants in the development and use of artificial intelligence (AI), rather than passive beneficiaries of technology or care, experts…",
+    "body": "said at an international forum in Seoul on Wednesday. The forum, co-hosted by the ASEM Global Ageing Center, the National Human Rights Commission of Korea and the Korea office of Germany’s Friedrich Naumann Foundation for Freedom, brought together experts from international organizations, academia, civil society and government to discuss the opportunities and risks AI presents for ageing…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20260905/asem-forum-calls-for-age-inclusive-ai?utm_source=rss",
+    "date": "2026年9月4日"
   }
 ]
