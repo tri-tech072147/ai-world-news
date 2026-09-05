@@ -609,5 +609,57 @@
     "body": "",
     "url": "https://www.heise.de/news/Tech-Branche-streicht-mehr-Stellen-KI-Boom-fordert-Zehntausende-Jobs-11442676.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年9月5日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "date": "2026年9月5日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
+    "summary": "A machete-wielding robber, a ‘tsunami of debt’ … campaigns echoing opposition talking points outspend major partiesGet our breaking news email, free app or daily news podcastA man clad in a balaclava…",
+    "body": "and brandishing a machete terrorises a worker at a petrol station before firebombing the building on the way out.A woman gives birth on the side of the road, unable to reach a hospital due to ambulance ramping and crater-like potholes, which also stop a fire truck in its tracks. Continue reading...",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
+    "date": "2026年9月5日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "An algorithm off switch isn’t enough. Big tech needs a duty of care over addictive designs | Zoe Daniel",
+    "summary": "As AI advances minute by minute and governments grapple with new developments they don’t know how to manage, holding big tech accountable becomes even more urgentA digital duty of care is about a lot…",
+    "body": "more than opting out of “the algorithm”. And after the simplistic and at best patchy exercise of the under-16s social media ban, we shouldn’t let the government get away with another populist policy that looks good on the surface but doesn’t get to the core of the problem.A digital duty of care must hold the tech bros accountable for the safety of the spaces that they have created.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/06/digital-duty-of-care-can-hold-big-tech-to-account-meta-tiktok-addictive-social-media-ban",
+    "date": "2026年9月5日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Black Box: The Chatbots | Spirals | Ep 1 - podcast",
+    "summary": "Across the world, hundreds of people have come to believe they have made extraordinary scientific discoveries with AI chatbots such as ChatGPT, Claude and Gemini.…",
+    "body": "Others say their AI has ‘awakened’, or is leading them to a higher spiritual realm. The Guardian journalist Michael Safi begins investigating a phenomenon labelled ‘AI psychosis’, travelling to the US to meet two people who have been on weird journeys with their chatbotsListen to Black Box: The Chatbots series Continue reading...",
+    "url": "https://www.theguardian.com/australia-news/audio/2026/sep/06/black-box-the-chatbots-spirals-ep-1-full-story-podcast",
+    "date": "2026年9月5日"
   }
 ]
