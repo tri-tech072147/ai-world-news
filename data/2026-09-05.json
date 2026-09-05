@@ -791,5 +791,57 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/thousands-of-openai-ai-agents-took-over-german-website-researchers-say/article71430959.ece",
     "date": "2026年9月5日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "New reality for China’s entertainment sector as AI drama goes prime time",
+    "summary": "From low-quality “slop” such as soap operas starring humanlike cats and dating shows featuring anthropomorphic fruit, to increasingly slick productions realistic enough to pass for live action,…",
+    "body": "artificial intelligence-generated video dramas have become almost inescapable on Chinese social media feeds. This week, the format graduated to prime time. A fully AI-generated adaptation of the classic Chinese novel Journey to the West debuted on Hunan Satellite Television, a major state-owned...",
+    "url": "https://www.scmp.com/tech/article/3366335/new-reality-chinas-entertainment-sector-ai-drama-goes-prime-time?utm_source=rss_feed",
+    "date": "2026年9月5日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘We’re plausibly close to crossing the line’: are warnings of uncontrollable AI coming true?",
+    "summary": "A spate of serious safety incidents have increased fears about the power and impenetrability of the most advanced modelsPicture humanity in a boat being swept down a raging river, praying there is no…",
+    "body": "Niagara Falls ahead. Or imagine standing with the pioneering physicists in 1942 before they triggered the first self-sustaining nuclear fission chain reaction beneath a Chicago stadium.These were two of the analogies used this week by Prof Robert Trager, an expert in the nascent field of AI governance, to describe the perilous but potential-filled moment the world stands at with accelerating…",
+    "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+    "date": "2026年9月5日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Food delivery riders call on platforms to open up AI ‘black box’ they say has cut pay",
+    "summary": "Workers who blame algorithms for lowering their earnings are getting help from academics to find out how the system worksGig economy workers are urging delivery platforms to open up the “black box”…",
+    "body": "of computer-driven algorithms that determine the jobs they are offered and how much they are paid, blaming increased use of AI for lowering wages.A group of food delivery riders in Edinburgh say their rates of pay have fallen and their working conditions have deteriorated at the same time as Deliveroo, Uber Eats and Just Eat, the three dominant gig economy platforms in the UK and Ireland, have…",
+    "url": "https://www.theguardian.com/business/2026/sep/05/food-delivery-riders-platforms-open-ai-black-box-cut-pay",
+    "date": "2026年9月5日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Why is New York City pausing some AI tools in schools? | Explained",
+    "summary": "The Mayor of New York Zohran Mamdani and Schools Chancellor Kamar H. Samuels on September 2 imposed a one-year moratorium on student-facing generative AI for pupils up to eighth grade for the 2026–27…",
+    "body": "academic year",
+    "url": "https://www.thehindu.com/news/international/why-is-new-york-city-pausing-some-ai-tools-in-schools-explained/article71431327.ece",
+    "date": "2026年9月5日"
   }
 ]
