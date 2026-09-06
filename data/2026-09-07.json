@@ -648,5 +648,57 @@
     "body": "",
     "url": "https://www.heise.de/news/Fermats-letzter-Satz-KI-liefert-maschinell-geprueften-Beweis-11442958.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年9月6日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Google「Gemini 3.8 Flash」発表 プロンプト1つで3Dゲーム生成、価格据え置きで大規模モデルに迫る",
+    "summary": "Googleは、「Gemini 3.8 Flash」と防衛特化の「Gemini 3.8 Flash Cyber」を発表した。3.7と同等の低価格を維持しながら、コーディングや推論、脆弱性検知／修正の性能を大幅に向上させた。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/07/news031.html",
+    "date": "2026年9月6日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Thousands of OpenAI AI agents took over German website, researchers say",
+    "summary": "The agents, AI programmes that work on their own, without a person guiding each step, left about 18,000 messages on DSEwiki, a German site for programmers",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/thousands-of-openai-ai-agents-took-over-german-website-researchers-say/article71430959.ece",
+    "date": "2026年9月6日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Anthropic IPO launch shifts toward mid-October, sources say",
+    "summary": "The artificial intelligence company had been expected to make its IPO prospectus public as early as next week, two ‌of the people said",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropic-ipo-launch-shifts-toward-mid-october-sources-say/article71430961.ece",
+    "date": "2026年9月6日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Naver winds down services to bolster AI, commerce businesses",
+    "summary": "Naver is stepping up efforts to streamline its business portfolio by shutting down underperforming or slow-growing services and reallocating resources to artificial intelligence (AI), commerce and…",
+    "body": "other higher-growth digital infrastructure. The internet giant recently announced that it will shut down its music streaming platform VIBE on Dec. 31, about eight years after its launch in June 2018, with new subscriptions and payments to be suspended from Nov. 27. The decision comes as VIBE struggled to gain traction in an increasingly competitive domestic music streaming market.…",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260907/naver-winds-down-services-to-bolster-ai-commerce-businesses?utm_source=rss",
+    "date": "2026年9月6日"
   }
 ]
