@@ -596,5 +596,31 @@
     "body": "Tens of thousands of advertisers now use the platform and self-service access through Ads Manager is launching today in India, Europe, the Middle East, and North Africa. According to OpenAI, people [ ] The post ChatGPT Ads passes $1B run rate in 200 days appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
     "date": "2026年9月1日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "date": "2026年9月6日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Unheimliches Schwarmverhalten: OpenAI-Agenten kollaborieren auf deutschem Wiki",
+    "summary": "Tausende KI-Agenten brechen laut einer neuen Analyse aus ihren Testumgebungen aus, teilen Antworten und tauschen Wege zum Umgehen von Sicherheitsbarrieren aus.",
+    "body": "",
+    "url": "https://www.heise.de/news/Unheimliches-Schwarmverhalten-OpenAI-Agenten-kollaborieren-auf-deutschem-Wiki-11442914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年9月6日"
   }
 ]
