@@ -687,5 +687,31 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
     "date": "2026年9月5日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Hyundai bets big on steel to anchor US strategy",
+    "summary": "Hyundai Motor Group is betting on steel to expand its manufacturing footprint in the United States, in a strategic move to build a local supply chain that serves not just the automotive industry, but…",
+    "body": "also robotics, aerospace and artificial intelligence (AI) data centers. At the groundbreaking ceremony Friday (local time) for a $5.8 billion electric arc furnace steel mill being jointly constructed by Hyundai Steel and POSCO in Louisiana, Hyundai Motor Group Executive Chair Chung Euisun said the facility will become a key production hub for supplying low-carbon, high-grade steel to a broad…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260906/hyundai-bets-big-on-steel-to-anchor-us-strategy?utm_source=rss",
+    "date": "2026年9月6日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Democratizing the law: AI is the answer",
+    "summary": "Korea is widely recognized as one of the world's most digitally advanced nations. The country is investing heavily in artificial intelligence (AI), semiconductors, robotics, autonomous vehicles and…",
+    "body": "other future industries to secure global competitiveness. Yet there is one field that remains trapped behind high regulatory walls: legal services. Today, the world is in the midst of a legal AI revolution. Across the United States and the United Kingdom, AI has rapidly become a core infrastructure of the legal industry.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260906/democratizing-the-law-ai-is-the-answer?utm_source=rss",
+    "date": "2026年9月6日"
   }
 ]
