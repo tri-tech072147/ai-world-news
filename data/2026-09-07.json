@@ -622,5 +622,31 @@
     "body": "",
     "url": "https://www.heise.de/news/Unheimliches-Schwarmverhalten-OpenAI-Agenten-kollaborieren-auf-deutschem-Wiki-11442914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
     "date": "2026年9月6日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "date": "2026年9月6日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "13 Millionen Zeilen Code: KI verifiziert Beweis von Fermats letztem Satz",
+    "summary": "Anthropic hat nach eigenen Angaben erstmals eine vollständig computerverifizierte Fassung von Fermats letztem Satz vorgelegt – erstellt von Claude-Agenten.",
+    "body": "",
+    "url": "https://www.heise.de/news/Fermats-letzter-Satz-KI-liefert-maschinell-geprueften-Beweis-11442958.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年9月6日"
   }
 ]
