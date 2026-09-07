@@ -622,5 +622,70 @@
     "body": "The work, published in Nature, comes from a team at Motional that includes CEO Laura Major, working alongside researchers from MIT s Computer Science and Artificial Intelligence Laboratory. Their proposed method, [ ] The post Motional and MIT AI explains self-driving car decisions appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
     "date": "2026年9月2日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AI創薬候補、6種の「老化時計」で生物学的年齢の低下を示唆",
+    "summary": "バイオテクノロジー企業のInsilico Medicineは、生成AIで設計した特発性肺線維症の治療薬候補「レントセルチブ」のデータを再解析した結果を発表した。血中タンパク質から測る6種の「老化時計」すべてで、患者の生物学的年齢が最大約6歳分低下したという。老化への直接的な作用を確認するには更なる検証が必要としている。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001239/",
+    "date": "2026年9月7日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Googleの自動化ツール「Workspace Studio」とは？ 他ツールとの違いと活用法",
+    "summary": "AIに仕事を手伝わせるだけでなく、仕事そのものを自動化するにはどうすればいいのか。Google Workspace Studioを使った4つの実例から、日々の業務を効率化する具体的な方法を紹介する。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/article/2609/08/2000001168/",
+    "date": "2026年9月7日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "中国新興自動車メーカーが取り組むAIアーキテクチャ「LBM」は本流となるか",
+    "summary": "近年、中国の新興自動車メーカーを中心に、従来の枠組みとは異なる新たなAIアーキテクチャが台頭しつつある。それが「LBM」である。今回は、このLBMが中国の新興自動車メーカーに限定された一過性の技術潮流にとどまるのか、あるいは将来的に多くの自動車メーカーへと波及していくのかを考察してみたい。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/08/news009.html",
+    "date": "2026年9月7日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "New labor rules cloud Korea's chip project, draw fire from both sides",
+    "summary": "Korea’s new labor guidance, intended to draw a line between corporate management rights and workers’ collective bargaining rights, is instead drawing criticism from both sides, with its ambiguity…",
+    "body": "casting doubt over major government-backed chip investment projects. This comes after the Ministry of Employment and Labor issued implementation guidance last week for what is known as the pro-labor “yellow envelope law.” According to the guidance, management decisions themselves — such as building or relocating plants, making overseas investments and adopting artificial intelligence — do not…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20260908/new-labor-rules-cloud-koreas-chip-project-draw-fire-from-both-sides?utm_source=rss",
+    "date": "2026年9月7日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Singapore's NTU bets on global talent, agility to boost university competitiveness",
+    "summary": "SINGAPORE — Nanyang Technological University (NTU) has risen rapidly among the world's leading universities despite its relatively short history, driven by its ability to respond quickly to change…",
+    "body": "and aggressively compete for skilled workers. NTU President Ho Teck Hua attributed the university's agility in part to its relatively short, 35-year history, saying its startup-like culture has enabled it to respond quickly to technological shifts, including the rapid rise of artificial intelligence (AI).…",
+    "url": "https://www.koreatimes.co.kr/southkorea/education/20260908/singapores-ntu-bets-on-global-talent-agility-to-boost-university-competitiveness?utm_source=rss",
+    "date": "2026年9月7日"
   }
 ]
