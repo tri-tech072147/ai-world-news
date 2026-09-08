@@ -687,5 +687,57 @@
     "body": "and aggressively compete for skilled workers. NTU President Ho Teck Hua attributed the university's agility in part to its relatively short, 35-year history, saying its startup-like culture has enabled it to respond quickly to technological shifts, including the rapid rise of artificial intelligence (AI).…",
     "url": "https://www.koreatimes.co.kr/southkorea/education/20260908/singapores-ntu-bets-on-global-talent-agility-to-boost-university-competitiveness?utm_source=rss",
     "date": "2026年9月7日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "図面探しや検図の悩みをAIで支援、製造業の現場課題に対応する新ソリューション",
+    "summary": "Polaris.AIは、製造業向けの「図面×AI活用ソリューション」の提供を開始した。自動車や重工業などにおける図面／設計AIの開発・検証実績を業務課題に沿って体系化し、図面を探す、読む、確かめるといった業務をAI（人工知能）で支援する。",
+    "body": "",
+    "url": "https://monoist.itmedia.co.jp/mn/articles/2609/08/news032.html",
+    "date": "2026年9月8日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul shares open higher amid revived AI hopes",
+    "summary": "Seoul shares opened higher Tuesday, led by gains in semiconductor stocks, amid escalating tensions in the Middle East that pushed up oil prices.…",
+    "body": "After opening 0.72 percent higher, the benchmark Korea Composite Stock Price Index (KOSPI) extended gains, trading 54.51 points, or 0.78 percent, up at 7,049.90 as of 9:15 a.m. The index soared by more than 4 percent in the previous session on the back of a rally in tech stocks amid revived hopes for artificial intelligence (AI)-related earnings momentum. The U.S. stock market was closed on Sept.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260908/seoul-shares-open-higher-amid-revived-ai-hopes?utm_source=rss",
+    "date": "2026年9月8日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "行政機関18万人を支える「源内」 わずか1～2人での運用を実現した“一見手の込んだ仕組み”",
+    "summary": "省庁ごとに環境を分ければセキュリティは上がるが、運用の手間はテナントの数だけ膨らむ――。約18万人の職員が利用する生成AI基盤「源内」で、デジタル庁はこの二律背反をどう乗り越えたのか。インフラ担当者1～2人体制で「高いセキュリティ」と運用の効率化を両立させる設計とは。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news005.html",
+    "date": "2026年9月7日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "初回正答率の向上で「対話の往復」削減 Meta「Muse Spark 1.3」の推論強化と活用ポイント",
+    "summary": "Metaが新たに公開したモデル「Muse Spark 1.3」は、推論能力の強化により開発時の「会話の往復」を削減するという。100万トークンのコンテキストやマルチモーダル処理を継承しつつ、選べる2種類の料金体系を提示している。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news045.html",
+    "date": "2026年9月7日"
   }
 ]
