@@ -1376,5 +1376,83 @@
     "body": "",
     "url": "https://techcabal.com/2026/09/11/techcabal-daily-new-ceo-at-absa-kenya/",
     "date": "2026年9月11日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chinese optical transceiver makers dodge US ban for now as FCC updates rules",
+    "summary": "The US Federal Communications Commission (FCC) has published its final decision on updates to its equipment authorisation rules, easing market anxiety over potential bans on Chinese optical…",
+    "body": "transceivers. The rule, adopted in July and finalised on Friday, tightens authorisation requirements for devices containing certain hardware components made by entities on the Covered List – a US blacklist of foreign technology equipment and service providers deemed to pose an unacceptable risk to national...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3367219/chinese-optical-transceiver-makers-dodge-us-ban-now-fcc-updates-rules?utm_source=rss_feed",
+    "date": "2026年9月11日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Why Sweden, once one of Beijing’s most outspoken critics in Europe, has changed its tune",
+    "summary": "Millions of Swedish voters head to the polls on Sunday to elect a new parliament. Whatever the outcome, analysts say, the country is likely to look more towards Beijing for its technology edge and to…",
+    "body": "diversify away from an increasingly unreliable Washington, despite persisting challenges in China-EU trade. “Many factors right now suggest that relations between Sweden and China will change in the long term – not necessarily directly linked to the elections – because I see more Swedish businesses...",
+    "url": "https://www.scmp.com/economy/article/3367143/why-sweden-once-one-beijings-most-outspoken-critics-europe-has-changed-its-tune?utm_source=rss_feed",
+    "date": "2026年9月11日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Digested week: royal hairlines – Prince George’s hair has such brio as he starts at Eton | Emma Brockes",
+    "summary": "Plus, AI doom-mongering, a drag Ann Droid and how your toilet flush can give you norovirusIn a news cycle to make everyone older than gen Z feel ancient, we start the week anticipating the 25th…",
+    "body": "anniversary of 9/11 at the end. Social media floods with poignant interviews and images from lower Manhattan that day, triggering memories for the rest of us of where, who and how young we were. Ridiculously, I was having my eyebrows done in Hendon, north London, and came out to find a white van pulled over at a crazy angle to the curb, doors flung open, radio cranked up, and people stopped in…",
+    "url": "https://www.theguardian.com/uk-news/2026/sep/11/digested-week-prince-george-hair-eton",
+    "date": "2026年9月11日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Does this AI comic make you laugh?",
+    "summary": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026年9月11日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Anthropic says Yemen fighters used AI to seek guided weapons",
+    "summary": "The revelation comes at a time when the Iran-backed militants have launched a wide-ranging offensive across the country towards the strategic Bab al-Mandab strait, which connects Europe to Asia",
+    "body": "",
+    "url": "https://www.thehindu.com/news/international/anthropic-says-yemen-fighters-used-ai-to-seek-guided-weapons/article71456112.ece",
+    "date": "2026年9月11日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Musa Mishamo: The young Tanzanian engineer watching African farms from space",
+    "summary": "Mishamo was born near the shores of Lake Victoria, around Mwanza, in a village where they connected with the outside world through radio.…",
+    "body": "He remembers sitting with his uncle on the farm when news came over Tanzania Broadcasting Corporation (TBC) that Julius Nyerere, the first president, had died. Dar es Salaam and Nairobi were distant places he could only imagine.",
+    "url": "https://techcabal.com/2026/09/11/musa-mishamo-young-tanzanian-engineer-farms-space/",
+    "date": "2026年9月11日"
   }
 ]
