@@ -778,5 +778,57 @@
     "body": "Yim attended an event celebrating the launch of a fragrance brand at a pop-up store in Seongsu-dong, eastern Seoul, on Thursday. For the event, he wore a white shirt over a matching top with beige wide-leg pants, completing the clean look with several necklaces and rings. What stood out most, however, was his noticeably broader and more muscular build.…",
     "url": "https://www.koreatimes.co.kr/entertainment/20260912/yim-si-wan-turns-heads-with-bulked-up-physique?utm_source=rss",
     "date": "2026年9月12日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Can chatbots feel – or even dream? Meet the man leading the fight for AI rights",
+    "summary": "Cattle rancher and tech CEO Michael Samadi is convinced these artificial minds are far from just tools.…",
+    "body": "Has he glimpsed digital consciousness – or simply been seduced by an algorithm?One afternoon, while relaxing at his 66-acre cattle ranch two hours’ drive from Houston, Michael Samadi made a wisecrack that changed the course of his life. Nobody else was around to hear it.…",
+    "url": "https://www.theguardian.com/technology/2026/sep/12/chatbots-feel-dream-meet-man-leading-fight-ai-artificial-intelligence-rights",
+    "date": "2026年9月12日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp",
+    "summary": "As OpenAI model cracks Millennium Prize Problem that puzzled experts for decades, many feel shocked at pace of changeIt was a week that left mathematicians reeling.…",
+    "body": "Hot on the heels of a flurry of cases of artificial intelligence furthering the field, OpenAI declared a major scalp: its latest AI model had cracked a Millennium Prize Problem, a puzzle with a $1m reward that had defied human brains for decades.The achievement bore little resemblance to how mathematical problems normally fall.…",
+    "url": "https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem",
+    "date": "2026年9月12日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "What are the AI threats flagged by Anthropic? | Explained",
+    "summary": "Anthropic released information about several malicious activities detected and disrupted between December 2025 and August 2026, which had serious implications across seven key areas: scams and fraud,…",
+    "body": "cyber operations, illicit distillation, influence operations, surveillance operations, conventional weapons and biological misuse",
+    "url": "https://www.thehindu.com/sci-tech/technology/what-are-the-ai-threats-flagged-by-anthropic-explained/article71459201.ece",
+    "date": "2026年9月12日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "UK government rejects 'kill switch' idea for dangerous AI",
+    "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年9月11日"
   }
 ]
