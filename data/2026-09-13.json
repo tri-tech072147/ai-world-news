@@ -557,5 +557,31 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/neura-robotics-seco-partner-scale-physical-ai-europe",
     "date": "2026年9月9日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Top 10: Mähroboter für kleine Flächen im Test – kabellos, kompakt, ab 475 Euro",
+    "summary": "Zehn Mähroboter ohne Begrenzungskabel für kleine Gärten bis 500 m² im Test: Von günstiger Kamera- und RTK-Navigation bis LiDAR.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testsieger/top-10-maehroboter-fuer-kleine-flaechen-im-test-kabellos-kompakt-ab-475-euro/dtx14fd?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年9月12日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Fraunhofer-Studie: KI-Robotik ist umfassender als Humanoide",
+    "summary": "KI-basierte Robotik wird laut Fraunhofer zur Wachstumsbranche. Humanoide erhalten Milliarden, entscheidend sind aber Daten, Software und Integration.",
+    "body": "",
+    "url": "https://www.heise.de/news/Fraunhofer-Studie-KI-Robotik-ist-umfassender-als-Humanoide-11451427.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年9月12日"
   }
 ]
