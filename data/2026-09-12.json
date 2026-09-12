@@ -830,5 +830,83 @@
     "body": "",
     "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
     "date": "2026年9月11日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Deepfakes are wrecking influencers’ credibility, one fake ad at a time",
+    "summary": "Influencers aren’t just battling competitors for brand deals. They’re now battling AI versions of themselvesEarlier this year, Emily Schuman, the creator of the lifestyle blog Cupcakes and Cashmere,…",
+    "body": "saw a photo of herself she didn’t recognize on Instagram. In a sponsored ad, Schuman, who has more than 500,000 Instagram followers, is holding up a vial of GLP-1 drugs, advertising the telehealth company Gala.…",
+    "url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility",
+    "date": "2026年9月12日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Steve Jones on the pros and cons of AI datacentres – cartoon",
+    "summary": "Continue reading...",
+    "body": "",
+    "url": "https://www.theguardian.com/commentisfree/picture/2026/sep/12/steve-jones-pros-cons-ai-datacentres-cartoon",
+    "date": "2026年9月12日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Roboterkoch brät am Bahnhof: Modellversuch in Leipzig",
+    "summary": "Ein Greifarm übernimmt Pfanne, Herd und Abwasch: In Leipzig startet Deutschlands erstes Roboter-Restaurant – aber nur fast ohne menschliche Hilfe.",
+    "body": "",
+    "url": "https://www.heise.de/news/Roboterkoch-braet-am-Bahnhof-Modellversuch-in-Leipzig-11451299.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年9月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Japan again makes no mention of Koreans' forced labor at Sado memorial event",
+    "summary": "Japan again stopped short of acknowledging the forced nature of Korean labor during a ceremony Saturday commemorating victims of a World War II-era mine complex in the country.…",
+    "body": "The annual ceremony was first held in 2024 as a fulfillment of Japan's pledge when the Sado mine in Niigata Prefecture was inscribed as a UNESCO World Heritage site in July 2024. Hamamoto Yukiya, director-general for cultural affairs at Japan's foreign ministry, attended the ceremony in his capacity as a government representative, along with about 70 other participants.…",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20260912/japan-again-makes-no-mention-of-koreans-forced-labor-at-sado-memorial-event?utm_source=rss",
+    "date": "2026年9月12日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "President Lee reassures public over oil prices amid escalating Middle East tensions",
+    "summary": "President Lee Jae Myung reassured Koreans on Saturday that the government is taking all necessary measures to stabilize oil prices amid a surge in global crude prices caused by escalating tensions in…",
+    "body": "the Middle East. In a post on the social media platform X, Lee highlighted the government's efforts to diversify crude oil imports to reduce the country's reliance on the Middle East, with the region's share of imports falling from about 70 percent to 50 percent. He also cited measures including oil price caps, export controls and a strategic oil reserve swap system.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260912/president-lee-reassures-public-over-oil-prices-amid-escalating-middle-east-tensions?utm_source=rss",
+    "date": "2026年9月12日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Why a $103,000 US visa tax might be the best thing to happen to Africa’s tech ecosystem",
+    "summary": "Empirical data now confirms that the $100,000 surcharge did not suppress American demand for foreign tech expertise; instead, it fractured the market by penalising direct offshore hiring while…",
+    "body": "insulating onshore recruitment.",
+    "url": "https://techcabal.com/2026/09/12/digital-nomads-h-1b-visa/",
+    "date": "2026年9月12日"
   }
 ]
