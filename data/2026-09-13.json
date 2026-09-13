@@ -804,5 +804,83 @@
     "body": "",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html",
     "date": "2026年9月12日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Live episode: how AI is reshaping our minds – podcast",
+    "summary": "In this episode of Science Weekly, recorded in front of an audience at the London podcast festival on 3 September, Ian Sample hears from Michael Safi, the host of the Guardian’s chart-topping podcast…",
+    "body": "about artificial intelligence, Black Box. In series two, Black Box: the chatbots, Michael meets people who have become convinced they have made scientific breakthroughs, cured diseases or invented new technologies using AI chatbots.…",
+    "url": "https://www.theguardian.com/science/audio/2026/sep/13/live-episode-how-ai-is-reshaping-our-minds-podcast",
+    "date": "2026年9月13日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+    "summary": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+    "date": "2026年9月13日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'",
+    "summary": "The comments come as more U.S. lawmakers urge new rules to govern AI systems",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/openais-altman-wont-do-ipo-this-year-calls-ai-extinction-risk-unacceptable/article71462569.ece",
+    "date": "2026年9月13日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Hyundai Motor Group targets hands-free urban driving by 2029",
+    "summary": "Hyundai Motor Group plans to start mass-producing vehicles capable of hands-free autonomous driving in urban areas in the second half of 2029, while launching vehicles using Nvidia’s validated…",
+    "body": "autonomous driving technology a year earlier. The group unveiled the road map Friday during an autonomous driving media day at the headquarters of 42dot, its autonomous driving software subsidiary in Seongnam, Gyeonggi Province.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20260913/hyundai-motor-group-targets-hands-free-urban-driving-by-2029?utm_source=rss",
+    "date": "2026年9月13日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "AI Is reviving Chinese Marxist economics",
+    "summary": "ATHENS — As China embraced capitalism, its leading universities adopted mainstream Western textbooks to mold their students’ thinking about the economy.…",
+    "body": "“Most of my colleagues pay only lip service to Marxism,” an economics professor in one of China’s top economics departments confessed to me. “Only a tiny minority take Marx seriously.” That was two years ago. Today, the artificial intelligence (AI) revolution is giving Chinese Marxist economics a mighty boost.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20260913/ai-is-reviving-chinese-marxist-economics?utm_source=rss",
+    "date": "2026年9月13日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Controversial gender minister nominee steps down amid criticism",
+    "summary": "Rep. Yong Hye-in of the minor Basic Income Party withdrew her nomination as gender equality and family minister Sunday, ending two weeks of mounting controversy over her decision to retain her…",
+    "body": "parliamentary seat alongside the cabinet post. “I decided to step down as the nominee for Minister of Gender Equality and Family, relinquishing my personal determination to create a gender-equal society for all under the Lee Jae Myung administration,” Yong said during a press conference at the National Assembly.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260913/controversial-gender-minister-nominee-steps-down-amid-criticism?utm_source=rss",
+    "date": "2026年9月13日"
   }
 ]
