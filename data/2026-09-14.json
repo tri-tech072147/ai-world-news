@@ -635,5 +635,31 @@
     "body": "Physical industries – spanning mining, agriculture, manufacturing, and global transport – account for trillions of dollars in economic activity and an estimated $200 billion annual compute opportunity by the 2030s. To address engineering fragmentation [ ] The post Arm launches Total Design for Physical AI and robotics framework appeared first on AI News.",
     "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
     "date": "2026年9月8日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and…",
+    "body": "safety.",
+    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "date": "2026年9月13日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown",
+    "summary": "From the Trump administration to AI experts, plans by the Anthropic boss to boost safety have spawned a largely negative responseOpenAI boss and Elon Musk back slowdown on ‘reckless’ AI…",
+    "body": "developmentEditorial: controlling AI – humanity cannot outsource its survivalThe safety debate that ignited when whistleblowers last week warned that the most advanced AI poses an existential threat to humanity should come with a health warning: side effects include whiplash.…",
+    "url": "https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown",
+    "date": "2026年9月13日"
   }
 ]
