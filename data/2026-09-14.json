@@ -661,5 +661,44 @@
     "body": "developmentEditorial: controlling AI – humanity cannot outsource its survivalThe safety debate that ignited when whistleblowers last week warned that the most advanced AI poses an existential threat to humanity should come with a health warning: side effects include whiplash.…",
     "url": "https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown",
     "date": "2026年9月13日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "date": "2026年9月13日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Trump downplays need to check AI development, says he is unwilling to cede edge to China",
+    "summary": "US President Donald Trump on Sunday played down the need for his administration to check the development of artificial intelligence, saying he worried about ceding America’s edge over China in a…",
+    "body": "global competition and that winning would help address the risks from the advancing technology. While acknowledging the need for some regulation, Trump provided no specifics about potential rules and attributed warnings about the technology moving too quickly and with little oversight to “negative...",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3367374/trump-downplays-need-check-ai-development-says-he-unwilling-cede-edge-china?utm_source=rss_feed",
+    "date": "2026年9月13日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "US schools and police warn about viral ‘Cat in the Hat’ trend after teens’ arrests",
+    "summary": "Disturbing and AI-generated versions of Dr Seuss character have been used to threaten schools and communitiesSchools and law enforcement authorities in the US are issuing warnings against a viral…",
+    "body": "“Cat in the Hat” social media trend in which disturbing or AI-generated versions of the Dr Seuss character are used to threaten students, schools and communities.The latest warnings come as safety concerns increase and several teenagers have been arrested or charged over posts connected to the trend. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2026/sep/13/cat-in-the-hat-social-media-trend-arrests-school-warnings",
+    "date": "2026年9月13日"
   }
 ]
