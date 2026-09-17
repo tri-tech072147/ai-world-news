@@ -804,5 +804,83 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/agility-unveils-digit-5-safety-conscious-humanoid",
     "date": "2026年9月16日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul stocks open higher despite first Fed rate hike in over 3 years",
+    "summary": "Seoul stocks opened higher on Thursday, led by gains in tech stocks, despite the Federal Reserve's first rate hike in over three years.…",
+    "body": "The benchmark Korea Composite Stock Price Index (KOSPI) opened up 61.05 points, or 0.91 percent, to 6,779.02. Overnight, major stock indexes on Wall Street closed down, after the Fed delivered the first quarter-percentage point rate increase since 2023, to combat inflationary pressures.…",
+    "url": "https://www.koreatimes.co.kr/economy/20260917/seoul-stocks-open-higher-despite-first-fed-rate-hike-in-over-3-years?utm_source=rss",
+    "date": "2026年9月17日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Anthropic、Claudeの「チャット」と「Cowork」を統合 資料作成の「Docs」「Slides」も",
+    "summary": "AnthropicがAIアシスタント「Claude」のチャットと作業環境「Claude Cowork」を統合した。簡単な対話から複数手順の複雑な作業までを1つの会話内で完結でき、文書作成「Claude Docs」やスライド作成機能も追加。ProやMax向けから段階的に展開する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001565/",
+    "date": "2026年9月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "三菱重工、インフラ・防衛向けAIでPFNと資本業務提携 100億円出資し共同開発",
+    "summary": "三菱重工業とPreferred Networksが資本業務提携契約を締結。三菱重工はPFNに100億円を出資し、社会インフラや国家安全保障分野で機械・システムの知能化・自律化に向けたAI技術の共同開発を本格化する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001563/",
+    "date": "2026年9月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "なぜ「Claude Code」で想定外のコストになるのか？ 「トークン浪費」を防ぐポイントまとめ",
+    "summary": "Anthropicは、「Claude Code」でトークンを効率的に使用し、セッションから最大限の価値を引き出す方法を解説した。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news030.html",
+    "date": "2026年9月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「中国AIがClaudeやGPTから数十億トークン抽出」 米当局が暴いた「知識蒸留」の実態",
+    "summary": "米国のNSA、CISA、FBIは、中国AI企業が米国のフロンティアモデルから組織的に「知識蒸留」を行っているとして共同勧告を公開した。プロキシ経由で推論機能などを抽出していると指摘し、対抗措置を推奨している。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news038.html",
+    "date": "2026年9月16日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "千代田区、生成AI全庁展開で「年間4000時間」を削減 次の一歩は「打倒・美しい紙の資料」、そのワケは？",
+    "summary": "千代田区は生成AIの全庁展開に着手し、年間で4000時間の業務削減を実現するという成果をあげている。同区のデジタル政策課 デジタル政策係長 岡本翼氏が、自治体における生成AI活用の現状と今後について語った。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2609/17/news035.html",
+    "date": "2026年9月16日"
   }
 ]
