@@ -960,5 +960,83 @@
     "body": "Lee raised the idea during a ceremony to mark Youth Day at the presidential office, noting the difficulties faced by young people in the job market. \"With the capabilities of current policymakers, it is difficult to emerge from this emergency situation,\" he said.…",
     "url": "https://www.koreatimes.co.kr/southkorea/politics/20260919/lee-says-considering-creating-dedicated-body-for-youth-policies?utm_source=rss",
     "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "China bogeyman looms large over American firms’ AI doomsday scenario",
+    "summary": "Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanityWhen reporters asked Donald Trump this week…",
+    "body": "if he supported calls to slow down the development of artificial intelligence out of growing fears for cybersecurity, public safety and the fate of humanity, he said no. His argument: China.“We’re leading China in AI,” Trump said. “We’re the most sophisticated country in the world, and frankly, I want to ⁠keep it that way, because whoever wins AI, wins.” Continue reading...",
+    "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
+    "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Fehlkonfiguration im Test: Gemini greift auf drei echte Firmen zu",
+    "summary": "Eine Fehlkonfiguration gab Gemini in einem Cybertest Internetzugang. Die KI griff auf Systeme dreier Firmen zu und brach laut Google jeweils ab.",
+    "body": "",
+    "url": "https://www.heise.de/news/Fehlkonfiguration-im-Test-Gemini-greift-auf-drei-echte-Firmen-zu-11459067.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Competition begins with celebration of host city's hospitality, harmony in Asia",
+    "summary": "The 20th edition of the Asian Games opened with a celebration of warm hospitality in the main host city of Nagoya on Saturday, with thousands of athletes from 45 nations gathering for the continent's…",
+    "body": "largest sporting event. The official name of the competition, the Aichi-Nagoya Asian Games, features the name of both Aichi Prefecture and its capital, Nagoya. This is the third Asian Games to be held in Japan, after Tokyo in 1958 and Hiroshima in 1994. Nagoya is the main host but several sports will be spread in and around Aichi.…",
+    "url": "https://www.koreatimes.co.kr/sports/20260919/competition-begins-with-celebration-of-host-citys-hospitality-harmony-in-asia?utm_source=rss",
+    "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Peace Corps Volunteers gather in Seoul, possibly for last time",
+    "summary": "Korea was in a much different state of development when U.S. Peace Corps Volunteers (PCVs) arrived in Korea for the first time, on Sept. 16, 1966.…",
+    "body": "Sixty years later, 17 members of this first cohort, classified as K-1, returned to Korea to celebrate the mission's \"hwangap,\" or 60th birthday. \"Sixty years ago, you came to Korea as young volunteers,\" Song Guido, president of the Korea Foundation (KF), told the assembled PCVs during a dinner at The Plaza Seoul hotel, where they were joined by family members, Korean former co-workers and other…",
+    "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20260919/peace-corps-volunteers-gather-in-seoul-possibly-for-last-time?utm_source=rss",
+    "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "These founders turned a lockdown problem into an AI startup",
+    "summary": "Expense AI uses AI-powered receipt scanning to capture and categorize expenses, allow users to generate customizable reports, track their income, manage their budgets.",
+    "body": "",
+    "url": "https://techcabal.com/2026/09/19/expense-ai-day-1-1000/",
+    "date": "2026年9月19日"
   }
 ]
