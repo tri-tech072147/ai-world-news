@@ -570,5 +570,83 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/agility-unveils-digit-5-safety-conscious-humanoid",
     "date": "2026年9月16日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+    "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’",
+    "summary": "After a week of alarming warnings about artificial intelligence’s potential to destroy the world as we know it, our technology reporters Aisha Down, Blake Montgomery and Dan Milmo answer your…",
+    "body": "questions on the reality of the AI threatIn realistic terms how would artificial intelligence actually kill me? What is the main proxy threat? Nuclear war, death due to breakdown of society, a virus? I hear all these reports it could kill us but still unsure how that could practically happen? To be honest all sounds too wooly to really take seriously.…",
+    "url": "https://www.theguardian.com/technology/2026/sep/20/your-ai-doomsday-questions-answered-could-ai-technology-really-end-humanity",
+    "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Australia has done precious little to prepare for the dangers of AI. Where is brilliant leadership when you need it? | Zoe Daniel",
+    "summary": "Australia faces stark choices about the most significant technological development since the splitting of the atom in the 1930sGet our breaking news email, free app or daily news podcastThere’s…",
+    "body": "nothing like a threat of human extinction to focus the mind.The threat of AI to the existence of humanity has long been raised. Continue reading...",
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/20/australia-has-done-precious-little-to-prepare-for-the-dangers-of-ai-where-is-brilliant-leadership-when-you-need-it",
+    "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Trump to create ‘AI Force’ to monitor technology as fears over out-of-control agents grow",
+    "summary": "President had brushed away suggestions to slow down AI technology, even as his own party counseled cautionDonald Trump on Saturday said he would appoint an artificial intelligence czar and create an…",
+    "body": "“AI Force” to help monitor the technology, though he gave almost no details about either plan.As global fears over AI have grown, especially in the past week in the face of multiple industry figures sounding the alarm about its dangers, the president has been critical of calls to slow down development of the fast-moving industry. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2026/sep/19/donald-trump-ai-force",
+    "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Black Box: The Chatbots | Happy Accident | Ep 3 – podcast",
+    "summary": "Why are AI chatbots pulling so many people down a rabbit hole? Our answer starts with the world’s first-ever chatbot, the strange effect it had on people and the ‘time bomb’ that exploded when…",
+    "body": "ChatGPT was released four years ago. The result is a strange experiment we are all living through – whether we know it or not.You can find episodes one and two further back in the Full Story feed.Studies and surveys cited in this episode:Amelia Miller’s interviews with AI researchers, engineers, product managers and executives.The 2022 Anthropic pre-print study that identified sycophancy as a…",
+    "url": "https://www.theguardian.com/australia-news/audio/2026/sep/20/black-box-the-chatbots-happy-accident-ep-3-podcast",
+    "date": "2026年9月19日"
   }
 ]
