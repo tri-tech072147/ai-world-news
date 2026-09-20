@@ -869,5 +869,70 @@
     "body": "India",
     "url": "https://www.thehindu.com/news/national/vaishnaw-cautions-industry-about-cyberattacks-disruption-that-may-target-indias-growing-chip-might/article71487191.ece",
     "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+    "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Chinese AI firm Z.ai faces reputation hit after users spot unauthorised uploads",
+    "summary": "Chinese artificial intelligence company Z.ai is facing a trust crisis after developers discovered that its coding assistant tool, ZCode, was silently uploading local workspace data to external…",
+    "body": "servers without explicit user consent. Even though the company, also known as Zhipu AI, apologised and patched the vulnerability, developers said the incident was likely to weaken its reputation, especially at a time when cybersecurity is becoming a central issue in the AI industry. The issue came to light...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3368159/chinese-ai-firm-zai-faces-reputation-hit-after-users-spot-unauthorised-uploads?utm_source=rss_feed",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Trump’s ‘biggest miscalculation’? How one adviser steered the great AI freakout",
+    "summary": "David Sacks convinced Trump against any restrictions on AI – putting the White House out of step with its own partyAs lawmakers from both sides of the aisle in the US have joined together calling for…",
+    "body": "the regulation of powerful artificial intelligence models, one of the few vocal naysayers has been Donald Trump. He’s called the perceived dangers of the technology a “hoax” and a “scam”, arguing that the government already has “tremendous CRIMINAL and REGULATORY power over these companies”.It’s a starkly different stance from those of his former adviser Steve Bannon, the Republican Texas senator…",
+    "url": "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "UK startup snares $20m to recreate gigs with ‘hyper-realistic’ digital avatars",
+    "summary": "Unit1 hopes to offer cheaper version of shows such as Abba Voyage, showcasing living and dead artists in any venueThe former chief executive of Andrew Lloyd Webber’s entertainment group has obtained…",
+    "body": "a near-£15m investment for his UK music tech startup that hopes to recreate classic concerts by manifesting musicians as digital avatars.Unit1 was set up last year by Barney Wragg, an entertainment executive who ran Lord Lloyd-Webber’s Cats-to-Evita empire for five years from late 2011.…",
+    "url": "https://www.theguardian.com/business/2026/sep/20/uk-startup-15m-investment-concerts-digital-versions-musicians",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Mova S70 Roller im Test: Fairer Preis für guten Saugroboter mit Wischwalze",
+    "summary": "Der Mova S70 Roller bietet für 449 Euro eine echte Wischwalze statt einfacher Mopps. Wir zeigen im Test, wo der günstige Saugroboter überzeugt und wo nicht.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testbericht/mova-s70-roller-im-test-fairer-preis-fuer-guten-saugroboter-mit-wischwalze/ej3xjdk?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年9月20日"
   }
 ]
