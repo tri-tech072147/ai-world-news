@@ -778,5 +778,18 @@
     "body": "",
     "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
     "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Military duty alternative revives for large conglomerates after 14 years amid AI drive",
+    "summary": "The assignment of expert research personnel to large conglomerates is expected to resume for the first time in 14 years, this time in the artificial intelligence (AI) field, helping prevent research…",
+    "body": "career interruptions and the outflow of workers abroad. According to data submitted by the Ministry of Science and ICT to Rep. Hwang Jung-a of the ruling Democratic Party of Korea on Sunday, the ministry recommended LG Electronics, HD Hyundai Robotics, Samsung Medison and Samsung Electronics to be designated for hosting expert research personnel, with their nine research institutes needing 81…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20260920/military-duty-alternative-revives-for-large-conglomerates-after-14-years-amid-ai-drive?utm_source=rss",
+    "date": "2026年9月20日"
   }
 ]
