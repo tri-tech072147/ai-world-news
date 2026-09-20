@@ -739,5 +739,44 @@
     "body": "Where transparent acrylic panels once merely served as physical barriers between residents and city officials, new artificial intelligence-powered displays are now translating spoken words with real-time subtitles across 130 languages.…",
     "url": "https://www.koreatimes.co.kr/southkorea/society/20260920/lost-in-translation-no-more-gangnam-upgrades-administrative-counters-with-ai?utm_source=rss",
     "date": "2026年9月19日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+    "summary": "A new lawsuit claims Anthropic, OpenAI, SpaceXAI and Google made an illegal deal to slow the pace of their respective AI development. The lawsuit, which was filed Friday in the U.S.…",
+    "body": "District Court for the Northern District of California, argues that the leading AI companies violated antitrust laws when they agreed to coordinate slowdown efforts, and that doing so would reduce the value consumers get for paid AI subscriptions. The coordination largely took place on Sept.…",
+    "url": "https://www.koreatimes.co.kr/world/20260920/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown?utm_source=rss",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Trump says he will appoint new AI adviser without providing details",
+    "summary": "WASHINGTON — U.S. President Donald Trump said in a social media post on Saturday that he plans to appoint a new artificial intelligence adviser, known as an \"AI czar,\" and create an \"AI force,\"…",
+    "body": "though he did not provide details about either initiative or how they would be implemented. Fears are growing in Washington among lawmakers about the risks posed by AI technology on humans and property.…",
+    "url": "https://www.koreatimes.co.kr/world/20260920/trump-says-he-will-appoint-new-ai-adviser-without-providing-details?utm_source=rss",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Not all AI workers think the tech could kill everyone",
+    "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026年9月19日"
   }
 ]
