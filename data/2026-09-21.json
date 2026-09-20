@@ -570,5 +570,57 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/agility-unveils-digit-5-safety-conscious-humanoid",
     "date": "2026年9月16日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "World model companies are keeping a lot of secrets",
+    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually…",
+    "body": "building.",
+    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Is the AI industry really ready to slow down?",
+    "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+    "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Not all AI workers think the tech could kill everyone",
+    "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026年9月19日"
   }
 ]
