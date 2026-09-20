@@ -791,5 +791,83 @@
     "body": "career interruptions and the outflow of workers abroad. According to data submitted by the Ministry of Science and ICT to Rep. Hwang Jung-a of the ruling Democratic Party of Korea on Sunday, the ministry recommended LG Electronics, HD Hyundai Robotics, Samsung Medison and Samsung Electronics to be designated for hosting expert research personnel, with their nine research institutes needing 81…",
     "url": "https://www.koreatimes.co.kr/southkorea/society/20260920/military-duty-alternative-revives-for-large-conglomerates-after-14-years-amid-ai-drive?utm_source=rss",
     "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s CXMT touts new chip manufacturing platform as close to ‘world’s most advanced’",
+    "summary": "Chinese memory chip giant Changxin Memory Technologies (CXMT) said on Sunday that it adopted its new-generation technology platform for mass production, narrowing the advantage of global leaders…",
+    "body": "including Samsung Electronics and SK Hynix in manufacturing nodes. CXMT’s fifth-generation technology platform, dubbed G5, achieved a “quantum leap” in storage density, with the number of dies produced per wafer increasing by at least 50 per cent from the previous generation while maintaining better...",
+    "url": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced?utm_source=rss_feed",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "AI slowdown calls justified but collapse of bubble may be more immediate threat | Heather Stewart",
+    "summary": "Scale of debt issuance being used to fund the hectic pace of the datacentre rollout by tech firms is a worryWarnings about powerful and uncontrolled AI have dominated the headlines this past week.…",
+    "body": "But even amid the omens of apocalypse, it is still worth asking if the entire AI-industrial complex is sailing towards a financial iceberg.It will hardly be our most pressing concern if the bots are poised to take over the world, but a collapse of the AI bubble would have repercussions far beyond the US. Continue reading...",
+    "url": "https://www.theguardian.com/business/2026/sep/20/ai-slowdown-calls-collapse-of-bubble-datacentre-tech-firms",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "As White House shields the AI gold rush, Trump family and other allies strike it rich – with few guardrails",
+    "summary": "It’s not clear that financial interests are driving White House policy, but they run parallel even as resistance mountsDonald Trump’s sons, through a series of AI-linked defense and technology…",
+    "body": "ventures, have picked up a $620m Pentagon loan, a Marine Corps robotics contract and an undisclosed air force drone deal in the past year. His longtime friend Michael Dell won a Pentagon contract worth nearly $9bn. And this week, as public support for artificial intelligence sinks to some of the lowest levels ever recorded, the president went to bat for the industry.…",
+    "url": "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Why China is pushing back on US warnings over rapid AI development",
+    "summary": "Beijing believes slowdown calls aim to lock in US advantage, and is pursuing a different balance between safety and paceAbout two years ago, education entrepreneur Boris But had what he calls a…",
+    "body": "“penny-drop moment” – that, like countless others in China, his company needed to embrace AI before it was made obsolete by it.His clients, well-off parents looking to send their children to study overseas, had begun arriving in his office reeling off information and opinions gleaned not from rival firms, but from chatbots. Continue reading...",
+    "url": "https://www.theguardian.com/world/2026/sep/20/why-china-is-pushing-back-on-us-warnings-over-rapid-ai-development",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
+    "summary": "米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。この記事では、Jevとは何か、LLMとはどう違うのかなどを整理する。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
+    "date": "2026年9月20日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Vaishnaw cautions industry about cyberattacks, disruption that may target India's growing chip might",
+    "summary": "India's chip push marks a bold attempt to move beyond packaging and build a broader domestic supply chain, while attracting global companies to manufacture and develop semiconductor technologies in…",
+    "body": "India",
+    "url": "https://www.thehindu.com/news/national/vaishnaw-cautions-industry-about-cyberattacks-disruption-that-may-target-indias-growing-chip-might/article71487191.ece",
+    "date": "2026年9月20日"
   }
 ]
