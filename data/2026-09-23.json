@@ -661,5 +661,83 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/agility-unveils-digit-5-safety-conscious-humanoid",
     "date": "2026年9月16日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "date": "2026年9月22日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+    "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "date": "2026年9月22日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Trump praises relations with Burnham despite tensions over AI and Iran",
+    "summary": "US president calls UK prime minister ‘a natural businessperson’ as leaders meet at UN assembly in New YorkDonald Trump has asserted his relationship with the UK is “more up” with Andy Burnham than…",
+    "body": "under Keir Starmer despite tensions between the two countries on a range of thorny issues including regulation of artificial intelligence, the Chagos islands and the war in Iran.At their first face-to-face meeting, the US president praised Burnham, who sat nervously alongside him, as a “natural businessperson”, saying he thought he had “lots of assets on his side” and would be a “great” prime…",
+    "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting",
+    "date": "2026年9月22日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Snapdragon 8 Elite Gen 6: Qualcomm stellt zwei High-End-Chips vor",
+    "summary": "Qualcomm fährt künftig zweigleisig: Der neue Snapdragon 8 Elite Gen 6 erreicht 5 GHz, während die Extreme-Variante zusätzliche KI-Funktionen für die GPU bietet.",
+    "body": "",
+    "url": "https://www.heise.de/news/Snapdragon-8-Elite-Gen-6-Qualcomm-stellt-zwei-High-End-Chips-vor-11461007.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年9月22日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee vows efforts to help swiftly resume US-N. Korea dialogue",
+    "summary": "NEW YORK — South Korean President Lee Jae Myung on Tuesday reaffirmed his envisioned role as a \"pacemaker\" in establishing peace on the Korean Peninsula, pledging efforts to help swiftly resume…",
+    "body": "dialogue between the United States and North Korea. The South Korean president made the pledge in his address to the 81st United Nations General Assembly in New York, as U.S. President Donald Trump seeks to revive his diplomacy with North Korean leader Kim Jong-un, while inter-Korean relations remain at a standstill. \"I hope the long-suspended dialogue between North Korea and the U.S.…",
+    "url": "https://www.koreatimes.co.kr/world/20260923/lee-vows-efforts-to-help-swiftly-resume-us-n-korea-dialogue?utm_source=rss",
+    "date": "2026年9月22日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "UN chief says power has polarized the world and urges leaders to cooperate",
+    "summary": "UNITED NATIONS — In a no-nonsense farewell speech, U.N. Secretary-General Antonio Guterres urged global leaders Tuesday to respond to the defining challenge today: Will the world continue on its path…",
+    "body": "to fragmentation or cooperate to tackle the existential threats from climate crisis, runaway artificial intelligence and intensifying inequalities? At the heart of these crises is power, Guterres told the annual high-level gathering at the U.N.…",
+    "url": "https://www.koreatimes.co.kr/world/20260923/un-chief-says-power-has-polarized-the-world-and-urges-leaders-to-cooperate?utm_source=rss",
+    "date": "2026年9月22日"
   }
 ]
