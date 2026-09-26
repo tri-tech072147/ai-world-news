@@ -596,5 +596,44 @@
     "body": "",
     "url": "https://www.thehindu.com/news/international/openai-says-its-ai-agents-posted-user-images-online-in-error/article71513907.ece",
     "date": "2026年9月26日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "date": "2026年9月26日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Australian backlash to datacentres is faux import from US, officials say: ‘We are not the United States’",
+    "summary": "Pro-datacentre officials argue scale of Australia’s buildout is smaller, more regulated and less damaging than in USAustralian politicians and business leaders are arguing that their populace’s…",
+    "body": "growing resentment of AI datacentres is an inauthentic import from the United States.Like the US, Australia is seeing community resentment grow in response to a surge in the construction of massive AI datacentres. However, pro-datacentre officials and executives argue the scale of Australia’s buildout is smaller, more regulated and therefore less damaging than that in the US.…",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
+    "date": "2026年9月26日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Former Auction founder brings AI, decades of travel data to new app",
+    "summary": "Planning to visit Osaka with your family this fall? That could mean hours spent booking flights and accommodations and putting together a list of destinations in advance.…",
+    "body": "A new travel app aims to make that process easier. Oh Hyuk, CEO of local tour company Les Vacances and the pioneer who founded Auction, Korea's first e-commerce platform in 1998, has taken on a new challenge in the travel industry with Vacance, an artificial intelligence (AI)-assisted travel platform. The app generates an itinerary based on travelers' schedules.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20260927/former-auction-founder-brings-ai-decades-of-travel-data-to-new-app?utm_source=rss",
+    "date": "2026年9月26日"
   }
 ]
