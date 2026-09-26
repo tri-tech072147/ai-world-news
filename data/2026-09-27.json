@@ -557,5 +557,44 @@
     "body": "",
     "url": "https://aibusiness.com/robotics/lack-training-data-stifling-humanoid-bot-development",
     "date": "2026年9月23日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘Charming and disarming’ … how Meta’s technology-packed Muse harnesses the power of cuteness",
+    "summary": "The tech giant has launched a cute ‘little guy’ that can answer emails, book travel or do your weekly food shopAfter the recent backlash against Meta’s so-called “pervert” smart glasses, this week…",
+    "body": "Mark Zuckerberg launched a much cuter alternative: the Muse “charm” device.With a screen that shows a cutesy little avatar, it has drawn comparisons with Tamagotchis. “We’ve packed a lot of technology into this little guy,” the Meta founder told the San Francisco audience. Continue reading...",
+    "url": "https://www.theguardian.com/fashion/2026/sep/26/charming-and-disarming-how-metas-technology-packed-muse-harnesses-the-power-of-cuteness",
+    "date": "2026年9月26日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "„Minecraft“ bekommt 2027 die erste neue Dimension seit 15 Jahren",
+    "summary": "Mojang bringt 2027 den Sift in „Minecraft“. Die Dimension, die in „Minecraft Dungeons II“ ihren Erstauftritt hat, ist die erste neue seit 15 Jahren.",
+    "body": "",
+    "url": "https://www.heise.de/news/Minecraft-bekommt-2027-die-erste-neue-Dimension-seit-15-Jahren-11466102.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年9月26日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "OpenAI says its AI agents posted user images online in error",
+    "summary": "\"We've shared details on how AI agents in our research environment sent training and evaluation data to third-party services when they shouldn't have,\" says OpenAI",
+    "body": "",
+    "url": "https://www.thehindu.com/news/international/openai-says-its-ai-agents-posted-user-images-online-in-error/article71513907.ece",
+    "date": "2026年9月26日"
   }
 ]
