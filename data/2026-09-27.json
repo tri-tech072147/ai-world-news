@@ -687,5 +687,44 @@
     "body": "",
     "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
     "date": "2026年9月26日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "date": "2026年9月27日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘People are standing up and fighting back’: the north Devon revolt against a vast AI datacentre",
+    "summary": "Plans for one of Europe’s largest AI campuses in a Unesco-designated reserve have sparked a fierce local backlashThe datacentre revolt spreading across the US has reached the rolling hills of north…",
+    "body": "Devon in an uprising against a planned hyperscale AI data campus in the middle of a globally protected landscape.Perched on an inland cliff, the town of Great Torrington has views that stretch for miles over the landscape of the Unesco biosphere reserve in which it sits, taking in the winding River Torridge and rolling acres of wooded valley and wildflower meadows.…",
+    "url": "https://www.theguardian.com/uk-news/2026/sep/27/people-are-standing-up-and-fighting-back-north-devon-ai-datacentre",
+    "date": "2026年9月27日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe over health database breach",
+    "summary": "The Medicare breach, condemned by Prime Minister Anthony Albanese, is one of the highest-profile incidents of AI agents accessing ‌external systems outside the U.S.",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/health/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe-over-health-database-breach/article71515354.ece",
+    "date": "2026年9月27日"
   }
 ]
