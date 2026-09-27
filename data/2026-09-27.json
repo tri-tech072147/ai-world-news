@@ -726,5 +726,70 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/health/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe-over-health-database-breach/article71515354.ece",
     "date": "2026年9月27日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI",
+    "summary": "‘The push against datacenters speaks to the frustration of people who don’t feel they are making the choices in their lives’The Stanford ethicist Rob Reich was once invited to a dinner organized by a…",
+    "body": "Silicon Valley mogul to discuss what a state designed to maximize science and tech powered by commercial models might look like. The gathered technologists were drawn to the idea of building a small nation-state dedicated to the endeavor, Reich recalls in “System Error: Where Big Tech Went Wrong and How We Can Reboot it”.When Reich asked whether this state would be a democracy, he got a cool no.…",
+    "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+    "date": "2026年9月27日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
+    "summary": "Microsoft co-founder and philanthropist speaks with NBC’s Kristen Welker in interview airing on SundayBill Gates has called on the US’s federal legislators and law enforcers to regulate the…",
+    "body": "development of artificial intelligence (AI), saying in an interview airing on Sunday that the technology left unchecked could cause “a billion deaths” and “no one thinks self-regulation is enough”.“You need law enforcement and the politicians to get into the discussion about what safeguards and monitoring look like,” the Microsoft co-founder and philanthropist said to Kristen Welker, the NBC Meet…",
+    "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+    "date": "2026年9月27日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "OpenAI pausiert KI-Training nach neuem Zwischenfall",
+    "summary": "OpenAI schaffte es erneut nicht, die Testumgebung eines KI-Modells abzusichern.",
+    "body": "",
+    "url": "https://www.heise.de/news/OpenAI-pausiert-KI-Training-nach-neuem-Zwischenfall-11467188.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年9月27日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "When AI agents go rogue: Australia breach offers warning for countries like India",
+    "summary": "“India should bring in regulations. It could become horrible when one major incident happens, and somebody steals the secrets of one of the major departments or, say, atomic energy,” says Dr.…",
+    "body": "Srinivas Padmanabuni",
+    "url": "https://www.thehindu.com/news/national/when-ai-agents-go-rogue-australia-breach-offers-warning-for-countries-like-india/article71515799.ece",
+    "date": "2026年9月27日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee returns from two-nation trip",
+    "summary": "President Lee Jae Myung returned home Sunday from his two-nation trip that took him to the United States and Mexico.…",
+    "body": "From Monday to Wednesday, Lee visited New York to attend the 81st United Nations General Assembly, where he also held bilateral talks with U.S. President Donald Trump and Australian Prime Minister Anthony Albanese. The president then made a three-day state visit to Mexico, becoming the first Korean president to make a state visit to the country in 16 years.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20260927/lee-returns-from-two-nation-trip?utm_source=rss",
+    "date": "2026年9月27日"
   }
 ]
