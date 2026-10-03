@@ -609,5 +609,31 @@
     "body": "AI firms were not “being nearly careful enough” about developing the technology.David Robinson, who led the writing of safety reports that accompanied the ChatGPT developer’s product releases, explained his resignation in an essay headlined, “I quit OpenAI because its culture is broken”. Continue reading...",
     "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
     "date": "2026年10月3日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
+    "summary": "OpenAIで安全性報告の執筆を統括したデビッド・ロビンソン氏が退社し、企業文化の崩壊を訴える記事を寄稿した。現行の反復開発手法は失敗を前提としており、能力向上に伴いリスクが拡大すると指摘。原子力や航空分野の安全知見の導入や、未監視下の安全性を担保する新たな科学の確立を求めた。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
+    "date": "2026年10月3日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Astra | The latest leap",
+    "summary": "OpenAI’s latest model launch and the cancellation of an updated version over safety concerns have intensified debate over whether AI capabilities could outpace human control",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/astra-the-latest-leap/article71541623.ece",
+    "date": "2026年10月3日"
   }
 ]
