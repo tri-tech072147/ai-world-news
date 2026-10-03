@@ -765,5 +765,57 @@
     "body": "",
     "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
     "date": "2026年10月1日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "heise-Angebot: Mut statt perfekter Lebenslauf: Keynote beim Women-in-Tech-Event",
+    "summary": "Warum Mut zur Zukunftskompetenz wird: Women-in-Tech-Event am 30. Oktober in Frankfurt. Teilnahme kostenfrei, die 50 Plätze werden verlost.",
+    "body": "",
+    "url": "https://www.heise.de/news/Mut-statt-perfekter-Lebenslauf-Keynote-beim-Women-in-Tech-Event-11417758.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年10月3日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Amazon、データセンター批判に反論 10億ドル超の地域支援策も発表",
+    "summary": "AWSのマット・ガーマンCEOは、データセンター建設批判に反論する声明を出した。水資源枯渇などの懸念を「迷信”と否定しつつ、電力料金負担や自治体とのNDA撤廃を含む行動指針を発表。さらに地域支援として、資格取得や省エネ改修などを助成する10億ドル超の基金を立ち上げる。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001985/",
+    "date": "2026年10月3日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "The ‘WarGames’ problem: Computer science has long understood what it takes to keep AI under control",
+    "summary": "The problem with headlines proclaiming that AI agents have gone rogue goes beyond anthropomorphising the technology.…",
+    "body": "It creates the impression that the agents were beyond the control of the AI companies that made them and there was little the companies could do about it.",
+    "url": "https://www.thehindu.com/sci-tech/science/the-wargames-problem-computer-science-has-long-understood-what-it-takes-to-keep-ai-under-control/article71539805.ece",
+    "date": "2026年10月3日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Co-pilot in FlyDubai incident is identified as Omani national named Hamam al-Hammami",
+    "summary": "CAIRO — The co-pilot suspected of stabbing the captain of an Israel-bound FlyDubai flight before passengers and others stopped the attack is an Omani national named Hamam al-Hammami, three people…",
+    "body": "with knowledge of the situation, including a Gulf and Western diplomat, said on Saturday. All spoke on condition of anonymity because they were not authorized to speak to the media. The Gulf diplomat said investigations are underway to establish whether he acted as a “lone wolf or has any connection with any extremist groups.” The co-pilot, who officials said nearly crashed the sharply plummeting…",
+    "url": "https://www.koreatimes.co.kr/world/20261003/co-pilot-in-flydubai-incident-is-identified-as-omani-national-named-hamam-al-hammami?utm_source=rss",
+    "date": "2026年10月3日"
   }
 ]
