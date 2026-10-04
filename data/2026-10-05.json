@@ -570,5 +570,44 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/anthropic-plugs-regulation-ai-leaders-meet-trump-open-models",
     "date": "2026年9月30日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "summary": "AI slop seems to be overwhelming bug bounty programs.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "date": "2026年10月4日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "date": "2026年10月4日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Anamaría Oramas ushers sounds of contemporary Colombian jazz to Korea",
+    "summary": "Breaking free from more familiar Latin American jazz sounds like tango and bossa nova, musician Anamaría Oramas is set to introduce her own traditional and contemporary Colombian jazz crossover…",
+    "body": "sounds to Korea. The singer and instrumentalist is scheduled to perform at the Jarasum Jazz Festival in Gapyeong, Gyeonggi Province, happening Oct. 9-11. The annual music festival, now on its 23rd edition, is one of the leading jazz events in the country and has featured jazz musicians from all over the world since its inception in 2004.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261005/anamaria-oramas-ushers-sounds-of-contemporary-colombian-jazz-to-korea?utm_source=rss",
+    "date": "2026年10月4日"
   }
 ]
