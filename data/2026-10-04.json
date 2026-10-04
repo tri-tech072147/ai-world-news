@@ -661,5 +661,83 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
     "date": "2026年10月4日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "From lab to life: Why translating AI advances to the real world is a major challenge",
+    "summary": "AI systems more reliable in everyday settings is a challenge worth solving, not just to improve gadgets and apps, but because AI has the potential to support human well-being, whether that means…",
+    "body": "safer streets, smarter healthcare or more secure homes",
+    "url": "https://www.thehindu.com/sci-tech/health/from-lab-to-life-why-translating-ai-advances-to-the-real-world-is-a-major-challenge/article71543262.ece",
+    "date": "2026年10月4日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "How accurate is Bengaluru’s AI traffic enforcement? | Explained",
+    "summary": "Amid debates around the shortcomings of using AI in smart policing and rule enforcement, The Hindu looks at how the Bengaluru Traffic Police’s Intelligent Traffic Management System works, how…",
+    "body": "accurate are the violations flagged, how are the challans generated and the means through which erroneous cases can be challenged.",
+    "url": "https://www.thehindu.com/sci-tech/technology/how-accurate-is-bengalurus-ai-traffic-enforcement-explained/article71532005.ece",
+    "date": "2026年10月4日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "South Korea captain 'deeply sorry' for gloating about military exemption",
+    "summary": "South Korea's Asian Games football captain apologised on Sunday for boasting that his gold medal meant he did not have to do military service.…",
+    "body": "South Korea defeated hosts Japan 1-0 on Saturday in the men's final in Toyota, near Nagoya, for their fourth Games title in a row. Afterwards, Lee Gi-hyuk smiled as he held up his gold medal to reporters and said: \"I'm not going to the military.\" Able-bodied South Korean males are usually required to perform between 18 months and two years of military service before the age of 28.…",
+    "url": "https://www.koreatimes.co.kr/sports/20261004/south-korea-captain-deeply-sorry-for-gloating-about-military-exemption?utm_source=rss",
+    "date": "2026年10月4日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Personal data of some 24,000 KEPCO employees leaked",
+    "summary": "The personal information of some 24,000 employees at the state-run Korea Electric Power Corp. (KEPCO) has been leaked, the company said Sunday, the latest in a series of personal data leaks at…",
+    "body": "corporations. \"We became aware that the personal information of employees was exposed on an external web site at around 3:59 p.m. Thursday,\" KEPCO said in a statement. The leaked information includes their names, job positions and telephone numbers but does not include sensitive information, such as their resident registration numbers, the company added.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20261004/personal-data-of-some-24000-kepco-employees-leaked?utm_source=rss",
+    "date": "2026年10月4日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "German Korean disco-punk band returns to Seoul",
+    "summary": "Korean German musician Ja-min Oh has returned to Korea, the land of her parents, several times over her life.…",
+    "body": "But it took an encounter with Rumkicks, a band of spiky-haired girl punks from Seoul, to connect her band, disco-punk duo Minoh, with the music scene here. Oh was stage manager at Pit Rock, a venue in the small western city of Aachen, when Rumkicks stopped by to play a festival on May 24, 2025.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261004/german-korean-disco-punk-band-returns-to-seoul?utm_source=rss",
+    "date": "2026年10月4日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Germany's Merz visits Kyiv as Russia steps up attacks on Ukrainian cities",
+    "summary": "KYIV, Ukraine — German Chancellor Friedrich Merz arrived in Kyiv Sunday in a show of support as Russia intensifies its attacks on Ukrainian cities.…",
+    "body": "The aerial war has intensified, with Moscow menacing cities across Ukraine with hard-to-intercept ballistic missiles and jet-powered drones , while Kyiv has been striking Russia’s oil industry and businesses . Merz said he traveled to Kyiv, his second trip as chancellor, to demonstrate Germany’s support for Ukraine.…",
+    "url": "https://www.koreatimes.co.kr/world/20261004/germanys-merz-visits-kyiv-as-russia-steps-up-attacks-on-ukrainian-cities?utm_source=rss",
+    "date": "2026年10月4日"
   }
 ]
