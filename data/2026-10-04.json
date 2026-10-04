@@ -635,5 +635,31 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/astra-the-latest-leap/article71541623.ece",
     "date": "2026年10月3日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Quality over quantity: China’s AI microdrama producers battle viewer fatigue",
+    "summary": "Two decades after stepping away from the spotlight, iconic actress Joey Wong made an unexpected return to the screen – not through a traditional production, but via artificial intelligence-powered…",
+    "body": "reconstruction. In a two-minute video by NetEase this summer, Wong, one of the most well-known actresses of the 1980s and 90s, had some of her most celebrated roles recreated, including the beautiful ghost in A Chinese Ghost Story and an alluring snake demon in Green Snake. The revival is just the tip...",
+    "url": "https://www.scmp.com/tech/policy/article/3368700/quality-over-quantity-chinas-ai-microdrama-producers-battle-viewer-fatigue?utm_source=rss_feed",
+    "date": "2026年10月4日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに",
+    "summary": "Googleは、個人向けGeminiで利用可能なモデルを契約プランごとに見直すと告知した。無料ユーザーは利用可能モデルが「Flash-Lite」のみに制限され、「Flash」は「AI Plus」以上、「Pro」は「AI Pro」以上の契約が必要となる。無料枠には順次適用され、個人アカウントのモデル選択肢が階層化される。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001987/",
+    "date": "2026年10月4日"
   }
 ]
