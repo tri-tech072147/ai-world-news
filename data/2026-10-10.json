@@ -674,5 +674,31 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
     "date": "2026年10月9日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Open-source AI is Europe’s only path to tech independence, says Alibaba chairman Joe Tsai",
+    "summary": "Embracing the open-source approach is the only way for Europe to achieve technological independence, Alibaba Group Holding chairman Joe Tsai said, pointing to China’s own open-source drive as a…",
+    "body": "blueprint for innovation under constraints. For Europe, which shares China’s deep roots in traditional manufacturing, the open-source approach presented a unique opportunity, Tsai said, highlighting that factories in the region possessed highly valuable manufacturing data. “You don’t want to feed it into...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3370428/open-source-ai-europes-only-path-tech-independence-says-alibaba-chairman-joe-tsai?utm_source=rss_feed",
+    "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘Gaza is a moral tear in the universe’: Naomi Klein and Astra Taylor | Radical Thinking with Aditya Chakrabortty – podcast",
+    "summary": "Are we really living through ‘end times fascism’? Naomi Klein and Astra Taylor think so.In a new series from the Guardian, the pair speak to Radical Thinking with Aditya Chakrabortty in an extended…",
+    "body": "interview. From Trump 2.0 and the rise of the tech billionaire to Gaza and the climate emergency, Klein and Taylor argue we are not just lurching from crisis to crisis but are in a new and dangerous moment in history.…",
+    "url": "https://www.theguardian.com/politics/audio/2026/oct/10/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking-with-aditya-chakrabortty-podcast",
+    "date": "2026年10月10日"
   }
 ]
