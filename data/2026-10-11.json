@@ -466,5 +466,83 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/ai-teaching-systems-raise-questions",
     "date": "2026年10月7日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Black Box: The Chatbots | The Line | Ep 5 - podcast",
+    "summary": "Five stories that feel like five answers to one important question: in a world where AI chatbots can help us through a breakup, listen like a friend, be a life coach, draft a difficult text message…",
+    "body": "and do our work, where do we draw the line? Continue reading...",
+    "url": "https://www.theguardian.com/australia-news/audio/2026/oct/11/black-box-the-chatbots-the-line-ep-5-full-story-podcast",
+    "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Anthropic bans 'cruel' behaviour against its Claude AI",
+    "summary": "Already last year, the company said it was giving Claude the ability to end conversations in rare, extreme cases of \"persistently harmful or abusive user interactions”",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/anthropic-bans-cruel-behaviour-against-its-claude-ai/article71562464.ece",
+    "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Meta says it is using AI to detect child sexual abuse content on Instagram and Facebook",
+    "summary": "Meta said that between January and June 2026, it actioned 5.3 million pieces of child sexual exploitation content on Facebook and Instagram in India",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/meta-says-it-is-using-ai-to-detect-child-sexual-abuse-content-on-instagram-and-facebook/article71558704.ece",
+    "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Paradise Hotel Busan blends spa, sound healing for ultimate coastal wellness",
+    "summary": "BUSAN — “Take a slow, deep breath. Let the aroma of neroli, sandalwood and lavender release every bit of tension held in your body.” As dusk settled at 6 p.m. on Oct.…",
+    "body": "2, Paradise Hotel Busan unveiled a sanctuary of quiet renewal. Against the dramatic sweep of the autumn sea and a fading horizon, the hotel introduced a specialized wellness experience designed to blend thermal spa immersion with deep meditation.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20261011/paradise-hotel-busan-blends-spa-sound-healing-for-ultimate-coastal-wellness?utm_source=rss",
+    "date": "2026年10月10日"
   }
 ]
