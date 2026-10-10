@@ -596,5 +596,83 @@
     "body": "insufficient capital.",
     "url": "https://techcabal.com/2026/10/09/chimoney-capitalsage-close-deal/",
     "date": "2026年10月9日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Kurt Campbell on US’ China focus, the Indo-Pacific Quad, risks of AI",
+    "summary": "Kurt Campbell is a veteran US diplomat and strategist who has played a leading role in shaping Washington’s approach to China and the Indo-Pacific for more than a decade.…",
+    "body": "He served as the White House coordinator for Indo-Pacific affairs from 2021 to 2024 and as US deputy secretary of state from 2024 to 2025. Previously, he served as assistant secretary of state for East Asian and Pacific affairs from 2009 to 2013 and was a key architect of the Obama administration’s “pivot to Asia”. Often...",
+    "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3370379/kurt-campbell-us-china-focus-indo-pacific-quad-risks-ai?utm_source=rss_feed",
+    "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Microsoft is being suspended from program to apply for green cards for H-1B visa workers, Vance says",
+    "summary": "WASHINGTON — U.S. President Donald Trump's administration is suspending tech giant Microsoft from a program to apply for green cards for workers who come to the U.S.…",
+    "body": "to live and work using an H-1B visa as it accuses the company of fraud. “If you do the math, for every worker that Microsoft laid off, they replaced that worker with one and a half foreign indentured servants,” said Vice President JD Vance in a White House news conference announcing the decision.…",
+    "url": "https://www.koreatimes.co.kr/world/20261010/microsoft-is-being-suspended-from-program-to-apply-for-green-cards-for-h-1b-visa-workers-vance-says?utm_source=rss",
+    "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Busan chefs turn local flavors into signature dining experience",
+    "summary": "Known worldwide for its bustling fish markets and pristine beaches, Korea’s southern port city of Busan is reframing its local food culture through a modern, unified lens.…",
+    "body": "The Busan Metropolitan Government unveiled two new signature meal sets, Friday, termed Busan Bansang, at the Busan International Food Expo, running through Sunday. The initiative transforms three years of culinary research and 72 standalone recipes into complete, elevated set-meal experiences designed for local restaurants and international tourism.…",
+    "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20261010/busan-chefs-turn-local-flavors-into-signature-dining-experience?utm_source=rss",
+    "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "date": "2026年10月9日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "OpenAI、安全性研究者3人を解雇 本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+    "summary": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+    "date": "2026年10月9日"
   }
 ]
