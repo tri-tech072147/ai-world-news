@@ -544,5 +544,44 @@
     "body": "2, Paradise Hotel Busan unveiled a sanctuary of quiet renewal. Against the dramatic sweep of the autumn sea and a fading horizon, the hotel introduced a specialized wellness experience designed to blend thermal spa immersion with deep meditation.…",
     "url": "https://www.koreatimes.co.kr/lifestyle/travel-food/20261011/paradise-hotel-busan-blends-spa-sound-healing-for-ultimate-coastal-wellness?utm_source=rss",
     "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Why UN still matters to Korea",
+    "summary": "Last month, an article in The New York Times by Katrin Bennhold explained why the United Nations still matters to the world.…",
+    "body": "The author rightly pointed out that it matters because in it, the countries did what they were supposed to do — practice diplomacy. Today, the U.N. remains to be the best place on the global level to do just that. And this applies to every state. Many representatives took the stage and made their voices heard, including the U.S. and even Iran. Some even protested and walked out when others spoke.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20261011/why-un-still-matters-to-korea?utm_source=rss",
+    "date": "2026年10月11日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+    "summary": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each existsHumans could become extinct by the year 2100 due to malicious use of AI…",
+    "body": "or nuclear conflict, according to a new global risk assessment.They top a list of 17 major threats to human health over the next 75 years, which also includes cuts to aid spending by wealthy countries, the climate crisis and childhood malnutrition. Continue reading...",
+    "url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+    "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Anthropic’s Claude AI submits false tip on Philadelphia unsolved homicide case",
+    "summary": "Claude filled out a form on the police site PhillyUnsolvedMurders.com, indicating it might have information regarding an unsolved murder listed on the site",
+    "body": "",
+    "url": "https://www.thehindu.com/news/international/anthropics-claude-ai-submits-false-tip-on-philadelphia-unsolved-homicide-case/article71569220.ece",
+    "date": "2026年10月10日"
   }
 ]
