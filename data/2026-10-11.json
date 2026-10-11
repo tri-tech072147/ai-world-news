@@ -583,5 +583,57 @@
     "body": "",
     "url": "https://www.thehindu.com/news/international/anthropics-claude-ai-submits-false-tip-on-philadelphia-unsolved-homicide-case/article71569220.ece",
     "date": "2026年10月10日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "What’s in a name? What China and Trump call AI reveals how they see its future",
+    "summary": "US President Donald Trump wants to banish the word “artificial” from artificial intelligence, saying it makes one of the world’s most consequential technologies sound “fake”.…",
+    "body": "Across the Pacific, however, China’s name for the technology has long carried a different connotation – one that places humans, rather than artificiality, at its centre. Trump last week signed an executive order directing US federal agencies to replace “artificial intelligence”, or AI, with “Super Intelligence”, or SI, in...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3370269/whats-name-what-china-and-trump-call-ai-reveals-how-they-see-its-future?utm_source=rss_feed",
+    "date": "2026年10月11日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Japan’s Sumitomo Bakelite expands China chip packaging materials output amid AI boom",
+    "summary": "Japanese semiconductor materials giant Sumitomo Bakelite plans to expand production of advanced chip packaging materials in China and Singapore, marking the second such announcement for its Chinese…",
+    "body": "operations in less than four months as artificial intelligence drives demand for more sophisticated semiconductors. The Tokyo-based company said on Friday that it would add production lines for mould underfill (MUF) materials and compression-moulding granules at its facilities in Suzhou, eastern...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed",
+    "date": "2026年10月11日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘Gaza is a moral tear in the universe’: Naomi Klein and Astra Taylor | Radical Thinking with Aditya Chakrabortty – podcast",
+    "summary": "Are we really living through ‘end-times fascism’? Naomi Klein and Astra Taylor think so.In a new series from the Guardian, the pair speak to Radical Thinking with Aditya Chakrabortty in an extended…",
+    "body": "interview. From Trump 2.0 and the rise of the tech billionaires to Gaza and the climate emergency, Klein and Taylor argue we are not just lurching from crisis to crisis but are in a new and dangerous moment in history.…",
+    "url": "https://www.theguardian.com/news/audio/2026/oct/11/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking-with-aditya-chakrabortty-podcast",
+    "date": "2026年10月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Cheong Wa Dae makes rare disclosure of Lee's golf outing ahead of opposition attack",
+    "summary": "Cheong Wa Dae on Sunday took the unusual step of disclosing information on President Lee Jae Myung’s private golf schedule, shortly before an opposition lawmaker held a news conference questioning…",
+    "body": "his whereabouts when a ceiling collapsed at a supermarket in Daegu. The office confirmed that Lee visited Taereung Golf Club with his family Saturday, about the time reports that the ceiling of a commercial building collapsed in Daegu, injuring dozens of people.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20261011/cheong-wa-dae-makes-rare-disclosure-of-lees-golf-outing-ahead-of-opposition-attack?utm_source=rss",
+    "date": "2026年10月11日"
   }
 ]
