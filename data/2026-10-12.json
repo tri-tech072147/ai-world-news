@@ -479,5 +479,44 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/ai-teaching-systems-raise-questions",
     "date": "2026年10月7日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass.…",
+    "body": "Or score other deals.",
+    "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "date": "2026年10月11日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "date": "2026年10月11日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Feelgood factor of human interaction | Brief letters",
+    "summary": "Happy hormones | Fuel costs | Drive-in parking | Guys and girls | Young or old? | Singapore pollutionRe your report (‘Pull the plug’: protesters resort to direct action against AI firms, 6 October),…",
+    "body": "the US neuroscientist Ben Rein has shown that there is a fundamental difference in our cognitive response according to the type of interaction we have. In-person meetings and conversations show a dramatic increase in serotonin, oxytocin and dopamine – “feelgood” hormones – compared with online interactions.…",
+    "url": "https://www.theguardian.com/science/2026/oct/11/feelgood-factor-of-human-interaction",
+    "date": "2026年10月11日"
   }
 ]
