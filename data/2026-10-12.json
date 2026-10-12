@@ -518,5 +518,44 @@
     "body": "the US neuroscientist Ben Rein has shown that there is a fundamental difference in our cognitive response according to the type of interaction we have. In-person meetings and conversations show a dramatic increase in serotonin, oxytocin and dopamine – “feelgood” hormones – compared with online interactions.…",
     "url": "https://www.theguardian.com/science/2026/oct/11/feelgood-factor-of-human-interaction",
     "date": "2026年10月11日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Policymakers take on energy shock, rising debt at IMF-World Bank meetings",
+    "summary": "BANGKOK — Finance ministers and central bankers meet in Bangkok this week for the annual gatherings of the International Monetary Fund (IMF) and World Bank, with the global economy buffeted between…",
+    "body": "the U.S.-Iran war's energy shock, rising debt pressures and the AI boom. The meetings run from Monday through Saturday in the Thai capital, and will see policymakers tackle some stark choices, with the IMF calling on governments to rein in spending even as vulnerable citizens' needs may be growing in the face of surging inflation and climate risks.…",
+    "url": "https://www.koreatimes.co.kr/world/20261012/policymakers-take-on-energy-shock-rising-debt-at-imf-world-bank-meetings?utm_source=rss",
+    "date": "2026年10月12日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "date": "2026年10月11日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+    "summary": "Kanishka Narayan to say Britain cannot rely entirely on tech companies amid rising global concern over AI dangersCompanies building the most advanced AI systems must increase safety efforts, the UK’s…",
+    "body": "AI minister will say, as he announces a strengthening of Britain’s cyber defences.Kanishka Narayan will call on companies developing frontier AI to do more to make sure it is safe. He will say Britain cannot rely entirely on technology companies to police their own models and will argue the UK needs to build more of its own AI infrastructure. Continue reading...",
+    "url": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
+    "date": "2026年10月11日"
   }
 ]
