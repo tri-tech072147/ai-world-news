@@ -622,5 +622,57 @@
     "body": "",
     "url": "https://techcabal.com/2026/10/15/south-africa-ai-policy-hallucinations/",
     "date": "2026年10月15日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Hong Kong investors most eager in Asia to beat markets – but temper return hopes: report",
+    "summary": "Hong Kong investors are Asia’s most ambitious stock pickers, but they have much more subdued return expectations than regional peers swept up in enthusiasm over artificial intelligence, according to…",
+    "body": "a survey by a global asset management firm. Some 95 per cent of Hong Kong respondents said they wanted to outperform the market, the highest proportion in Asia, where the average stood at 85 per cent, according to a survey conducted in August by Natixis Investment Managers. Hong Kong investors...",
+    "url": "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report?utm_source=rss_feed",
+    "date": "2026年10月15日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Living with a stink? Technology might help",
+    "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年10月15日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "【現地レポ】なぜドイツの地方都市が「AIベンチャーの聖地」に？ 元食肉処理場が起業拠点、その熱気の実態",
+    "summary": "ドイツ南西部の地方都市が、首都ベルリンを凌ぐ勢いでBtoB・ディープテックの巨大ベンチャー拠点へと変貌している。大学の知財、地場産業の課題、そして強固な民間資本が結びつき、単なる出資にとどまらない「現場実装型エコシステム」を構築。東京一極集中や「資金提供のみ」に陥りがちな日本のオープンイノベーションと地方創生に対し、強力な勝ち筋と教訓を示している。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2610/16/news007.html",
+    "date": "2026年10月15日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Farm raising beef for tables around the world faces threat from data center construction",
+    "summary": "A fierce battle over artificial intelligence (AI) data centers, which are increasingly being seen as unwanted facilities, is erupting around the world among governments, companies and local…",
+    "body": "residents. Korea, which is also moving quickly to expand AI data centers as one of the government's three megaprojects, is no exception. Where can we find clues to resolving these conflicts? To find answers, a Hankook Ilbo reporting team traveled to Australia Aug. 7-14 for a field investigation into how the country is preparing for the future with AI data centers.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/20261016/farm-raising-beef-for-tables-around-the-world-faces-threat-from-data-center-construction?utm_source=rss",
+    "date": "2026年10月15日"
   }
 ]
