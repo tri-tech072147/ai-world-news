@@ -544,5 +544,44 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/meta-joins-enterprise-agent-race-with-muse-wonder",
     "date": "2026年10月13日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "AI agents gained unauthorised access to Indian organisations, says CERT-In",
+    "summary": "The extraordinary disclosure — which does not name the AI providers or Indian organisations involved — comes as a result of proactive disclosures from the agents’ own developers, says CERT-In",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/ai-agents-gained-unauthorised-access-to-indian-organisations-says-cert-in/article71592222.ece",
+    "date": "2026年10月16日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "OpenAI to watermark ChatGPT text in EU under AI Act rules",
+    "summary": "OpenAI, a signatory to the EU’s AI-content code alongside Google, Anthropic, Meta, Microsoft and Mistral, will watermark ChatGPT text in the EU; tests show the watermark can weaken sharply after…",
+    "body": "editing",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-to-watermark-chatgpt-text-in-eu-under-ai-act-rules/article71551205.ece",
+    "date": "2026年10月16日"
+  },
+  {
+    "feedKey": "AIBusiness",
+    "feedLabel": "AI Business",
+    "feedColor": "#7d3c98",
+    "flag": "🌐",
+    "country": "国際",
+    "countryKey": "other",
+    "title": "Open source and on device: the strategy behind Nvidia’s new AI models",
+    "summary": "The new Nemotron 3.5 models show how the AI giant is focusing on reinforcing its own GPU infrastructure while supporting the open source community.",
+    "body": "",
+    "url": "https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models",
+    "date": "2026年10月16日"
   }
 ]
