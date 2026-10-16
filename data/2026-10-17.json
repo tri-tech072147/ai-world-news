@@ -583,5 +583,31 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/open-source-on-device-strategy-behind-nvidia-s-new-ai-models",
     "date": "2026年10月16日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with…",
+    "body": "Anthropic.",
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "date": "2026年10月16日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Decluttering your online life: how to get your digital house in order and protect your data from AI",
+    "summary": "The average person spends 40% of their waking hours online. Clearing out digital clutter can minimise environmental impacts and boost productivity Change by degrees offers life hacks and sustainable…",
+    "body": "living tips each Saturday to help reduce your household’s carbon footprintGot a question or tip for reducing household emissions? Email us at changebydegrees@theguardian.comMany Australians worry about datacentres swallowing up local land and energy but we rarely look closely at our own digital trails.Our endless photo and video streams, bursting inboxes and unread subscriptions all feed the…",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/17/decluttering-online-how-to-get-your-digital-house-in-order-protect-data-ai",
+    "date": "2026年10月16日"
   }
 ]
