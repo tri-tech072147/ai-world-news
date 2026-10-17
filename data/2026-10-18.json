@@ -505,5 +505,44 @@
     "body": "Guardian journalist Michael Safi spends an afternoon at the Double Six ranch, meeting Samadi’s AI chatbots and catching a glimpse of a possible vision of the futureListen to Black Box: The Chatbots series Continue reading...",
     "url": "https://www.theguardian.com/australia-news/audio/2026/oct/18/black-box-the-chatbots-what-i-saw-at-the-double-six-ranch-ep-6-full-story-podcast",
     "date": "2026年10月17日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "date": "2026年10月17日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "date": "2026年10月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Wearable robots offer mobility to people with disabilities in Seoul",
+    "summary": "Advanced rehabilitation involving wearable robotics has traditionally remained out of reach for many due to high costs and limited availability outside major medical centers.…",
+    "body": "Now, a pioneering municipal program in western Seoul is bringing this cutting-edge technology directly into neighborhood streets. The Mapo District office is running a specialized robotic rehabilitation initiative designed to help registered residents with mobility impairments regain independence.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/health/20261018/wearable-robots-offer-mobility-to-people-with-disabilities-in-seoul?utm_source=rss",
+    "date": "2026年10月17日"
   }
 ]
