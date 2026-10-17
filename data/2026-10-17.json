@@ -700,5 +700,44 @@
     "body": "heralds a \"significant\" change in the North's naval capabilities. North Korea test-fired the Zam-2.0 super-speed precision-guided torpedo weapon system Thursday to confirm the successful technical upgrade of the weapon, according to the Korean Central News Agency (KCNA). It did not disclose further details of the weapon.…",
     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261017/n-korea-tests-new-precision-guided-torpedo-using-ai-kcna?utm_source=rss",
     "date": "2026年10月17日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Reporter’s notebook: Kimi’s AI credit card turns spending into computing quotas – with limits",
+    "summary": "China’s artificial intelligence companies have spent years persuading consumers to pay for their technology.…",
+    "body": "Now, Moonshot AI, the start-up behind Kimi, is taking a different approach: offering AI computing benefits through a credit card. The company has teamed up with the Agricultural Bank of China (ABC) and American Express for what it calls “the world’s first AI native credit card”. After getting one for myself, the experience offered an intriguing way to bring AI services into everyday...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3371226/reporters-notebook-kimis-ai-credit-card-turns-spending-computing-quotas-limits?utm_source=rss_feed",
+    "date": "2026年10月17日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling",
+    "summary": "Tech giant Meta has denied accusations it has acted with political bias during Brazil’s presidential campaign",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/meta-denies-accusation-of-anti-lula-political-bias-in-brazil-after-electoral-court-ruling/article71595270.ece",
+    "date": "2026年10月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Number of deepfake sex videos up for review exceeds last year's figure in 8 months",
+    "summary": "The number of deepfake sex crime videos pending review by a Korean media regulator has surpassed 17,000 as of August this year, already surpassing last year's total, data showed Saturday.…",
+    "body": "The state-run Korea Communications Standards Commission has received 17,378 cases of sex crime videos using deepfake technology for review from January to August, according to data submitted to Rep. Lee Yeon-hee of the ruling Democratic Party of Korea. This represents a nearly 9.9 percent increase from last year's total of 15,808 cases.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20261017/number-of-deepfake-sex-videos-up-for-review-exceeds-last-years-figure-in-8-months?utm_source=rss",
+    "date": "2026年10月17日"
   }
 ]
