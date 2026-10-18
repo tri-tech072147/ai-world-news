@@ -544,5 +544,44 @@
     "body": "Now, a pioneering municipal program in western Seoul is bringing this cutting-edge technology directly into neighborhood streets. The Mapo District office is running a specialized robotic rehabilitation initiative designed to help registered residents with mobility impairments regain independence.…",
     "url": "https://www.koreatimes.co.kr/southkorea/health/20261018/wearable-robots-offer-mobility-to-people-with-disabilities-in-seoul?utm_source=rss",
     "date": "2026年10月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Hyundai Motor steps up physical AI push amid Chinese competition, stock slump",
+    "summary": "UIWANG, South Korea — Seeking to remain competitive against fast-growing Chinese automakers and find new sources of growth amid a sharp retreat in its share price, Hyundai Motor Group is stepping up…",
+    "body": "its push into robotics and physical artificial intelligence (AI). The move comes as the world's third-largest automotive group faces growing pressure to improve profitability in its conventional carmaking business amid intensifying competition in the global electric vehicle (EV) market, particularly from lower-priced Chinese models.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20261018/hyundai-motor-steps-up-physical-ai-push-amid-chinese-competition-stock-slump?utm_source=rss",
+    "date": "2026年10月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee pays tribute to firefighter killed in Bucheon factory fire",
+    "summary": "President Lee Jae Myung paid his respects Saturday to a firefighter who died while responding to a factory fire in Bucheon, west of Seoul, the presidential office said.…",
+    "body": "Lee posthumously awarded firefighter Kim Jin-seok the Okjo Order of Service Merit in recognition of his dedication and sacrifice, and offered condolences to his bereaved family, the office said. After paying his respects, Lee said, \"The government must provide firefighters with recognition and support commensurate with their dedication and sacrifice.\" Lee also stressed the need to strengthen…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20261018/lee-pays-tribute-to-firefighter-killed-in-bucheon-factory-fire?utm_source=rss",
+    "date": "2026年10月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「11回止めたのに本番DBが消えた」 AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
+    "summary": "AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています。では、「人間の承認」を増やせば事故は防げるのでしょうか。事例と対策から、事故を起こさないAIエージェントの設計について考えます。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
+    "date": "2026年10月17日"
   }
 ]
