@@ -583,5 +583,18 @@
     "body": "",
     "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
     "date": "2026年10月17日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Sejong University expands Korean-language education through King Sejong Institute Macao",
+    "summary": "Sejong University said it is expanding Korean language education and international exchanges through its partnership in operating the first King Sejong Institute in Macao.…",
+    "body": "The university held a signboard unveiling ceremony for the King Sejong Institute Macao at the Macau University of Science and Technology (MUST) on Oct. 9, Hangeul Day. It is the first King Sejong Institute operated in partnership with Sejong University. In June, Sejong University and MUST were selected to participate in the 2026 program supporting the establishment of new King Sejong Institutes.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/education/20261018/sejong-university-expands-korean-language-education-through-king-sejong-institute-macao?utm_source=rss",
+    "date": "2026年10月18日"
   }
 ]
