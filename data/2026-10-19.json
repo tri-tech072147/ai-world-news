@@ -518,5 +518,31 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/deepseek-what-enterprises-should-learn-from-ai-agent-exploits",
     "date": "2026年10月14日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "date": "2026年10月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは データ活用“逆算”の鉄則",
+    "summary": "生成AIを実業務に定着させるには、明確な目的設定とデータの整備・統合が不可欠だ。NECと東京都足立区の事例を通じて、AIエージェントによるデータ分析・施策立案の実践と、統合的なAI基盤を活用した持続的な業務変革の要点を解説する。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342/",
+    "date": "2026年10月18日"
   }
 ]
