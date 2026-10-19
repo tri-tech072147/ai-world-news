@@ -544,5 +544,83 @@
     "body": "",
     "url": "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342/",
     "date": "2026年10月18日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Seoul stocks open sharply lower after US tech sell-off",
+    "summary": "Seoul shares opened sharply lower Monday in the wake of a technology-centered sell-off on Wall Street, as concerns mount over whether heavy investment in artificial intelligence (AI) infrastructure…",
+    "body": "can generate sufficient returns. After opening 3.17 percent lower, the benchmark Korea Composite Stock Price Index (KOSPI) narrowed losses, trading down 95.95 points, or 1.69 percent, at 5,572.10 as of 9:15 a.m. The KOSPI rose 2.05 percent to close at 5,668.05 on Friday, snapping a seven-session losing streak during which it had fallen 6.3 percent. On Friday (U.S.…",
+    "url": "https://www.koreatimes.co.kr/economy/20261019/seoul-stocks-open-sharply-lower-after-us-tech-sell-off?utm_source=rss",
+    "date": "2026年10月19日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "CXMT forecasts up to US$19.8 billion in 3 quarters’ net income; pledges share buy-back",
+    "summary": "Chinese memory chip giant ChangXin Memory Technologies (CXMT) forecast a net income of up to US$19.8 billion for the first nine months of 2026, marking a dramatic swing from a loss a year ago, as the…",
+    "body": "domestic champion cashed in on artificial intelligence-driven demand while aggressively challenging global rivals including Samsung Electronics and SK Hynix. Meanwhile, Zhu Yiming, chairman of the Hefei-based memory giant, proposed to buy back 1 billion (US$149.56 million) to 2 billion yuan of...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3371314/cxmt-forecasts-us198-billion-3-quarters-net-income-pledges-share-buy-back?utm_source=rss_feed",
+    "date": "2026年10月18日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘Not our friends’: Victorian Coalition warns Advance’s ‘bizarre’ AI campaign may cost it majority government",
+    "summary": "Exclusive: Rightwing lobby group, which says state poll is trial run for next federal election, accused of undermining Victorian Liberal messagingGet our new political email, free app or daily news…",
+    "body": "podcastVictorian Coalition MPs have criticised a prominent conservative lobby group’s pre-election campaign as “bizarre” and warned it may cost them a majority government at the November state election.But the criticism has been dismissed as “galactically stupid” by Advance, which has rebuked the Coalition for not being further ahead in the polls.Sign up for Guardian Australia’s Politics, really…",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/19/victorian-election-advance-campaign-undermining-liberal-national-ntwnfb",
+    "date": "2026年10月18日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Don't fall for this - how to protect yourself from AI scams",
+    "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年10月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減",
+    "summary": "Anthropicは、社内雇用の変化と一般市民とのAI予測格差に関する調査を公開した。AnthropicではAI稼働時間が人間を上回り、技術系初級職の採用比率が急減した。自身の業務の自動化予測は、Anthropic従業員の75％に対し、米労働者は28％と大きな開きが出たが、自動化と失業率上昇を結びつける労働観は共通していた。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+    "date": "2026年10月18日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Newオンプレミス、RAG、SREはもう“幻滅期” 2026年、「過度な期待」のピークにある5項目とは？",
+    "summary": "ガートナーが、2026年の日本におけるクラウドとAIのハイプサイクルを発表。Newオンプレミス、RAG、SREが“幻滅期”に入る一方で、“過度な期待”のピークに立つ5項目が示された。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news029.html",
+    "date": "2026年10月18日"
   }
 ]
