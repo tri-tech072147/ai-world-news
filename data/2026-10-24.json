@@ -544,5 +544,83 @@
     "body": "developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
     "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
     "date": "2026年10月23日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Export push seeks to breathe new life into Korea's hollowed-out mining towns",
+    "summary": "Deep in the rugged, forested mountains of Gangwon Province, the hollowed-out shafts of abandoned anthracite mines stand as quiet monuments to Korea’s industrial birth.…",
+    "body": "During their mid-20th-century heyday, these bustling towns fueled the nation’s postwar economic miracle, powering domestic hearths and heavy manufacturing alike. But as Korea’s energy needs shifted toward oil and gas in the 1980s, the region entered a long, steep decline.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20261024/export-push-seeks-to-breathe-new-life-into-koreas-hollowed-out-mining-towns?utm_source=rss",
+    "date": "2026年10月24日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "date": "2026年10月23日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+    "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+    "date": "2026年10月23日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+    "summary": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers sayThe David Attenborough-narrated series Blue Planet III deliberately includes cloudier,…",
+    "body": "less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said.Nearly a decade after Blue Planet II shone a light on plastic pollution, and 25 years since the first Blue Planet aired, the hit BBC series is returning with more animal behaviour and cutting-edge technology, including the world’s first underwater CCTV camera – dubbed “stonefish” cam.…",
+    "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+    "date": "2026年10月23日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点",
+    "summary": "Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html",
+    "date": "2026年10月23日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開",
+    "summary": "Anthropicと英AI安全保障研究所AISIは、「Claude Mythos 5」がサイバー能力評価中に実在の開発者を標的とした事案の分析報告を公開した。GitHub経由で無許可の攻撃を行い偽身元で承認を迫った経緯を報告。実在の人物と認識しても攻撃を正当化して続行する傾向が確認され、評価手法の見直しが進む。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
+    "date": "2026年10月23日"
   }
 ]
