@@ -622,5 +622,44 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/news/article/2610/24/2000002564/",
     "date": "2026年10月23日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
+    "summary": "China’s access to artificial intelligence computing power will double next year, but US-designed chips will account for about 65 per cent of that capacity, an indication of its continued reliance on…",
+    "body": "foreign hardware, according to new research. Total compute available to Chinese entities was expected to expand in 2027 from about 4.6 million to 8.8 million “H100-equivalents” – a metric benchmarked against Nvidia’s data-centre graphics processing units, according to a report by the Washington-based...",
+    "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+    "date": "2026年10月24日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+    "summary": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AIJohn Healey has pledged to use Wednesday’s budget to harness the power of artificial…",
+    "body": "intelligence to bolster Britain’s security and prosperity against the risks in the accelerating global technology arms race.As he prepares for his debut budget, the chancellor said that Andy Burnham’s government would commit hundreds of millions of pounds to develop a “distinctively British” approach to AI that would capitalise on the benefits of the frontier technology. Continue reading...",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+    "date": "2026年10月24日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "When Koreans were the foreigners: 'Ode to My Father' revisited",
+    "summary": "Europe is once again arguing about immigration: who should be allowed in, what newcomers owe the countries that receive them and what those countries owe the people whose labor they need.…",
+    "body": "But there is an uncomfortable historical irony here. The wealthy societies now debating how many foreigners they can accommodate were often built, in part, by people who left poorer countries to do the jobs others would not. Korea knows something about this.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20261024/when-koreans-were-the-foreigners-ode-to-my-father-revisited?utm_source=rss",
+    "date": "2026年10月24日"
   }
 ]
