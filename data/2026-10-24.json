@@ -674,5 +674,44 @@
     "body": "",
     "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
     "date": "2026年10月24日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
+    "summary": "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting backDale Johnston opens the gate to his neat suburban…",
+    "body": "garden on the western fringes of Newport in South Wales. There’s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife. He should be enjoying the light draining from the perfect autumnal sky – but almost his entire view is blotted out by a vast expanse of prefabricated panels.The 23 metre-high grey hulk looming over him and his neighbours is a hyperscale…",
+    "url": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
+    "date": "2026年10月24日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Ecovacs X12S Omnicyclone im Test: Beutelloser Saugroboter mit Wassersprüher",
+    "summary": "Der Ecovacs X12S Omnicyclone saugt mit 27.000 Pa und setzt auf eine beutellose Station. Ob er den Premiumpreis rechtfertigt, zeigt unser Test.",
+    "body": "",
+    "url": "https://www.heise.de/bestenlisten/testbericht/ecovacs-x12s-omnicyclone-im-test-beutelloser-saugroboter-mit-wassersprueher/059zlth?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年10月24日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "OpenAI stellt seine neue Trainingsumgebung vor – ohne Air Gap",
+    "summary": "OpenAI verschärfte nach Hacking-Attacken durch seine KI die Sicherheits-Maßnahmen. Die „Offline-Welten“ dafür sind aber nicht offline.",
+    "body": "",
+    "url": "https://www.heise.de/news/OpenAI-stellt-seine-neue-Trainingsumgebung-vor-ohne-Air-Gap-11499163.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年10月24日"
   }
 ]
