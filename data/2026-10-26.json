@@ -505,5 +505,18 @@
     "body": "",
     "url": "https://aibusiness.com/generative-ai/deepseek-makes-deepinfer-open-source-cut-ai-costs",
     "date": "2026年10月21日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+    "summary": "Authentic Brands Group says AI company infringed on rights of songs by the King such as Can’t Help Falling in LoveThe owners of Elvis Presley’s music catalogue are suing artificial intelligence (AI)…",
+    "body": "company Anthropic for allegedly using Presley’s songs to train their models without permission.Authentic Brands Group, the licensing organization that has ownership of both Presley’s music and likeness, is accusing Anthropic of infringing on the rights of 274 songs by Presley. The lawsuit, first reported by Billboard, was filed on Friday. Continue reading...",
+    "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+    "date": "2026年10月25日"
   }
 ]
