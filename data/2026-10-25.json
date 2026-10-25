@@ -596,5 +596,44 @@
     "body": "",
     "url": "https://www.thehindu.com/sci-tech/technology/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/article71614454.ece",
     "date": "2026年10月24日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "China’s tech giants are paying 1 million yuan for a new kind of AI engineer",
+    "summary": "Chinese technology giants are dangling annual pay packages approaching 1 million yuan (US$149,739) to attract artificial intelligence engineers who can turn AI models into commercial applications.…",
+    "body": "Companies including ByteDance, Tencent Holdings and Alibaba Group Holding are stepping up recruitment and training of the so-called forward-deployed engineers (FDEs), who work directly with customers to develop and integrate AI applications into business operations. Demand for such professionals has...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3371925/chinas-tech-giants-are-paying-1-million-yuan-new-kind-ai-engineer",
+    "date": "2026年10月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "AIA Life Korea hosts K-pop concert for customers, employees",
+    "summary": "AIA Life Korea held a K-pop concert for customers, employees, their families and business partners from Korea, Malaysia, the Philippines and Singapore, combining Korean cultural performances with…",
+    "body": "charitable giving, the insurer said Sunday. The \"K-Pop Together, Give Together\" concert was held at KINTEX in Goyang, Gyeonggi Province, Saturday, drawing around 7,000 people. The lineup featured Korean singers Jinusean, ITZY, J.Y. Park, Chung Ha and PSY, with actor Park Jae-min and singer Tiffany Young serving as emcees.…",
+    "url": "https://www.koreatimes.co.kr/business/banking-finance/20261025/aia-life-korea-hosts-k-pop-concert-for-customers-employees?utm_source=rss",
+    "date": "2026年10月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korean Air breach exposes blind spot in airline cybersecurity",
+    "summary": "A recent data breach involving Korean Air and Asiana Airlines demonstrates the aviation industry’s structural vulnerability to cyberattacks targeting third-party IT providers.…",
+    "body": "Carriers depend on external IT system operators to manage critical operations, as they have to share passenger booking and ticketing data with external partners for real-time global operation. Last week, Korean Air and Asiana said customer reservation information had been leaked through Amadeus IT Group, a global aviation technology provider that operates reservation and ticketing systems for…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20261025/korean-air-breach-exposes-blind-spot-in-airline-cybersecurity?utm_source=rss",
+    "date": "2026年10月25日"
   }
 ]
