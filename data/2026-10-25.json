@@ -635,5 +635,44 @@
     "body": "Carriers depend on external IT system operators to manage critical operations, as they have to share passenger booking and ticketing data with external partners for real-time global operation. Last week, Korean Air and Asiana said customer reservation information had been leaked through Amadeus IT Group, a global aviation technology provider that operates reservation and ticketing systems for…",
     "url": "https://www.koreatimes.co.kr/business/companies/20261025/korean-air-breach-exposes-blind-spot-in-airline-cybersecurity?utm_source=rss",
     "date": "2026年10月25日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Artemis-III-Mission: NASA-Chef Isaacman hält am Mond-Zeitplan fest",
+    "summary": "Trotz Verzögerungen bei der technischen Ausrüstung und kaum erbaulichen internen Berichten will die NASA weiterhin zeitnah Menschen zurück auf den Mond bringen.",
+    "body": "",
+    "url": "https://www.heise.de/news/Artemis-III-Mission-NASA-Chef-Isaacman-haelt-am-Mond-Zeitplan-fest-11499417.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年10月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Tech companies turn to religion to make AI moral, but it's not that simple",
+    "summary": "LOS ANGELES — As tech companies race to build the most powerful artificial intelligence, some are also asking how to teach a chatbot right from wrong. Their answer? Religion.…",
+    "body": "“These are not questions a lab can answer,” Anthropic co-founder Chris Olah said earlier this year at the Vatican’s presentation of Pope Leo XIV’s encyclical on AI. “They are questions traditions like yours have carried for millennia.” Amid this much-discussed turn to faith, there has been little public scrutiny surrounding what exactly these technology companies think religion is — and, perhaps…",
+    "url": "https://www.koreatimes.co.kr/world/20261025/tech-companies-turn-to-religion-to-make-ai-moral-but-its-not-that-simple?utm_source=rss",
+    "date": "2026年10月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Lee says Korea emerging as global economic leader on record current account surplus",
+    "summary": "President Lee Jae Myung said Sunday that Korea has emerged as a leading player in the global economy, citing that the country posted the world's second-largest current account surplus among major…",
+    "body": "economies in the second quarter. The country's current account surplus reached $116.63 billion in the April-June period, trailing only China's $193.72 billion, according to International Monetary Fund (IMF) data available on the Bank of Korea's Economic Statistics System.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20261025/lee-says-korea-emerging-as-global-economic-leader-on-record-current-account-surplus?utm_source=rss",
+    "date": "2026年10月25日"
   }
 ]
