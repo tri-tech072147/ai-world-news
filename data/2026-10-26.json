@@ -518,5 +518,57 @@
     "body": "company Anthropic for allegedly using Presley’s songs to train their models without permission.Authentic Brands Group, the licensing organization that has ownership of both Presley’s music and likeness, is accusing Anthropic of infringing on the rights of 274 songs by Presley. The lawsuit, first reported by Billboard, was filed on Friday. Continue reading...",
     "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
     "date": "2026年10月25日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "date": "2026年10月25日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Standard Chartered-led Anchorpoint plans retail stablecoin as HSBC RedCoin launches",
+    "summary": "After HSBC RedCoin launched on Friday, Anchorpoint – the stablecoin-issuing joint venture led by Standard Chartered – said it plans to launch a retail product on a public blockchain, even as it takes…",
+    "body": "a “prudent approach”. “Our next major milestone is to [help] bring regulated digital money into everyday payments and commercial applications, while connecting traditional payment infrastructure with this emerging digital finance,” said Dominic Maffei, CEO of Anchorpoint. “This is a public...",
+    "url": "https://www.scmp.com/business/cryptocurrency/article/3372060/standard-chartered-led-anchorpoint-plans-retail-stablecoin-hsbc-redcoin-launches",
+    "date": "2026年10月25日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Why cloud computing pioneer Wang Jian thinks space is the next AI frontier",
+    "summary": "Long before artificial intelligence became the next big thing in the tech industry, Wang Jian was crafting the foundational infrastructure that would eventually power it.…",
+    "body": "In 2008, he joined Alibaba Group Holding – owner of the South China Morning Post – as chief architect and founded Alibaba Cloud in 2009, convincing the company’s leadership to invest heavily in building a cloud computing infrastructure from scratch. Today, Wang’s purview has expanded considerably. As an academician at the...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3371979/why-cloud-computing-pioneer-wang-jian-thinks-space-next-ai-frontier",
+    "date": "2026年10月25日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Samsung, SK hynix shareholder return policies in focus ahead of Q3 earnings",
+    "summary": "Shareholder return policies of Samsung Electronics and SK hynix are gaining market attention ahead of their announcements for third-quarter earnings, as investors see them as a key way to address the…",
+    "body": "mismatch between the chipmakers' record-breaking profits and their sluggish share prices. Samsung Electronics is set to announce its three-month financial results during its earnings call on Thursday, while SK hynix said it will announce its results on its earnings call on Wednesday.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20261026/samsung-sk-hynix-shareholder-return-policies-in-focus-ahead-of-q3-earnings?utm_source=rss",
+    "date": "2026年10月25日"
   }
 ]
