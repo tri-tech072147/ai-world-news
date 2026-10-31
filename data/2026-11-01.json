@@ -492,5 +492,70 @@
     "body": "",
     "url": "https://aibusiness.com/agentic-ai/nvidia-bets-personal-agents-new-meta-partnership",
     "date": "2026年10月28日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "date": "2026年10月31日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+    "summary": "Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative communityGet our daily political email, free app or daily news…",
+    "body": "podcastThe prime minister is facing growing discontent within his own electorate as creatives push back against the federal government’s proposal to allow AI companies to scrape everything Australians create online.Anthony Albanese’s seat of Grayndler in Sydney’s inner west is home to more than 3,000 cultural and creative businesses, and 10% of its workers are employed in cultural and creative…",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+    "date": "2026年10月31日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
+    "summary": "Gap, M S, Topshop and more are taking a leaf from luxury label playbooks to satisfy savvier generation of shoppersHigh street brands that boomed in the noughties before the squeeze of both…",
+    "body": "sustainably minded consumers and the rise of ultra-cheap online labels are staging a comeback.This time, rather than focusing solely on trend-led affordable designs, the names familiar to any shopper are courting luxury fashion, A-list collaborations and enhanced services in an attempt to engage consumers. Continue reading...",
+    "url": "https://www.theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
+    "date": "2026年10月31日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Verve plans phone tap-to-pay and AI agent payments, CEO says",
+    "summary": "Verve plans to let customers pay by tapping their phones and, eventually, to let AI assistants make payments on their behalf.",
+    "body": "",
+    "url": "https://techcabal.com/2026/10/31/verve-ai-payment/",
+    "date": "2026年10月31日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Intra-African payment rails are key to cutting cross-border friction, says Grey",
+    "summary": "Grey is building direct payment connections and currency pairs in African markets so cross-border transfers no longer use the dollar.",
+    "body": "",
+    "url": "https://techcabal.com/2026/10/31/grey-ditch-the-dollar/",
+    "date": "2026年10月31日"
   }
 ]
