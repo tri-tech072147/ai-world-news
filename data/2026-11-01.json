@@ -557,5 +557,57 @@
     "body": "",
     "url": "https://techcabal.com/2026/10/31/grey-ditch-the-dollar/",
     "date": "2026年10月31日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "date": "2026年10月31日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your…",
+    "body": "idea and startup. Register before all prices go up at the door.",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "date": "2026年10月31日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "date": "2026年10月31日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "From 'Lake of Death' to Clavius, Korea searches moon for 2032 landing sites",
+    "summary": "Korea is shopping for real estate on the moon, and its newly established space agency has its eye on some of the lunar surface’s most forbidding neighborhoods.…",
+    "body": "At a recent academic symposium, the Korea AeroSpace Administration (KASA) revealed a shortlist of prospective landing sites for two robotic missions scheduled for 2032. The agency is weighing 20 candidate zones for its flagship lunar lander and nine for a precursor soft-landing demonstration craft, signaling a decisive shift toward boots-on-the-surface ambitions for a nation long playing catch-up…",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20261101/from-lake-of-death-to-clavius-korea-searches-moon-for-2032-landing-sites?utm_source=rss",
+    "date": "2026年10月31日"
   }
 ]
