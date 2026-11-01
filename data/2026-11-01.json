@@ -609,5 +609,31 @@
     "body": "At a recent academic symposium, the Korea AeroSpace Administration (KASA) revealed a shortlist of prospective landing sites for two robotic missions scheduled for 2032. The agency is weighing 20 candidate zones for its flagship lunar lander and nine for a precursor soft-landing demonstration craft, signaling a decisive shift toward boots-on-the-surface ambitions for a nation long playing catch-up…",
     "url": "https://www.koreatimes.co.kr/business/tech-science/20261101/from-lake-of-death-to-clavius-korea-searches-moon-for-2032-landing-sites?utm_source=rss",
     "date": "2026年10月31日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "HD Hyundai Robotics, Palantir to slash robot programming costs with AI",
+    "summary": "HD Hyundai Robotics is working with Palantir Technologies to integrate artificial intelligence (AI), simulation and human engineers’ expertise into robot programming, aiming to cut programming costs…",
+    "body": "by more than half. According to HD Hyundai Robotics on Sunday, Ahn Sung-hwan, the company's chief technology officer and vice president, outlined the collaboration during a keynote address at Palantir’s recent Sovereignty Bootcamp in New York. He presented his company’s strategy for applying physical AI and its vision for the technology.…",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20261101/hd-hyundai-robotics-palantir-to-slash-robot-programming-costs-with-ai?utm_source=rss",
+    "date": "2026年11月1日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+    "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+    "date": "2026年10月31日"
   }
 ]
