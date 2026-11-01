@@ -635,5 +635,57 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
     "date": "2026年10月31日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Self-improving AI the key step towards AGI but safety is key: Z.ai founder",
+    "summary": "Using artificial intelligence to build even smarter systems will make artificial general intelligence (AGI) more achievable, though it would need to be done safely, leading Chinese computer scientist…",
+    "body": "Tang Jie said at an event in Shanghai on Saturday. The remarks underscore how AI companies in the US and China are both chasing the holy grail of recursive self-improvement (RSI), where increasingly powerful AI systems also become better at improving themselves in an ever-accelerating...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3372834/self-improving-ai-key-step-towards-agi-safety-key-zai-founder",
+    "date": "2026年11月1日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
+    "summary": "Chinese artificial intelligence start-up DeepSeek has previewed a plan for a more autonomous AI agent that can handle multiple tasks with minimal human intervention, as it steps up competition with…",
+    "body": "US rivals OpenAI and Anthropic in developing coding assistants. The proposed system, dubbed super agent, aimed to reduce the need for humans to coordinate multiple AI agents and monitor their progress, addressing a key bottleneck in managing today’s increasingly complex workflows, according to a...",
+    "url": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
+    "date": "2026年11月1日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "US or China? Why Kazakhstan refuses to pick sides as it eyes AI revolution",
+    "summary": "Driving along the wide boulevards of Astana during a recent trip to the Kazakh capital, signs of China’s growing commercial footprint were everywhere.…",
+    "body": "Chinese cars were becoming a common sight on the streets here, as brands from BYD to Changan made aggressive inroads in a market once dominated by South Korea’s Hyundai and Kia, said the driver who picked me up from the airport in a gleaming Changan electric vehicle. But it was not the rise of Chinese tech that had brought me to this energy-rich...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3372785/us-or-china-why-kazakhstan-refuses-pick-sides-it-eyes-ai-revolution",
+    "date": "2026年11月1日"
+  },
+  {
+    "feedKey": "TechCabal",
+    "feedLabel": "TechCabal",
+    "feedColor": "#b7950b",
+    "flag": "🌍",
+    "country": "アフリカ",
+    "countryKey": "other",
+    "title": "Build for Nigeria’s worst day, says OPay COO Dotun Adekunle",
+    "summary": "Nigeria’s technology market is usually described by its problems, from unreliable infrastructure to a volatile economy.…",
+    "body": "Dotun Daniel Adekunle, OPay’s chief operating officer and chief technology officer, argues that the country’s most durable companies are the ones built to survive its worst days. “Stubbornness is a business model in Africa,” Adekunle said in a keynote [ ]",
+    "url": "https://techcabal.com/2026/11/01/build-for-nigerias-worst-day-says-opay-coo-dotun-adekunle/",
+    "date": "2026年11月1日"
   }
 ]
