@@ -505,5 +505,57 @@
     "body": "",
     "url": "https://aibusiness.com/automation/baidu-s-new-world-model-highlights-value-of-physical-ai",
     "date": "2026年11月4日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "date": "2026年11月7日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "date": "2026年11月7日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+    "summary": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technologyThe Federal Aviation Administration (FAA) has announced that the first digital air traffic…",
+    "body": "control towers in the US are officially operational, bringing new technology first to smaller airports in Florida and Alaska as the Trump administration presses ahead with updating the country’s ageing aviation infrastructure.The systems are now online at the Bartow executive airport (KBOW) in Florida and the Kenai municipal airport (PAEN) in Alaska, with five additional regional airports slated…",
+    "url": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+    "date": "2026年11月7日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Korea Drag Pageant to select Miss Femme Supreme 2026",
+    "summary": "Eight drag queens actively performing in Seoul are gearing up to compete for the inaugural title of Miss Femme Supreme 2026 at the first-ever Korea Drag Pageant.…",
+    "body": "The event was created to celebrate artistic excellence in drag performance, connect Korean performers with the international drag community and contribute to the growth and visibility of drag culture in Korea.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261108/korea-drag-pageant-to-select-miss-femme-supreme-2026?utm_source=rss",
+    "date": "2026年11月7日"
   }
 ]
