@@ -648,5 +648,57 @@
     "body": "",
     "url": "https://kn.itmedia.co.jp/kn/article/2611/07/2000002945/",
     "date": "2026年11月6日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "date": "2026年11月7日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Smart Glasses zwischen Teilhabe, Missbrauch und Lifestyle | c't uplink",
+    "summary": "Manche Menschen fürchten lückenlose Überwachung durch KI-Brillen, andere genießen dank der Technik mehr Lebensqualität. Der c’t uplink beleuchtet das Thema.",
+    "body": "",
+    "url": "https://www.heise.de/news/Smart-Glasses-zwischen-Teilhabe-Missbrauch-und-Lifestyle-c-t-uplink-11514694.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年11月7日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "OpenAI to press ahead with data-centre expansion despite midterm sweep, CFO says",
+    "summary": "One of the corporate faces of the AI boom, OpenAI has moved quickly ‌to counter fears that a shift in congressional power could slow the industry’s growth",
+    "body": "",
+    "url": "https://www.thehindu.com/sci-tech/technology/openai-to-press-ahead-with-data-centre-expansion-despite-midterm-sweep-cfo-says/article71677198.ece",
+    "date": "2026年11月7日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Polls close in a New Zealand election expected to be the tightest in years, with early results due",
+    "summary": "WELLINGTON, New Zealand — Polling places closed on Saturday after the final day of voting in New Zealand’s election following a tense campaign that left the main contenders neck and neck with no…",
+    "body": "clear route to victory for either. An incumbent conservative government led by the National party is seeking a second term against a leftwing bloc led by Labour. In polls close to election day, neither Prime Minister Christopher Luxon of National nor opposition leader Chris Hipkins of Labour had a clear path to victory, with minor parties on the ideological flanks expected to hold sway over the…",
+    "url": "https://www.koreatimes.co.kr/world/20261107/polls-close-in-a-new-zealand-election-expected-to-be-the-tightest-in-years-with-early-results-due?utm_source=rss",
+    "date": "2026年11月7日"
   }
 ]
