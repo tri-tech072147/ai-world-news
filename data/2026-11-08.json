@@ -557,5 +557,31 @@
     "body": "The event was created to celebrate artistic excellence in drag performance, connect Korean performers with the international drag community and contribute to the growth and visibility of drag culture in Korea.…",
     "url": "https://www.koreatimes.co.kr/southkorea/globalcommunity/20261108/korea-drag-pageant-to-select-miss-femme-supreme-2026?utm_source=rss",
     "date": "2026年11月7日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "New elementary school enrollment to drop below 300,000 for 1st time amid low birth rate",
+    "summary": "The number of children entering elementary schools in Korea is expected to fall below 300,000 for the first time next year amid the country's low birth rate, data showed Sunday.…",
+    "body": "The number of first graders, born in 2020, entering elementary school for the 2027 academic year, is expected to fall short of 300,000, just three years after dropping below the 400,000 mark, according to data compiled by the Korean Statistical Information Service (KOSIS) and the Korean Educational Development Institute (KEDI).…",
+    "url": "https://www.koreatimes.co.kr/southkorea/society/20261108/new-elementary-school-enrollment-to-drop-below-300000-for-1st-time-amid-low-birth-rate?utm_source=rss",
+    "date": "2026年11月8日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
+    "summary": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
+    "body": "",
+    "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+    "date": "2026年11月7日"
   }
 ]
