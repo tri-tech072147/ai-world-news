@@ -557,5 +557,83 @@
     "body": "",
     "url": "https://aibusiness.com/automation/china-s-block-of-softbank-s-abb-purchase",
     "date": "2026年11月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Are you my friend or just content?",
+    "summary": "In \"Possible Love,\" you know everything matters. When the camera moves from the front seat of the car to the back, when a hand rests on a table or a face stays on screen a couple of seconds longer…",
+    "body": "than it should, you know it means something because you trust in director Lee Chang-dong and you know he’s trying to tell you something. You just don't know what. Not yet, anyway. Watching the film is rather like reading a poem in which line 27 suddenly changes your understanding of line eight, which itself only made sense after line 15. Everything is connected. Everything is deliberate.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20261114/are-you-my-friend-or-just-content?utm_source=rss",
+    "date": "2026年11月14日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "US grounds flights nationwide after air traffic control communications outage",
+    "summary": "WASHINGTON — The US Federal Aviation Administration grounded all departing flights nationwide on Friday after a communications failure hit air traffic control centers, in only the second such…",
+    "body": "shutdown since the September 11, 2001, attacks. Nearly 7,000 flights were delayed or canceled, according to flight-tracking service FlightAware. Planes already in the air were allowed to land, but those on the ground could not take off.…",
+    "url": "https://www.koreatimes.co.kr/world/20261114/us-grounds-flights-nationwide-after-air-traffic-control-communications-outage?utm_source=rss",
+    "date": "2026年11月14日"
+  },
+  {
+    "feedKey": "e27",
+    "feedLabel": "e27 Asia Tech",
+    "feedColor": "#148f77",
+    "flag": "🇸🇬",
+    "country": "シンガポール",
+    "countryKey": "other",
+    "title": "Two Venices, one problem: What Kerala can learn from Macao’s tech makeover",
+    "summary": "Macao has a replica of Venice built inside a casino resort, complete with gondolas and a painted sky.…",
+    "body": "Kerala has Alappuzha, which tourism brochures have called the Venice of the East for longer than anyone can remember. Two small places, two Venices, and one shared headache: both are tired of being known for one thing. [ ] The post Two Venices, one problem: What Kerala can learn from Macao’s tech makeover appeared first on e27.",
+    "url": "https://e27.co/two-venices-one-problem-what-kerala-can-learn-from-macaos-tech-makeover-20261114/",
+    "date": "2026年11月14日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "date": "2026年11月13日"
+  },
+  {
+    "feedKey": "BBCTech",
+    "feedLabel": "BBC Technology",
+    "feedColor": "#1a5276",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+    "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+    "body": "",
+    "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+    "date": "2026年11月13日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "NVIDIAをつくった男、ジェンスン・フアン “デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+    "summary": "ダイナーの一角から、AI時代の主役「NVIDIA」を生み出したジェンスン・フアン氏。“皿洗い”から億万長者へと至った半生を振り返る。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
+    "date": "2026年11月13日"
   }
 ]
