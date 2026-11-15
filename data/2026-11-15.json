@@ -609,5 +609,70 @@
     "body": "",
     "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
     "date": "2026年11月14日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "No actors, no crew, no ticket sales: ‘So obviously AI’ film flops at China’s box office",
+    "summary": "China has ushered artificial intelligence into its cinemas, but the country’s first fully AI-generated feature film has flopped at the box office.…",
+    "body": "Made with no human actors or camera crew, Sanxingdui: Future Past brought in just around 1.8 million yuan (US$270,000) after three weeks in theatres, according to Chinese box office data tracker Beacon Pro. The figure was well below the film’s reported budget of tens of millions of yuan. The 100-minute sci-fi film is set in a world decades in the...",
+    "url": "https://www.scmp.com/economy/china-economy/article/3374358/no-actors-no-crew-no-ticket-sales-so-obviously-ai-film-flops-chinas-box-office",
+    "date": "2026年11月15日"
+  },
+  {
+    "feedKey": "SCMP_Tech",
+    "feedLabel": "SCMP Tech & AI",
+    "feedColor": "#c0392b",
+    "flag": "🇨🇳",
+    "country": "中国",
+    "countryKey": "cn",
+    "title": "Can Chinese AI companies curb cyber risks from open-weight models without losing their edge?",
+    "summary": "China’s leading artificial intelligence model companies are beginning to curb the cybersecurity capabilities of their most advanced open-weight models, following a string of high-profile AI hacking…",
+    "body": "incidents involving both US and Chinese companies. Earlier this month, Chinese technology giant Tencent Holdings said it had stripped its latest Hy4 model of its cyber-hacking capabilities while retaining its cyber defence capabilities, following a similar move by Moonshot AI with its Kimi K3.1 Pro...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3374332/can-chinese-ai-companies-curb-cyber-risks-open-weight-models-without-losing-their-edge",
+    "date": "2026年11月15日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "AI cheating scandal rattles South Korea as annual college exam looms",
+    "summary": "Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring…",
+    "body": "tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat.The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday.…",
+    "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+    "date": "2026年11月15日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+    "summary": "Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come trueThe resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate…",
+    "body": "scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mount into what went wrong at the $4tn chip company, the saga may also become a milestone in the decades-long history of spies infiltrating the US tech industry.Huang admitted to being unfaithful to his wife of 41 years in a letter to…",
+    "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+    "date": "2026年11月15日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Why Anthropic's blockbuster IPO is getting a muted reception in Korea",
+    "summary": "Anthropic's planned initial public offering (IPO) is drawing a muted response in Korea despite expectations it could raise a record-high $90.4 billion, as local brokerages and asset managers shy away…",
+    "body": "from the deal following fallout from SpaceX's IPO, industry officials said Sunday. There were no Korean brokerages among the 22 underwriters named in Anthropic's S-1 registration statement filed with the U.S. Securities and Exchange Commission. Korean retail investors are therefore unlikely to gain access to shares through the IPO.…",
+    "url": "https://www.koreatimes.co.kr/business/banking-finance/20261115/why-anthropics-blockbuster-ipo-is-getting-a-muted-reception-in-korea?utm_source=rss",
+    "date": "2026年11月15日"
   }
 ]
