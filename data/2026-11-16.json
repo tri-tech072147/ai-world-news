@@ -531,5 +531,44 @@
     "body": "",
     "url": "https://aibusiness.com/automation/china-s-block-of-softbank-s-abb-purchase",
     "date": "2026年11月10日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+    "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+    "date": "2026年11月15日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "The Guardian view on civil service reform: AI cannot conjure a capable state on its own | Editorial",
+    "summary": "Whitehall needs to change, but more technology isn’t enough. Opening routes to leadership would bring skills that are too often overlookedThe cabinet secretary, Antonia Romeo, called for an overhaul…",
+    "body": "of a “reactive and risk-averse” civil service in her speech last Tuesday. Ministers planned a “radical shift” of powers, resources and accountability to regional and local government, which she said would leave Whitehall “leaner and more strategic”. As 80% of civil servants already work outside London, devolution promises to alter what central government does, not simply where it operates.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-civil-service-reform-ai-cannot-conjure-a-capable-state-on-its-own",
+    "date": "2026年11月15日"
+  },
+  {
+    "feedKey": "Heise",
+    "feedLabel": "Heise Online",
+    "feedColor": "#b7950b",
+    "flag": "🇩🇪",
+    "country": "ドイツ",
+    "countryKey": "de",
+    "title": "Nvidia-Angestellte wollen Jensen Huang zurück",
+    "summary": "Nachdem eine dritte Affäre des vormaligen Nvidia-Chefs Jensen Huang bekannt wurde, setzt der Fallout ein. Trotzdem wollen manche, dass er wiederkehrt.",
+    "body": "",
+    "url": "https://www.heise.de/news/Nvidia-Angestellte-wollen-Jensen-Huang-zurueck-11525279.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "date": "2026年11月15日"
   }
 ]
