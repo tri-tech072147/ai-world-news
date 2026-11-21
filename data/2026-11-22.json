@@ -544,5 +544,83 @@
     "body": "",
     "url": "https://aibusiness.com/automation/china-s-block-of-softbank-s-abb-purchase",
     "date": "2026年11月10日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+    "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+    "date": "2026年11月21日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "A tale of two Nvidias",
+    "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "date": "2026年11月21日"
+  },
+  {
+    "feedKey": "TechCrunch",
+    "feedLabel": "TechCrunch AI",
+    "feedColor": "#0a8a5c",
+    "flag": "🇺🇸",
+    "country": "米国",
+    "countryKey": "us",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "body": "",
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "date": "2026年11月21日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Anthony Albanese talks a big game about sovereignty. But Australia remains in thrall to its ‘unreliable boyfriend’ | Julianne Schultz",
+    "summary": "We rely on US tech platforms to provide the digital infrastructure of daily life. What happens when they all go dark?Sovereignty has become the buzzword of political rhetoric at precisely the moment…",
+    "body": "it has become harder than ever to define, let alone control, and most Australians feel unsafe in the world.It is a word that regularly trips off the prime minister’s tongue as he jets around the world to global forums. Continue reading...",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/22/anthony-albanese-talks-a-big-game-about-sovereignty-but-australia-remains-in-thrall-to-its-unreliable-boyfriend",
+    "date": "2026年11月21日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "AIに必要なのは知識か、企業独自の判断基準か？ 管理職調査で見えたAI活用の盲点",
+    "summary": "管理職を対象とした勤務先でのAI活用に関する調査では、半数以上が利用されなくなったAIツールや用途があると回答した。背景には、企業独自の判断基準に関わる課題があるようだ。",
+    "body": "",
+    "url": "https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/",
+    "date": "2026年11月21日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Herbalife Korea builds next chapter on 30 years of trust",
+    "summary": "Herbalife Korea’s next phase of growth will depend on lasting customer relationships rather than individual transactions, Herbalife Korea General Manager Sean Chung said, as the company marks its…",
+    "body": "30th anniversary in Korea by overhauling distributor compensation and introducing AI tools. The company’s history has been about helping Koreans build healthy nutrition habits, he said, arguing that sustainable growth comes from maintaining trust beyond a single sale.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20261122/herbalife-korea-builds-next-chapter-on-30-years-of-trust?utm_source=rss",
+    "date": "2026年11月21日"
   }
 ]
