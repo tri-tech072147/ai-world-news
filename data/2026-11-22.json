@@ -622,5 +622,57 @@
     "body": "30th anniversary in Korea by overhauling distributor compensation and introducing AI tools. The company’s history has been about helping Koreans build healthy nutrition habits, he said, arguing that sustainable growth comes from maintaining trust beyond a single sale.…",
     "url": "https://www.koreatimes.co.kr/business/companies/20261122/herbalife-korea-builds-next-chapter-on-30-years-of-trust?utm_source=rss",
     "date": "2026年11月21日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Visiting Jeonju Hanok Village",
+    "summary": "The hanok village in Jeonju, North Jeolla Province, has been recognized as a Slow City, one where life moves at a slower pace. In the first week of October, I visited this village for two day trip.…",
+    "body": "Jeonju Hanok Village, consisting of more than 700 traditional tiled-roof Korean houses, gathers huge crowds of visitors enjoying the harmonious effect of the village’s old stone walls and its connecting paths paved in granite and flagstones.…",
+    "url": "https://www.koreatimes.co.kr/opinion/20261122/visiting-jeonju-hanok-village?utm_source=rss",
+    "date": "2026年11月22日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "SK chair urges Korea-Japan joint AI talent development program",
+    "summary": "SK Group Chairman Chey Tae-won has called for a fundamental overhaul of education to prepare for an artificial intelligence (AI)-native society, urging Korean and Japanese universities and businesses…",
+    "body": "to jointly develop talent for the AI era. Chey made the remarks at Tokyo Forum 2026 on Saturday, emphasizing the need to redesign education systems for a society in which AI is accepted as an integral part of everyday life rather than simply used as a tool.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20261122/sk-chair-urges-korea-japan-joint-ai-talent-development-program?utm_source=rss",
+    "date": "2026年11月22日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Samsung Electronics, SK hynix dividend payout ratios surge through Q3 amid AI boom",
+    "summary": "Samsung Electronics and SK hynix saw their dividend payout ratios rise sharply through the third quarter under their shareholder return policies, data showed Sunday, amid the memory chip boom driven…",
+    "body": "by artificial intelligence (AI). According to the companies' respective quarterly reports, Samsung Electronics' dividend payout ratio stood at 18 percent on a consolidated basis as of end-September, up from 4.1 percent at the end of the first half, while SK hynix's ratio rose to 8.4 percent from 0.4 percent over the same period.…",
+    "url": "https://www.koreatimes.co.kr/business/companies/20261122/samsung-electronics-sk-hynix-dividend-payout-ratios-surge-through-q3-amid-ai-boom?utm_source=rss",
+    "date": "2026年11月22日"
+  },
+  {
+    "feedKey": "ITmediaAI",
+    "feedLabel": "ITmedia AI+",
+    "feedColor": "#6c3483",
+    "flag": "🇯🇵",
+    "country": "日本",
+    "countryKey": "jp",
+    "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
+    "summary": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
+    "body": "",
+    "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+    "date": "2026年11月21日"
   }
 ]
