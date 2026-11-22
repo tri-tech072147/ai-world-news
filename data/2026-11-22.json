@@ -674,5 +674,83 @@
     "body": "",
     "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
     "date": "2026年11月21日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+    "summary": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrumentThe International Committee of the Red Cross and rights groups have warned that it will…",
+    "body": "soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them.The stark warning came as more than 120 member states of the UN Convention on Certain Conventional Weapons concluded a week-long conference in Geneva. Continue reading...",
+    "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+    "date": "2026年11月22日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+    "summary": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm eventWith their cavernous post-industrial venues, teeth-grinding four-by-four beats and…",
+    "body": "bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads.On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps…",
+    "url": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+    "date": "2026年11月22日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+    "summary": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothingSouth Korea’s education minister resigned on Sunday…",
+    "body": "after an AI-assisted cheating scandal that erupted in the lead-up to the country’s key university entrance exams.The country has been gripped by fears of AI-assisted exam cheating since last Sunday, when the top scorer in a national tax accountant exam confessed to using a miniature camera and smartphone to achieve a near-perfect score, just four days before the crucial university entrance exam…",
+    "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+    "date": "2026年11月22日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "U.S. blocks China’s remote access to AI chips after Nvidia scandal; China slams move",
+    "summary": "Nvidia’s provision of chips to companies running data centres in Southeast Asia has come under the spotlight amid questions surrounding founder Jensen Huang’s relationship with Alice Huang, the CEO…",
+    "body": "of one such Singapore-based company, Megaspeed",
+    "url": "https://www.thehindu.com/news/international/us-blocks-chinas-remote-access-to-ai-chips-after-nvidia-scandal-china-slams-move/article71711869.ece",
+    "date": "2026年11月22日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Sungkyunkwan University forum explores advances in next-generation solar cells",
+    "summary": "Sungkyunkwan University hosted the 14th Sungkyun International Solar Forum at its Seoul campus from Nov.…",
+    "body": "11-13, bringing together researchers to discuss advances in perovskite solar cells and optoelectronic devices. The forum came amid growing demand for carbon-free energy sources to address the climate crisis, as electricity demand continues to rise due to the expansion of artificial intelligence (AI) data centers and the increasing adoption of electric vehicles.…",
+    "url": "https://www.koreatimes.co.kr/southkorea/education/20261122/sungkyunkwan-university-forum-explores-advances-in-next-generation-solar-cells?utm_source=rss",
+    "date": "2026年11月22日"
+  },
+  {
+    "feedKey": "Hindu_Tech",
+    "feedLabel": "The Hindu Tech",
+    "feedColor": "#d35400",
+    "flag": "🇮🇳",
+    "country": "インド",
+    "countryKey": "in",
+    "title": "How U.S. controls flow of advanced tech, chip, and compute to China | Explained",
+    "summary": "The U.S. Commerce Department on November 16 issued an interim final rule barring data centre operators outside the U.S.…",
+    "body": "equipped with advanced American AI chips from providing cloud service to businesses in two dozen countries, including China, Iran, and Russia",
+    "url": "https://www.thehindu.com/sci-tech/technology/how-us-controls-flow-of-advanced-tech-chip-and-compute-to-china-explained/article71721133.ece",
+    "date": "2026年11月21日"
   }
 ]
