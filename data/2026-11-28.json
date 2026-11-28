@@ -492,5 +492,57 @@
     "body": "",
     "url": "https://aibusiness.com/automation/china-s-block-of-softbank-s-abb-purchase",
     "date": "2026年11月10日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "[EXPLAINER] Why Korean presidents keep showing up at traditional markets",
+    "summary": "President Lee Jae Myung made an unannounced stop at a traditional market in Seoul’s Eunpyeong District on Wednesday after attending a roundtable on public housing in the area, in keeping with a…",
+    "body": "longstanding practice among Korean presidents of visiting markets to gauge how people are getting by. At Daerim Alley Market, which opened in 1979, Lee asked shopkeepers how business was going as he bought cherries and bungeoppang — a fish-shaped filled pancake that is popular as a winter snack in Korea.…",
+    "url": "https://www.koreatimes.co.kr/economy/20261128/explainer-why-korean-presidents-keep-showing-up-at-traditional-markets?utm_source=rss",
+    "date": "2026年11月28日"
+  },
+  {
+    "feedKey": "KoreaTimes",
+    "feedLabel": "Korea Times Tech",
+    "feedColor": "#2471a3",
+    "flag": "🇰🇷",
+    "country": "韓国",
+    "countryKey": "other",
+    "title": "Foreign residents in Incheon step beyond high-rises to explore nearby islands",
+    "summary": "For many foreign residents living in Incheon’s gleaming, master-planned business districts, daily life revolves around glass office towers, international schools and expressways linking them to…",
+    "body": "Seoul. Last week, a group of foreign residents traded that futuristic skyline for coastal boardwalks and tidal flats, exploring the islands and maritime heritage tucked just minutes from their doorstep.…",
+    "url": "https://www.koreatimes.co.kr/economy/others/20261128/foreign-residents-in-incheon-step-beyond-high-rises-to-explore-nearby-islands?utm_source=rss",
+    "date": "2026年11月28日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "Trump is destroying the rule of law in the US – to protect himself and the tech titans he worships as new gods | Jonathan Freedland",
+    "summary": "To get Jensen Huang back at Nvidia, the president trampled on the justice system, national security and the trust America needs to do business in the global economyDon’t let the sex distract you.…",
+    "body": "Or the lies or the boardroom intrigue or even the AI-generated bra, all of which could have come from an especially wild episode of Succession. Don’t let that lure you into thinking that the Jensen Huang affair is, as Donald Trump would have it, little more than a sex scandal involving a corporate maestro. It is much more serious than that.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/27/donald-trump-destroying-us-law-tech-titans-jensen-huang-nvidia",
+    "date": "2026年11月27日"
+  },
+  {
+    "feedKey": "Guardian",
+    "feedLabel": "The Guardian AI",
+    "feedColor": "#2e7d32",
+    "flag": "🇬🇧",
+    "country": "英国",
+    "countryKey": "gb",
+    "title": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial",
+    "summary": "Machines are solving problems that have been beyond the reach of human ingenuity. Their growing power must not become the sole preserve of billionairesFor the average person, the news that AI has…",
+    "body": "helped crack a problem that has defied mathematicians since 1859 might elicit momentary awe. What ought to worry everyone is not the discovery per se, but what it says about the power of the machines making it.…",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-guardian-view-on-ai-and-the-riemann-hypothesis-a-triumph-of-intelligence-a-test-of-democracy",
+    "date": "2026年11月27日"
   }
 ]
